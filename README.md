@@ -2,10 +2,46 @@ whereonearth-metropolitan-area
 ==
 
 Metropolitan areas for the Where On Earth (WOE) hierarchy derived from Natural
-Earth (NE) urban areas. This is very much a work in progress.
+Earth (NE) urban areas. Read: Polygons
 
-If you're ready this sentence that means there's nothing to look at yet.
+_This is very much a work in progress._
 
+New WOE IDs have been minted using one of three artisanal integer providers:
+[Mission Integers](http://www.missionintegers.com/), [Brooklyn
+Integers](http://www.brooklynintegers.com/) or [London
+Integers](http://www.londonintegers.com/).
+
+The longer version
+--
+
+_I still need to write it._
+
+A word about Github
+--
+
+In the long-run Github may not be the best venue for managing all of these
+records. But it's not an entirely crazy idea either so we're going to try it for
+a while because it's easy and safe.
+
+To do
+--
+
+* Reverse geocode all the records to at least the country level, if not state.
+
+Other WOE repositories
+--
+
+* [whereonearth-planet](https://github.com/straup/whereonearth-planet)
+
+* [whereonearth-country](https://github.com/straup/whereonearth-country)
+
+* [whereonearth-timezone](https://github.com/straup/whereonearth-timezone)
+
+* [whereonearth-state](https://github.com/straup/whereonearth-state)
+
+* [whereonearth-airport](https://github.com/straup/whereonearth-airport)
+
+* [whereonearth-building](https://github.com/straup/whereonearth-building)
 
 See also
 --
