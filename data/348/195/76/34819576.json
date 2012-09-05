@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 37.097, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Islamska republika Pakistan"
-  ], 
+  "ne_longitude": 77.840813, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Paquist\u00e3o"
@@ -98,10 +96,9 @@
     "Unknown": [
       "Islamska republika Pakistan"
     ], 
-    "Spanish": [
-      "Paquist\u00e1n", 
-      "Paquistan", 
-      "Pakist\u00e1n"
+    "English": [
+      "PK", 
+      "Islamic Republic of Pakistan"
     ], 
     "Japanese": [
       "\u30d1\u30ad\u30b9\u30bf\u30f3", 
@@ -110,9 +107,10 @@
     "German": [
       "Islamische Republik Pakistan"
     ], 
-    "English": [
-      "PK", 
-      "Islamic Republic of Pakistan"
+    "Spanish": [
+      "Paquist\u00e1n", 
+      "Paquistan", 
+      "Pakist\u00e1n"
     ], 
     "Korean": [
       "\ud30c\ud0a4\uc2a4\ud0c4"
@@ -156,7 +154,9 @@
   "alias_HUN_Q": [
     "Pakiszt\u00e1n"
   ], 
-  "ne_longitude": 77.840813, 
+  "alias_UNK_V": [
+    "Islamska republika Pakistan"
+  ], 
   "longitude": 69.359703, 
   "iso": "PK", 
   "sw_latitude": 23.786699, 
@@ -206,25 +206,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 474, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819576", 
-          "woe:region=2346497", 
-          "woe:country=23424922"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PK", 
-        "longitude": 71.77198705303039, 
-        "artisanal:id": 34819576, 
-        "latitude": 35.5431625658465, 
-        "woe:id": 34819576, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819576, 
       "properties": {
         "ne:fid": 474, 
         "ne:hasPlace": -1, 
@@ -242,7 +223,8 @@
         "latitude": 35.5431625658465, 
         "woe:id": 34819576, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819576
     }
   ]
 }

@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 11.21681, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Kostarika"
-  ], 
+  "ne_longitude": -82.556, 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
@@ -139,7 +137,9 @@
   "alias_UNK_Q": [
     "Kostarika"
   ], 
-  "ne_longitude": -82.556, 
+  "alias_UNK_V": [
+    "Republika Kostarika"
+  ], 
   "longitude": -84.253311, 
   "iso": "CR", 
   "sw_latitude": 5.49955, 
@@ -193,25 +193,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3541, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34821622", 
-          "woe:region=2345083", 
-          "woe:country=23424791"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CR", 
-        "longitude": -83.92527025355916, 
-        "artisanal:id": 34821622, 
-        "latitude": 9.862901348331144, 
-        "woe:id": 34821622, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34821622, 
       "properties": {
         "ne:fid": 3541, 
         "ne:hasPlace": 20, 
@@ -229,7 +210,8 @@
         "latitude": 9.862901348331144, 
         "woe:id": 34821622, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34821622
     }
   ]
 }

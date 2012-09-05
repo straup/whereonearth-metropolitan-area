@@ -16,7 +16,9 @@
   ], 
   "ne_latitude": 25, 
   "supercedes": [], 
-  "ne_longitude": 4.24495, 
+  "alias_UNK_V": [
+    "Republika Mali"
+  ], 
   "placetype": "Country", 
   "alias_ENG_A": [
     "ML"
@@ -126,9 +128,7 @@
   "name": "Mali", 
   "language": "English", 
   "parent_woeid": 1, 
-  "alias_UNK_V": [
-    "Republika Mali"
-  ], 
+  "ne_longitude": 4.24495, 
   "longitude": -3.99883, 
   "iso": "ML", 
   "sw_latitude": 10.15951, 
@@ -178,25 +178,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1702, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311845", 
-          "woe:region=2346184", 
-          "woe:country=23424891"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ML", 
-        "longitude": -4.88270108356671, 
-        "artisanal:id": 35311845, 
-        "latitude": 13.28250049760758, 
-        "woe:id": 35311845, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311845, 
       "properties": {
         "ne:fid": 1702, 
         "ne:hasPlace": 15, 
@@ -214,7 +195,8 @@
         "latitude": 13.28250049760758, 
         "woe:id": 35311845, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311845
     }
   ]
 }

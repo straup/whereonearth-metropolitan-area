@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 36.261688, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Indija"
-  ], 
+  "ne_longitude": 97.403023, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "\u00cdndia"
@@ -296,8 +294,8 @@
   "alias_CHI_Q": [
     "\u5370\u5ea6"
   ], 
-  "alias_GER_V": [
-    "Republik Indien"
+  "alias_DAN_Q": [
+    "Indien"
   ], 
   "woeid": 23424848, 
   "alias_JPN_Q": [
@@ -321,8 +319,8 @@
   "alias_CZE_Q": [
     "Indie"
   ], 
-  "alias_DAN_Q": [
-    "Indien"
+  "alias_GER_V": [
+    "Republik Indien"
   ], 
   "alias_GER_Q": [
     "Indien"
@@ -334,7 +332,9 @@
   "alias_UNK_Q": [
     "Indija"
   ], 
-  "ne_longitude": 97.403023, 
+  "alias_UNK_V": [
+    "Republika Indija"
+  ], 
   "longitude": 82.794762, 
   "iso": "IN", 
   "sw_latitude": 6.7471, 
@@ -424,25 +424,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 550, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819620", 
-          "woe:region=2345746", 
-          "woe:country=23424848"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "IN", 
-        "longitude": 74.81167497175126, 
-        "artisanal:id": 34819620, 
-        "latitude": 34.090480570653675, 
-        "woe:id": 34819620, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819620, 
       "properties": {
         "ne:fid": 550, 
         "ne:hasPlace": 20, 
@@ -460,7 +441,8 @@
         "latitude": 34.090480570653675, 
         "woe:id": 34819620, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819620
     }
   ], 
   "alias_FRE_Q": [

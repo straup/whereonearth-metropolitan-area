@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Ungaria"
   ], 
-  "alias_UNK_V": [
-    "Magyar Koztarsasag"
-  ], 
+  "ne_longitude": 22.89657, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Hungria"
@@ -483,8 +481,8 @@
       "Unkarista", 
       "Unkari"
     ], 
-    "Norwegian": [
-      "Ungarn"
+    "Portuguese": [
+      "Hungria"
     ], 
     "Czech": [
       "Ma\u010farsko"
@@ -492,8 +490,10 @@
     "Romanian": [
       "Ungaria"
     ], 
-    "Dutch": [
-      "Hongarije"
+    "Spanish": [
+      "Republica Hungr\u00eda", 
+      "Republica Hungria", 
+      "Hungr\u00eda"
     ], 
     "Japanese": [
       "\u30cf\u30f3\u30ac\u30ea\u30fc", 
@@ -502,33 +502,31 @@
     "French": [
       "Hongrie"
     ], 
-    "German": [
-      "Ungarn", 
-      "Republik Ungarn"
-    ], 
-    "Portuguese": [
-      "Hungria"
-    ], 
-    "Unknown": [
-      "Ungverjaland", 
-      "Ouggaria", 
-      "Magyar Koztarsasag"
-    ], 
-    "Spanish": [
-      "Republica Hungr\u00eda", 
-      "Republica Hungria", 
-      "Hungr\u00eda"
+    "Norwegian": [
+      "Ungarn"
     ], 
     "English": [
       "HU", 
       "Hungary", 
       "Republic of Hungary"
     ], 
+    "Unknown": [
+      "Ungverjaland", 
+      "Ouggaria", 
+      "Magyar Koztarsasag"
+    ], 
+    "Dutch": [
+      "Hongarije"
+    ], 
     "Polish": [
       "W\u0119gry"
     ], 
     "Korean": [
       "\ud5dd\uac00\ub9ac"
+    ], 
+    "German": [
+      "Ungarn", 
+      "Republik Ungarn"
     ], 
     "Italian": [
       "Ungheria"
@@ -540,8 +538,8 @@
   "alias_ITA_Q": [
     "Ungheria"
   ], 
-  "alias_GER_V": [
-    "Republik Ungarn"
+  "alias_DAN_Q": [
+    "Ungarn"
   ], 
   "woeid": 23424844, 
   "alias_JPN_Q": [
@@ -586,8 +584,8 @@
   "alias_CZE_Q": [
     "Ma\u010farsko"
   ], 
-  "alias_DAN_Q": [
-    "Ungarn"
+  "alias_GER_V": [
+    "Republik Ungarn"
   ], 
   "alias_GER_Q": [
     "Ungarn"
@@ -605,7 +603,9 @@
   "alias_HUN_V": [
     "A Magyar K\u00f6zt\u00e1rsas\u00e1g"
   ], 
-  "ne_longitude": 22.89657, 
+  "alias_UNK_V": [
+    "Magyar Koztarsasag"
+  ], 
   "longitude": 19.504959, 
   "iso": "HU", 
   "sw_latitude": 45.737061, 
@@ -706,25 +706,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6146, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823362", 
-          "woe:region=12577916", 
-          "woe:country=23424844"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "HU", 
-        "longitude": 20.251593615889924, 
-        "artisanal:id": 34823362, 
-        "latitude": 46.667650176412366, 
-        "woe:id": 34823362, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823362, 
       "properties": {
         "ne:fid": 6146, 
         "ne:hasPlace": 15, 
@@ -742,7 +723,8 @@
         "latitude": 46.667650176412366, 
         "woe:id": 34823362, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823362
     }
   ], 
   "alias_FRE_Q": [

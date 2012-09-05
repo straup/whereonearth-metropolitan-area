@@ -19,7 +19,9 @@
   ], 
   "ne_latitude": 15.0259, 
   "supercedes": [], 
-  "ne_longitude": -82.592072, 
+  "alias_UNK_V": [
+    "Republika Nikaragva"
+  ], 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Nicar\u00e1gua"
@@ -178,9 +180,7 @@
   "alias_UNK_Q": [
     "N\u00edkaragva"
   ], 
-  "alias_UNK_V": [
-    "Republika Nikaragva"
-  ], 
+  "ne_longitude": -82.592072, 
   "longitude": -85.424049, 
   "iso": "NI", 
   "sw_latitude": 10.70754, 
@@ -298,25 +298,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3539, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34821620", 
-          "woe:region=2346426", 
-          "woe:country=23424915"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NI", 
-        "longitude": -86.2468293218931, 
-        "artisanal:id": 34821620, 
-        "latitude": 12.13353641789334, 
-        "woe:id": 34821620, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34821620, 
       "properties": {
         "ne:fid": 3539, 
         "ne:hasPlace": 20, 
@@ -334,7 +315,8 @@
         "latitude": 12.13353641789334, 
         "woe:id": 34821620, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34821620
     }
   ]
 }

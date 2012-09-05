@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Tadjikistan"
   ], 
-  "alias_UNK_V": [
-    "Tojikistan"
-  ], 
+  "ne_longitude": 75.137222, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ud0c0\uc9c0\ud06c\uc2a4\ud0c4"
@@ -40,9 +38,6 @@
   ], 
   "alias_POR_S": [
     "Tajiquistao"
-  ], 
-  "alias_CZE_Q": [
-    "T\u00e1d\u017eikist\u00e1n"
   ], 
   "children": {
     "placetype": [], 
@@ -88,8 +83,10 @@
       "Tadzikistan", 
       "Tad\u017eikistan"
     ], 
-    "Norwegian": [
-      "Tadsjikistan"
+    "Portuguese": [
+      "Tajiquist\u00e3o", 
+      "Tajiquistao", 
+      "Tadjiquist\u00e3o"
     ], 
     "Czech": [
       "T\u00e1d\u017eikist\u00e1n"
@@ -97,9 +94,9 @@
     "Romanian": [
       "Tadjikistan"
     ], 
-    "Dutch": [
-      "Tadjzjikistan", 
-      "Tadzjikistan"
+    "Spanish": [
+      "Tayikistan", 
+      "Tayikist\u00e1n"
     ], 
     "Japanese": [
       "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3", 
@@ -108,25 +105,19 @@
     "French": [
       "Tadjikistan"
     ], 
-    "German": [
-      "Tadschikistan", 
-      "Republik Tadschikistan"
-    ], 
-    "Portuguese": [
-      "Tajiquist\u00e3o", 
-      "Tajiquistao", 
-      "Tadjiquist\u00e3o"
-    ], 
-    "Unknown": [
-      "Tojikistan"
-    ], 
-    "Spanish": [
-      "Tayikistan", 
-      "Tayikist\u00e1n"
+    "Norwegian": [
+      "Tadsjikistan"
     ], 
     "English": [
       "TJ", 
       "Rep. Tajikistan"
+    ], 
+    "Unknown": [
+      "Tojikistan"
+    ], 
+    "Dutch": [
+      "Tadjzjikistan", 
+      "Tadzjikistan"
     ], 
     "Polish": [
       "Tad\u017cykistan"
@@ -134,6 +125,10 @@
     "Korean": [
       "\ud0c0\uc9c0\ud06c\uc2a4\ud0c4", 
       "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
+    ], 
+    "German": [
+      "Tadschikistan", 
+      "Republik Tadschikistan"
     ], 
     "Italian": [
       "Tagikistan"
@@ -145,8 +140,8 @@
   "alias_ITA_Q": [
     "Tagikistan"
   ], 
-  "alias_GER_V": [
-    "Republik Tadschikistan"
+  "alias_DAN_Q": [
+    "Tadsjikistan"
   ], 
   "alias_CHI_V": [
     "\u5854\u5409\u514b\u65af\u5766"
@@ -181,15 +176,18 @@
   "alias_KOR_Q": [
     "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
   ], 
+  "alias_DUT_V": [
+    "Tadjzjikistan"
+  ], 
   "alias_DUT_Q": [
     "Tadzjikistan"
   ], 
   "bbox": "36.674141,67.387131,41.04224,75.137222", 
-  "alias_DUT_V": [
-    "Tadjzjikistan"
+  "alias_CZE_Q": [
+    "T\u00e1d\u017eikist\u00e1n"
   ], 
-  "alias_DAN_Q": [
-    "Tadsjikistan"
+  "alias_GER_V": [
+    "Republik Tadschikistan"
   ], 
   "alias_GER_Q": [
     "Tadschikistan"
@@ -204,7 +202,9 @@
   "alias_HUN_V": [
     "Tadzsikiszt\u00e1n"
   ], 
-  "ne_longitude": 75.137222, 
+  "alias_UNK_V": [
+    "Tojikistan"
+  ], 
   "longitude": 71.262177, 
   "iso": "TJ", 
   "sw_latitude": 36.674141, 
@@ -258,25 +258,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 287, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819444", 
-          "woe:region=20070294", 
-          "woe:country=23424961"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "TJ", 
-        "longitude": 69.93595095438454, 
-        "artisanal:id": 34819444, 
-        "latitude": 40.5802793141943, 
-        "woe:id": 34819444, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819444, 
       "properties": {
         "ne:fid": 287, 
         "ne:hasPlace": -1, 
@@ -294,7 +275,8 @@
         "latitude": 40.5802793141943, 
         "woe:id": 34819444, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819444
     }
   ], 
   "alias_FRE_Q": [

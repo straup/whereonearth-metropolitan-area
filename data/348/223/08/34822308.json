@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Suedia"
   ], 
-  "alias_UNK_V": [
-    "Souid\u00eda"
-  ], 
+  "ne_longitude": 24.16634, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc2a4\uc6e8\ub358"
@@ -2069,8 +2067,8 @@
     "Romanian": [
       "Suedia"
     ], 
-    "Dutch": [
-      "Zweden"
+    "Spanish": [
+      "Suecia"
     ], 
     "Japanese": [
       "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3", 
@@ -2090,13 +2088,8 @@
       "Souidia", 
       "Souid\u00eda"
     ], 
-    "Spanish": [
-      "Suecia"
-    ], 
-    "English": [
-      "SWE", 
-      "Sweden", 
-      "Kingdom of Sweden"
+    "Dutch": [
+      "Zweden"
     ], 
     "Polish": [
       "Szwecja"
@@ -2104,6 +2097,11 @@
     "Korean": [
       "\uc2a4\uc6e8\ub358", 
       "\uc2a4\uc6e8\ub374"
+    ], 
+    "English": [
+      "SWE", 
+      "Sweden", 
+      "Kingdom of Sweden"
     ], 
     "Italian": [
       "Svezia"
@@ -2165,7 +2163,9 @@
   "alias_HUN_Q": [
     "Sv\u00e9dorsz\u00e1g"
   ], 
-  "ne_longitude": 24.16634, 
+  "alias_UNK_V": [
+    "Souid\u00eda"
+  ], 
   "longitude": 17.55142, 
   "iso": "SE", 
   "sw_latitude": 55.33696, 
@@ -2218,25 +2218,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4516, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822308", 
-          "woe:region=2347064", 
-          "woe:country=23424954"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SE", 
-        "longitude": 21.120830348482457, 
-        "artisanal:id": 34822308, 
-        "latitude": 64.67800391556806, 
-        "woe:id": 34822308, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822308, 
       "properties": {
         "ne:fid": 4516, 
         "ne:hasPlace": -1, 
@@ -2254,7 +2235,8 @@
         "latitude": 64.67800391556806, 
         "woe:id": 34822308, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822308
     }
   ], 
   "alias_FRE_S": [

@@ -29,9 +29,6 @@
   "alias_KOR_Q": [
     "\uc138\uc778\ud2b8\ub9c8\ud2f4 \uc12c"
   ], 
-  "alias_CZE_Q": [
-    "Svat\u00fd Martin"
-  ], 
   "children": {
     "Town": [
       {
@@ -88,8 +85,9 @@
     "Romanian": [
       "Insula Sf\u00e2ntul Martin"
     ], 
-    "Spanish": [
-      "Isla de San Mart\u00edn"
+    "Dutch": [
+      "Eilandgebied Sint Maarten", 
+      "Sint Maarten"
     ], 
     "Japanese": [
       "\u30bb\u30f3\u30c8\u30fb\u30de\u30fc\u30c1\u30f3\u5cf6"
@@ -101,9 +99,8 @@
     "Norwegian": [
       "Saint Martin"
     ], 
-    "Dutch": [
-      "Eilandgebied Sint Maarten", 
-      "Sint Maarten"
+    "Spanish": [
+      "Isla de San Mart\u00edn"
     ], 
     "Polish": [
       "Sint Maarten"
@@ -127,12 +124,15 @@
     "Saint Martin"
   ], 
   "date_indexed": "2010-12-02T12:16:16.749Z", 
+  "alias_DUT_V": [
+    "Eilandgebied Sint Maarten"
+  ], 
   "alias_DUT_Q": [
     "Sint Maarten"
   ], 
   "bbox": "18.052231,-63.15276,18.13069,-62.972778", 
-  "alias_DUT_V": [
-    "Eilandgebied Sint Maarten"
+  "alias_CZE_Q": [
+    "Svat\u00fd Martin"
   ], 
   "alias_DAN_Q": [
     "Saint Martin"
@@ -281,24 +281,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2139, 
-        "ne:hasPlace": 6, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820716", 
-          "woe:country=56042305"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MF", 
-        "longitude": -63.06091851657984, 
-        "artisanal:id": 34820716, 
-        "latitude": 18.060467322345033, 
-        "woe:id": 34820716, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820716, 
       "properties": {
         "ne:fid": 2139, 
         "ne:hasPlace": 6, 
@@ -315,7 +297,8 @@
         "latitude": 18.060467322345033, 
         "woe:id": 34820716, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820716
     }
   ]
 }

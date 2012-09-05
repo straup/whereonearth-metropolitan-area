@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "K\u00e2rg\u00e2zstan"
   ], 
-  "alias_UNK_V": [
-    "Kirgisia"
-  ], 
+  "ne_longitude": 80.28318, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ud0a4\ub974\uae30\uc2a4"
@@ -40,9 +38,6 @@
   ], 
   "alias_POR_S": [
     "Quirguizistao"
-  ], 
-  "alias_CZE_Q": [
-    "Kyrgyzst\u00e1n"
   ], 
   "children": {
     "placetype": [], 
@@ -107,8 +102,10 @@
       "Kirgiisia", 
       "Kirgisia"
     ], 
-    "Norwegian": [
-      "Kirgisistan"
+    "Portuguese": [
+      "Quirguizist\u00e3o", 
+      "Quirguizistao", 
+      "Quirguist\u00e3o"
     ], 
     "Czech": [
       "Kyrgyzst\u00e1n"
@@ -117,10 +114,10 @@
       "K\u00e2rg\u00e2zstan", 
       "Kirghizia"
     ], 
-    "Dutch": [
-      "Kirgizstan", 
-      "Kirgizie", 
-      "Kirgizi\u00eb"
+    "Spanish": [
+      "Kirgizist\u00e1n", 
+      "Kirguistan", 
+      "Kirguist\u00e1n"
     ], 
     "Japanese": [
       "\u30ad\u30eb\u30ae\u30b9", 
@@ -129,27 +126,21 @@
     "French": [
       "Kirghizistan"
     ], 
-    "German": [
-      "Kirgisistan", 
-      "Kirgistan"
+    "Norwegian": [
+      "Kirgisistan"
     ], 
-    "Portuguese": [
-      "Quirguizist\u00e3o", 
-      "Quirguizistao", 
-      "Quirguist\u00e3o"
+    "English": [
+      "KG", 
+      "Kyrgyzstani"
     ], 
     "Unknown": [
       "Kirgizistan", 
       "Kirgisia"
     ], 
-    "Spanish": [
-      "Kirgizist\u00e1n", 
-      "Kirguistan", 
-      "Kirguist\u00e1n"
-    ], 
-    "English": [
-      "KG", 
-      "Kyrgyzstani"
+    "Dutch": [
+      "Kirgizstan", 
+      "Kirgizie", 
+      "Kirgizi\u00eb"
     ], 
     "Polish": [
       "Kirgistan"
@@ -157,6 +148,10 @@
     "Korean": [
       "\ud0a4\ub974\uae30\uc2a4", 
       "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
+    ], 
+    "German": [
+      "Kirgisistan", 
+      "Kirgistan"
     ], 
     "Italian": [
       "Kirghizistan"
@@ -168,8 +163,8 @@
   "alias_ITA_Q": [
     "Kirghizistan"
   ], 
-  "alias_GER_V": [
-    "Kirgistan"
+  "alias_DAN_Q": [
+    "Kirgisistan"
   ], 
   "alias_CHI_V": [
     "\u5409\u723e\u5409\u65af"
@@ -204,6 +199,9 @@
     "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
   ], 
   "adjacent": [], 
+  "alias_DUT_V": [
+    "Kirgizstan"
+  ], 
   "alias_SPA_V": [
     "Kirgizist\u00e1n"
   ], 
@@ -214,11 +212,11 @@
     "Kirgizie"
   ], 
   "bbox": "39.17284,69.276619,43.238239,80.28318", 
-  "alias_DUT_V": [
-    "Kirgizstan"
+  "alias_CZE_Q": [
+    "Kyrgyzst\u00e1n"
   ], 
-  "alias_DAN_Q": [
-    "Kirgisistan"
+  "alias_GER_V": [
+    "Kirgistan"
   ], 
   "alias_GER_Q": [
     "Kirgisistan"
@@ -233,7 +231,9 @@
   "alias_HUN_Q": [
     "Kirgiziszt\u00e1n"
   ], 
-  "ne_longitude": 80.28318, 
+  "alias_UNK_V": [
+    "Kirgisia"
+  ], 
   "longitude": 74.7799, 
   "iso": "KG", 
   "sw_latitude": 39.17284, 
@@ -290,25 +290,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 204, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819392", 
-          "woe:region=20070195", 
-          "woe:country=23424864"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "KG", 
-        "longitude": 74.11351932775199, 
-        "artisanal:id": 34819392, 
-        "latitude": 42.82615674836205, 
-        "woe:id": 34819392, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819392, 
       "properties": {
         "ne:fid": 204, 
         "ne:hasPlace": 0, 
@@ -326,7 +307,8 @@
         "latitude": 42.82615674836205, 
         "woe:id": 34819392, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819392
     }
   ], 
   "alias_FRE_Q": [

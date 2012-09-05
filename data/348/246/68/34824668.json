@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Mozambic"
   ], 
-  "alias_UNK_V": [
-    "Republika Mozambik"
-  ], 
+  "ne_longitude": 40.844471, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Rep\u00fablica de Mo\u00e7ambique"
@@ -110,10 +108,6 @@
       "Mo\u00e7ambique", 
       "Mocambique"
     ], 
-    "Chinese": [
-      "\u83ab\u4e09\u6bd4\u514b", 
-      "\u83ab\u4e09\u6bd4\u514b"
-    ], 
     "Portuguese": [
       "Rep\u00fablica de Mo\u00e7ambique", 
       "Mocambique", 
@@ -125,9 +119,6 @@
     "Hungarian": [
       "Mozambik"
     ], 
-    "Norwegian": [
-      "Mosambik"
-    ], 
     "Czech": [
       "Mosambik", 
       "Mozambik"
@@ -135,27 +126,34 @@
     "Romanian": [
       "Mozambic"
     ], 
+    "English": [
+      "MZ", 
+      "Republic of Mozambique"
+    ], 
     "Japanese": [
       "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af", 
       "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af\u5171\u548c\u56fd"
     ], 
-    "German": [
-      "Mosambik", 
-      "Republik Mosambik"
+    "Norwegian": [
+      "Mosambik"
     ], 
     "Unknown": [
       "Mozambik", 
       "Republika Mozambik"
-    ], 
-    "English": [
-      "MZ", 
-      "Republic of Mozambique"
     ], 
     "Polish": [
       "Mozambik"
     ], 
     "Korean": [
       "\ubaa8\uc7a0\ube44\ud06c"
+    ], 
+    "Chinese": [
+      "\u83ab\u4e09\u6bd4\u514b", 
+      "\u83ab\u4e09\u6bd4\u514b"
+    ], 
+    "German": [
+      "Mosambik", 
+      "Republik Mosambik"
     ], 
     "Italian": [
       "Mozambico"
@@ -217,7 +215,9 @@
   "alias_HUN_Q": [
     "Mozambik"
   ], 
-  "ne_longitude": 40.844471, 
+  "alias_UNK_V": [
+    "Republika Mozambik"
+  ], 
   "longitude": 35.530151, 
   "iso": "MZ", 
   "sw_latitude": -26.868679, 
@@ -291,25 +291,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8107, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824668", 
-          "woe:region=2346316", 
-          "woe:country=23424902"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MZ", 
-        "longitude": 39.26018773130673, 
-        "artisanal:id": 34824668, 
-        "latitude": -15.1079107277812, 
-        "woe:id": 34824668, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824668, 
       "properties": {
         "ne:fid": 8107, 
         "ne:hasPlace": 15, 
@@ -327,7 +308,8 @@
         "latitude": -15.1079107277812, 
         "woe:id": 34824668, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824668
     }
   ]
 }

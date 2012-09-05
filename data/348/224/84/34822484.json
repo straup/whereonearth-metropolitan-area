@@ -5,8 +5,8 @@
   "alias_KOR_Q": [
     "\ub374\ub9c8\ud06c"
   ], 
-  "alias_POL_Q": [
-    "Dania"
+  "alias_ENG_P": [
+    "Denmark"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Danemarca"
   ], 
-  "alias_UNK_V": [
-    "Dhan\u00eda"
-  ], 
+  "ne_longitude": 15.19324, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Dinamarca"
@@ -310,8 +308,8 @@
     "Romanian": [
       "Danemarca"
     ], 
-    "Dutch": [
-      "Denemarken"
+    "Spanish": [
+      "Dinamarca"
     ], 
     "Japanese": [
       "\u30c7\u30f3\u30de\u30fc\u30af", 
@@ -330,19 +328,19 @@
       "Danmork", 
       "Dhan\u00eda"
     ], 
-    "Spanish": [
-      "Dinamarca"
-    ], 
-    "English": [
-      "DNK", 
-      "Denmark", 
-      "Kingdom of Denmark"
+    "Dutch": [
+      "Denemarken"
     ], 
     "Polish": [
       "Dania"
     ], 
     "Korean": [
       "\ub374\ub9c8\ud06c"
+    ], 
+    "English": [
+      "DNK", 
+      "Denmark", 
+      "Kingdom of Denmark"
     ], 
     "Italian": [
       "Danimarca"
@@ -361,8 +359,8 @@
   "alias_JPN_Q": [
     "\u30c7\u30f3\u30de\u30fc\u30af"
   ], 
-  "alias_ENG_P": [
-    "Denmark"
+  "alias_POL_Q": [
+    "Dania"
   ], 
   "alias_JPN_V": [
     "\u30c7\u30f3\u30de\u30fc\u30af\u738b\u56fd"
@@ -416,7 +414,9 @@
   "alias_GER_Q": [
     "D\u00e4nemark"
   ], 
-  "ne_longitude": 15.19324, 
+  "alias_UNK_V": [
+    "Dhan\u00eda"
+  ], 
   "longitude": 9.51695, 
   "iso": "DK", 
   "sw_latitude": 54.559132, 
@@ -466,25 +466,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4773, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822484", 
-          "woe:region=28362579", 
-          "woe:country=23424796"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "DK", 
-        "longitude": 9.999367645477252, 
-        "artisanal:id": 34822484, 
-        "latitude": 57.459020973854926, 
-        "woe:id": 34822484, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822484, 
       "properties": {
         "ne:fid": 4773, 
         "ne:hasPlace": 15, 
@@ -502,7 +483,8 @@
         "latitude": 57.459020973854926, 
         "woe:id": 34822484, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822484
     }
   ], 
   "alias_FRE_Q": [

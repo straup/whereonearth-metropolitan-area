@@ -177,8 +177,8 @@
       "Tsad", 
       "T\u0161ad"
     ], 
-    "Norwegian": [
-      "Tsjad"
+    "Portuguese": [
+      "Chade"
     ], 
     "Czech": [
       "\u010cad"
@@ -186,8 +186,9 @@
     "Romanian": [
       "Ciad"
     ], 
-    "Dutch": [
-      "Tsjaad"
+    "English": [
+      "TCD", 
+      "Republic of Chad"
     ], 
     "Japanese": [
       "\u30c1\u30e3\u30c9", 
@@ -197,19 +198,14 @@
       "Tchad", 
       "R\u00e9publique du Tchad"
     ], 
-    "German": [
-      "Tschad", 
-      "Republik Tschad"
-    ], 
-    "Portuguese": [
-      "Chade"
+    "Norwegian": [
+      "Tsjad"
     ], 
     "Unknown": [
       "Tsjad"
     ], 
-    "English": [
-      "TCD", 
-      "Republic of Chad"
+    "Dutch": [
+      "Tsjaad"
     ], 
     "Polish": [
       "Czad"
@@ -217,6 +213,10 @@
     "Korean": [
       "\ucc60\ub4dc", 
       "\ucc28\ub4dc"
+    ], 
+    "German": [
+      "Tschad", 
+      "Republik Tschad"
     ], 
     "Italian": [
       "Ciad"
@@ -228,8 +228,8 @@
   "alias_ITA_Q": [
     "Ciad"
   ], 
-  "alias_GER_V": [
-    "Republik Tschad"
+  "alias_DAN_Q": [
+    "Tchad"
   ], 
   "alias_CHI_V": [
     "\u67e5\u5fb7"
@@ -265,8 +265,8 @@
   "alias_CZE_Q": [
     "\u010cad"
   ], 
-  "alias_DAN_Q": [
-    "Tchad"
+  "alias_GER_V": [
+    "Republik Tschad"
   ], 
   "alias_GER_Q": [
     "Tschad"
@@ -486,25 +486,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 853, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311157", 
-          "woe:region=56013485", 
-          "woe:country=23424777"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "TD", 
-        "longitude": 15.07439944218701, 
-        "artisanal:id": 35311157, 
-        "latitude": 12.12944409590659, 
-        "woe:id": 35311157, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311157, 
       "properties": {
         "ne:fid": 853, 
         "ne:hasPlace": 20, 
@@ -522,7 +503,8 @@
         "latitude": 12.12944409590659, 
         "woe:id": 35311157, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311157
     }
   ], 
   "alias_FRE_Q": [

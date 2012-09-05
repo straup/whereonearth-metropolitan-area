@@ -5,7 +5,7 @@
   "alias_SWE_Q": [
     "Albanien"
   ], 
-  "alias_POL_Q": [
+  "alias_ENG_P": [
     "Albania"
   ], 
   "hierarchy": [
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Albania"
   ], 
-  "alias_UNK_V": [
-    "Arubania"
-  ], 
+  "ne_longitude": 21.06831, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Alb\u00e2nia"
@@ -143,8 +141,8 @@
     "Finnish": [
       "Albania"
     ], 
-    "Norwegian": [
-      "Albania"
+    "Portuguese": [
+      "Alb\u00e2nia"
     ], 
     "Czech": [
       "Alb\u00e1nie"
@@ -152,8 +150,8 @@
     "Romanian": [
       "Albania"
     ], 
-    "Dutch": [
-      "Albani\u00eb"
+    "Spanish": [
+      "Albania"
     ], 
     "Japanese": [
       "\u30a2\u30eb\u30d0\u30cb\u30a2", 
@@ -162,19 +160,7 @@
     "French": [
       "Albanie"
     ], 
-    "German": [
-      "Albanien", 
-      "Republik Albanien"
-    ], 
-    "Portuguese": [
-      "Alb\u00e2nia"
-    ], 
-    "Unknown": [
-      "Alban\u00eda", 
-      "Shqiperi", 
-      "Arubania"
-    ], 
-    "Spanish": [
+    "Norwegian": [
       "Albania"
     ], 
     "English": [
@@ -182,11 +168,23 @@
       "Albania", 
       "Rep. Albania"
     ], 
+    "Unknown": [
+      "Alban\u00eda", 
+      "Shqiperi", 
+      "Arubania"
+    ], 
+    "Dutch": [
+      "Albani\u00eb"
+    ], 
     "Polish": [
       "Albania"
     ], 
     "Korean": [
       "\uc54c\ubc14\ub2c8\uc544"
+    ], 
+    "German": [
+      "Albanien", 
+      "Republik Albanien"
     ], 
     "Italian": [
       "Albania"
@@ -198,8 +196,8 @@
   "alias_ITA_Q": [
     "Albania"
   ], 
-  "alias_GER_V": [
-    "Republik Albanien"
+  "alias_DAN_Q": [
+    "Albanien"
   ], 
   "alias_CHI_V": [
     "\u963f\u5c14\u5df4\u5c3c\u4e9a"
@@ -208,7 +206,7 @@
   "alias_JPN_Q": [
     "\u30a2\u30eb\u30d0\u30cb\u30a2"
   ], 
-  "alias_ENG_P": [
+  "alias_POL_Q": [
     "Albania"
   ], 
   "alias_JPN_V": [
@@ -238,8 +236,8 @@
   "alias_CZE_Q": [
     "Alb\u00e1nie"
   ], 
-  "alias_DAN_Q": [
-    "Albanien"
+  "alias_GER_V": [
+    "Republik Albanien"
   ], 
   "alias_GER_Q": [
     "Albanien"
@@ -257,7 +255,9 @@
   "alias_HUN_Q": [
     "Alb\u00e1nia"
   ], 
-  "ne_longitude": 21.06831, 
+  "alias_UNK_V": [
+    "Arubania"
+  ], 
   "longitude": 20.17001, 
   "iso": "AL", 
   "sw_latitude": 39.648109, 
@@ -307,25 +307,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6626, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823678", 
-          "woe:region=29389563", 
-          "woe:country=23424742"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "AL", 
-        "longitude": 19.542194720282996, 
-        "artisanal:id": 34823678, 
-        "latitude": 42.078375813494475, 
-        "woe:id": 34823678, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823678, 
       "properties": {
         "ne:fid": 6626, 
         "ne:hasPlace": 20, 
@@ -343,7 +324,8 @@
         "latitude": 42.078375813494475, 
         "woe:id": 34823678, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823678
     }
   ], 
   "alias_FRE_Q": [

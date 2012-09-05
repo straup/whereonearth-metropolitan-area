@@ -11,8 +11,8 @@
   "alias_SWE_Q": [
     "Storbritannien"
   ], 
-  "alias_POL_Q": [
-    "Wielka Brytania"
+  "alias_SWE_S": [
+    "Forenade Kungariket"
   ], 
   "hierarchy": [
     {
@@ -29,6 +29,9 @@
     "Regatul Unit Al Marii Britanii \u015ei Al Irlandei de Nord"
   ], 
   "placetype": "Country", 
+  "alias_RUM_V": [
+    "Regatul Unit"
+  ], 
   "alias_POR_Q": [
     "Reino Unido"
   ], 
@@ -192,9 +195,8 @@
       "Iso-Britannia", 
       "Yhdistynyt Kuningaskunta"
     ], 
-    "Norwegian": [
-      "Storbritannia", 
-      "Det forente kongerike Storbritannia og Nord-Irland"
+    "Portuguese": [
+      "Reino Unido"
     ], 
     "Czech": [
       "Spojen\u00e9 Kr\u00e1lovstv\u00ed", 
@@ -204,8 +206,9 @@
       "Regatul Unit Al Marii Britanii \u015ei Al Irlandei de Nord", 
       "Regatul Unit"
     ], 
-    "Dutch": [
-      "Verenigd Koninkrijk"
+    "Spanish": [
+      "Reinounido", 
+      "Reino Unido"
     ], 
     "Japanese": [
       "\u30a4\u30ae\u30ea\u30b9", 
@@ -215,24 +218,19 @@
       "Royaume Uni", 
       "Grande Bretagne"
     ], 
-    "German": [
-      "Vereinigtes K\u00f6nigreich", 
-      "Gro\u00dfbritannien und Nordirland", 
-      "Vereinigtes Koenigreich"
-    ], 
-    "Portuguese": [
-      "Reino Unido"
-    ], 
-    "Unknown": [
-      "Y Deyrnas Unedig"
-    ], 
-    "Spanish": [
-      "Reinounido", 
-      "Reino Unido"
+    "Norwegian": [
+      "Storbritannia", 
+      "Det forente kongerike Storbritannia og Nord-Irland"
     ], 
     "English": [
       "GBR", 
       "Unitedkingdom"
+    ], 
+    "Unknown": [
+      "Y Deyrnas Unedig"
+    ], 
+    "Dutch": [
+      "Verenigd Koninkrijk"
     ], 
     "Polish": [
       "Wielka Brytania", 
@@ -240,6 +238,11 @@
     ], 
     "Korean": [
       "\uc601\uad6d"
+    ], 
+    "German": [
+      "Vereinigtes K\u00f6nigreich", 
+      "Gro\u00dfbritannien und Nordirland", 
+      "Vereinigtes Koenigreich"
     ], 
     "Italian": [
       "Regnounito", 
@@ -252,8 +255,8 @@
   "alias_ITA_Q": [
     "Regno Unito"
   ], 
-  "alias_GER_V": [
-    "Gro\u00dfbritannien und Nordirland"
+  "alias_DAN_Q": [
+    "Storbritannien"
   ], 
   "alias_ITA_V": [
     "Regnounito"
@@ -265,8 +268,8 @@
   "alias_JPN_Q": [
     "\u30a4\u30ae\u30ea\u30b9"
   ], 
-  "alias_SWE_S": [
-    "Forenade Kungariket"
+  "alias_POL_Q": [
+    "Wielka Brytania"
   ], 
   "alias_JPN_V": [
     "\u30b0\u30ec\u30fc\u30c8\u30fb\u30d6\u30ea\u30c6\u30f3\u304a\u3088\u3073\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u9023\u5408\u738b\u56fd"
@@ -290,16 +293,10 @@
     "Det forente kongerike Storbritannia og Nord-Irland"
   ], 
   "date_indexed": "2010-12-02T12:21:01.12Z", 
-  "alias_FRE_V": [
-    "Grande Bretagne"
-  ], 
   "alias_KOR_Q": [
     "\uc601\uad6d"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Det Forenede Kongerige Storbritannien og Nordirland"
-  ], 
   "alias_SPA_V": [
     "Reinounido"
   ], 
@@ -310,11 +307,11 @@
   "alias_CZE_Q": [
     "Spojen\u00e9 Kr\u00e1lovstv\u00ed"
   ], 
-  "alias_DAN_Q": [
-    "Storbritannien"
+  "alias_GER_V": [
+    "Gro\u00dfbritannien und Nordirland"
   ], 
-  "alias_GER_Q": [
-    "Vereinigtes K\u00f6nigreich"
+  "alias_DAN_V": [
+    "Det Forenede Kongerige Storbritannien og Nordirland"
   ], 
   "alias_GER_S": [
     "Vereinigtes Koenigreich"
@@ -332,12 +329,15 @@
   "alias_HUN_Q": [
     "Egyes\u00fclt Kir\u00e1lys\u00e1g"
   ], 
+  "alias_GER_Q": [
+    "Vereinigtes K\u00f6nigreich"
+  ], 
   "ne_longitude": 1.76896, 
   "longitude": -2.23001, 
   "iso": "GB", 
   "sw_latitude": 49.16209, 
-  "alias_RUM_V": [
-    "Regatul Unit"
+  "alias_FRE_V": [
+    "Grande Bretagne"
   ], 
   "fullname": "United Kingdom", 
   "features": [
@@ -553,25 +553,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 5735, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823092", 
-          "woe:region=24554868", 
-          "woe:country=23424975"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GB", 
-        "longitude": -1.5891529317992783, 
-        "artisanal:id": 34823092, 
-        "latitude": 54.68734391706191, 
-        "woe:id": 34823092, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823092, 
       "properties": {
         "ne:fid": 5735, 
         "ne:hasPlace": 15, 
@@ -589,7 +570,8 @@
         "latitude": 54.68734391706191, 
         "woe:id": 34823092, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823092
     }
   ], 
   "alias_FRE_Q": [

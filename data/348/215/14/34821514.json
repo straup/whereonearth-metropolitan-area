@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": -30.08222, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Vzhodna republika Urugvaj"
-  ], 
+  "ne_longitude": -53.073929, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Uruguai"
@@ -192,7 +190,9 @@
   "alias_UNK_Q": [
     "Urugvaj"
   ], 
-  "ne_longitude": -53.073929, 
+  "alias_UNK_V": [
+    "Vzhodna republika Urugvaj"
+  ], 
   "longitude": -55.758331, 
   "iso": "UY", 
   "sw_latitude": -35.047939, 
@@ -398,25 +398,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3368, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34821514", 
-          "woe:region=2347650", 
-          "woe:country=23424979"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "UY", 
-        "longitude": -58.051024478812515, 
-        "artisanal:id": 34821514, 
-        "latitude": -32.312524971159974, 
-        "woe:id": 34821514, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34821514, 
       "properties": {
         "ne:fid": 3368, 
         "ne:hasPlace": 20, 
@@ -434,7 +415,8 @@
         "latitude": -32.312524971159974, 
         "woe:id": 34821514, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34821514
     }
   ]
 }

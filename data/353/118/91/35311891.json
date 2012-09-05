@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 12.2019, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Venezuela"
-  ], 
+  "ne_longitude": -59.803768, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ubca0\ub124\uc8fc\uc5d8\ub77c"
@@ -243,7 +241,9 @@
   "alias_UNK_Q": [
     "Venes\u00faela"
   ], 
-  "ne_longitude": -59.803768, 
+  "alias_UNK_V": [
+    "Republika Venezuela"
+  ], 
   "longitude": -66.589043, 
   "iso": "VE", 
   "sw_latitude": 0.74368, 
@@ -404,25 +404,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1767, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311891", 
-          "woe:region=2347687", 
-          "woe:country=23424982"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "VE", 
-        "longitude": -70.18401095816965, 
-        "artisanal:id": 35311891, 
-        "latitude": 11.693898893282576, 
-        "woe:id": 35311891, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311891, 
       "properties": {
         "ne:fid": 1767, 
         "ne:hasPlace": 20, 
@@ -440,7 +421,8 @@
         "latitude": 11.693898893282576, 
         "woe:id": 35311891, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311891
     }
   ]
 }

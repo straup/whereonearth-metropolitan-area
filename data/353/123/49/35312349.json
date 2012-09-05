@@ -19,7 +19,9 @@
   ], 
   "ne_latitude": 17.815201, 
   "supercedes": [], 
-  "ne_longitude": -88.22319, 
+  "alias_UNK_V": [
+    "Republika Gvatemala"
+  ], 
   "placetype": "Country", 
   "alias_ENG_A": [
     "GT"
@@ -198,9 +200,7 @@
   "alias_UNK_Q": [
     "Gvatemala"
   ], 
-  "alias_UNK_V": [
-    "Republika Gvatemala"
-  ], 
+  "ne_longitude": -88.22319, 
   "longitude": -90.232307, 
   "iso": "GT", 
   "sw_latitude": 13.7373, 
@@ -449,25 +449,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2379, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35312349", 
-          "woe:region=2345558", 
-          "woe:country=23424834"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GT", 
-        "longitude": -90.54360006391322, 
-        "artisanal:id": 35312349, 
-        "latitude": 14.615873571583577, 
-        "woe:id": 35312349, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35312349, 
       "properties": {
         "ne:fid": 2379, 
         "ne:hasPlace": 20, 
@@ -485,7 +466,8 @@
         "latitude": 14.615873571583577, 
         "woe:id": 35312349, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35312349
     }
   ]
 }

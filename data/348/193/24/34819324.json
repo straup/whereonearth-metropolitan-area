@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Kazahstan"
   ], 
-  "alias_UNK_V": [
-    "Kazakstan"
-  ], 
+  "ne_longitude": 87.312737, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Casaquist\u00e3o"
@@ -176,8 +174,10 @@
     "Finnish": [
       "Kazakstan"
     ], 
-    "Norwegian": [
-      "Kasakhstan"
+    "Portuguese": [
+      "Casaquist\u00e3o", 
+      "Cazaquistao", 
+      "Cazaquist\u00e3o"
     ], 
     "Czech": [
       "Kazachst\u00e1n"
@@ -185,40 +185,38 @@
     "Romanian": [
       "Kazahstan"
     ], 
-    "Dutch": [
-      "Kazachstan"
-    ], 
-    "Japanese": [
-      "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3", 
-      "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3\u5171\u548c\u56fd"
-    ], 
-    "German": [
-      "Kasachstan", 
-      "Republik Kasachstan"
-    ], 
-    "Portuguese": [
-      "Casaquist\u00e3o", 
-      "Cazaquistao", 
-      "Cazaquist\u00e3o"
-    ], 
-    "Unknown": [
-      "Kazahstan", 
-      "Kazakstan"
-    ], 
     "Spanish": [
       "Kazajst\u00e1n", 
       "Kazajstan", 
       "Kazajist\u00e1n"
     ], 
+    "Japanese": [
+      "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3", 
+      "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3\u5171\u548c\u56fd"
+    ], 
+    "Norwegian": [
+      "Kasakhstan"
+    ], 
     "English": [
       "KZ", 
       "Rep. Kazakhstan"
+    ], 
+    "Unknown": [
+      "Kazahstan", 
+      "Kazakstan"
+    ], 
+    "Dutch": [
+      "Kazachstan"
     ], 
     "Polish": [
       "Kazachstan"
     ], 
     "Korean": [
       "\uce74\uc790\ud750\uc2a4\ud0c4"
+    ], 
+    "German": [
+      "Kasachstan", 
+      "Republik Kasachstan"
     ], 
     "Italian": [
       "Kazakistan"
@@ -230,8 +228,8 @@
   "alias_ITA_Q": [
     "Kazakistan"
   ], 
-  "alias_GER_V": [
-    "Republik Kasachstan"
+  "alias_DAN_Q": [
+    "Kasakhstan"
   ], 
   "alias_CHI_V": [
     "\u54c8\u8428\u514b\u65af\u5766"
@@ -273,8 +271,8 @@
   "alias_CZE_Q": [
     "Kazachst\u00e1n"
   ], 
-  "alias_DAN_Q": [
-    "Kasakhstan"
+  "alias_GER_V": [
+    "Republik Kasachstan"
   ], 
   "alias_GER_Q": [
     "Kasachstan"
@@ -289,7 +287,9 @@
   "alias_HUN_Q": [
     "Kazahszt\u00e1n"
   ], 
-  "ne_longitude": 87.312737, 
+  "alias_UNK_V": [
+    "Kazakstan"
+  ], 
   "longitude": 66.90229, 
   "iso": "KZ", 
   "sw_latitude": 40.566689, 
@@ -355,25 +355,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 108, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819324", 
-          "woe:region=2345990", 
-          "woe:country=23424871"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "KZ", 
-        "longitude": 63.30729007837772, 
-        "artisanal:id": 34819324, 
-        "latitude": 45.62981867258241, 
-        "woe:id": 34819324, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819324, 
       "properties": {
         "ne:fid": 108, 
         "ne:hasPlace": 15, 
@@ -391,7 +372,8 @@
         "latitude": 45.62981867258241, 
         "woe:id": 34819324, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819324
     }
   ]
 }

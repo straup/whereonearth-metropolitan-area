@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Etiopia"
   ], 
-  "alias_UNK_V": [
-    "Ityopiya"
-  ], 
+  "ne_longitude": 47.986172, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc774\ub514\uc624\ud53c\uc544"
@@ -192,8 +190,8 @@
       "Etiopiasta", 
       "Etiopiaan"
     ], 
-    "Norwegian": [
-      "Etiopia"
+    "Portuguese": [
+      "Eti\u00f3pia"
     ], 
     "Czech": [
       "Etiopie"
@@ -201,9 +199,8 @@
     "Romanian": [
       "Etiopia"
     ], 
-    "Dutch": [
-      "Ethiopie", 
-      "Ethiopi\u00eb"
+    "Spanish": [
+      "Etiop\u00eda"
     ], 
     "Japanese": [
       "\u30a8\u30c1\u30aa\u30d4\u30a2", 
@@ -212,24 +209,20 @@
     "French": [
       "\u00c9thiopie"
     ], 
-    "German": [
-      "\u00c4thiopien", 
-      "Demokratische Bundesrepublik \u00c4thiopien", 
-      "Demokratische Bundesrepublik Athiopien"
+    "Norwegian": [
+      "Etiopia"
     ], 
-    "Portuguese": [
-      "Eti\u00f3pia"
+    "English": [
+      "ET", 
+      "Ethiopian"
     ], 
     "Unknown": [
       "E\u00fe\u00ed\u00f3p\u00eda", 
       "Ityopiya"
     ], 
-    "Spanish": [
-      "Etiop\u00eda"
-    ], 
-    "English": [
-      "ET", 
-      "Ethiopian"
+    "Dutch": [
+      "Ethiopie", 
+      "Ethiopi\u00eb"
     ], 
     "Polish": [
       "Etiopia"
@@ -237,6 +230,11 @@
     "Korean": [
       "\uc774\ub514\uc624\ud53c\uc544", 
       "\uc5d0\ud2f0\uc624\ud53c\uc544"
+    ], 
+    "German": [
+      "\u00c4thiopien", 
+      "Demokratische Bundesrepublik \u00c4thiopien", 
+      "Demokratische Bundesrepublik Athiopien"
     ], 
     "Italian": [
       "Etiopia"
@@ -248,8 +246,8 @@
   "alias_ITA_Q": [
     "Etiopia"
   ], 
-  "alias_GER_V": [
-    "Demokratische Bundesrepublik \u00c4thiopien"
+  "alias_DAN_Q": [
+    "Etiopien"
   ], 
   "alias_CHI_V": [
     "\u8863\u7d22\u6bd4\u4e9e"
@@ -291,8 +289,8 @@
   "alias_CZE_Q": [
     "Etiopie"
   ], 
-  "alias_DAN_Q": [
-    "Etiopien"
+  "alias_GER_V": [
+    "Demokratische Bundesrepublik \u00c4thiopien"
   ], 
   "alias_GER_Q": [
     "\u00c4thiopien"
@@ -310,7 +308,9 @@
   "alias_HUN_Q": [
     "Eti\u00f3pia"
   ], 
-  "ne_longitude": 47.986172, 
+  "alias_UNK_V": [
+    "Ityopiya"
+  ], 
   "longitude": 40.49305, 
   "iso": "ET", 
   "sw_latitude": 3.40242, 
@@ -432,25 +432,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9388, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825508", 
-          "woe:region=2345312", 
-          "woe:country=23424808"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ET", 
-        "longitude": 38.76096247469234, 
-        "artisanal:id": 34825508, 
-        "latitude": 14.127216700466763, 
-        "woe:id": 34825508, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825508, 
       "properties": {
         "ne:fid": 9388, 
         "ne:hasPlace": 20, 
@@ -468,7 +449,8 @@
         "latitude": 14.127216700466763, 
         "woe:id": 34825508, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825508
     }
   ], 
   "alias_FRE_Q": [

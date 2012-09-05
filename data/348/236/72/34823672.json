@@ -1,4 +1,7 @@
 {
+  "alias_RUM_V": [
+    "Fosta Republic\u0103 Iugoslav\u0103 Macedonia"
+  ], 
   "alias_ENG_V": [
     "F.Y.R.O. Macedonia"
   ], 
@@ -22,9 +25,7 @@
   "alias_RUM_Q": [
     "Republica Macedonia"
   ], 
-  "alias_UNK_V": [
-    "Republika Makedonija"
-  ], 
+  "ne_longitude": 23.038071, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc804 \uc720\uace0\uc2ac\ub77c\ube44\uc544 \ub9c8\ucf00\ub3c4\ub2c8\uc544"
@@ -40,9 +41,6 @@
   ], 
   "alias_POR_S": [
     "Antiga Republica jugoslava da Macedonia"
-  ], 
-  "alias_CZE_Q": [
-    "Makedonie"
   ], 
   "children": {
     "Town": [
@@ -660,9 +658,10 @@
       "Makedonian tasavalta", 
       "Makedonia"
     ], 
-    "Norwegian": [
-      "Republikken Makedonia", 
-      "Makedonia"
+    "Portuguese": [
+      "Maced\u00f3nia", 
+      "Antiga Republica jugoslava da Macedonia", 
+      "Rep\u00fablica da Maced\u00f3nia"
     ], 
     "Czech": [
       "Makedonie", 
@@ -672,10 +671,10 @@
       "Republica Macedonia", 
       "Fosta Republic\u0103 Iugoslav\u0103 Macedonia"
     ], 
-    "Dutch": [
-      "Voormalige Joegoslavische Republiek Macedoni\u00eb", 
-      "Macedonie", 
-      "Macedoni\u00eb"
+    "Spanish": [
+      "Macedonia, Antigua Rep\u00fablica Yugoslava", 
+      "Ex Republica Yugoslava de Macedonia", 
+      "Rep\u00fablica de Macedonia"
     ], 
     "Japanese": [
       "\u30de\u30b1\u30c9\u30cb\u30a2", 
@@ -686,31 +685,30 @@
       "Macedoine", 
       "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine"
     ], 
-    "German": [
-      "Mazedonien", 
-      "Ehemalige Jugoslawische Republik Mazedonien"
-    ], 
-    "Portuguese": [
-      "Maced\u00f3nia", 
-      "Antiga Republica jugoslava da Macedonia", 
-      "Rep\u00fablica da Maced\u00f3nia"
-    ], 
-    "Unknown": [
-      "Proin Giougkoslaviki Dimokratia tis Makedonias", 
-      "Republika Makedonija"
-    ], 
-    "Spanish": [
-      "Macedonia, Antigua Rep\u00fablica Yugoslava", 
-      "Ex Republica Yugoslava de Macedonia", 
-      "Rep\u00fablica de Macedonia"
+    "Norwegian": [
+      "Republikken Makedonia", 
+      "Makedonia"
     ], 
     "English": [
       "MK", 
       "F.Y.R.O. Macedonia"
     ], 
+    "Unknown": [
+      "Proin Giougkoslaviki Dimokratia tis Makedonias", 
+      "Republika Makedonija"
+    ], 
+    "Dutch": [
+      "Voormalige Joegoslavische Republiek Macedoni\u00eb", 
+      "Macedonie", 
+      "Macedoni\u00eb"
+    ], 
     "Korean": [
       "\uc804 \uc720\uace0\uc2ac\ub77c\ube44\uc544 \ub9c8\ucf00\ub3c4\ub2c8\uc544", 
       "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d"
+    ], 
+    "German": [
+      "Mazedonien", 
+      "Ehemalige Jugoslawische Republik Mazedonien"
     ], 
     "Italian": [
       "Macedonia, Ex Repubblica Jugoslava", 
@@ -723,8 +721,8 @@
   "alias_ITA_Q": [
     "Repubblica di Macedonia"
   ], 
-  "alias_GER_V": [
-    "Ehemalige Jugoslawische Republik Mazedonien"
+  "alias_DAN_Q": [
+    "Makedonien"
   ], 
   "alias_ITA_V": [
     "Macedonia, Ex Repubblica Jugoslava"
@@ -746,6 +744,9 @@
     "Ex Republica Yugoslava de Macedonia"
   ], 
   "sw_longitude": 20.4645, 
+  "alias_HUN_V": [
+    "Maced\u00f3nia, K\u00f6zt\u00e1rsas\u00e1g"
+  ], 
   "alias_FIN_V": [
     "Makedonian tasavalta"
   ], 
@@ -758,15 +759,12 @@
     "Makedonia"
   ], 
   "date_indexed": "2010-12-02T09:34:55.744Z", 
-  "alias_FRE_V": [
-    "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine"
-  ], 
   "alias_KOR_Q": [
     "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Republikken Makedonien"
+  "alias_DUT_V": [
+    "Voormalige Joegoslavische Republiek Macedoni\u00eb"
   ], 
   "alias_SPA_V": [
     "Macedonia, Antigua Rep\u00fablica Yugoslava"
@@ -778,14 +776,14 @@
     "Macedonie"
   ], 
   "bbox": "40.860111,20.4645,42.345501,23.038071", 
-  "alias_DUT_V": [
-    "Voormalige Joegoslavische Republiek Macedoni\u00eb"
+  "alias_CZE_Q": [
+    "Makedonie"
   ], 
-  "alias_DAN_Q": [
-    "Makedonien"
+  "alias_GER_V": [
+    "Ehemalige Jugoslawische Republik Mazedonien"
   ], 
-  "alias_GER_Q": [
-    "Mazedonien"
+  "alias_DAN_V": [
+    "Republikken Makedonien"
   ], 
   "lang": "ENG", 
   "name": "Macedonia", 
@@ -800,15 +798,17 @@
   "alias_HUN_Q": [
     "Maced\u00f3nia"
   ], 
-  "alias_HUN_V": [
-    "Maced\u00f3nia, K\u00f6zt\u00e1rsas\u00e1g"
+  "alias_GER_Q": [
+    "Mazedonien"
   ], 
-  "ne_longitude": 23.038071, 
+  "alias_UNK_V": [
+    "Republika Makedonija"
+  ], 
   "longitude": 21.751289, 
   "iso": "MK", 
   "sw_latitude": 40.860111, 
-  "alias_RUM_V": [
-    "Fosta Republic\u0103 Iugoslav\u0103 Macedonia"
+  "alias_FRE_V": [
+    "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine"
   ], 
   "fullname": "Macedonia", 
   "features": [
@@ -912,25 +912,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6618, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823672", 
-          "woe:region=24550832", 
-          "woe:country=23424890"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MK", 
-        "longitude": 21.712595221470103, 
-        "artisanal:id": 34823672, 
-        "latitude": 42.15021635546418, 
-        "woe:id": 34823672, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823672, 
       "properties": {
         "ne:fid": 6618, 
         "ne:hasPlace": 15, 
@@ -948,7 +929,8 @@
         "latitude": 42.15021635546418, 
         "woe:id": 34823672, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823672
     }
   ], 
   "alias_FRE_S": [

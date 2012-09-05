@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Polonia"
   ], 
-  "alias_UNK_V": [
-    "Polsko"
-  ], 
+  "ne_longitude": 24.145781, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Pol\u00f4nia"
@@ -278,8 +276,9 @@
       "Puolasta", 
       "Puola"
     ], 
-    "Norwegian": [
-      "Polen"
+    "Portuguese": [
+      "Pol\u00f4nia", 
+      "Pol\u00f3nia"
     ], 
     "Czech": [
       "Polsko"
@@ -287,8 +286,9 @@
     "Romanian": [
       "Polonia"
     ], 
-    "Dutch": [
-      "Polen"
+    "Spanish": [
+      "Republica de Polonia", 
+      "Polonia"
     ], 
     "Japanese": [
       "\u30dd\u30fc\u30e9\u30f3\u30c9", 
@@ -297,33 +297,31 @@
     "French": [
       "Pologne"
     ], 
-    "German": [
-      "Polen", 
-      "Republik Polen"
-    ], 
-    "Portuguese": [
-      "Pol\u00f4nia", 
-      "Pol\u00f3nia"
-    ], 
-    "Unknown": [
-      "P\u00f3lland", 
-      "Polland", 
-      "Polsko"
-    ], 
-    "Spanish": [
-      "Republica de Polonia", 
-      "Polonia"
+    "Norwegian": [
+      "Polen"
     ], 
     "English": [
       "POL", 
       "Poland", 
       "Rep. Poland"
     ], 
+    "Unknown": [
+      "P\u00f3lland", 
+      "Polland", 
+      "Polsko"
+    ], 
+    "Dutch": [
+      "Polen"
+    ], 
     "Polish": [
       "Rzeczpospolita Polska"
     ], 
     "Korean": [
       "\ud3f4\ub780\ub4dc"
+    ], 
+    "German": [
+      "Polen", 
+      "Republik Polen"
     ], 
     "Italian": [
       "Polonia"
@@ -335,8 +333,8 @@
   "alias_ITA_Q": [
     "Polonia"
   ], 
-  "alias_GER_V": [
-    "Republik Polen"
+  "alias_DAN_Q": [
+    "Polen"
   ], 
   "alias_CHI_V": [
     "\u6ce2\u5170"
@@ -378,8 +376,8 @@
   "alias_CZE_Q": [
     "Polsko"
   ], 
-  "alias_DAN_Q": [
-    "Polen"
+  "alias_GER_V": [
+    "Republik Polen"
   ], 
   "alias_GER_Q": [
     "Polen"
@@ -397,7 +395,9 @@
   "alias_HUN_Q": [
     "Lengyelorsz\u00e1g"
   ], 
-  "ne_longitude": 24.145781, 
+  "alias_UNK_V": [
+    "Polsko"
+  ], 
   "longitude": 19.1343, 
   "iso": "PL", 
   "sw_latitude": 49.002022, 
@@ -446,25 +446,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4921, 
-        "ne:hasPlace": 5, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822572", 
-          "woe:region=12577945", 
-          "woe:country=23424923"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PL", 
-        "longitude": 18.422049233781273, 
-        "artisanal:id": 34822572, 
-        "latitude": 54.79796039923113, 
-        "woe:id": 34822572, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822572, 
       "properties": {
         "ne:fid": 4921, 
         "ne:hasPlace": 5, 
@@ -482,7 +463,8 @@
         "latitude": 54.79796039923113, 
         "woe:id": 34822572, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822572
     }
   ], 
   "alias_FRE_Q": [

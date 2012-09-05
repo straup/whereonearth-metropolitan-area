@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 12.2019, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Venezuela"
-  ], 
+  "ne_longitude": -59.803768, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ubca0\ub124\uc8fc\uc5d8\ub77c"
@@ -243,7 +241,9 @@
   "alias_UNK_Q": [
     "Venes\u00faela"
   ], 
-  "ne_longitude": -59.803768, 
+  "alias_UNK_V": [
+    "Republika Venezuela"
+  ], 
   "longitude": -66.589043, 
   "iso": "VE", 
   "sw_latitude": 0.74368, 
@@ -284,25 +284,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1768, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820482", 
-          "woe:region=2347687", 
-          "woe:country=23424982"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "VE", 
-        "longitude": -70.23751756321649, 
-        "artisanal:id": 34820482, 
-        "latitude": 11.76932471125984, 
-        "woe:id": 34820482, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820482, 
       "properties": {
         "ne:fid": 1768, 
         "ne:hasPlace": -1, 
@@ -320,7 +301,8 @@
         "latitude": 11.76932471125984, 
         "woe:id": 34820482, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820482
     }
   ]
 }

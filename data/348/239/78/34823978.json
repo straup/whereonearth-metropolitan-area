@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Cipru"
   ], 
-  "alias_UNK_V": [
-    "Republika Ciper"
-  ], 
+  "ne_longitude": 34.597919, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc0ac\uc774\ud504\ub7ec\uc2a4"
@@ -122,8 +120,8 @@
       "Kyproksesta", 
       "Kyproksen Tasavalta"
     ], 
-    "Norwegian": [
-      "Kypros"
+    "Portuguese": [
+      "Chipre"
     ], 
     "Czech": [
       "Kypr"
@@ -131,8 +129,9 @@
     "Romanian": [
       "Cipru"
     ], 
-    "Spanish": [
-      "Chipre"
+    "English": [
+      "CY", 
+      "Republic of Cyprus"
     ], 
     "Japanese": [
       "\u30ad\u30d7\u30ed\u30b9", 
@@ -141,20 +140,15 @@
     "French": [
       "Chypre"
     ], 
-    "German": [
-      "Zypern", 
-      "Republik Zypern"
-    ], 
-    "Portuguese": [
-      "Chipre"
+    "Norwegian": [
+      "Kypros"
     ], 
     "Unknown": [
       "Ciper", 
       "Republika Ciper"
     ], 
-    "English": [
-      "CY", 
-      "Republic of Cyprus"
+    "Spanish": [
+      "Chipre"
     ], 
     "Polish": [
       "Cypr"
@@ -162,6 +156,10 @@
     "Korean": [
       "\uc0ac\uc774\ud504\ub7ec\uc2a4", 
       "\ud0a4\ud504\ub85c\uc2a4"
+    ], 
+    "German": [
+      "Zypern", 
+      "Republik Zypern"
     ], 
     "Italian": [
       "Cipro"
@@ -173,8 +171,8 @@
   "alias_ITA_Q": [
     "Cipro"
   ], 
-  "alias_GER_V": [
-    "Republik Zypern"
+  "alias_DAN_Q": [
+    "Cypern"
   ], 
   "alias_CHI_V": [
     "\u8cfd\u666e\u52d2\u65af"
@@ -210,8 +208,8 @@
   "alias_CZE_Q": [
     "Kypr"
   ], 
-  "alias_DAN_Q": [
-    "Cypern"
+  "alias_GER_V": [
+    "Republik Zypern"
   ], 
   "alias_GER_Q": [
     "Zypern"
@@ -226,7 +224,9 @@
   "alias_HUN_Q": [
     "Ciprus"
   ], 
-  "ne_longitude": 34.597919, 
+  "alias_UNK_V": [
+    "Republika Ciper"
+  ], 
   "longitude": 33.435501, 
   "iso": "CY", 
   "sw_latitude": 34.563511, 
@@ -288,25 +288,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 7049, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823978", 
-          "woe:region=23424995", 
-          "woe:country=26812346"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CY", 
-        "longitude": 33.94000501355765, 
-        "artisanal:id": 34823978, 
-        "latitude": 35.11803904913135, 
-        "woe:id": 34823978, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823978, 
       "properties": {
         "ne:fid": 7049, 
         "ne:hasPlace": 20, 
@@ -324,7 +305,8 @@
         "latitude": 35.11803904913135, 
         "woe:id": 34823978, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823978
     }
   ], 
   "alias_FRE_Q": [

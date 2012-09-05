@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Rum\u00e4nien"
   ], 
-  "alias_POL_Q": [
-    "Rumunia"
+  "alias_ENG_P": [
+    "Romania"
   ], 
   "hierarchy": [
     {
@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 48.266891, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Rumunija"
-  ], 
+  "ne_longitude": 29.691, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Rom\u00eania"
@@ -297,8 +295,10 @@
     "Finnish": [
       "Romania"
     ], 
-    "Norwegian": [
-      "Romania"
+    "Portuguese": [
+      "Rom\u00eania", 
+      "Romenia", 
+      "Rom\u00e9nia"
     ], 
     "Czech": [
       "Rumunsko"
@@ -308,9 +308,9 @@
       "Roumania", 
       "Rumunija"
     ], 
-    "Dutch": [
-      "Roemenie", 
-      "Roemeni\u00eb"
+    "Spanish": [
+      "Ruman\u00eda", 
+      "Rumania"
     ], 
     "Japanese": [
       "\u30eb\u30fc\u30de\u30cb\u30a2"
@@ -318,29 +318,27 @@
     "French": [
       "Roumanie"
     ], 
-    "German": [
-      "Rum\u00e4nien", 
-      "Rumanien"
-    ], 
-    "Portuguese": [
-      "Rom\u00eania", 
-      "Romenia", 
-      "Rom\u00e9nia"
-    ], 
-    "Spanish": [
-      "Ruman\u00eda", 
-      "Rumania"
+    "Norwegian": [
+      "Romania"
     ], 
     "English": [
       "RO", 
       "Romania", 
       "Romanian"
     ], 
+    "Dutch": [
+      "Roemenie", 
+      "Roemeni\u00eb"
+    ], 
     "Polish": [
       "Rumunia"
     ], 
     "Korean": [
       "\ub8e8\ub9c8\ub2c8\uc544"
+    ], 
+    "German": [
+      "Rum\u00e4nien", 
+      "Rumanien"
     ], 
     "Italian": [
       "Romania"
@@ -359,8 +357,8 @@
   "alias_JPN_Q": [
     "\u30eb\u30fc\u30de\u30cb\u30a2"
   ], 
-  "alias_ENG_P": [
-    "Romania"
+  "alias_POL_Q": [
+    "Rumunia"
   ], 
   "alias_SPA_Q": [
     "Rumania"
@@ -417,7 +415,9 @@
   "alias_HUN_Q": [
     "Rom\u00e1nia"
   ], 
-  "ne_longitude": 29.691, 
+  "alias_UNK_V": [
+    "Rumunija"
+  ], 
   "longitude": 24.9804, 
   "iso": "RO", 
   "sw_latitude": 43.626999, 
@@ -519,25 +519,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6153, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823366", 
-          "woe:region=2346618", 
-          "woe:country=23424933"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "RO", 
-        "longitude": 26.91443899110997, 
-        "artisanal:id": 34823366, 
-        "latitude": 46.58002669613516, 
-        "woe:id": 34823366, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823366, 
       "properties": {
         "ne:fid": 6153, 
         "ne:hasPlace": 20, 
@@ -555,7 +536,8 @@
         "latitude": 46.58002669613516, 
         "woe:id": 34823366, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823366
     }
   ], 
   "alias_FRE_Q": [

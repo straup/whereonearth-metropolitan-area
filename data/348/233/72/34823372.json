@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Italien"
   ], 
-  "alias_POL_Q": [
-    "W\u0142ochy"
+  "alias_ENG_P": [
+    "Italy"
   ], 
   "hierarchy": [
     {
@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 47.091999, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Taliansko"
-  ], 
+  "ne_longitude": 18.520281, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc774\ud0c8\ub9ac\uc544"
@@ -149,18 +147,6 @@
         "name": "Salento"
       }
     ], 
-    "Drainage": [
-      {
-        "placetype": "Drainage", 
-        "woeid": 26354229, 
-        "name": "Lago di Garda"
-      }, 
-      {
-        "placetype": "Drainage", 
-        "woeid": 55863711, 
-        "name": "Lago Maggiore"
-      }
-    ], 
     "placetype": [], 
     "State": [
       {
@@ -275,6 +261,18 @@
         "woeid": 12476348, 
         "name": "Isole Egadi"
       }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354229, 
+        "name": "Lago di Garda"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 55863711, 
+        "name": "Lago Maggiore"
+      }
     ]
   }, 
   "aliases": {
@@ -306,8 +304,10 @@
       "\u00cdtal\u00eda", 
       "Taliansko"
     ], 
-    "Dutch": [
-      "Itali\u00eb"
+    "English": [
+      "ITA", 
+      "Italy", 
+      "Republic of Italy"
     ], 
     "Japanese": [
       "\u30a4\u30bf\u30ea\u30a2", 
@@ -320,10 +320,8 @@
       "Italien", 
       "Italienische Republik"
     ], 
-    "English": [
-      "ITA", 
-      "Italy", 
-      "Republic of Italy"
+    "Dutch": [
+      "Itali\u00eb"
     ], 
     "Polish": [
       "W\u0142ochy"
@@ -339,8 +337,8 @@
   "alias_CHI_Q": [
     "\u7fa9\u5927\u5229"
   ], 
-  "alias_GER_V": [
-    "Italienische Republik"
+  "alias_DAN_Q": [
+    "Italien"
   ], 
   "alias_ITA_V": [
     "il Bel Paese"
@@ -352,8 +350,8 @@
   "alias_JPN_Q": [
     "\u30a4\u30bf\u30ea\u30a2"
   ], 
-  "alias_ENG_P": [
-    "Italy"
+  "alias_POL_Q": [
+    "W\u0142ochy"
   ], 
   "alias_JPN_V": [
     "\u30a4\u30bf\u30ea\u30a2\u5171\u548c\u56fd"
@@ -379,8 +377,8 @@
   "alias_CZE_Q": [
     "It\u00e1lie"
   ], 
-  "alias_DAN_Q": [
-    "Italien"
+  "alias_GER_V": [
+    "Italienische Republik"
   ], 
   "alias_GER_Q": [
     "Italien"
@@ -395,7 +393,9 @@
   "alias_HUN_Q": [
     "Olaszorsz\u00e1g"
   ], 
-  "ne_longitude": 18.520281, 
+  "alias_UNK_V": [
+    "Taliansko"
+  ], 
   "longitude": 12.57347, 
   "iso": "IT", 
   "sw_latitude": 35.49308, 
@@ -468,25 +468,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6159, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823372", 
-          "woe:region=7153346", 
-          "woe:country=23424853"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "IT", 
-        "longitude": 11.736653535412861, 
-        "artisanal:id": 34823372, 
-        "latitude": 46.584767113470114, 
-        "woe:id": 34823372, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823372, 
       "properties": {
         "ne:fid": 6159, 
         "ne:hasPlace": -1, 
@@ -504,7 +485,8 @@
         "latitude": 46.584767113470114, 
         "woe:id": 34823372, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823372
     }
   ], 
   "alias_FRE_Q": [

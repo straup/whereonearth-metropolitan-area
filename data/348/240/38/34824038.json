@@ -69,9 +69,9 @@
       "Pal\u00e4stina", 
       "Palastina"
     ], 
-    "Dutch": [
-      "Palestina", 
-      "Palestijnse Gebieden"
+    "English": [
+      "PS", 
+      "Palestinian Occupied Territories"
     ], 
     "Japanese": [
       "\u30d1\u30ec\u30b9\u30c1\u30ca\u5360\u9818\u5730", 
@@ -82,9 +82,9 @@
       "Okkupert Palestinsk Omrade", 
       "Okkupert Palestinsk Omr\u00e5de"
     ], 
-    "English": [
-      "PS", 
-      "Palestinian Occupied Territories"
+    "Dutch": [
+      "Palestina", 
+      "Palestijnse Gebieden"
     ]
   }, 
   "alias_CHI_Q": [
@@ -117,9 +117,6 @@
   ], 
   "date_indexed": "2010-12-02T12:08:30.982Z", 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Pal\u00e6stina"
-  ], 
   "alias_DUT_Q": [
     "Palestijnse Gebieden"
   ], 
@@ -133,8 +130,8 @@
   "alias_DAN_Q": [
     "Pal\u00e6stinensiske Besatte Territorier"
   ], 
-  "alias_GER_Q": [
-    "Pal\u00e4stina"
+  "alias_DAN_V": [
+    "Pal\u00e6stina"
   ], 
   "alias_GER_S": [
     "Palastina"
@@ -143,6 +140,9 @@
   "name": "Palestinian Territories", 
   "language": "English", 
   "parent_woeid": 1, 
+  "alias_GER_Q": [
+    "Pal\u00e4stina"
+  ], 
   "ne_longitude": 35.876499, 
   "longitude": 35.229649, 
   "iso": "PS", 
@@ -197,25 +197,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 7126, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824038", 
-          "woe:region=23424988", 
-          "woe:country=28289408"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PS", 
-        "longitude": 35.28096346016515, 
-        "artisanal:id": 34824038, 
-        "latitude": 32.349994759873624, 
-        "woe:id": 34824038, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824038, 
       "properties": {
         "ne:fid": 7126, 
         "ne:hasPlace": 15, 
@@ -233,7 +214,8 @@
         "latitude": 32.349994759873624, 
         "woe:id": 34824038, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824038
     }
   ]
 }

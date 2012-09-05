@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Republica Moldova"
   ], 
-  "alias_UNK_V": [
-    "Moldavsko"
-  ], 
+  "ne_longitude": 30.16374, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Moldova, Rep\u00fablica de"
@@ -37,9 +35,6 @@
   ], 
   "alias_ENG_A": [
     "MD"
-  ], 
-  "alias_CZE_Q": [
-    "Moldavsko"
   ], 
   "children": {
     "placetype": [], 
@@ -258,9 +253,6 @@
       "Moldova, Rep\u00fablica de", 
       "Mold\u00e1via"
     ], 
-    "Spanish": [
-      "Moldavia"
-    ], 
     "Chinese": [
       "\u6469\u723e\u591a\u74e6", 
       "\u6469\u723e\u591a\u74e6"
@@ -293,9 +285,8 @@
       "Moldavija", 
       "Moldavsko"
     ], 
-    "English": [
-      "MD", 
-      "Moldova, Republic Of"
+    "Spanish": [
+      "Moldavia"
     ], 
     "Polish": [
       "Mo\u0142dawia", 
@@ -303,6 +294,10 @@
     ], 
     "Korean": [
       "\ubab0\ub3c4\ubc14"
+    ], 
+    "English": [
+      "MD", 
+      "Moldova, Republic Of"
     ], 
     "Italian": [
       "Moldavia"
@@ -332,18 +327,21 @@
   "provider": "geoplanet 7.6.0", 
   "latitude": 46.979328, 
   "date_indexed": "2010-12-02T17:58:04.432Z", 
-  "alias_FRE_V": [
-    "Moldovie"
-  ], 
   "alias_KOR_Q": [
     "\ubab0\ub3c4\ubc14"
+  ], 
+  "alias_DUT_V": [
+    "Republiek Moldavi\u00eb"
+  ], 
+  "alias_RUM_V": [
+    "Moldova, Republica"
   ], 
   "alias_DUT_Q": [
     "Moldavi\u00eb"
   ], 
   "bbox": "45.468498,26.618879,48.490162,30.16374", 
-  "alias_DUT_V": [
-    "Republiek Moldavi\u00eb"
+  "alias_CZE_Q": [
+    "Moldavsko"
   ], 
   "alias_GER_V": [
     "Moldau, Republik"
@@ -361,12 +359,14 @@
   "alias_UNK_Q": [
     "Moldavija"
   ], 
-  "ne_longitude": 30.16374, 
+  "alias_UNK_V": [
+    "Moldavsko"
+  ], 
   "longitude": 28.39131, 
   "iso": "MD", 
   "sw_latitude": 45.468498, 
-  "alias_RUM_V": [
-    "Moldova, Republica"
+  "alias_FRE_V": [
+    "Moldovie"
   ], 
   "fullname": "Moldova", 
   "features": [
@@ -438,25 +438,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6145, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823360", 
-          "woe:region=55948183", 
-          "woe:country=23424885"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MD", 
-        "longitude": 29.40846693351433, 
-        "artisanal:id": 34823360, 
-        "latitude": 46.68448188837585, 
-        "woe:id": 34823360, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823360, 
       "properties": {
         "ne:fid": 6145, 
         "ne:hasPlace": 15, 
@@ -474,7 +455,8 @@
         "latitude": 46.68448188837585, 
         "woe:id": 34823360, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823360
     }
   ], 
   "alias_FRE_Q": [

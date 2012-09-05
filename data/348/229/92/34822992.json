@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Slovacia"
   ], 
-  "alias_UNK_V": [
-    "Slovak\u00eda"
-  ], 
+  "ne_longitude": 22.570299, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc2ac\ub85c\ubca0\ub2c8\uc544"
@@ -104,8 +102,8 @@
     "Finnish": [
       "Slovakia"
     ], 
-    "Norwegian": [
-      "Slovakia"
+    "Portuguese": [
+      "Eslov\u00e1quia"
     ], 
     "Czech": [
       "Slovensko"
@@ -113,8 +111,8 @@
     "Romanian": [
       "Slovacia"
     ], 
-    "Dutch": [
-      "Slowakije"
+    "Spanish": [
+      "Eslovaquia"
     ], 
     "Japanese": [
       "\u30b9\u30ed\u30d0\u30ad\u30a2", 
@@ -124,25 +122,21 @@
       "Slovaquie", 
       "R\u00e9publique slovaque"
     ], 
-    "German": [
-      "Slowakei", 
-      "Slowakische Republik"
+    "Norwegian": [
+      "Slovakia"
     ], 
-    "Portuguese": [
-      "Eslov\u00e1quia"
+    "English": [
+      "SK", 
+      "Slovakia", 
+      "Slovak Republic"
     ], 
     "Unknown": [
       "Eslov\u00e0quia", 
       "Slovenska", 
       "Slovak\u00eda"
     ], 
-    "Spanish": [
-      "Eslovaquia"
-    ], 
-    "English": [
-      "SK", 
-      "Slovakia", 
-      "Slovak Republic"
+    "Dutch": [
+      "Slowakije"
     ], 
     "Polish": [
       "S\u0142owacja"
@@ -150,6 +144,10 @@
     "Korean": [
       "\uc2ac\ub85c\ubca0\ub2c8\uc544", 
       "\uc2ac\ub85c\ubc14\ud0a4\uc544"
+    ], 
+    "German": [
+      "Slowakei", 
+      "Slowakische Republik"
     ], 
     "Italian": [
       "Slovacchia"
@@ -161,8 +159,8 @@
   "alias_ITA_Q": [
     "Slovacchia"
   ], 
-  "alias_GER_V": [
-    "Slowakische Republik"
+  "alias_DAN_Q": [
+    "Slovakiet"
   ], 
   "woeid": 23424877, 
   "alias_JPN_Q": [
@@ -198,8 +196,8 @@
   "alias_CZE_Q": [
     "Slovensko"
   ], 
-  "alias_DAN_Q": [
-    "Slovakiet"
+  "alias_GER_V": [
+    "Slowakische Republik"
   ], 
   "alias_GER_Q": [
     "Slowakei"
@@ -217,7 +215,9 @@
   "alias_HUN_Q": [
     "Szlov\u00e1kia"
   ], 
-  "ne_longitude": 22.570299, 
+  "alias_UNK_V": [
+    "Slovak\u00eda"
+  ], 
   "longitude": 19.70174, 
   "iso": "SK", 
   "sw_latitude": 47.728001, 
@@ -285,25 +285,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 5584, 
-        "ne:hasPlace": 5, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822992", 
-          "woe:region=20070496", 
-          "woe:country=23424877"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SK", 
-        "longitude": 20.954563367689943, 
-        "artisanal:id": 34822992, 
-        "latitude": 49.179425658942264, 
-        "woe:id": 34822992, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822992, 
       "properties": {
         "ne:fid": 5584, 
         "ne:hasPlace": 5, 
@@ -321,7 +302,8 @@
         "latitude": 49.179425658942264, 
         "woe:id": 34822992, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822992
     }
   ], 
   "alias_FRE_Q": [

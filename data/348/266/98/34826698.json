@@ -8,8 +8,8 @@
   "alias_SWE_Q": [
     "Taiwan"
   ], 
-  "alias_POL_Q": [
-    "Tajwan"
+  "alias_ENG_P": [
+    "Taiwan"
   ], 
   "hierarchy": [
     {
@@ -193,17 +193,14 @@
     "Danish": [
       "Taiwan"
     ], 
-    "Portuguese": [
-      "Ilha de Formosa"
-    ], 
     "Chinese": [
       "\u53f0\u7063"
     ], 
     "Finnish": [
       "Taiwan"
     ], 
-    "Norwegian": [
-      "Taiwan"
+    "Portuguese": [
+      "Ilha de Formosa"
     ], 
     "Czech": [
       "Tchaj-wan", 
@@ -212,8 +209,9 @@
     "Romanian": [
       "Taiwan"
     ], 
-    "Dutch": [
-      "Taiwan"
+    "Spanish": [
+      "Taiw\u00e1n", 
+      "Isla de Taiw\u00e1n"
     ], 
     "Japanese": [
       "\u53f0\u6e7e"
@@ -221,21 +219,20 @@
     "French": [
       "Ta\u00efwan"
     ], 
-    "German": [
+    "Norwegian": [
       "Taiwan"
-    ], 
-    "Unknown": [
-      "Ta\u00edvan", 
-      "Taivan"
-    ], 
-    "Spanish": [
-      "Taiw\u00e1n", 
-      "Isla de Taiw\u00e1n"
     ], 
     "English": [
       "ROC", 
       "Taiwan", 
       "Formosa"
+    ], 
+    "Unknown": [
+      "Ta\u00edvan", 
+      "Taivan"
+    ], 
+    "Dutch": [
+      "Taiwan"
     ], 
     "Polish": [
       "Tajwan", 
@@ -244,6 +241,9 @@
     "Korean": [
       "\ub300\ub9cc", 
       "\ud0c0\uc774\uc644 \uc12c"
+    ], 
+    "German": [
+      "Taiwan"
     ]
   }, 
   "alias_CHI_V": [
@@ -253,8 +253,8 @@
   "alias_JPN_Q": [
     "\u53f0\u6e7e"
   ], 
-  "alias_ENG_P": [
-    "Taiwan"
+  "alias_POL_Q": [
+    "Tajwan"
   ], 
   "alias_SPA_Q": [
     "Isla de Taiw\u00e1n"
@@ -396,25 +396,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11263, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826698", 
-          "woe:region=20070335", 
-          "woe:country=23424971"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "TW", 
-        "longitude": 121.60010248721767, 
-        "artisanal:id": 34826698, 
-        "latitude": 23.99252955692172, 
-        "woe:id": 34826698, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826698, 
       "properties": {
         "ne:fid": 11263, 
         "ne:hasPlace": 20, 
@@ -432,7 +413,8 @@
         "latitude": 23.99252955692172, 
         "woe:id": 34826698, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826698
     }
   ], 
   "alias_FRE_Q": [

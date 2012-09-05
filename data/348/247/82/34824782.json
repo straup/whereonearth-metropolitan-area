@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Africa de Sud"
   ], 
-  "alias_UNK_V": [
-    "Etel\u00e4-Afrikka"
-  ], 
+  "ne_longitude": 37.967331, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ub0a8\uc544\uacf5"
@@ -37,9 +35,6 @@
   ], 
   "alias_ENG_A": [
     "ZA"
-  ], 
-  "alias_CZE_Q": [
-    "Jihoafrick\u00e1 Republika"
   ], 
   "children": {
     "placetype": [], 
@@ -188,9 +183,8 @@
       "Etela-Afrikka", 
       "Etel\u00e4-Afrikka"
     ], 
-    "Norwegian": [
-      "S\u00f8r-Afrika", 
-      "Sor-Afrika"
+    "Portuguese": [
+      "\u00c1frica do sul"
     ], 
     "Czech": [
       "Jihoafrick\u00e1 Republika", 
@@ -199,9 +193,8 @@
     "Romanian": [
       "Africa de Sud"
     ], 
-    "Dutch": [
-      "Zuidafrika", 
-      "Zuid-Afrika"
+    "Spanish": [
+      "Sud\u00e1frica"
     ], 
     "Japanese": [
       "\u5357\u30a2\u30d5\u30ea\u30ab", 
@@ -210,25 +203,22 @@
     "French": [
       "Afrique du Sud"
     ], 
-    "German": [
-      "S\u00fcdafrika", 
-      "Rep. S\u00fcdafrika", 
-      "Republik Sudafrika"
+    "Norwegian": [
+      "S\u00f8r-Afrika", 
+      "Sor-Afrika"
     ], 
-    "Portuguese": [
-      "\u00c1frica do sul"
+    "English": [
+      "ZA", 
+      "Republic of South Africa"
     ], 
     "Unknown": [
       "Su\u00f0urafr\u00edka", 
       "Sor-Afrika", 
       "Etel\u00e4-Afrikka"
     ], 
-    "Spanish": [
-      "Sud\u00e1frica"
-    ], 
-    "English": [
-      "ZA", 
-      "Republic of South Africa"
+    "Dutch": [
+      "Zuidafrika", 
+      "Zuid-Afrika"
     ], 
     "Polish": [
       "Republika Po\u0142udniowej Afryki", 
@@ -237,6 +227,11 @@
     "Korean": [
       "\ub0a8\uc544\uacf5", 
       "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+    ], 
+    "German": [
+      "S\u00fcdafrika", 
+      "Rep. S\u00fcdafrika", 
+      "Republik Sudafrika"
     ], 
     "Italian": [
       "Sudafrica", 
@@ -249,8 +244,8 @@
   "alias_ITA_Q": [
     "Sud Africa"
   ], 
-  "alias_GER_V": [
-    "Rep. S\u00fcdafrika"
+  "alias_DAN_Q": [
+    "Sydafrika"
   ], 
   "alias_ITA_V": [
     "Sudafrica"
@@ -285,15 +280,18 @@
   "alias_KOR_Q": [
     "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
   ], 
+  "alias_DUT_V": [
+    "Zuidafrika"
+  ], 
   "alias_DUT_Q": [
     "Zuid-Afrika"
   ], 
   "bbox": "-46.900452,16.458019,-22.12661,37.967331", 
-  "alias_DUT_V": [
-    "Zuidafrika"
+  "alias_CZE_Q": [
+    "Jihoafrick\u00e1 Republika"
   ], 
-  "alias_DAN_Q": [
-    "Sydafrika"
+  "alias_GER_V": [
+    "Rep. S\u00fcdafrika"
   ], 
   "alias_GER_Q": [
     "S\u00fcdafrika"
@@ -320,7 +318,9 @@
   "alias_HUN_V": [
     "D\u00e9l-Afrika"
   ], 
-  "ne_longitude": 37.967331, 
+  "alias_UNK_V": [
+    "Etel\u00e4-Afrikka"
+  ], 
   "longitude": 24.676991, 
   "iso": "ZA", 
   "sw_latitude": -46.900452, 
@@ -378,25 +378,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8287, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824782", 
-          "woe:region=2346986", 
-          "woe:country=23424942"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ZA", 
-        "longitude": 27.95224670881188, 
-        "artisanal:id": 34824782, 
-        "latitude": -23.195402550594125, 
-        "woe:id": 34824782, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824782, 
       "properties": {
         "ne:fid": 8287, 
         "ne:hasPlace": -1, 
@@ -414,7 +395,8 @@
         "latitude": -23.195402550594125, 
         "woe:id": 34824782, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824782
     }
   ], 
   "alias_FRE_Q": [

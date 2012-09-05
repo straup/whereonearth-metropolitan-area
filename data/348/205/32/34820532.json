@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Guiana Francez\u0103"
   ], 
-  "alias_UNK_V": [
-    "Department of French Guiana"
-  ], 
+  "ne_longitude": -51.613941, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ubd88\ub839 \uac00\uc774\uc544\ub098"
@@ -34,9 +32,6 @@
   ], 
   "alias_ENG_A": [
     "GF"
-  ], 
-  "alias_CZE_Q": [
-    "Francouzsk\u00e1 Guyana"
   ], 
   "children": {
     "placetype": [], 
@@ -61,9 +56,6 @@
       "Fransk Guyana", 
       "Fransk Guiana"
     ], 
-    "Portuguese": [
-      "Guiana Francesa"
-    ], 
     "Hungarian": [
       "Francia Guiana", 
       "Francia Guyana"
@@ -72,8 +64,8 @@
       "Ranskan Guajana", 
       "Ranskan Guayana"
     ], 
-    "Norwegian": [
-      "Fransk Guyana"
+    "Portuguese": [
+      "Guiana Francesa"
     ], 
     "Czech": [
       "Francouzsk\u00e1 Guyana"
@@ -81,9 +73,9 @@
     "Romanian": [
       "Guiana Francez\u0103"
     ], 
-    "Dutch": [
-      "Frans Guyana", 
-      "Frans-Guyana"
+    "Spanish": [
+      "Guyana Francesca", 
+      "Guayana Francesa"
     ], 
     "Japanese": [
       "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca", 
@@ -93,22 +85,20 @@
       "Guyane Francaise", 
       "Guyane"
     ], 
-    "German": [
-      "Franz\u00f6sisch-Guayana", 
-      "Franzoesisch Guyana", 
-      "Franzosisch Guyana"
-    ], 
-    "Unknown": [
-      "Department of French Guiana"
-    ], 
-    "Spanish": [
-      "Guyana Francesca", 
-      "Guayana Francesa"
+    "Norwegian": [
+      "Fransk Guyana"
     ], 
     "English": [
       "GF", 
       "French Guiana", 
       "French Guyana"
+    ], 
+    "Unknown": [
+      "Department of French Guiana"
+    ], 
+    "Dutch": [
+      "Frans Guyana", 
+      "Frans-Guyana"
     ], 
     "Polish": [
       "Gujana Francuska"
@@ -116,6 +106,11 @@
     "Korean": [
       "\ubd88\ub839 \uac00\uc774\uc544\ub098", 
       "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098"
+    ], 
+    "German": [
+      "Franz\u00f6sisch-Guayana", 
+      "Franzoesisch Guyana", 
+      "Franzosisch Guyana"
     ], 
     "Italian": [
       "Guiana Francese", 
@@ -125,8 +120,8 @@
   "alias_ITA_Q": [
     "Guyana Francese"
   ], 
-  "alias_GER_V": [
-    "Franzoesisch Guyana"
+  "alias_DAN_Q": [
+    "Fransk Guyana"
   ], 
   "alias_ITA_V": [
     "Guiana Francese"
@@ -148,6 +143,9 @@
     "Ranskan Guayana"
   ], 
   "sw_longitude": -54.542511, 
+  "alias_HUN_V": [
+    "Francia Guiana"
+  ], 
   "alias_FIN_V": [
     "Ranskan Guajana"
   ], 
@@ -161,8 +159,8 @@
     "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Fransk Guiana"
+  "alias_DUT_V": [
+    "Frans Guyana"
   ], 
   "alias_SPA_V": [
     "Guyana Francesca"
@@ -171,14 +169,14 @@
     "Frans-Guyana"
   ], 
   "bbox": "2.12709,-54.542511,5.77649,-51.613941", 
-  "alias_DUT_V": [
-    "Frans Guyana"
+  "alias_CZE_Q": [
+    "Francouzsk\u00e1 Guyana"
   ], 
-  "alias_DAN_Q": [
-    "Fransk Guyana"
+  "alias_GER_V": [
+    "Franzoesisch Guyana"
   ], 
-  "alias_GER_Q": [
-    "Franz\u00f6sisch-Guayana"
+  "alias_DAN_V": [
+    "Fransk Guiana"
   ], 
   "alias_GER_S": [
     "Franzosisch Guyana"
@@ -190,10 +188,12 @@
   "alias_HUN_Q": [
     "Francia Guyana"
   ], 
-  "alias_HUN_V": [
-    "Francia Guiana"
+  "alias_GER_Q": [
+    "Franz\u00f6sisch-Guayana"
   ], 
-  "ne_longitude": -51.613941, 
+  "alias_UNK_V": [
+    "Department of French Guiana"
+  ], 
   "longitude": -53.078232, 
   "iso": "GF", 
   "sw_latitude": 2.12709, 
@@ -266,25 +266,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1845, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820532", 
-          "woe:region=2345321", 
-          "woe:country=23424811"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GF", 
-        "longitude": -52.30298073972778, 
-        "artisanal:id": 34820532, 
-        "latitude": 4.9232407730783985, 
-        "woe:id": 34820532, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820532, 
       "properties": {
         "ne:fid": 1845, 
         "ne:hasPlace": 20, 
@@ -302,7 +283,8 @@
         "latitude": 4.9232407730783985, 
         "woe:id": 34820532, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820532
     }
   ], 
   "alias_FRE_S": [

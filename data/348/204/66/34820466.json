@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 8.55179, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Liberija"
-  ], 
+  "ne_longitude": -7.36511, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Lib\u00e9ria"
@@ -169,7 +167,9 @@
   "alias_HUN_Q": [
     "Lib\u00e9ria"
   ], 
-  "ne_longitude": -7.36511, 
+  "alias_UNK_V": [
+    "Republika Liberija"
+  ], 
   "longitude": -9.42859, 
   "iso": "LR", 
   "sw_latitude": 4.35305, 
@@ -231,25 +231,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1751, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820466", 
-          "woe:region=2346107", 
-          "woe:country=23424876"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "LR", 
-        "longitude": -7.671300188823314, 
-        "artisanal:id": 34820466, 
-        "latitude": 4.3912469034489385, 
-        "woe:id": 34820466, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820466, 
       "properties": {
         "ne:fid": 1751, 
         "ne:hasPlace": 15, 
@@ -267,7 +248,8 @@
         "latitude": 4.3912469034489385, 
         "woe:id": 34820466, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820466
     }
   ]
 }

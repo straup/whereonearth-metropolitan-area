@@ -125,16 +125,16 @@
     "Unknown": [
       "Sathalanalat Paxathipatai Paxaxon Lao"
     ], 
-    "Spanish": [
-      "Republica Democratica Popular de Lao"
+    "English": [
+      "LA", 
+      "Republic of Laos"
     ], 
     "Japanese": [
       "\u30e9\u30aa\u30b9\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd", 
       "\u30e9\u30aa\u30b9"
     ], 
-    "English": [
-      "LA", 
-      "Republic of Laos"
+    "Spanish": [
+      "Republica Democratica Popular de Lao"
     ], 
     "Korean": [
       "\ub77c\uc624\uc2a4"
@@ -155,12 +155,12 @@
   ], 
   "sw_longitude": 100.093048, 
   "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 18.20521, 
+  "date_indexed": "2010-12-02T16:42:51.947Z", 
   "alias_SPA_V": [
     "Republica Democratica Popular de Lao"
   ], 
-  "latitude": 18.20521, 
-  "date_indexed": "2010-12-02T16:42:51.947Z", 
-  "provider": "geoplanet 7.6.0", 
   "bbox": "13.91002,100.093048,22.500389,107.697021", 
   "alias_GER_V": [
     "Volksrepublik Lao"
@@ -328,25 +328,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11366, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826772", 
-          "woe:region=20070162", 
-          "woe:country=23424872"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "LA", 
-        "longitude": 102.62672891026729, 
-        "artisanal:id": 34826772, 
-        "latitude": 17.97561571008322, 
-        "woe:id": 34826772, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826772, 
       "properties": {
         "ne:fid": 11366, 
         "ne:hasPlace": 20, 
@@ -364,7 +345,8 @@
         "latitude": 17.97561571008322, 
         "woe:id": 34826772, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826772
     }
   ]
 }

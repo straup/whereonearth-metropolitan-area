@@ -16,7 +16,9 @@
   ], 
   "ne_latitude": -2.31012, 
   "supercedes": [], 
-  "ne_longitude": 30.847719, 
+  "alias_UNK_V": [
+    "B\u00farund\u00ed"
+  ], 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\ubd80\ub8ec\ub514"
@@ -160,9 +162,7 @@
   "name": "Burundi", 
   "language": "English", 
   "parent_woeid": 1, 
-  "alias_UNK_V": [
-    "B\u00farund\u00ed"
-  ], 
+  "ne_longitude": 30.847719, 
   "longitude": 29.920389, 
   "iso": "BI", 
   "sw_latitude": -4.46571, 
@@ -216,25 +216,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8161, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824700", 
-          "woe:region=2344908", 
-          "woe:country=23424774"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BI", 
-        "longitude": 29.57244249925723, 
-        "artisanal:id": 34824700, 
-        "latitude": -2.896016128412152, 
-        "woe:id": 34824700, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824700, 
       "properties": {
         "ne:fid": 8161, 
         "ne:hasPlace": 20, 
@@ -252,7 +233,8 @@
         "latitude": -2.896016128412152, 
         "woe:id": 34824700, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824700
     }
   ]
 }

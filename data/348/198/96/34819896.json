@@ -25,12 +25,13 @@
   "alias_RUM_Q": [
     "Republica Centrafrican\u0103"
   ], 
-  "alias_UNK_V": [
-    "Keski-Afrikka"
-  ], 
+  "ne_longitude": 27.463421, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc911\uc559 \uc544\ud504\ub9ac\uce74"
+  ], 
+  "alias_RUM_V": [
+    "Republica Central African\u0103"
   ], 
   "alias_POR_Q": [
     "Rep\u00fablica Centro-Africana"
@@ -148,8 +149,9 @@
     "Finnish": [
       "Keski-Afrikan tasavalta"
     ], 
-    "Norwegian": [
-      "Den sentralafrikanske republikk"
+    "Portuguese": [
+      "Republica Centro-Africana", 
+      "Rep\u00fablica Centro-Africana"
     ], 
     "Czech": [
       "St\u0159edoafrick\u00e1 Republika"
@@ -158,8 +160,9 @@
       "Republica Centrafrican\u0103", 
       "Republica Central African\u0103"
     ], 
-    "Dutch": [
-      "Centraal-Afrikaanse Republiek"
+    "Spanish": [
+      "Republica Centroafricana", 
+      "Rep\u00fablica Centroafricana"
     ], 
     "Japanese": [
       "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab", 
@@ -170,24 +173,19 @@
       "Republique Centrafricaine", 
       "Centrafricaine, r\u00e9publique"
     ], 
-    "German": [
-      "Zentralafrikanische Republik"
+    "Norwegian": [
+      "Den sentralafrikanske republikk"
     ], 
-    "Portuguese": [
-      "Republica Centro-Africana", 
-      "Rep\u00fablica Centro-Africana"
+    "English": [
+      "CF", 
+      "Central African Rep"
     ], 
     "Unknown": [
       "Midafrikulydveldid", 
       "Keski-Afrikka"
     ], 
-    "Spanish": [
-      "Republica Centroafricana", 
-      "Rep\u00fablica Centroafricana"
-    ], 
-    "English": [
-      "CF", 
-      "Central African Rep"
+    "Dutch": [
+      "Centraal-Afrikaanse Republiek"
     ], 
     "Polish": [
       "Republika \u015arodkowoafryka\u0144ska", 
@@ -196,6 +194,9 @@
     "Korean": [
       "\uc911\uc559 \uc544\ud504\ub9ac\uce74", 
       "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+    ], 
+    "German": [
+      "Zentralafrikanische Republik"
     ], 
     "Italian": [
       "Repubblica Centrafricana", 
@@ -235,14 +236,8 @@
     "Den sentralafrikanske republikk"
   ], 
   "date_indexed": "2010-12-02T17:43:32.828Z", 
-  "alias_FRE_V": [
-    "Centrafricaine, r\u00e9publique"
-  ], 
   "alias_KOR_Q": [
     "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
-  ], 
-  "alias_DAN_V": [
-    "Den Centralafrikanske Republik"
   ], 
   "alias_DUT_Q": [
     "Centraal-Afrikaanse Republiek"
@@ -254,8 +249,8 @@
   "alias_DAN_Q": [
     "Centralafrikanske Republik"
   ], 
-  "alias_GER_Q": [
-    "Zentralafrikanische Republik"
+  "alias_DAN_V": [
+    "Den Centralafrikanske Republik"
   ], 
   "lang": "ENG", 
   "name": "Central African Republic", 
@@ -267,12 +262,17 @@
   "alias_HUN_Q": [
     "K\u00f6z\u00e9p-Afrikai K\u00f6zt\u00e1rsas\u00e1g"
   ], 
-  "ne_longitude": 27.463421, 
+  "alias_GER_Q": [
+    "Zentralafrikanische Republik"
+  ], 
+  "alias_UNK_V": [
+    "Keski-Afrikka"
+  ], 
   "longitude": 20.941759, 
   "iso": "CF", 
   "sw_latitude": 2.22051, 
-  "alias_RUM_V": [
-    "Republica Central African\u0103"
+  "alias_FRE_V": [
+    "Centrafricaine, r\u00e9publique"
   ], 
   "fullname": "Central African Republic", 
   "features": [
@@ -316,25 +316,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 907, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819896", 
-          "woe:region=2345100", 
-          "woe:country=23424792"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CF", 
-        "longitude": 16.398505175486434, 
-        "artisanal:id": 34819896, 
-        "latitude": 6.306219815156134, 
-        "woe:id": 34819896, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819896, 
       "properties": {
         "ne:fid": 907, 
         "ne:hasPlace": 20, 
@@ -352,7 +333,8 @@
         "latitude": 6.306219815156134, 
         "woe:id": 34819896, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819896
     }
   ], 
   "alias_FRE_S": [

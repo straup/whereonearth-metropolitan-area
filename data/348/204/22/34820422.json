@@ -16,7 +16,9 @@
   ], 
   "ne_latitude": 25, 
   "supercedes": [], 
-  "ne_longitude": 4.24495, 
+  "alias_UNK_V": [
+    "Republika Mali"
+  ], 
   "placetype": "Country", 
   "alias_ENG_A": [
     "ML"
@@ -126,9 +128,7 @@
   "name": "Mali", 
   "language": "English", 
   "parent_woeid": 1, 
-  "alias_UNK_V": [
-    "Republika Mali"
-  ], 
+  "ne_longitude": 4.24495, 
   "longitude": -3.99883, 
   "iso": "ML", 
   "sw_latitude": 10.15951, 
@@ -190,25 +190,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1691, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820422", 
-          "woe:region=2346183", 
-          "woe:country=23424891"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ML", 
-        "longitude": -4.176453086122977, 
-        "artisanal:id": 34820422, 
-        "latitude": 14.507776312887971, 
-        "woe:id": 34820422, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820422, 
       "properties": {
         "ne:fid": 1691, 
         "ne:hasPlace": 20, 
@@ -226,7 +207,8 @@
         "latitude": 14.507776312887971, 
         "woe:id": 34820422, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820422
     }
   ]
 }

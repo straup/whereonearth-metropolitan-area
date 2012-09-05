@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Spania"
   ], 
-  "alias_UNK_V": [
-    "Ispan\u00eda"
-  ], 
+  "ne_longitude": 4.32792, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc5d0\uc2a4\ud30c\ub0d0"
@@ -224,8 +222,8 @@
       "Espanjan", 
       "Espanja"
     ], 
-    "Norwegian": [
-      "Spania"
+    "Portuguese": [
+      "Espanha"
     ], 
     "Czech": [
       "\u0160pan\u011blsko"
@@ -233,8 +231,9 @@
     "Romanian": [
       "Spania"
     ], 
-    "Dutch": [
-      "Spanje"
+    "Spanish": [
+      "la Madre Patria", 
+      "Espana"
     ], 
     "Japanese": [
       "\u30b9\u30da\u30a4\u30f3"
@@ -242,27 +241,21 @@
     "French": [
       "Espagne"
     ], 
-    "German": [
-      "Spanien", 
-      "K\u00f6nigreich Spanien", 
-      "Konigreich Spanien"
+    "Norwegian": [
+      "Spania"
     ], 
-    "Portuguese": [
-      "Espanha"
+    "English": [
+      "ES", 
+      "Spain", 
+      "Spanish State"
     ], 
     "Unknown": [
       "Espanya", 
       "Ispania", 
       "Ispan\u00eda"
     ], 
-    "Spanish": [
-      "la Madre Patria", 
-      "Espana"
-    ], 
-    "English": [
-      "ES", 
-      "Spain", 
-      "Spanish State"
+    "Dutch": [
+      "Spanje"
     ], 
     "Polish": [
       "Hiszpania"
@@ -270,6 +263,11 @@
     "Korean": [
       "\uc5d0\uc2a4\ud30c\ub0d0", 
       "\uc2a4\ud398\uc778"
+    ], 
+    "German": [
+      "Spanien", 
+      "K\u00f6nigreich Spanien", 
+      "Konigreich Spanien"
     ], 
     "Italian": [
       "Spagna"
@@ -281,8 +279,8 @@
   "alias_ITA_Q": [
     "Spagna"
   ], 
-  "alias_GER_V": [
-    "K\u00f6nigreich Spanien"
+  "alias_DAN_Q": [
+    "Spanien"
   ], 
   "woeid": 23424950, 
   "alias_JPN_Q": [
@@ -321,8 +319,8 @@
   "alias_CZE_Q": [
     "\u0160pan\u011blsko"
   ], 
-  "alias_DAN_Q": [
-    "Spanien"
+  "alias_GER_V": [
+    "K\u00f6nigreich Spanien"
   ], 
   "alias_GER_Q": [
     "Spanien"
@@ -346,7 +344,9 @@
   "alias_HUN_V": [
     "Spanjolorsz\u00e1g"
   ], 
-  "ne_longitude": 4.32792, 
+  "alias_UNK_V": [
+    "Ispan\u00eda"
+  ], 
   "longitude": -2.98868, 
   "iso": "ES", 
   "sw_latitude": 27.636311, 
@@ -423,25 +423,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1559, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820328", 
-          "woe:region=12578038", 
-          "woe:country=23424950"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ES", 
-        "longitude": -0.7390795925142526, 
-        "artisanal:id": 34820328, 
-        "latitude": 38.18080669630505, 
-        "woe:id": 34820328, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820328, 
       "properties": {
         "ne:fid": 1559, 
         "ne:hasPlace": 15, 
@@ -459,7 +440,8 @@
         "latitude": 38.18080669630505, 
         "woe:id": 34820328, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820328
     }
   ], 
   "alias_FRE_Q": [

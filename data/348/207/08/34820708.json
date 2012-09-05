@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Mexic"
   ], 
-  "alias_UNK_V": [
-    "United Mexican States"
-  ], 
+  "ne_longitude": -86.703392, 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\uba55\uc2dc\ucf54"
@@ -283,17 +281,14 @@
     "Finnish": [
       "Meksiko"
     ], 
-    "Norwegian": [
-      "Mexico"
-    ], 
     "Czech": [
       "Mexiko"
     ], 
     "Romanian": [
       "Mexic"
     ], 
-    "Dutch": [
-      "Mexico"
+    "Spanish": [
+      "Nueva Espa\u00f1a"
     ], 
     "Japanese": [
       "\u30e1\u30ad\u30b7\u30b3", 
@@ -302,27 +297,30 @@
     "French": [
       "Mexique"
     ], 
-    "German": [
-      "Mexiko", 
-      "Vereinigte Mexikanische Staaten"
-    ], 
-    "Unknown": [
-      "Mehika", 
-      "United Mexican States"
-    ], 
-    "Spanish": [
-      "Nueva Espa\u00f1a"
+    "Norwegian": [
+      "Mexico"
     ], 
     "English": [
       "MX", 
       "Mexico", 
       "United Mexican States"
     ], 
+    "Unknown": [
+      "Mehika", 
+      "United Mexican States"
+    ], 
+    "Dutch": [
+      "Mexico"
+    ], 
     "Polish": [
       "Meksyk"
     ], 
     "Korean": [
       "\uba55\uc2dc\ucf54"
+    ], 
+    "German": [
+      "Mexiko", 
+      "Vereinigte Mexikanische Staaten"
     ], 
     "Italian": [
       "Messico"
@@ -334,8 +332,8 @@
   "alias_ITA_Q": [
     "Messico"
   ], 
-  "alias_GER_V": [
-    "Vereinigte Mexikanische Staaten"
+  "alias_DAN_Q": [
+    "Mexico"
   ], 
   "woeid": 23424900, 
   "alias_JPN_Q": [
@@ -371,8 +369,8 @@
   "alias_CZE_Q": [
     "Mexiko"
   ], 
-  "alias_DAN_Q": [
-    "Mexico"
+  "alias_GER_V": [
+    "Vereinigte Mexikanische Staaten"
   ], 
   "alias_GER_Q": [
     "Mexiko"
@@ -387,7 +385,9 @@
   "alias_HUN_Q": [
     "Mexik\u00f3"
   ], 
-  "ne_longitude": -86.703392, 
+  "alias_UNK_V": [
+    "United Mexican States"
+  ], 
   "longitude": -101.956253, 
   "iso": "MX", 
   "sw_latitude": 14.53285, 
@@ -465,25 +465,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2127, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820708", 
-          "woe:region=2346286", 
-          "woe:country=23424900"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MX", 
-        "longitude": -86.8414183244742, 
-        "artisanal:id": 34820708, 
-        "latitude": 21.172212607673085, 
-        "woe:id": 34820708, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820708, 
       "properties": {
         "ne:fid": 2127, 
         "ne:hasPlace": 20, 
@@ -501,7 +482,8 @@
         "latitude": 21.172212607673085, 
         "woe:id": 34820708, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820708
     }
   ], 
   "alias_FRE_Q": [

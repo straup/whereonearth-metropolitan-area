@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Irlanda"
   ], 
-  "alias_UNK_V": [
-    "Irlandia"
-  ], 
+  "ne_longitude": -6.0025, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc544\uc77c\ub79c\ub4dc"
@@ -217,9 +215,9 @@
       "Irlannista", 
       "Irlannin"
     ], 
-    "Norwegian": [
-      "Irland", 
-      "Republikken Irland"
+    "Portuguese": [
+      "Rep\u00fablica da Irlanda", 
+      "Irlanda"
     ], 
     "Czech": [
       "Irsko", 
@@ -229,8 +227,9 @@
       "Irlanda", 
       "Republica Irlanda"
     ], 
-    "Dutch": [
-      "Ierland"
+    "Spanish": [
+      "Rep\u00fablica de Irlanda", 
+      "Irlanda"
     ], 
     "Japanese": [
       "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5cf6", 
@@ -239,25 +238,20 @@
     "French": [
       "Irlande"
     ], 
-    "German": [
+    "Norwegian": [
       "Irland", 
-      "Republik Irland"
+      "Republikken Irland"
     ], 
-    "Portuguese": [
-      "Rep\u00fablica da Irlanda", 
-      "Irlanda"
+    "English": [
+      "IE", 
+      "Ireland Republic Of"
     ], 
     "Unknown": [
       "Irska", 
       "Irlandia"
     ], 
-    "Spanish": [
-      "Rep\u00fablica de Irlanda", 
-      "Irlanda"
-    ], 
-    "English": [
-      "IE", 
-      "Ireland Republic Of"
+    "Dutch": [
+      "Ierland"
     ], 
     "Polish": [
       "Irlandia"
@@ -265,6 +259,10 @@
     "Korean": [
       "\uc544\uc77c\ub79c\ub4dc", 
       "\uc544\uc77c\ub79c\ub4dc \uc12c"
+    ], 
+    "German": [
+      "Irland", 
+      "Republik Irland"
     ], 
     "Italian": [
       "Repubblica d'Irlanda", 
@@ -277,8 +275,8 @@
   "alias_ITA_Q": [
     "Irlanda"
   ], 
-  "alias_GER_V": [
-    "Republik Irland"
+  "alias_DAN_Q": [
+    "Irland"
   ], 
   "alias_ITA_V": [
     "Repubblica d'Irlanda"
@@ -326,8 +324,8 @@
   "alias_CZE_Q": [
     "Irsko"
   ], 
-  "alias_DAN_Q": [
-    "Irland"
+  "alias_GER_V": [
+    "Republik Irland"
   ], 
   "alias_GER_Q": [
     "Irland"
@@ -348,7 +346,9 @@
   "alias_HUN_V": [
     "\u00cdrorsz\u00e1g"
   ], 
-  "ne_longitude": -6.0025, 
+  "alias_UNK_V": [
+    "Irlandia"
+  ], 
   "longitude": -8.24055, 
   "iso": "IE", 
   "sw_latitude": 51.424511, 
@@ -428,25 +428,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1443, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820236", 
-          "woe:region=2345255", 
-          "woe:country=23424803"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "IE", 
-        "longitude": -9.022576725807513, 
-        "artisanal:id": 34820236, 
-        "latitude": 53.286157576928524, 
-        "woe:id": 34820236, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820236, 
       "properties": {
         "ne:fid": 1443, 
         "ne:hasPlace": 20, 
@@ -464,7 +445,8 @@
         "latitude": 53.286157576928524, 
         "woe:id": 34820236, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820236
     }
   ], 
   "alias_FRE_Q": [

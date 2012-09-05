@@ -36,7 +36,48 @@
     "Nova Zelandia"
   ], 
   "children": {
-    "placetype": [], 
+    "County": [
+      {
+        "placetype": "County", 
+        "woeid": 55875860, 
+        "name": "Franklin District"
+      }, 
+      {
+        "placetype": "County", 
+        "woeid": 55875865, 
+        "name": "Rangitikei District"
+      }, 
+      {
+        "placetype": "County", 
+        "woeid": 55875881, 
+        "name": "Rotorua District"
+      }, 
+      {
+        "placetype": "County", 
+        "woeid": 55875848, 
+        "name": "Stratford District"
+      }, 
+      {
+        "placetype": "County", 
+        "woeid": 55875863, 
+        "name": "Tararua District"
+      }, 
+      {
+        "placetype": "County", 
+        "woeid": 55875847, 
+        "name": "Taupo District"
+      }, 
+      {
+        "placetype": "County", 
+        "woeid": 55875857, 
+        "name": "Waitaki District"
+      }, 
+      {
+        "placetype": "County", 
+        "woeid": 55875845, 
+        "name": "Waitomo District"
+      }
+    ], 
     "LandFeature": [
       {
         "placetype": "LandFeature", 
@@ -239,6 +280,38 @@
         "name": "Whanganui National Park"
       }
     ], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12497431, 
+        "name": "Bounty Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12497438, 
+        "name": "Chatham Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12497439, 
+        "name": "Chetwode Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12509382, 
+        "name": "North Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12497371, 
+        "name": "South Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12497481, 
+        "name": "The Snares"
+      }
+    ], 
     "Colloquial": [
       {
         "placetype": "Colloquial", 
@@ -254,6 +327,101 @@
         "placetype": "Colloquial", 
         "woeid": 22726690, 
         "name": "South Auckland"
+      }
+    ], 
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 15021756, 
+        "name": "Auckland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021753, 
+        "name": "Bay of Plenty"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021751, 
+        "name": "Canterbury"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56126020, 
+        "name": "Chatham Islands"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021761, 
+        "name": "Gisborne"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021760, 
+        "name": "Hawke's Bay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021764, 
+        "name": "Manawatu Wanganui"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021759, 
+        "name": "Marlborough"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021758, 
+        "name": "Nelson"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021755, 
+        "name": "Northland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021754, 
+        "name": "Otago"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021750, 
+        "name": "Southland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021763, 
+        "name": "Taranaki"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021757, 
+        "name": "Tasman"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021765, 
+        "name": "Waikato"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021762, 
+        "name": "Wellington"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 15021752, 
+        "name": "West Coast"
+      }
+    ], 
+    "Sea": [
+      {
+        "placetype": "Sea", 
+        "woeid": 55863403, 
+        "name": "Queen Charlotte Sound"
       }
     ], 
     "Drainage": [
@@ -418,174 +586,6 @@
         "name": "Whareama River"
       }
     ], 
-    "County": [
-      {
-        "placetype": "County", 
-        "woeid": 55875860, 
-        "name": "Franklin District"
-      }, 
-      {
-        "placetype": "County", 
-        "woeid": 55875865, 
-        "name": "Rangitikei District"
-      }, 
-      {
-        "placetype": "County", 
-        "woeid": 55875881, 
-        "name": "Rotorua District"
-      }, 
-      {
-        "placetype": "County", 
-        "woeid": 55875848, 
-        "name": "Stratford District"
-      }, 
-      {
-        "placetype": "County", 
-        "woeid": 55875863, 
-        "name": "Tararua District"
-      }, 
-      {
-        "placetype": "County", 
-        "woeid": 55875847, 
-        "name": "Taupo District"
-      }, 
-      {
-        "placetype": "County", 
-        "woeid": 55875857, 
-        "name": "Waitaki District"
-      }, 
-      {
-        "placetype": "County", 
-        "woeid": 55875845, 
-        "name": "Waitomo District"
-      }
-    ], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 15021756, 
-        "name": "Auckland"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021753, 
-        "name": "Bay of Plenty"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021751, 
-        "name": "Canterbury"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 56126020, 
-        "name": "Chatham Islands"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021761, 
-        "name": "Gisborne"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021760, 
-        "name": "Hawke's Bay"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021764, 
-        "name": "Manawatu Wanganui"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021759, 
-        "name": "Marlborough"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021758, 
-        "name": "Nelson"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021755, 
-        "name": "Northland"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021754, 
-        "name": "Otago"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021750, 
-        "name": "Southland"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021763, 
-        "name": "Taranaki"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021757, 
-        "name": "Tasman"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021765, 
-        "name": "Waikato"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021762, 
-        "name": "Wellington"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 15021752, 
-        "name": "West Coast"
-      }
-    ], 
-    "Sea": [
-      {
-        "placetype": "Sea", 
-        "woeid": 55863403, 
-        "name": "Queen Charlotte Sound"
-      }
-    ], 
-    "Island": [
-      {
-        "placetype": "Island", 
-        "woeid": 12497431, 
-        "name": "Bounty Islands"
-      }, 
-      {
-        "placetype": "Island", 
-        "woeid": 12497438, 
-        "name": "Chatham Islands"
-      }, 
-      {
-        "placetype": "Island", 
-        "woeid": 12497439, 
-        "name": "Chetwode Islands"
-      }, 
-      {
-        "placetype": "Island", 
-        "woeid": 12509382, 
-        "name": "North Island"
-      }, 
-      {
-        "placetype": "Island", 
-        "woeid": 12497371, 
-        "name": "South Island"
-      }, 
-      {
-        "placetype": "Island", 
-        "woeid": 12497481, 
-        "name": "The Snares"
-      }
-    ], 
     "Timezone": [
       {
         "placetype": "Timezone", 
@@ -623,8 +623,9 @@
     "Romanian": [
       "Noua Zeeland\u0103"
     ], 
-    "Dutch": [
-      "Nieuw-Zeeland"
+    "Spanish": [
+      "Nueva Zelandia", 
+      "Nueva Zelanda"
     ], 
     "Japanese": [
       "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9"
@@ -639,13 +640,8 @@
     "Unknown": [
       "Nova Zelandija"
     ], 
-    "Spanish": [
-      "Nueva Zelandia", 
-      "Nueva Zelanda"
-    ], 
-    "English": [
-      "NZ", 
-      "Aotearoa"
+    "Dutch": [
+      "Nieuw-Zeeland"
     ], 
     "Polish": [
       "Nowa Zelandia"
@@ -653,6 +649,10 @@
     "Korean": [
       "\ub274\uc9c8\ub780\ub4dc", 
       "\ub274\uc9c8\ub79c\ub4dc"
+    ], 
+    "English": [
+      "NZ", 
+      "Aotearoa"
     ], 
     "Italian": [
       "Nuova Zelanda"
@@ -1042,25 +1042,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9942, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825860", 
-          "woe:region=15021756", 
-          "woe:country=23424916"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NZ", 
-        "longitude": 174.79170646579232, 
-        "artisanal:id": 34825860, 
-        "latitude": -36.92614455740271, 
-        "woe:id": 34825860, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825860, 
       "properties": {
         "ne:fid": 9942, 
         "ne:hasPlace": 20, 
@@ -1078,7 +1059,8 @@
         "latitude": -36.92614455740271, 
         "woe:id": 34825860, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825860
     }
   ], 
   "alias_FRE_S": [

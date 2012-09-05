@@ -208,8 +208,9 @@
     ]
   }, 
   "aliases": {
-    "Chinese": [
-      "\u963f\u5bcc\u6c57"
+    "Portuguese": [
+      "Afeganistao", 
+      "Afeganist\u00e3o"
     ], 
     "Finnish": [
       "Afganistan"
@@ -217,18 +218,15 @@
     "Hungarian": [
       "Afganiszt\u00e1n"
     ], 
-    "Portuguese": [
-      "Afeganistao", 
-      "Afeganist\u00e3o"
-    ], 
     "Czech": [
       "Afgh\u00e1nist\u00e1n"
     ], 
     "Romanian": [
       "Afganistan"
     ], 
-    "Spanish": [
-      "Afganist\u00e1n"
+    "English": [
+      "AF", 
+      "Afuganisutan"
     ], 
     "Japanese": [
       "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3", 
@@ -237,15 +235,17 @@
     "German": [
       "Islamischer Staat Afghanistan"
     ], 
-    "English": [
-      "AF", 
-      "Afuganisutan"
+    "Spanish": [
+      "Afganist\u00e1n"
     ], 
     "Polish": [
       "Afganistan"
     ], 
     "Korean": [
       "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4"
+    ], 
+    "Chinese": [
+      "\u963f\u5bcc\u6c57"
     ]
   }, 
   "alias_CHI_Q": [
@@ -333,25 +333,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 417, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819538", 
-          "woe:region=2344571", 
-          "woe:country=23424739"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "AF", 
-        "longitude": 69.43617192393235, 
-        "artisanal:id": 34819538, 
-        "latitude": 37.333599179655074, 
-        "woe:id": 34819538, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819538, 
       "properties": {
         "ne:fid": 417, 
         "ne:hasPlace": -1, 
@@ -369,7 +350,8 @@
         "latitude": 37.333599179655074, 
         "woe:id": 34819538, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819538
     }
   ]
 }

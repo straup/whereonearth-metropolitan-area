@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 39.777222, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Islamska republika Iran"
-  ], 
+  "ne_longitude": 63.317459, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Ir\u00e3"
@@ -220,10 +218,9 @@
       "\u00cdran", 
       "Islamska republika Iran"
     ], 
-    "Spanish": [
-      "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica)", 
-      "Iran, Rep. Islamica", 
-      "Ir\u00e1n"
+    "English": [
+      "IR", 
+      "Empire of Iran"
     ], 
     "Japanese": [
       "\u30a4\u30e9\u30f3", 
@@ -232,9 +229,10 @@
     "German": [
       "Islamische Republik Iran"
     ], 
-    "English": [
-      "IR", 
-      "Empire of Iran"
+    "Spanish": [
+      "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica)", 
+      "Iran, Rep. Islamica", 
+      "Ir\u00e1n"
     ], 
     "Korean": [
       "\uc774\ub780"
@@ -281,7 +279,9 @@
   "alias_HUN_Q": [
     "Ir\u00e1n"
   ], 
-  "ne_longitude": 63.317459, 
+  "alias_UNK_V": [
+    "Islamska republika Iran"
+  ], 
   "longitude": 53.682362, 
   "iso": "IR", 
   "sw_latitude": 25.064079, 
@@ -391,25 +391,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 365, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819498", 
-          "woe:region=2345767", 
-          "woe:country=23424851"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "IR", 
-        "longitude": 45.02378925848253, 
-        "artisanal:id": 34819498, 
-        "latitude": 38.93068588495009, 
-        "woe:id": 34819498, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819498, 
       "properties": {
         "ne:fid": 365, 
         "ne:hasPlace": 15, 
@@ -427,7 +408,8 @@
         "latitude": 38.93068588495009, 
         "woe:id": 34819498, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819498
     }
   ]
 }

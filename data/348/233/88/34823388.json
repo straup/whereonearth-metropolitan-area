@@ -1,4 +1,7 @@
 {
+  "alias_RUM_V": [
+    "Eleve\u0163ia"
+  ], 
   "alias_ENG_V": [
     "Swiss"
   ], 
@@ -22,9 +25,7 @@
   "alias_RUM_Q": [
     "Elve\u0163ia"
   ], 
-  "alias_UNK_V": [
-    "Suisu"
-  ], 
+  "ne_longitude": 10.49203, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "Suweisu"
@@ -293,6 +294,9 @@
     ]
   }, 
   "aliases": {
+    "German": [
+      "Schweizerische Eidgenossenschaft"
+    ], 
     "Danish": [
       "Schweiz"
     ], 
@@ -308,8 +312,10 @@
       "Sveitsissa", 
       "Sveitsi"
     ], 
-    "Norwegian": [
-      "Sveits"
+    "Portuguese": [
+      "Sui\u00e7a", 
+      "Suica", 
+      "Su\u00ed\u00e7a"
     ], 
     "Czech": [
       "\u0160v\u00fdcarsko"
@@ -318,8 +324,8 @@
       "Elve\u0163ia", 
       "Eleve\u0163ia"
     ], 
-    "Dutch": [
-      "Zwitserland"
+    "Spanish": [
+      "Suiza"
     ], 
     "Japanese": [
       "\u30b9\u30a4\u30b9", 
@@ -329,25 +335,15 @@
       "Suisse", 
       "Conf\u00e9d\u00e9ration Suisse"
     ], 
-    "German": [
-      "Schweizerische Eidgenossenschaft"
-    ], 
-    "Portuguese": [
-      "Sui\u00e7a", 
-      "Suica", 
-      "Su\u00ed\u00e7a"
+    "Norwegian": [
+      "Sveits"
     ], 
     "Unknown": [
       "Sviss", 
       "Suisu"
     ], 
-    "Spanish": [
-      "Suiza"
-    ], 
-    "English": [
-      "CHE", 
-      "Switzerland", 
-      "Swiss"
+    "Dutch": [
+      "Zwitserland"
     ], 
     "Polish": [
       "Szwajcaria"
@@ -355,6 +351,11 @@
     "Korean": [
       "Suweisu", 
       "\uc2a4\uc704\uc2a4"
+    ], 
+    "English": [
+      "CHE", 
+      "Switzerland", 
+      "Swiss"
     ], 
     "Italian": [
       "Confederazione Svizzera", 
@@ -367,8 +368,8 @@
   "alias_ITA_Q": [
     "Svizzera"
   ], 
-  "alias_GER_V": [
-    "Schweizerische Eidgenossenschaft"
+  "alias_DAN_Q": [
+    "Schweiz"
   ], 
   "alias_ITA_V": [
     "Confederazione Svizzera"
@@ -402,9 +403,6 @@
     "Sveits"
   ], 
   "date_indexed": "2010-12-02T18:20:52.787Z", 
-  "alias_FRE_V": [
-    "Conf\u00e9d\u00e9ration Suisse"
-  ], 
   "adjacent": [], 
   "alias_DUT_Q": [
     "Zwitserland"
@@ -413,8 +411,8 @@
   "alias_CZE_Q": [
     "\u0160v\u00fdcarsko"
   ], 
-  "alias_DAN_Q": [
-    "Schweiz"
+  "alias_GER_V": [
+    "Schweizerische Eidgenossenschaft"
   ], 
   "lang": "GER", 
   "name": "Schweiz", 
@@ -426,15 +424,17 @@
   "alias_HUN_Q": [
     "Sv\u00e1jc"
   ], 
-  "ne_longitude": 10.49203, 
+  "alias_UNK_V": [
+    "Suisu"
+  ], 
   "longitude": 8.22395, 
   "iso": "CH", 
   "sw_latitude": 45.81802, 
   "alias_HUN_S": [
     "Svajc"
   ], 
-  "alias_RUM_V": [
-    "Eleve\u0163ia"
+  "alias_FRE_V": [
+    "Conf\u00e9d\u00e9ration Suisse"
   ], 
   "fullname": "Schweiz, Switzerland", 
   "features": [
@@ -546,25 +546,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6175, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823388", 
-          "woe:region=2347105", 
-          "woe:country=23424957"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CH", 
-        "longitude": 6.2480742639396265, 
-        "artisanal:id": 34823388, 
-        "latitude": 46.41164310063318, 
-        "woe:id": 34823388, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823388, 
       "properties": {
         "ne:fid": 6175, 
         "ne:hasPlace": 15, 
@@ -582,7 +563,8 @@
         "latitude": 46.41164310063318, 
         "woe:id": 34823388, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823388
     }
   ], 
   "alias_FRE_Q": [

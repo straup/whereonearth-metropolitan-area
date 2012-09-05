@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 37.56712, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Tunizija"
-  ], 
+  "ne_longitude": 11.59827, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Tun\u00edsia"
@@ -157,10 +155,6 @@
       "Tunesien", 
       "Tunis"
     ], 
-    "Spanish": [
-      "Tunez", 
-      "T\u00fanez"
-    ], 
     "Hungarian": [
       "Tun\u00e9zia"
     ], 
@@ -195,22 +189,26 @@
       "Tunesien", 
       "Tunesische Republik"
     ], 
-    "English": [
-      "TN", 
-      "Republic of Tunisia"
+    "Spanish": [
+      "Tunez", 
+      "T\u00fanez"
     ], 
     "Polish": [
       "Tunezja"
     ], 
     "Korean": [
       "\ud280\ub2c8\uc9c0"
+    ], 
+    "English": [
+      "TN", 
+      "Republic of Tunisia"
     ]
   }, 
   "alias_CHI_Q": [
     "\u7a81\u5c3c\u897f\u4e9e"
   ], 
-  "alias_GER_V": [
-    "Tunesische Republik"
+  "alias_DAN_Q": [
+    "Tunesien"
   ], 
   "alias_CHI_V": [
     "\u7a81\u5c3c\u65af"
@@ -236,9 +234,6 @@
   "alias_KOR_Q": [
     "\ud280\ub2c8\uc9c0"
   ], 
-  "alias_DAN_V": [
-    "Tunis"
-  ], 
   "alias_DUT_Q": [
     "Tunesi\u00eb"
   ], 
@@ -249,11 +244,11 @@
   "alias_CZE_Q": [
     "Tunisko"
   ], 
-  "alias_DAN_Q": [
-    "Tunesien"
+  "alias_GER_V": [
+    "Tunesische Republik"
   ], 
-  "alias_GER_Q": [
-    "Tunesien"
+  "alias_DAN_V": [
+    "Tunis"
   ], 
   "lang": "ENG", 
   "name": "Tunisia", 
@@ -271,7 +266,12 @@
   "alias_HUN_Q": [
     "Tun\u00e9zia"
   ], 
-  "ne_longitude": 11.59827, 
+  "alias_GER_Q": [
+    "Tunesien"
+  ], 
+  "alias_UNK_V": [
+    "Republika Tunizija"
+  ], 
   "longitude": 9.56154, 
   "iso": "TN", 
   "sw_latitude": 30.240431, 
@@ -329,25 +329,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6920, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823890", 
-          "woe:region=2347243", 
-          "woe:country=23424967"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "TN", 
-        "longitude": 9.846391415555791, 
-        "artisanal:id": 34823890, 
-        "latitude": 37.29384666700348, 
-        "woe:id": 34823890, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823890, 
       "properties": {
         "ne:fid": 6920, 
         "ne:hasPlace": 20, 
@@ -365,7 +346,8 @@
         "latitude": 37.29384666700348, 
         "woe:id": 34823890, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823890
     }
   ], 
   "alias_FRE_Q": [

@@ -5,7 +5,7 @@
   "alias_SWE_Q": [
     "Estland"
   ], 
-  "alias_POL_Q": [
+  "alias_ENG_P": [
     "Estonia"
   ], 
   "hierarchy": [
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Estonia"
   ], 
-  "alias_UNK_V": [
-    "Republika Estonija"
-  ], 
+  "ne_longitude": 28.20989, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Est\u00f4nia"
@@ -224,8 +222,9 @@
     "Finnish": [
       "Viro"
     ], 
-    "Norwegian": [
-      "Estland"
+    "Portuguese": [
+      "Est\u00f4nia", 
+      "Est\u00f3nia"
     ], 
     "Czech": [
       "Estonsko"
@@ -233,8 +232,8 @@
     "Romanian": [
       "Estonia"
     ], 
-    "Dutch": [
-      "Estland"
+    "Spanish": [
+      "Estonia"
     ], 
     "Japanese": [
       "\u30a8\u30b9\u30c8\u30cb\u30a2", 
@@ -243,32 +242,31 @@
     "French": [
       "Estonie"
     ], 
-    "German": [
-      "Estland", 
-      "Republik Estland"
-    ], 
-    "Portuguese": [
-      "Est\u00f4nia", 
-      "Est\u00f3nia"
-    ], 
-    "Unknown": [
-      "Eistland", 
-      "Esthonia", 
-      "Republika Estonija"
-    ], 
-    "Spanish": [
-      "Estonia"
+    "Norwegian": [
+      "Estland"
     ], 
     "English": [
       "EE", 
       "Estonia", 
       "Republic of Estonia"
     ], 
+    "Unknown": [
+      "Eistland", 
+      "Esthonia", 
+      "Republika Estonija"
+    ], 
+    "Dutch": [
+      "Estland"
+    ], 
     "Polish": [
       "Estonia"
     ], 
     "Korean": [
       "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
+    ], 
+    "German": [
+      "Estland", 
+      "Republik Estland"
     ], 
     "Italian": [
       "Estonia"
@@ -280,8 +278,8 @@
   "alias_ITA_Q": [
     "Estonia"
   ], 
-  "alias_GER_V": [
-    "Republik Estland"
+  "alias_DAN_Q": [
+    "Estland"
   ], 
   "alias_CHI_V": [
     "\u7231\u6c99\u5c3c\u4e9a"
@@ -290,7 +288,7 @@
   "alias_JPN_Q": [
     "\u30a8\u30b9\u30c8\u30cb\u30a2"
   ], 
-  "alias_ENG_P": [
+  "alias_POL_Q": [
     "Estonia"
   ], 
   "alias_JPN_V": [
@@ -320,8 +318,8 @@
   "alias_CZE_Q": [
     "Estonsko"
   ], 
-  "alias_DAN_Q": [
-    "Estland"
+  "alias_GER_V": [
+    "Republik Estland"
   ], 
   "alias_GER_Q": [
     "Estland"
@@ -339,7 +337,9 @@
   "alias_HUN_Q": [
     "\u00c9sztorsz\u00e1g"
   ], 
-  "ne_longitude": 28.20989, 
+  "alias_UNK_V": [
+    "Republika Estonija"
+  ], 
   "longitude": 25.80695, 
   "iso": "EE", 
   "sw_latitude": 57.509312, 
@@ -464,25 +464,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4699, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822424", 
-          "woe:region=2345278", 
-          "woe:country=23424805"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "EE", 
-        "longitude": 27.37419132356554, 
-        "artisanal:id": 34822424, 
-        "latitude": 59.35924386767021, 
-        "woe:id": 34822424, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822424, 
       "properties": {
         "ne:fid": 4699, 
         "ne:hasPlace": 15, 
@@ -500,7 +481,8 @@
         "latitude": 59.35924386767021, 
         "woe:id": 34822424, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822424
     }
   ], 
   "alias_FRE_Q": [

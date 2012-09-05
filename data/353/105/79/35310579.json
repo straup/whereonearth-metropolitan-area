@@ -125,25 +125,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 56, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=35310579", 
-          "woe:region=12578009", 
-          "woe:country=23424781"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CN", 
-        "longitude": 120.78887694766122, 
-        "artisanal:id": 35310579, 
-        "latitude": 51.26689840338676, 
-        "woe:id": 35310579, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35310579, 
       "properties": {
         "ne:fid": 56, 
         "ne:hasPlace": 0, 
@@ -161,7 +142,8 @@
         "latitude": 51.26689840338676, 
         "woe:id": 35310579, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35310579
     }
   ], 
   "bbox": [

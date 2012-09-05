@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Brazilia"
   ], 
-  "alias_UNK_V": [
-    "Burajiru"
-  ], 
+  "ne_longitude": -28.83905, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Estados Unidos do Brazil"
@@ -288,8 +286,8 @@
       "Brasiliasta", 
       "Brasilia"
     ], 
-    "Norwegian": [
-      "Brasil"
+    "Portuguese": [
+      "Estados Unidos do Brazil"
     ], 
     "Czech": [
       "Braz\u00edlie"
@@ -297,9 +295,8 @@
     "Romanian": [
       "Brazilia"
     ], 
-    "Dutch": [
-      "Brazilie", 
-      "Brazili\u00eb"
+    "Spanish": [
+      "Brasil"
     ], 
     "Japanese": [
       "\u30d6\u30e9\u30b8\u30eb", 
@@ -309,19 +306,7 @@
       "Br\u00e9sil", 
       "Bresil"
     ], 
-    "German": [
-      "Brasilien", 
-      "F\u00f6derative Republik Brasilien", 
-      "Foderative Republik Brasilien"
-    ], 
-    "Portuguese": [
-      "Estados Unidos do Brazil"
-    ], 
-    "Unknown": [
-      "Brasil\u00eda", 
-      "Burajiru"
-    ], 
-    "Spanish": [
+    "Norwegian": [
       "Brasil"
     ], 
     "English": [
@@ -329,11 +314,24 @@
       "Brazil", 
       "Federative Republic of Brazil"
     ], 
+    "Unknown": [
+      "Brasil\u00eda", 
+      "Burajiru"
+    ], 
+    "Dutch": [
+      "Brazilie", 
+      "Brazili\u00eb"
+    ], 
     "Polish": [
       "Brazylia"
     ], 
     "Korean": [
       "\ube0c\ub77c\uc9c8"
+    ], 
+    "German": [
+      "Brasilien", 
+      "F\u00f6derative Republik Brasilien", 
+      "Foderative Republik Brasilien"
     ], 
     "Italian": [
       "Brasile"
@@ -345,8 +343,8 @@
   "alias_ITA_Q": [
     "Brasile"
   ], 
-  "alias_GER_V": [
-    "F\u00f6derative Republik Brasilien"
+  "alias_DAN_Q": [
+    "Brasilien"
   ], 
   "woeid": 23424768, 
   "alias_JPN_Q": [
@@ -388,8 +386,8 @@
   "alias_CZE_Q": [
     "Braz\u00edlie"
   ], 
-  "alias_DAN_Q": [
-    "Brasilien"
+  "alias_GER_V": [
+    "F\u00f6derative Republik Brasilien"
   ], 
   "alias_GER_Q": [
     "Brasilien"
@@ -407,7 +405,9 @@
   "alias_HUN_Q": [
     "Braz\u00edlia"
   ], 
-  "ne_longitude": -28.83905, 
+  "alias_UNK_V": [
+    "Burajiru"
+  ], 
   "longitude": -54.387829, 
   "iso": "BR", 
   "sw_latitude": -33.750702, 
@@ -485,25 +485,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2993, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34821282", 
-          "woe:region=2344849", 
-          "woe:country=23424768"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BR", 
-        "longitude": -37.773652948135435, 
-        "artisanal:id": 34821282, 
-        "latitude": -4.542488924070403, 
-        "woe:id": 34821282, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34821282, 
       "properties": {
         "ne:fid": 2993, 
         "ne:hasPlace": 20, 
@@ -521,7 +502,8 @@
         "latitude": -4.542488924070403, 
         "woe:id": 34821282, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34821282
     }
   ], 
   "alias_FRE_S": [

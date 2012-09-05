@@ -88,6 +88,10 @@
     ]
   }, 
   "aliases": {
+    "Chinese": [
+      "\u5df4\u8c9d\u591a", 
+      "\u5df4\u8c9d\u591a"
+    ], 
     "Korean": [
       "\ubc14\ubca0\uc774\ub3c4\uc2a4"
     ], 
@@ -96,10 +100,6 @@
     ], 
     "French": [
       "Barbade"
-    ], 
-    "Chinese": [
-      "\u5df4\u8c9d\u591a", 
-      "\u5df4\u8c9d\u591a"
     ], 
     "English": [
       "BB", 
@@ -216,25 +216,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2152, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820724", 
-          "woe:region=2344737", 
-          "woe:country=23424754"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BB", 
-        "longitude": -59.603843678046914, 
-        "artisanal:id": 34820724, 
-        "latitude": 13.12437211299335, 
-        "woe:id": 34820724, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820724, 
       "properties": {
         "ne:fid": 2152, 
         "ne:hasPlace": 20, 
@@ -252,7 +233,8 @@
         "latitude": 13.12437211299335, 
         "woe:id": 34820724, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820724
     }
   ], 
   "alias_FRE_Q": [

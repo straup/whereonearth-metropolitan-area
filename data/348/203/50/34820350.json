@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Maroc"
   ], 
-  "alias_UNK_V": [
-    "Kraljevina Maroko"
-  ], 
+  "ne_longitude": -0.99173, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Marrocos"
@@ -37,26 +35,36 @@
   ], 
   "children": {
     "placetype": [], 
-    "LandFeature": [
+    "HistoricalState": [
       {
-        "placetype": "LandFeature", 
-        "woeid": 56120225, 
-        "name": "Anti-Atlas"
+        "placetype": "HistoricalState", 
+        "woeid": 2346189, 
+        "name": "Agadir"
       }, 
       {
-        "placetype": "LandFeature", 
-        "woeid": 56120216, 
-        "name": "High Atlas"
+        "placetype": "HistoricalState", 
+        "woeid": 2346201, 
+        "name": "Fes"
       }, 
       {
-        "placetype": "LandFeature", 
-        "woeid": 56120217, 
-        "name": "Middle Atlas"
+        "placetype": "HistoricalState", 
+        "woeid": 2346208, 
+        "name": "Meknes"
       }, 
       {
-        "placetype": "LandFeature", 
-        "woeid": 56120236, 
-        "name": "Rif"
+        "placetype": "HistoricalState", 
+        "woeid": 2346211, 
+        "name": "Oujda"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346212, 
+        "name": "Rabat-Sale"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346215, 
+        "name": "Tanger"
       }
     ], 
     "State": [
@@ -131,36 +139,26 @@
         "name": "Taza-Al Hoceima-Taounate"
       }
     ], 
-    "HistoricalState": [
+    "LandFeature": [
       {
-        "placetype": "HistoricalState", 
-        "woeid": 2346189, 
-        "name": "Agadir"
+        "placetype": "LandFeature", 
+        "woeid": 56120225, 
+        "name": "Anti-Atlas"
       }, 
       {
-        "placetype": "HistoricalState", 
-        "woeid": 2346201, 
-        "name": "Fes"
+        "placetype": "LandFeature", 
+        "woeid": 56120216, 
+        "name": "High Atlas"
       }, 
       {
-        "placetype": "HistoricalState", 
-        "woeid": 2346208, 
-        "name": "Meknes"
+        "placetype": "LandFeature", 
+        "woeid": 56120217, 
+        "name": "Middle Atlas"
       }, 
       {
-        "placetype": "HistoricalState", 
-        "woeid": 2346211, 
-        "name": "Oujda"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 2346212, 
-        "name": "Rabat-Sale"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 2346215, 
-        "name": "Tanger"
+        "placetype": "LandFeature", 
+        "woeid": 56120236, 
+        "name": "Rif"
       }
     ]
   }, 
@@ -181,8 +179,8 @@
     "Chinese": [
       "\u6469\u6d1b\u54e5"
     ], 
-    "Norwegian": [
-      "Marokko"
+    "Portuguese": [
+      "Marrocos"
     ], 
     "Czech": [
       "Maroko"
@@ -190,8 +188,9 @@
     "Romanian": [
       "Maroc"
     ], 
-    "Dutch": [
-      "Marokko"
+    "Spanish": [
+      "Reino de Marruecos", 
+      "Marruecos"
     ], 
     "Japanese": [
       "\u30e2\u30ed\u30c3\u30b3", 
@@ -201,25 +200,19 @@
       "Maroc", 
       "Royaume du Maroc"
     ], 
-    "German": [
-      "Marokko", 
-      "K\u00f6nigreich Marokko", 
-      "Konigreich Marokko"
+    "Norwegian": [
+      "Marokko"
     ], 
-    "Portuguese": [
-      "Marrocos"
+    "English": [
+      "MA", 
+      "Kingdom of Morocco"
     ], 
     "Unknown": [
       "Maroko", 
       "Kraljevina Maroko"
     ], 
-    "Spanish": [
-      "Reino de Marruecos", 
-      "Marruecos"
-    ], 
-    "English": [
-      "MA", 
-      "Kingdom of Morocco"
+    "Dutch": [
+      "Marokko"
     ], 
     "Polish": [
       "Maroko"
@@ -229,6 +222,11 @@
     ], 
     "Korean": [
       "\ubaa8\ub85c\ucf54"
+    ], 
+    "German": [
+      "Marokko", 
+      "K\u00f6nigreich Marokko", 
+      "Konigreich Marokko"
     ], 
     "Italian": [
       "Marocco"
@@ -240,8 +238,8 @@
   "alias_ITA_Q": [
     "Marocco"
   ], 
-  "alias_GER_V": [
-    "K\u00f6nigreich Marokko"
+  "alias_DAN_Q": [
+    "Marokko"
   ], 
   "woeid": 23424893, 
   "alias_JPN_Q": [
@@ -280,8 +278,8 @@
   "alias_CZE_Q": [
     "Maroko"
   ], 
-  "alias_DAN_Q": [
-    "Marokko"
+  "alias_GER_V": [
+    "K\u00f6nigreich Marokko"
   ], 
   "alias_GER_Q": [
     "Marokko"
@@ -299,7 +297,9 @@
   "alias_HUN_Q": [
     "Marokk\u00f3"
   ], 
-  "ne_longitude": -0.99173, 
+  "alias_UNK_V": [
+    "Kraljevina Maroko"
+  ], 
   "longitude": -7.067, 
   "iso": "MA", 
   "sw_latitude": 27.702801, 
@@ -484,25 +484,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1609, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820350", 
-          "woe:region=2346215", 
-          "woe:country=23424893"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MA", 
-        "longitude": -5.786701078873702, 
-        "artisanal:id": 34820350, 
-        "latitude": 35.77284107656725, 
-        "woe:id": 34820350, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820350, 
       "properties": {
         "ne:fid": 1609, 
         "ne:hasPlace": 20, 
@@ -520,7 +501,8 @@
         "latitude": 35.77284107656725, 
         "woe:id": 34820350, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820350
     }
   ], 
   "alias_FRE_Q": [

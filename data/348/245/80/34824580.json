@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 12.41834, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Benin"
-  ], 
+  "ne_longitude": 3.8517, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ubca0\ub139"
@@ -108,8 +106,9 @@
     "Unknown": [
       "Republika Benin"
     ], 
-    "Spanish": [
-      "Ben\u00edn"
+    "English": [
+      "BJ", 
+      "Republic of Benin"
     ], 
     "Japanese": [
       "\u30d9\u30ca\u30f3", 
@@ -119,9 +118,8 @@
       "B\u00e9nin", 
       "R\u00e9publique du B\u00e9nin"
     ], 
-    "English": [
-      "BJ", 
-      "Republic of Benin"
+    "Spanish": [
+      "Ben\u00edn"
     ], 
     "Korean": [
       "\ubca0\ub139", 
@@ -157,7 +155,9 @@
   "name": "Benin", 
   "language": "English", 
   "parent_woeid": 1, 
-  "ne_longitude": 3.8517, 
+  "alias_UNK_V": [
+    "Republika Benin"
+  ], 
   "longitude": 2.31313, 
   "iso": "BJ", 
   "sw_latitude": 6.22574, 
@@ -214,25 +214,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 7967, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824580", 
-          "woe:region=2344829", 
-          "woe:country=23424764"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BJ", 
-        "longitude": 2.1208469285776372, 
-        "artisanal:id": 34824580, 
-        "latitude": 7.225016043580895, 
-        "woe:id": 34824580, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824580, 
       "properties": {
         "ne:fid": 7967, 
         "ne:hasPlace": 15, 
@@ -250,7 +231,8 @@
         "latitude": 7.225016043580895, 
         "woe:id": 34824580, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824580
     }
   ], 
   "alias_FRE_Q": [

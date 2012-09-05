@@ -5,7 +5,7 @@
   "alias_ENG_A": [
     "PA"
   ], 
-  "alias_POL_Q": [
+  "alias_ENG_P": [
     "Panama"
   ], 
   "hierarchy": [
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Panama"
   ], 
-  "alias_UNK_V": [
-    "Republika Panama"
-  ], 
+  "ne_longitude": -77.17411, 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\ud30c\ub098\ub9c8"
@@ -101,18 +99,6 @@
       }
     ]
   }, 
-  "alias_SWE_Q": [
-    "Panama"
-  ], 
-  "alias_CHI_Q": [
-    "\u5df4\u62ff\u99ac"
-  ], 
-  "alias_GER_V": [
-    "Republik Panama"
-  ], 
-  "alias_CHI_V": [
-    "\u5df4\u62ff\u9a6c"
-  ], 
   "aliases": {
     "Swedish": [
       "Panama"
@@ -130,51 +116,60 @@
     "Finnish": [
       "Panama"
     ], 
-    "Norwegian": [
-      "Panama"
-    ], 
     "Czech": [
       "Panama"
     ], 
     "Romanian": [
       "Panama"
     ], 
-    "Dutch": [
-      "Panama"
+    "Spanish": [
+      "Rep\u00fablica de Panam\u00e1", 
+      "Republica de Panama"
     ], 
     "Japanese": [
       "\u30d1\u30ca\u30de", 
       "\u30d1\u30ca\u30de\u5171\u548c\u56fd"
     ], 
-    "German": [
-      "Panama", 
-      "Republik Panama"
-    ], 
-    "Unknown": [
-      "Panama", 
-      "Republika Panama"
-    ], 
-    "Spanish": [
-      "Rep\u00fablica de Panam\u00e1", 
-      "Republica de Panama"
+    "Norwegian": [
+      "Panama"
     ], 
     "English": [
       "PA", 
       "Panama", 
       "Republic of Panama"
     ], 
+    "Unknown": [
+      "Panama", 
+      "Republika Panama"
+    ], 
+    "Dutch": [
+      "Panama"
+    ], 
     "Polish": [
       "Panama"
     ], 
     "Korean": [
       "\ud30c\ub098\ub9c8"
+    ], 
+    "German": [
+      "Panama", 
+      "Republik Panama"
     ]
   }, 
+  "alias_CHI_Q": [
+    "\u5df4\u62ff\u99ac"
+  ], 
+  "alias_DAN_Q": [
+    "Panama"
+  ], 
+  "alias_CHI_V": [
+    "\u5df4\u62ff\u9a6c"
+  ], 
   "woeid": 23424924, 
   "alias_JPN_Q": [
     "\u30d1\u30ca\u30de"
   ], 
-  "alias_ENG_P": [
+  "alias_POL_Q": [
     "Panama"
   ], 
   "alias_JPN_V": [
@@ -194,6 +189,9 @@
     "Panama"
   ], 
   "date_indexed": "2010-12-02T17:52:32.55Z", 
+  "alias_SWE_Q": [
+    "Panama"
+  ], 
   "alias_SPA_V": [
     "Rep\u00fablica de Panam\u00e1"
   ], 
@@ -204,8 +202,8 @@
   "alias_CZE_Q": [
     "Panama"
   ], 
-  "alias_DAN_Q": [
-    "Panama"
+  "alias_GER_V": [
+    "Republik Panama"
   ], 
   "alias_GER_Q": [
     "Panama"
@@ -220,7 +218,9 @@
   "alias_HUN_Q": [
     "Panamai K\u00f6zt\u00e1rsas\u00e1g"
   ], 
-  "ne_longitude": -77.17411, 
+  "alias_UNK_V": [
+    "Republika Panama"
+  ], 
   "longitude": -80.112778, 
   "iso": "PA", 
   "sw_latitude": 7.1979, 
@@ -458,25 +458,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3542, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35313193", 
-          "woe:region=2346558", 
-          "woe:country=23424924"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PA", 
-        "longitude": -79.48831894131925, 
-        "artisanal:id": 35313193, 
-        "latitude": 9.017657153093083, 
-        "woe:id": 35313193, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35313193, 
       "properties": {
         "ne:fid": 3542, 
         "ne:hasPlace": 20, 
@@ -494,7 +475,8 @@
         "latitude": 9.017657153093083, 
         "woe:id": 35313193, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35313193
     }
   ]
 }

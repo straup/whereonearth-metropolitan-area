@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Tyskland"
   ], 
-  "alias_POL_Q": [
-    "Niemcy"
+  "alias_ENG_P": [
+    "Germany"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Germania"
   ], 
-  "alias_UNK_V": [
-    "Germanija"
-  ], 
+  "ne_longitude": 15.04205, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Alemanha"
@@ -646,8 +644,8 @@
       "Saksa", 
       "Deutsland"
     ], 
-    "Norwegian": [
-      "Tyskland"
+    "Portuguese": [
+      "Alemanha"
     ], 
     "Czech": [
       "N\u011bmecko"
@@ -655,8 +653,8 @@
     "Romanian": [
       "Germania"
     ], 
-    "Dutch": [
-      "Duitsland"
+    "Spanish": [
+      "Alemania"
     ], 
     "Japanese": [
       "\u30c9\u30a4\u30c4", 
@@ -665,30 +663,30 @@
     "French": [
       "Allemagne"
     ], 
-    "German": [
-      "Bundesrepublik Deutschland"
-    ], 
-    "Portuguese": [
-      "Alemanha"
-    ], 
-    "Unknown": [
-      "Alemanya", 
-      "Thyskaland", 
-      "Germanija"
-    ], 
-    "Spanish": [
-      "Alemania"
+    "Norwegian": [
+      "Tyskland"
     ], 
     "English": [
       "DEU", 
       "Germany", 
       "German"
     ], 
+    "Unknown": [
+      "Alemanya", 
+      "Thyskaland", 
+      "Germanija"
+    ], 
+    "Dutch": [
+      "Duitsland"
+    ], 
     "Polish": [
       "Niemcy"
     ], 
     "Korean": [
       "\ub3c5\uc77c"
+    ], 
+    "German": [
+      "Bundesrepublik Deutschland"
     ], 
     "Italian": [
       "Germania"
@@ -700,8 +698,8 @@
   "alias_ITA_Q": [
     "Germania"
   ], 
-  "alias_GER_V": [
-    "Bundesrepublik Deutschland"
+  "alias_DAN_Q": [
+    "Tyskland"
   ], 
   "alias_CHI_V": [
     "\u5fb7\u56fd"
@@ -710,8 +708,8 @@
   "alias_JPN_Q": [
     "\u30c9\u30a4\u30c4"
   ], 
-  "alias_ENG_P": [
-    "Germany"
+  "alias_POL_Q": [
+    "Niemcy"
   ], 
   "alias_JPN_V": [
     "\u30c9\u30a4\u30c4\u9023\u90a6\u5171\u548c\u56fd"
@@ -743,8 +741,8 @@
   "alias_CZE_Q": [
     "N\u011bmecko"
   ], 
-  "alias_DAN_Q": [
-    "Tyskland"
+  "alias_GER_V": [
+    "Bundesrepublik Deutschland"
   ], 
   "lang": "GER", 
   "name": "Deutschland", 
@@ -759,7 +757,9 @@
   "alias_HUN_Q": [
     "N\u00e9metorsz\u00e1g"
   ], 
-  "ne_longitude": 15.04205, 
+  "alias_UNK_V": [
+    "Germanija"
+  ], 
   "longitude": 10.45415, 
   "iso": "DE", 
   "sw_latitude": 47.27021, 
@@ -816,25 +816,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4935, 
-        "ne:hasPlace": 6, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822582", 
-          "woe:region=2345492", 
-          "woe:country=23424829"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "DE", 
-        "longitude": 13.420967466929199, 
-        "artisanal:id": 34822582, 
-        "latitude": 54.421198922366735, 
-        "woe:id": 34822582, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822582, 
       "properties": {
         "ne:fid": 4935, 
         "ne:hasPlace": 6, 
@@ -852,7 +833,8 @@
         "latitude": 54.421198922366735, 
         "woe:id": 34822582, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822582
     }
   ], 
   "alias_FRE_Q": [

@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Slovenien"
   ], 
-  "alias_POL_Q": [
-    "S\u0142owenia"
+  "alias_ENG_P": [
+    "Slovenia"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Slovenia"
   ], 
-  "alias_UNK_V": [
-    "Republika Slovenija"
-  ], 
+  "ne_longitude": 16.59656, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Eslov\u00eania"
@@ -37,11 +35,46 @@
   ], 
   "children": {
     "placetype": [], 
-    "LandFeature": [
+    "HistoricalState": [
       {
-        "placetype": "LandFeature", 
-        "woeid": 23702012, 
-        "name": "Triglav"
+        "placetype": "HistoricalState", 
+        "woeid": 23701293, 
+        "name": "Celje"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701294, 
+        "name": "Koper"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701295, 
+        "name": "Kranj"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701296, 
+        "name": "Ljubljana"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701297, 
+        "name": "Maribor"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701298, 
+        "name": "Murska Sobota"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701299, 
+        "name": "Nova Gorica"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701300, 
+        "name": "Novo mesto"
       }
     ], 
     "State": [
@@ -336,46 +369,11 @@
         "name": "Zalec"
       }
     ], 
-    "HistoricalState": [
+    "LandFeature": [
       {
-        "placetype": "HistoricalState", 
-        "woeid": 23701293, 
-        "name": "Celje"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 23701294, 
-        "name": "Koper"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 23701295, 
-        "name": "Kranj"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 23701296, 
-        "name": "Ljubljana"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 23701297, 
-        "name": "Maribor"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 23701298, 
-        "name": "Murska Sobota"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 23701299, 
-        "name": "Nova Gorica"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 23701300, 
-        "name": "Novo mesto"
+        "placetype": "LandFeature", 
+        "woeid": 23702012, 
+        "name": "Triglav"
       }
     ], 
     "Zone": [
@@ -429,8 +427,9 @@
     "Finnish": [
       "Slovenia"
     ], 
-    "Norwegian": [
-      "Slovenia"
+    "Portuguese": [
+      "Eslov\u00eania", 
+      "Eslov\u00e9nia"
     ], 
     "Czech": [
       "Slovinsko"
@@ -438,9 +437,8 @@
     "Romanian": [
       "Slovenia"
     ], 
-    "Dutch": [
-      "Slovenie", 
-      "Sloveni\u00eb"
+    "Spanish": [
+      "Eslovenia"
     ], 
     "Japanese": [
       "\u30b9\u30ed\u30d9\u30cb\u30a2", 
@@ -450,30 +448,30 @@
       "Slov\u00e9nie", 
       "Slovenie"
     ], 
-    "German": [
-      "Slowenien"
-    ], 
-    "Portuguese": [
-      "Eslov\u00eania", 
-      "Eslov\u00e9nia"
-    ], 
-    "Unknown": [
-      "Sl\u00f3ven\u00eda", 
-      "Republika Slovenija"
-    ], 
-    "Spanish": [
-      "Eslovenia"
+    "Norwegian": [
+      "Slovenia"
     ], 
     "English": [
       "SI", 
       "Slovenia", 
       "Slovenian"
     ], 
+    "Unknown": [
+      "Sl\u00f3ven\u00eda", 
+      "Republika Slovenija"
+    ], 
+    "Dutch": [
+      "Slovenie", 
+      "Sloveni\u00eb"
+    ], 
     "Polish": [
       "S\u0142owenia"
     ], 
     "Korean": [
       "\uc2ac\ub85c\ubca0\ub2c8\uc544"
+    ], 
+    "German": [
+      "Slowenien"
     ], 
     "Italian": [
       "Slovenia"
@@ -492,8 +490,8 @@
   "alias_JPN_Q": [
     "\u30b9\u30ed\u30d9\u30cb\u30a2"
   ], 
-  "alias_ENG_P": [
-    "Slovenia"
+  "alias_POL_Q": [
+    "S\u0142owenia"
   ], 
   "alias_JPN_V": [
     "\u30b9\u30ed\u30d9\u30cb\u30a2\u5171\u548c\u56fd"
@@ -541,7 +539,9 @@
   "alias_HUN_Q": [
     "Szlov\u00e9nia"
   ], 
-  "ne_longitude": 16.59656, 
+  "alias_UNK_V": [
+    "Republika Slovenija"
+  ], 
   "longitude": 14.95505, 
   "iso": "SI", 
   "sw_latitude": 45.416, 
@@ -594,25 +594,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6144, 
-        "ne:hasPlace": 6, 
-        "hierarchy": [
-          "woe:metropolitan-area=35315149", 
-          "woe:region=55848370", 
-          "woe:country=23424945"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SI", 
-        "longitude": 16.156863841491578, 
-        "artisanal:id": 35315149, 
-        "latitude": 46.68007803672343, 
-        "woe:id": 35315149, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35315149, 
       "properties": {
         "ne:fid": 6144, 
         "ne:hasPlace": 6, 
@@ -630,7 +611,8 @@
         "latitude": 46.68007803672343, 
         "woe:id": 35315149, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35315149
     }
   ], 
   "alias_FRE_S": [

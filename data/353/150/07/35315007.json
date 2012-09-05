@@ -1,5 +1,6 @@
 {
   "lang": "ENG", 
+  "ne_latitude": -0.009289, 
   "name": "The Republic of Null Island", 
   "language": "English", 
   "hierarchy": [
@@ -19,17 +20,16 @@
     }
   ], 
   "woeid": 0, 
-  "provider": "nullplanet 0.0", 
+  "sw_latitude": -0.009262, 
   "ne_longitude": -0.00936, 
   "longitude": 0, 
-  "date_indexed": "2011-01-13T00:49:11.00Z", 
   "placetype": "Country", 
   "sw_longitude": -0.009486, 
   "bbox": "-0.009262,-0.009486,0.009289,0.009360", 
-  "ne_latitude": -0.009289, 
+  "provider": "nullplanet 0.0", 
   "latitude": 0, 
   "iso": "ZZ", 
-  "sw_latitude": -0.009262, 
+  "date_indexed": "2011-01-13T00:49:11.00Z", 
   "features": [
     {
       "geometry": {
@@ -67,25 +67,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 5976, 
-        "ne:hasPlace": 6, 
-        "hierarchy": [
-          "woe:metropolitan-area=35315007", 
-          "woe:region=0", 
-          "woe:country=0"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ZZ", 
-        "longitude": -0.7080783021958393, 
-        "artisanal:id": 35315007, 
-        "latitude": 47.83370171477514, 
-        "woe:id": 35315007, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35315007, 
       "properties": {
         "ne:fid": 5976, 
         "ne:hasPlace": 6, 
@@ -103,7 +84,8 @@
         "latitude": 47.83370171477514, 
         "woe:id": 35315007, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35315007
     }
   ]
 }

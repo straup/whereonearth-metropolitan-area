@@ -114,8 +114,9 @@
     "Romanian": [
       "Guineea-Bissau"
     ], 
-    "Dutch": [
-      "Guinee-Bissau"
+    "English": [
+      "GW", 
+      "Republic of Guinea-Bissau"
     ], 
     "Japanese": [
       "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6", 
@@ -127,9 +128,8 @@
     "Unknown": [
       "Gvineja Bissau"
     ], 
-    "English": [
-      "GW", 
-      "Republic of Guinea-Bissau"
+    "Dutch": [
+      "Guinee-Bissau"
     ], 
     "Polish": [
       "Gwinea Bissau"
@@ -300,25 +300,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1709, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311853", 
-          "woe:region=2346610", 
-          "woe:country=23424929"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GW", 
-        "longitude": -15.604081029440595, 
-        "artisanal:id": 35311853, 
-        "latitude": 11.881689843610873, 
-        "woe:id": 35311853, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311853, 
       "properties": {
         "ne:fid": 1709, 
         "ne:hasPlace": 20, 
@@ -336,7 +317,8 @@
         "latitude": 11.881689843610873, 
         "woe:id": 35311853, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311853
     }
   ], 
   "alias_FRE_Q": [

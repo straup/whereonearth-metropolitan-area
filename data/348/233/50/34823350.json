@@ -19,9 +19,7 @@
   "alias_RUM_Q": [
     "Siria"
   ], 
-  "alias_UNK_V": [
-    "Sirska arabska republika"
-  ], 
+  "ne_longitude": 42.384998, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "S\u00edria"
@@ -139,8 +137,9 @@
     "Romanian": [
       "Siria"
     ], 
-    "Dutch": [
-      "Syri\u00eb"
+    "Spanish": [
+      "Siria, Republica Arabe", 
+      "Siria"
     ], 
     "Japanese": [
       "\u30b7\u30ea\u30a2", 
@@ -158,16 +157,15 @@
       "Syrland", 
       "Sirska arabska republika"
     ], 
-    "Spanish": [
-      "Siria, Republica Arabe", 
-      "Siria"
+    "Dutch": [
+      "Syri\u00eb"
+    ], 
+    "Korean": [
+      "\uc2dc\ub9ac\uc544"
     ], 
     "English": [
       "SY", 
       "Syrian Arab Republic"
-    ], 
-    "Korean": [
-      "\uc2dc\ub9ac\uc544"
     ], 
     "Italian": [
       "Siria"
@@ -179,8 +177,8 @@
   "alias_ITA_Q": [
     "Siria"
   ], 
-  "alias_GER_V": [
-    "Arabische Republik Syrien"
+  "alias_DAN_Q": [
+    "Syrien"
   ], 
   "alias_CHI_V": [
     "\u53d9\u5229\u4e9a"
@@ -219,8 +217,8 @@
   "alias_CZE_Q": [
     "S\u00fdrie"
   ], 
-  "alias_DAN_Q": [
-    "Syrien"
+  "alias_GER_V": [
+    "Arabische Republik Syrien"
   ], 
   "alias_GER_Q": [
     "Syrien"
@@ -241,7 +239,9 @@
   "alias_HUN_V": [
     "Sz\u00edriai Arab K\u00f6zt\u00e1rsas\u00e1g"
   ], 
-  "ne_longitude": 42.384998, 
+  "alias_UNK_V": [
+    "Sirska arabska republika"
+  ], 
   "longitude": 39.056, 
   "iso": "SY", 
   "sw_latitude": 32.3106, 
@@ -315,25 +315,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6112, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823350", 
-          "woe:region=2347077", 
-          "woe:country=23424956"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SY", 
-        "longitude": 37.37066503981339, 
-        "artisanal:id": 34823350, 
-        "latitude": 36.11701740450597, 
-        "woe:id": 34823350, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823350, 
       "properties": {
         "ne:fid": 6112, 
         "ne:hasPlace": 15, 
@@ -351,7 +332,8 @@
         "latitude": 36.11701740450597, 
         "woe:id": 34823350, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823350
     }
   ], 
   "alias_FRE_Q": [

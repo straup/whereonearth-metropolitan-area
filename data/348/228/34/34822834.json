@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Cehia"
   ], 
-  "alias_UNK_V": [
-    "Tsjekkia"
-  ], 
+  "ne_longitude": 18.86005, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uccb4\ucf54\uacf5\ud654\uad6d"
@@ -43,16 +41,16 @@
   ], 
   "children": {
     "placetype": [], 
-    "LandFeature": [
+    "HistoricalState": [
       {
-        "placetype": "LandFeature", 
-        "woeid": 56057293, 
-        "name": "Krkonossky Narodni Park"
+        "placetype": "HistoricalState", 
+        "woeid": 56043552, 
+        "name": "Morava"
       }, 
       {
-        "placetype": "LandFeature", 
-        "woeid": 56057295, 
-        "name": "Sumava"
+        "placetype": "HistoricalState", 
+        "woeid": 29229285, 
+        "name": "\u010cechy"
       }
     ], 
     "State": [
@@ -127,16 +125,16 @@
         "name": "\u00dasteck\u00fd"
       }
     ], 
-    "HistoricalState": [
+    "LandFeature": [
       {
-        "placetype": "HistoricalState", 
-        "woeid": 56043552, 
-        "name": "Morava"
+        "placetype": "LandFeature", 
+        "woeid": 56057293, 
+        "name": "Krkonossky Narodni Park"
       }, 
       {
-        "placetype": "HistoricalState", 
-        "woeid": 29229285, 
-        "name": "\u010cechy"
+        "placetype": "LandFeature", 
+        "woeid": 56057295, 
+        "name": "Sumava"
       }
     ], 
     "Drainage": [
@@ -168,9 +166,9 @@
       "Tsekki", 
       "T\u0161ekki"
     ], 
-    "Norwegian": [
-      "Tsjekkia", 
-      "Den tsjekkiske republikk"
+    "Portuguese": [
+      "Rep\u00fablica Tcheca", 
+      "Rep\u00fablica Checa"
     ], 
     "Czech": [
       "Ceska Republika", 
@@ -180,9 +178,9 @@
       "Cehia", 
       "Republica Ceh\u0103"
     ], 
-    "Dutch": [
-      "Tsjechie", 
-      "Tsjechi\u00eb"
+    "Spanish": [
+      "Chequia", 
+      "Rep\u00fablica Checa"
     ], 
     "Japanese": [
       "\u30c1\u30a7\u30b3", 
@@ -193,27 +191,23 @@
       "Republique Tcheque", 
       "Republiquetcheque"
     ], 
-    "German": [
-      "Tschechien", 
-      "Tschechische Republik"
+    "Norwegian": [
+      "Tsjekkia", 
+      "Den tsjekkiske republikk"
     ], 
-    "Portuguese": [
-      "Rep\u00fablica Tcheca", 
-      "Rep\u00fablica Checa"
+    "English": [
+      "CZE", 
+      "Czech Republic", 
+      "Czechia"
     ], 
     "Unknown": [
       "T\u00e9kkland", 
       "Tsechia", 
       "Tsjekkia"
     ], 
-    "Spanish": [
-      "Chequia", 
-      "Rep\u00fablica Checa"
-    ], 
-    "English": [
-      "CZE", 
-      "Czech Republic", 
-      "Czechia"
+    "Dutch": [
+      "Tsjechie", 
+      "Tsjechi\u00eb"
     ], 
     "Polish": [
       "Czechy", 
@@ -222,6 +216,10 @@
     "Korean": [
       "\uccb4\ucf54\uacf5\ud654\uad6d", 
       "\uccb4\ucf54"
+    ], 
+    "German": [
+      "Tschechien", 
+      "Tschechische Republik"
     ], 
     "Italian": [
       "Repubblica Ceca", 
@@ -234,8 +232,8 @@
   "alias_ITA_Q": [
     "Cechia"
   ], 
-  "alias_GER_V": [
-    "Tschechische Republik"
+  "alias_DAN_Q": [
+    "Den Tjekkiske Republik"
   ], 
   "alias_ITA_V": [
     "Repubblica Ceca"
@@ -260,6 +258,9 @@
     "Tsekki"
   ], 
   "sw_longitude": 12.09048, 
+  "alias_HUN_V": [
+    "Csehorsz\u00e1g"
+  ], 
   "alias_FIN_V": [
     "Tsekin tasavalta"
   ], 
@@ -272,18 +273,15 @@
     "Den tsjekkiske republikk"
   ], 
   "date_indexed": "2010-12-02T08:56:52.963Z", 
-  "alias_FRE_V": [
-    "Republiquetcheque"
-  ], 
   "alias_KOR_Q": [
     "\uccb4\ucf54"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Tjekkiet"
-  ], 
   "alias_SPA_V": [
     "Chequia"
+  ], 
+  "alias_RUM_V": [
+    "Republica Ceh\u0103"
   ], 
   "alias_DUT_Q": [
     "Tsjechi\u00eb"
@@ -295,11 +293,11 @@
     "Ceska Republika"
   ], 
   "bbox": "48.551941,12.09048,51.055649,18.86005", 
-  "alias_DAN_Q": [
-    "Den Tjekkiske Republik"
+  "alias_GER_V": [
+    "Tschechische Republik"
   ], 
-  "alias_GER_Q": [
-    "Tschechien"
+  "alias_DAN_V": [
+    "Tjekkiet"
   ], 
   "lang": "CZE", 
   "name": "Cesk\u00e1 Republika", 
@@ -317,18 +315,20 @@
   "alias_HUN_Q": [
     "Cseh K\u00f6zt\u00e1rsas\u00e1g"
   ], 
-  "alias_HUN_V": [
-    "Csehorsz\u00e1g"
+  "alias_GER_Q": [
+    "Tschechien"
   ], 
-  "ne_longitude": 18.86005, 
+  "alias_UNK_V": [
+    "Tsjekkia"
+  ], 
   "longitude": 15.47491, 
   "iso": "CZ", 
   "sw_latitude": 48.551941, 
   "alias_HUN_S": [
     "Csehorszag"
   ], 
-  "alias_RUM_V": [
-    "Republica Ceh\u0103"
+  "alias_FRE_V": [
+    "Republiquetcheque"
   ], 
   "fullname": "Cesk\u00e1 Republika, Czech Republic", 
   "features": [
@@ -388,25 +388,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 5362, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822834", 
-          "woe:region=20070499", 
-          "woe:country=23424810"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CZ", 
-        "longitude": 14.029648269011831, 
-        "artisanal:id": 34822834, 
-        "latitude": 50.667446239142514, 
-        "woe:id": 34822834, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822834, 
       "properties": {
         "ne:fid": 5362, 
         "ne:hasPlace": 15, 
@@ -424,7 +405,8 @@
         "latitude": 50.667446239142514, 
         "woe:id": 34822834, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822834
     }
   ], 
   "alias_FRE_S": [

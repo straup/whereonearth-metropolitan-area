@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Arabia Saudit\u0103"
   ], 
-  "alias_UNK_V": [
-    "Kraljevina Saudova Arabija"
-  ], 
+  "ne_longitude": 55.666512, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc0ac\uc6b0\ub514 \uc544\ub77c\ube44\uc544"
@@ -37,9 +35,6 @@
   ], 
   "alias_ARA_V": [
     "Al-Mamlaka Al-Arabiya As-Sa'udiya"
-  ], 
-  "alias_CZE_Q": [
-    "Sa\u00fadsk\u00e1 Ar\u00e1bie"
   ], 
   "children": {
     "placetype": [], 
@@ -157,8 +152,8 @@
       "\u6c99\u70cf\u5730\u963f\u62c9\u4f2f", 
       "\u6c99\u70cf\u5730\u963f\u62c9\u4f2f"
     ], 
-    "Norwegian": [
-      "Saudi-Arabia"
+    "Portuguese": [
+      "Ar\u00e1bia Saudita"
     ], 
     "Czech": [
       "Sa\u00fadsk\u00e1 Ar\u00e1bie", 
@@ -167,10 +162,9 @@
     "Romanian": [
       "Arabia Saudit\u0103"
     ], 
-    "Dutch": [
-      "Saudi-Arabi\u00eb", 
-      "Saoedi-Arabie", 
-      "Saoedi-Arabi\u00eb"
+    "Spanish": [
+      "Arabia Saud\u00ed", 
+      "Arabia Saudita"
     ], 
     "Japanese": [
       "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2", 
@@ -179,26 +173,22 @@
     "French": [
       "Arabie Saoudite"
     ], 
-    "German": [
-      "Saudi-Arabien", 
-      "K\u00f6nigreich Saudi-Arabien", 
-      "Konigreich Saudi-Arabien"
+    "Norwegian": [
+      "Saudi-Arabia"
     ], 
-    "Portuguese": [
-      "Ar\u00e1bia Saudita"
+    "English": [
+      "SA", 
+      "Kingdom of Saudi Arabia"
     ], 
     "Unknown": [
       "Saudova Arabija", 
       "Saudi-Arabia", 
       "Kraljevina Saudova Arabija"
     ], 
-    "Spanish": [
-      "Arabia Saud\u00ed", 
-      "Arabia Saudita"
-    ], 
-    "English": [
-      "SA", 
-      "Kingdom of Saudi Arabia"
+    "Dutch": [
+      "Saudi-Arabi\u00eb", 
+      "Saoedi-Arabie", 
+      "Saoedi-Arabi\u00eb"
     ], 
     "Polish": [
       "Arabia Saudyjska"
@@ -210,6 +200,11 @@
       "\uc0ac\uc6b0\ub514 \uc544\ub77c\ube44\uc544", 
       "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544"
     ], 
+    "German": [
+      "Saudi-Arabien", 
+      "K\u00f6nigreich Saudi-Arabien", 
+      "Konigreich Saudi-Arabien"
+    ], 
     "Italian": [
       "Arabia Saudita"
     ]
@@ -220,8 +215,8 @@
   "alias_ITA_Q": [
     "Arabia Saudita"
   ], 
-  "alias_GER_V": [
-    "K\u00f6nigreich Saudi-Arabien"
+  "alias_DAN_Q": [
+    "Saudi-Arabien"
   ], 
   "alias_CHI_V": [
     "\u6c99\u70cf\u5730\u963f\u62c9\u4f2f"
@@ -240,6 +235,9 @@
     "Saudi-Arabia"
   ], 
   "sw_longitude": 34.495602, 
+  "alias_HUN_V": [
+    "Szaud-Ar\u00e1bia"
+  ], 
   "alias_FIN_V": [
     "Saudi-Arabiaan"
   ], 
@@ -253,8 +251,8 @@
     "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Saudiarabien"
+  "alias_DUT_V": [
+    "Saudi-Arabi\u00eb"
   ], 
   "alias_SPA_V": [
     "Arabia Saud\u00ed"
@@ -266,14 +264,14 @@
     "Saoedi-Arabie"
   ], 
   "bbox": "15.6141,34.495602,32.221001,55.666512", 
-  "alias_DUT_V": [
-    "Saudi-Arabi\u00eb"
+  "alias_CZE_Q": [
+    "Sa\u00fadsk\u00e1 Ar\u00e1bie"
   ], 
-  "alias_DAN_Q": [
-    "Saudi-Arabien"
+  "alias_GER_V": [
+    "K\u00f6nigreich Saudi-Arabien"
   ], 
-  "alias_GER_Q": [
-    "Saudi-Arabien"
+  "alias_DAN_V": [
+    "Saudiarabien"
   ], 
   "alias_GER_S": [
     "Konigreich Saudi-Arabien"
@@ -294,10 +292,12 @@
   "alias_HUN_Q": [
     "Sza\u00fad-Ar\u00e1bia"
   ], 
-  "alias_HUN_V": [
-    "Szaud-Ar\u00e1bia"
+  "alias_GER_Q": [
+    "Saudi-Arabien"
   ], 
-  "ne_longitude": 55.666512, 
+  "alias_UNK_V": [
+    "Kraljevina Saudova Arabija"
+  ], 
   "longitude": 45.120209, 
   "iso": "SA", 
   "sw_latitude": 15.6141, 
@@ -351,25 +351,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8799, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825142", 
-          "woe:region=2346954", 
-          "woe:country=23424938"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SA", 
-        "longitude": 48.86643080175889, 
-        "artisanal:id": 34825142, 
-        "latitude": 27.830622897047142, 
-        "woe:id": 34825142, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825142, 
       "properties": {
         "ne:fid": 8799, 
         "ne:hasPlace": -1, 
@@ -387,7 +368,8 @@
         "latitude": 27.830622897047142, 
         "woe:id": 34825142, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825142
     }
   ], 
   "alias_FRE_Q": [

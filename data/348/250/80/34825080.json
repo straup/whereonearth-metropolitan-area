@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 30.433001, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Kraljevina Nepal"
-  ], 
+  "ne_longitude": 88.199318, 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\ub124\ud314"
@@ -133,7 +131,9 @@
   "alias_HUN_Q": [
     "Nep\u00e1l"
   ], 
-  "ne_longitude": 88.199318, 
+  "alias_UNK_V": [
+    "Kraljevina Nepal"
+  ], 
   "longitude": 84.127769, 
   "iso": "NP", 
   "sw_latitude": 26.356501, 
@@ -175,25 +175,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8729, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825080", 
-          "woe:region=20070026", 
-          "woe:country=23424911"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NP", 
-        "longitude": 83.71147002348343, 
-        "artisanal:id": 34825080, 
-        "latitude": 28.797418157515832, 
-        "woe:id": 34825080, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825080, 
       "properties": {
         "ne:fid": 8729, 
         "ne:hasPlace": -1, 
@@ -211,7 +192,8 @@
         "latitude": 28.797418157515832, 
         "woe:id": 34825080, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825080
     }
   ], 
   "alias_FRE_Q": [

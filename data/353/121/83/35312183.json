@@ -74,16 +74,16 @@
     "Romanian": [
       "Martinica"
     ], 
-    "Spanish": [
-      "Martinica"
+    "English": [
+      "MQ", 
+      "Martiniquais"
     ], 
     "Japanese": [
       "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af\u5cf6", 
       "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af"
     ], 
-    "English": [
-      "MQ", 
-      "Martiniquais"
+    "Spanish": [
+      "Martinica"
     ], 
     "Polish": [
       "Martynika"
@@ -220,25 +220,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2150, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35312183", 
-          "woe:region=24549745", 
-          "woe:country=23424884"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MQ", 
-        "longitude": -61.04434580888593, 
-        "artisanal:id": 35312183, 
-        "latitude": 14.624037909656355, 
-        "woe:id": 35312183, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35312183, 
       "properties": {
         "ne:fid": 2150, 
         "ne:hasPlace": 20, 
@@ -256,7 +237,8 @@
         "latitude": 14.624037909656355, 
         "woe:id": 35312183, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35312183
     }
   ]
 }

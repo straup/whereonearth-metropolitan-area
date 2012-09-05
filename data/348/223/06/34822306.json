@@ -8,8 +8,8 @@
   "alias_SWE_Q": [
     "Finland"
   ], 
-  "alias_POL_Q": [
-    "Finlandia"
+  "alias_ENG_P": [
+    "Finland"
   ], 
   "hierarchy": [
     {
@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Finlanda"
   ], 
-  "alias_UNK_V": [
-    "Finljandija"
-  ], 
+  "ne_longitude": 31.586201, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Finl\u00e2ndia"
@@ -8094,8 +8092,8 @@
     "Finnish": [
       "Suomen Tasavalta"
     ], 
-    "Norwegian": [
-      "Finland"
+    "Portuguese": [
+      "Finl\u00e2ndia"
     ], 
     "Czech": [
       "Finsko"
@@ -8103,8 +8101,8 @@
     "Romanian": [
       "Finlanda"
     ], 
-    "Dutch": [
-      "Finland"
+    "Spanish": [
+      "Finlandia"
     ], 
     "Japanese": [
       "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9", 
@@ -8113,30 +8111,30 @@
     "French": [
       "Finlande"
     ], 
-    "German": [
-      "Finnland", 
-      "Republik Finnland"
-    ], 
-    "Portuguese": [
-      "Finl\u00e2ndia"
-    ], 
-    "Unknown": [
-      "Finsko", 
-      "Finljandija"
-    ], 
-    "Spanish": [
-      "Finlandia"
+    "Norwegian": [
+      "Finland"
     ], 
     "English": [
       "FI", 
       "Finland", 
       "Rep. Finland"
     ], 
+    "Unknown": [
+      "Finsko", 
+      "Finljandija"
+    ], 
+    "Dutch": [
+      "Finland"
+    ], 
     "Polish": [
       "Finlandia"
     ], 
     "Korean": [
       "\ud540\ub780\ub4dc"
+    ], 
+    "German": [
+      "Finnland", 
+      "Republik Finnland"
     ], 
     "Italian": [
       "Finlandia"
@@ -8148,8 +8146,8 @@
   "alias_ITA_Q": [
     "Finlandia"
   ], 
-  "alias_GER_V": [
-    "Republik Finnland"
+  "alias_DAN_Q": [
+    "Finland"
   ], 
   "alias_CHI_V": [
     "\u82ac\u5170"
@@ -8158,8 +8156,8 @@
   "alias_JPN_Q": [
     "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9"
   ], 
-  "alias_ENG_P": [
-    "Finland"
+  "alias_POL_Q": [
+    "Finlandia"
   ], 
   "alias_JPN_V": [
     "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
@@ -8188,8 +8186,8 @@
   "alias_CZE_Q": [
     "Finsko"
   ], 
-  "alias_DAN_Q": [
-    "Finland"
+  "alias_GER_V": [
+    "Republik Finnland"
   ], 
   "alias_GER_Q": [
     "Finnland"
@@ -8204,7 +8202,9 @@
   "alias_HUN_Q": [
     "Finnorsz\u00e1g"
   ], 
-  "ne_longitude": 31.586201, 
+  "alias_UNK_V": [
+    "Finljandija"
+  ], 
   "longitude": 26.06739, 
   "iso": "FI", 
   "sw_latitude": 59.764881, 
@@ -8257,25 +8257,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4513, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822306", 
-          "woe:region=12577872", 
-          "woe:country=23424812"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "FI", 
-        "longitude": 26.360650002302883, 
-        "artisanal:id": 34822306, 
-        "latitude": 64.7928777748463, 
-        "woe:id": 34822306, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822306, 
       "properties": {
         "ne:fid": 4513, 
         "ne:hasPlace": -1, 
@@ -8293,7 +8274,8 @@
         "latitude": 64.7928777748463, 
         "woe:id": 34822306, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822306
     }
   ], 
   "alias_FRE_Q": [

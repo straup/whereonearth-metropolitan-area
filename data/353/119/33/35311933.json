@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Surinam"
   ], 
-  "alias_UNK_V": [
-    "Republika Surinam"
-  ], 
+  "ne_longitude": -53.977489, 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\uc218\ub9ac\ub0a8"
@@ -84,18 +82,6 @@
       }
     ]
   }, 
-  "alias_SWE_Q": [
-    "Surinam"
-  ], 
-  "alias_CHI_Q": [
-    "\u8607\u5229\u5357"
-  ], 
-  "alias_GER_V": [
-    "Republik Suriname"
-  ], 
-  "alias_CHI_V": [
-    "\u8607\u5229\u5357"
-  ], 
   "aliases": {
     "Swedish": [
       "Surinam"
@@ -110,39 +96,48 @@
     "Finnish": [
       "Surinamista"
     ], 
-    "Norwegian": [
-      "Surinam"
-    ], 
     "Czech": [
       "Surinam"
     ], 
     "Romanian": [
       "Surinam"
     ], 
-    "Spanish": [
-      "Surinam"
+    "English": [
+      "SR", 
+      "Republic of Suriname"
     ], 
     "Japanese": [
       "\u30b9\u30ea\u30ca\u30e0", 
       "\u30b9\u30ea\u30ca\u30e0\u5171\u548c\u56fd"
     ], 
-    "German": [
-      "Republik Suriname"
+    "Norwegian": [
+      "Surinam"
     ], 
     "Unknown": [
       "Republika Surinam"
     ], 
-    "English": [
-      "SR", 
-      "Republic of Suriname"
+    "Spanish": [
+      "Surinam"
     ], 
     "Polish": [
       "Surinam"
     ], 
     "Korean": [
       "\uc218\ub9ac\ub0a8"
+    ], 
+    "German": [
+      "Republik Suriname"
     ]
   }, 
+  "alias_CHI_Q": [
+    "\u8607\u5229\u5357"
+  ], 
+  "alias_DAN_Q": [
+    "Surinam"
+  ], 
+  "alias_CHI_V": [
+    "\u8607\u5229\u5357"
+  ], 
   "woeid": 23424913, 
   "alias_JPN_Q": [
     "\u30b9\u30ea\u30ca\u30e0"
@@ -164,18 +159,23 @@
   ], 
   "date_indexed": "2010-12-02T12:16:16.748Z", 
   "adjacent": [], 
+  "alias_SWE_Q": [
+    "Surinam"
+  ], 
   "bbox": "1.83114,-58.086559,6.00454,-53.977489", 
   "alias_CZE_Q": [
     "Surinam"
   ], 
-  "alias_DAN_Q": [
-    "Surinam"
+  "alias_GER_V": [
+    "Republik Suriname"
   ], 
   "lang": "ENG", 
   "name": "Suriname", 
   "language": "English", 
   "parent_woeid": 1, 
-  "ne_longitude": -53.977489, 
+  "alias_UNK_V": [
+    "Republika Surinam"
+  ], 
   "longitude": -56.032028, 
   "iso": "SR", 
   "sw_latitude": 1.83114, 
@@ -249,25 +249,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1842, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311933", 
-          "woe:region=2346412", 
-          "woe:country=23424913"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SR", 
-        "longitude": -55.178729421879616, 
-        "artisanal:id": 35311933, 
-        "latitude": 5.82826839964892, 
-        "woe:id": 35311933, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311933, 
       "properties": {
         "ne:fid": 1842, 
         "ne:hasPlace": 20, 
@@ -285,7 +266,8 @@
         "latitude": 5.82826839964892, 
         "woe:id": 35311933, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311933
     }
   ]
 }

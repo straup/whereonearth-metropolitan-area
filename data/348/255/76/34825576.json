@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 11.9852, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Somalska demokratiena republika"
-  ], 
+  "ne_longitude": 51.413029, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc18c\ub9d0\ub9ac\uc57c"
@@ -128,8 +126,9 @@
       "Somalija", 
       "Somalska demokratiena republika"
     ], 
-    "Dutch": [
-      "Somali\u00eb"
+    "English": [
+      "SO", 
+      "Rep. Somalia"
     ], 
     "Japanese": [
       "\u30bd\u30de\u30ea\u30a2"
@@ -140,9 +139,8 @@
     "German": [
       "Republik Somalia"
     ], 
-    "English": [
-      "SO", 
-      "Rep. Somalia"
+    "Dutch": [
+      "Somali\u00eb"
     ], 
     "Korean": [
       "\uc18c\ub9d0\ub9ac\uc57c", 
@@ -178,7 +176,9 @@
   "alias_HUN_Q": [
     "Szom\u00e1lia"
   ], 
-  "ne_longitude": 51.413029, 
+  "alias_UNK_V": [
+    "Somalska demokratiena republika"
+  ], 
   "longitude": 46.200829, 
   "iso": "SO", 
   "sw_latitude": -1.66205, 
@@ -228,25 +228,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9495, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825576", 
-          "woe:region=2347019", 
-          "woe:country=23424949"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SO", 
-        "longitude": 45.11747261560296, 
-        "artisanal:id": 34825576, 
-        "latitude": 2.143481728632486, 
-        "woe:id": 34825576, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825576, 
       "properties": {
         "ne:fid": 9495, 
         "ne:hasPlace": 15, 
@@ -264,7 +245,8 @@
         "latitude": 2.143481728632486, 
         "woe:id": 34825576, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825576
     }
   ], 
   "alias_FRE_Q": [

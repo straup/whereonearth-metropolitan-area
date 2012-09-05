@@ -41,9 +41,6 @@
   "alias_POR_S": [
     "Papuasia-Nova Guine"
   ], 
-  "alias_CZE_Q": [
-    "Papua-Nov\u00e1 Guinea"
-  ], 
   "children": {
     "placetype": [], 
     "Island": [
@@ -278,8 +275,10 @@
     "Finnish": [
       "Papua-Uusi-Guinea"
     ], 
-    "Norwegian": [
-      "Papua Ny-Guinea"
+    "Portuguese": [
+      "Papu\u00e1sia-Nova Guin\u00e9", 
+      "Papuasia-Nova Guine", 
+      "Papua-Nova Guin\u00e9"
     ], 
     "Czech": [
       "Papua-Nova Guinea", 
@@ -289,9 +288,10 @@
     "Romanian": [
       "Papua Noua Guinee"
     ], 
-    "Dutch": [
-      "Papoea Nieuw Guinea", 
-      "Papoea-Nieuw-Guinea"
+    "Spanish": [
+      "Pap\u00faa-Nueva Guinea", 
+      "Papua Nueva Guinea", 
+      "Pap\u00faa Nueva Guinea"
     ], 
     "Japanese": [
       "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2", 
@@ -302,27 +302,19 @@
       "Papouasie Nouvelle Guinee", 
       "Papouasie-Nouvelle Guin\u00e9e"
     ], 
-    "German": [
-      "Papua-Neuguinea", 
-      "Unabh\u00e4ngiger Staat Papua-Neuguinea", 
-      "Unabhaengiger Staat Papua-Neuguinea"
-    ], 
-    "Portuguese": [
-      "Papu\u00e1sia-Nova Guin\u00e9", 
-      "Papuasia-Nova Guine", 
-      "Papua-Nova Guin\u00e9"
-    ], 
-    "Unknown": [
-      "Papua Nova Gvineja"
-    ], 
-    "Spanish": [
-      "Pap\u00faa-Nueva Guinea", 
-      "Papua Nueva Guinea", 
-      "Pap\u00faa Nueva Guinea"
+    "Norwegian": [
+      "Papua Ny-Guinea"
     ], 
     "English": [
       "PG", 
       "Papuanewguinea"
+    ], 
+    "Unknown": [
+      "Papua Nova Gvineja"
+    ], 
+    "Dutch": [
+      "Papoea Nieuw Guinea", 
+      "Papoea-Nieuw-Guinea"
     ], 
     "Polish": [
       "Papua-Nowa Gwinea", 
@@ -331,6 +323,11 @@
     "Korean": [
       "\ud30c\ud478\uc544\ub274\uae30\ub2c8", 
       "\ud30c\ud478\uc544 \ub274\uae30\ub2c8"
+    ], 
+    "German": [
+      "Papua-Neuguinea", 
+      "Unabh\u00e4ngiger Staat Papua-Neuguinea", 
+      "Unabhaengiger Staat Papua-Neuguinea"
     ], 
     "Italian": [
       "Papuasia-Nuova Guinea", 
@@ -343,8 +340,8 @@
   "alias_ITA_Q": [
     "Papua Nuova Guinea"
   ], 
-  "alias_GER_V": [
-    "Unabh\u00e4ngiger Staat Papua-Neuguinea"
+  "alias_DAN_Q": [
+    "Papua Ny Guinea"
   ], 
   "alias_ITA_V": [
     "Papuasia-Nuova Guinea"
@@ -379,6 +376,9 @@
   "alias_KOR_Q": [
     "\ud30c\ud478\uc544 \ub274\uae30\ub2c8"
   ], 
+  "alias_DUT_V": [
+    "Papoea Nieuw Guinea"
+  ], 
   "alias_SPA_V": [
     "Pap\u00faa-Nueva Guinea"
   ], 
@@ -389,11 +389,11 @@
     "Papua-Nova Guinea"
   ], 
   "bbox": "-11.65785,140.842865,-0.86622,159.48378", 
-  "alias_DUT_V": [
-    "Papoea Nieuw Guinea"
+  "alias_CZE_Q": [
+    "Papua-Nov\u00e1 Guinea"
   ], 
-  "alias_DAN_Q": [
-    "Papua Ny Guinea"
+  "alias_GER_V": [
+    "Unabh\u00e4ngiger Staat Papua-Neuguinea"
   ], 
   "alias_GER_Q": [
     "Papua-Neuguinea"
@@ -471,25 +471,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11782, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=37193346", 
-          "woe:region=2346594", 
-          "woe:country=23424926"
-        ], 
-        "artisanal:foundry": "http://www.londonintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PG", 
-        "longitude": 146.99001657981913, 
-        "artisanal:id": 37193346, 
-        "latitude": -6.726074163347831, 
-        "woe:id": 37193346, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 37193346, 
       "properties": {
         "ne:fid": 11782, 
         "ne:hasPlace": 20, 
@@ -507,7 +488,8 @@
         "latitude": -6.726074163347831, 
         "woe:id": 37193346, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 37193346
     }
   ], 
   "alias_FRE_S": [

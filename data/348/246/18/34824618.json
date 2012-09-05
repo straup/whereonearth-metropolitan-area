@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Camerun"
   ], 
-  "alias_UNK_V": [
-    "Republika Kamerun"
-  ], 
+  "ne_longitude": 16.19211, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Rep\u00fablica dos Camar\u00f5es"
@@ -111,8 +109,10 @@
       "Kamerunista", 
       "Kamerun"
     ], 
-    "Norwegian": [
-      "Kamerun"
+    "Portuguese": [
+      "Rep\u00fablica dos Camar\u00f5es", 
+      "Camaroes", 
+      "Camar\u00f5es"
     ], 
     "Czech": [
       "Kamerun"
@@ -120,8 +120,8 @@
     "Romanian": [
       "Camerun"
     ], 
-    "Dutch": [
-      "Kameroen"
+    "Spanish": [
+      "Camer\u00fan"
     ], 
     "Japanese": [
       "\u30ab\u30e1\u30eb\u30fc\u30f3", 
@@ -131,31 +131,29 @@
       "Cameroun", 
       "R\u00e9publique du Cameroun"
     ], 
-    "German": [
-      "Kamerun", 
-      "Republik Kamerun"
+    "Norwegian": [
+      "Kamerun"
     ], 
-    "Portuguese": [
-      "Rep\u00fablica dos Camar\u00f5es", 
-      "Camaroes", 
-      "Camar\u00f5es"
+    "English": [
+      "CM", 
+      "Republic of Cameroon"
     ], 
     "Unknown": [
       "Kamer\u00fan", 
       "Republika Kamerun"
     ], 
-    "Spanish": [
-      "Camer\u00fan"
-    ], 
-    "English": [
-      "CM", 
-      "Republic of Cameroon"
+    "Dutch": [
+      "Kameroen"
     ], 
     "Polish": [
       "Kamerun"
     ], 
     "Korean": [
       "\uce74\uba54\ub8ec"
+    ], 
+    "German": [
+      "Kamerun", 
+      "Republik Kamerun"
     ], 
     "Italian": [
       "Camerun"
@@ -167,8 +165,8 @@
   "alias_ITA_Q": [
     "Camerun"
   ], 
-  "alias_GER_V": [
-    "Republik Kamerun"
+  "alias_DAN_Q": [
+    "Cameroun"
   ], 
   "alias_CHI_V": [
     "\u5580\u9ea6\u9686"
@@ -207,8 +205,8 @@
   "alias_CZE_Q": [
     "Kamerun"
   ], 
-  "alias_DAN_Q": [
-    "Cameroun"
+  "alias_GER_V": [
+    "Republik Kamerun"
   ], 
   "alias_GER_Q": [
     "Kamerun"
@@ -223,7 +221,9 @@
   "alias_HUN_Q": [
     "Kamerun"
   ], 
-  "ne_longitude": 16.19211, 
+  "alias_UNK_V": [
+    "Republika Kamerun"
+  ], 
   "longitude": 12.34344, 
   "iso": "CM", 
   "sw_latitude": 1.65254, 
@@ -268,25 +268,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8022, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824618", 
-          "woe:region=2345036", 
-          "woe:country=23424785"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CM", 
-        "longitude": 10.926042111975816, 
-        "artisanal:id": 34824618, 
-        "latitude": 5.716588690435664, 
-        "woe:id": 34824618, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824618, 
       "properties": {
         "ne:fid": 8022, 
         "ne:hasPlace": 20, 
@@ -304,7 +285,8 @@
         "latitude": 5.716588690435664, 
         "woe:id": 34824618, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824618
     }
   ], 
   "alias_FRE_Q": [

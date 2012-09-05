@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Belgien"
   ], 
-  "alias_POL_Q": [
-    "Belgia"
+  "alias_ENG_P": [
+    "Belgium"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Belgia"
   ], 
-  "alias_UNK_V": [
-    "Kraljevina Belgija"
-  ], 
+  "ne_longitude": 6.40791, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Belgia"
@@ -34,9 +32,6 @@
   ], 
   "alias_ENG_A": [
     "BEL"
-  ], 
-  "alias_CZE_Q": [
-    "Belgie"
   ], 
   "children": {
     "placetype": [], 
@@ -128,8 +123,9 @@
       "Belgiasta", 
       "Belgia"
     ], 
-    "Norwegian": [
-      "Belgia"
+    "Portuguese": [
+      "Belgia", 
+      "B\u00e9lgica"
     ], 
     "Czech": [
       "Belgie"
@@ -137,8 +133,9 @@
     "Romanian": [
       "Belgia"
     ], 
-    "Dutch": [
-      "Koninkrijk Belgi\u00eb"
+    "Spanish": [
+      "Belgica", 
+      "B\u00e9lgica"
     ], 
     "Japanese": [
       "\u30d9\u30eb\u30ae\u30fc", 
@@ -148,34 +145,32 @@
       "Belgique", 
       "Royaume de Belgique"
     ], 
-    "German": [
-      "Belgien", 
-      "K\u00f6nigreich Belgien", 
-      "Konigreich Belgien"
-    ], 
-    "Portuguese": [
-      "Belgia", 
-      "B\u00e9lgica"
-    ], 
-    "Unknown": [
-      "Belgicko", 
-      "Velgio", 
-      "Kraljevina Belgija"
-    ], 
-    "Spanish": [
-      "Belgica", 
-      "B\u00e9lgica"
+    "Norwegian": [
+      "Belgia"
     ], 
     "English": [
       "BEL", 
       "Belgium", 
       "Kingdom of Belgium"
     ], 
+    "Unknown": [
+      "Belgicko", 
+      "Velgio", 
+      "Kraljevina Belgija"
+    ], 
+    "Dutch": [
+      "Koninkrijk Belgi\u00eb"
+    ], 
     "Polish": [
       "Belgia"
     ], 
     "Korean": [
       "\ubca8\uae30\uc5d0"
+    ], 
+    "German": [
+      "Belgien", 
+      "K\u00f6nigreich Belgien", 
+      "Konigreich Belgien"
     ], 
     "Italian": [
       "Belgio"
@@ -187,8 +182,8 @@
   "alias_ITA_Q": [
     "Belgio"
   ], 
-  "alias_GER_V": [
-    "K\u00f6nigreich Belgien"
+  "alias_DAN_Q": [
+    "Belgien"
   ], 
   "alias_CHI_V": [
     "\u6bd4\u5229\u65f6"
@@ -197,8 +192,8 @@
   "alias_JPN_Q": [
     "\u30d9\u30eb\u30ae\u30fc"
   ], 
-  "alias_ENG_P": [
-    "Belgium"
+  "alias_POL_Q": [
+    "Belgia"
   ], 
   "alias_JPN_V": [
     "\u30d9\u30eb\u30ae\u30fc\u738b\u56fd"
@@ -226,12 +221,15 @@
     "\ubca8\uae30\uc5d0"
   ], 
   "adjacent": [], 
-  "bbox": "49.496899,2.54563,51.505081,6.40791", 
   "alias_DUT_V": [
     "Koninkrijk Belgi\u00eb"
   ], 
-  "alias_DAN_Q": [
-    "Belgien"
+  "bbox": "49.496899,2.54563,51.505081,6.40791", 
+  "alias_CZE_Q": [
+    "Belgie"
+  ], 
+  "alias_GER_V": [
+    "K\u00f6nigreich Belgien"
   ], 
   "alias_GER_Q": [
     "Belgien"
@@ -252,7 +250,9 @@
   "alias_HUN_Q": [
     "Belgium"
   ], 
-  "ne_longitude": 6.40791, 
+  "alias_UNK_V": [
+    "Kraljevina Belgija"
+  ], 
   "longitude": 4.47684, 
   "iso": "BE", 
   "sw_latitude": 49.496899, 
@@ -473,25 +473,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 5856, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823180", 
-          "woe:region=7153305", 
-          "woe:country=23424757"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BE", 
-        "longitude": 3.219034836166974, 
-        "artisanal:id": 34823180, 
-        "latitude": 51.26335528534154, 
-        "woe:id": 34823180, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823180, 
       "properties": {
         "ne:fid": 5856, 
         "ne:hasPlace": 20, 
@@ -509,7 +490,8 @@
         "latitude": 51.26335528534154, 
         "woe:id": 34823180, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823180
     }
   ], 
   "alias_FRE_Q": [

@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Birmania"
   ], 
-  "alias_UNK_V": [
-    "Mjanmar"
-  ], 
+  "ne_longitude": 101.176788, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Mianmar"
@@ -155,9 +153,9 @@
     "Romanian": [
       "Birmania"
     ], 
-    "Spanish": [
-      "Birmania (Myanmar)", 
-      "Birmania"
+    "English": [
+      "MM", 
+      "Burmese"
     ], 
     "Japanese": [
       "\u30df\u30e3\u30f3\u30de\u30fc", 
@@ -172,9 +170,9 @@
     "Unknown": [
       "Mjanmar"
     ], 
-    "English": [
-      "MM", 
-      "Burmese"
+    "Spanish": [
+      "Birmania (Myanmar)", 
+      "Birmania"
     ], 
     "Polish": [
       "Birma"
@@ -192,8 +190,8 @@
   "alias_ITA_Q": [
     "Birmania"
   ], 
-  "alias_GER_V": [
-    "Union Myanmar"
+  "alias_DAN_Q": [
+    "Burma"
   ], 
   "alias_CHI_V": [
     "\u7f05\u7538"
@@ -223,8 +221,8 @@
     "Birmania (Myanmar)"
   ], 
   "bbox": "9.60035,92.189209,28.543249,101.176788", 
-  "alias_DAN_Q": [
-    "Burma"
+  "alias_GER_V": [
+    "Union Myanmar"
   ], 
   "lang": "ENG", 
   "name": "Myanmar", 
@@ -236,7 +234,9 @@
   "alias_HUN_V": [
     "Burma"
   ], 
-  "ne_longitude": 101.176788, 
+  "alias_UNK_V": [
+    "Mjanmar"
+  ], 
   "longitude": 96.682999, 
   "iso": "MM", 
   "sw_latitude": 9.60035, 
@@ -278,25 +278,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11343, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826746", 
-          "woe:region=2344820", 
-          "woe:country=23424763"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MM", 
-        "longitude": 97.04956208788364, 
-        "artisanal:id": 34826746, 
-        "latitude": 20.78704747951724, 
-        "woe:id": 34826746, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826746, 
       "properties": {
         "ne:fid": 11343, 
         "ne:hasPlace": 20, 
@@ -314,7 +295,8 @@
         "latitude": 20.78704747951724, 
         "woe:id": 34826746, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826746
     }
   ], 
   "alias_FRE_Q": [

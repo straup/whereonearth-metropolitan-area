@@ -8,8 +8,8 @@
   "alias_SWE_Q": [
     "Spanska Sahara"
   ], 
-  "alias_POL_Q": [
-    "Sahara Zachodnia"
+  "alias_SWE_S": [
+    "Vaestsahara"
   ], 
   "hierarchy": [
     {
@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Sahara Occidental\u0103"
   ], 
-  "alias_UNK_V": [
-    "Vestsahara"
-  ], 
+  "ne_longitude": -8.66942, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Sara Ocidental"
@@ -37,9 +35,6 @@
   ], 
   "alias_ENG_A": [
     "EH"
-  ], 
-  "alias_CZE_Q": [
-    "Z\u00e1padn\u00ed Sahara"
   ], 
   "children": {
     "placetype": [], 
@@ -93,8 +88,9 @@
       "Lansi-Sahara", 
       "L\u00e4nsi-Sahara"
     ], 
-    "Norwegian": [
-      "Vest-Sahara"
+    "Portuguese": [
+      "Sara Ocidental", 
+      "Saara Ocidental"
     ], 
     "Czech": [
       "Z\u00e1padn\u00ed Sahara"
@@ -102,9 +98,8 @@
     "Romanian": [
       "Sahara Occidental\u0103"
     ], 
-    "Dutch": [
-      "Sahara Westelijke", 
-      "Westelijke Sahara"
+    "Spanish": [
+      "Sahara Occidental"
     ], 
     "Japanese": [
       "\u897f\u30b5\u30cf\u30e9"
@@ -112,29 +107,29 @@
     "French": [
       "Sahara Occidental"
     ], 
-    "German": [
-      "Westsahara"
+    "Norwegian": [
+      "Vest-Sahara"
     ], 
-    "Portuguese": [
-      "Sara Ocidental", 
-      "Saara Ocidental"
+    "English": [
+      "EH", 
+      "Sahraouian"
     ], 
     "Unknown": [
       "Zahodna Sahara", 
       "Vestsahara"
     ], 
-    "Spanish": [
-      "Sahara Occidental"
-    ], 
-    "English": [
-      "EH", 
-      "Sahraouian"
+    "Dutch": [
+      "Sahara Westelijke", 
+      "Westelijke Sahara"
     ], 
     "Polish": [
       "Sahara Zachodnia"
     ], 
     "Korean": [
       "\uc11c\uc0ac\ud558\ub77c"
+    ], 
+    "German": [
+      "Westsahara"
     ], 
     "Italian": [
       "Sahara Occidentale"
@@ -153,8 +148,8 @@
   "alias_JPN_Q": [
     "\u897f\u30b5\u30cf\u30e9"
   ], 
-  "alias_SWE_S": [
-    "Vaestsahara"
+  "alias_POL_Q": [
+    "Sahara Zachodnia"
   ], 
   "alias_SPA_Q": [
     "Sahara Occidental"
@@ -176,12 +171,15 @@
   "alias_KOR_Q": [
     "\uc11c\uc0ac\ud558\ub77c"
   ], 
+  "alias_DUT_V": [
+    "Sahara Westelijke"
+  ], 
   "alias_DUT_Q": [
     "Westelijke Sahara"
   ], 
   "bbox": "20.774151,-17.10317,27.702801,-8.66942", 
-  "alias_DUT_V": [
-    "Sahara Westelijke"
+  "alias_CZE_Q": [
+    "Z\u00e1padn\u00ed Sahara"
   ], 
   "alias_DAN_Q": [
     "Vestsahara"
@@ -199,7 +197,9 @@
   "alias_HUN_Q": [
     "Nyugat-Szahara"
   ], 
-  "ne_longitude": -8.66942, 
+  "alias_UNK_V": [
+    "Vestsahara"
+  ], 
   "longitude": -12.8863, 
   "iso": "EH", 
   "sw_latitude": 20.774151, 
@@ -253,25 +253,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1683, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311827", 
-          "woe:region=24549915", 
-          "woe:country=23424990"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "EH", 
-        "longitude": -13.194299191229815, 
-        "artisanal:id": 35311827, 
-        "latitude": 27.154849039925917, 
-        "woe:id": 35311827, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311827, 
       "properties": {
         "ne:fid": 1683, 
         "ne:hasPlace": 20, 
@@ -289,7 +270,8 @@
         "latitude": 27.154849039925917, 
         "woe:id": 35311827, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311827
     }
   ], 
   "alias_FRE_Q": [

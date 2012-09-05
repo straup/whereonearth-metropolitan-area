@@ -19,7 +19,9 @@
   ], 
   "ne_latitude": -19.294041, 
   "supercedes": [], 
-  "ne_longitude": -54.25935, 
+  "alias_UNK_V": [
+    "Republika Paragvaj"
+  ], 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Paraguai"
@@ -189,9 +191,7 @@
   "alias_UNK_Q": [
     "Paragvaj"
   ], 
-  "alias_UNK_V": [
-    "Republika Paragvaj"
-  ], 
+  "ne_longitude": -54.25935, 
   "longitude": -58.453209, 
   "iso": "PY", 
   "sw_latitude": -27.60873, 
@@ -273,25 +273,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3263, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34821454", 
-          "woe:region=2346453", 
-          "woe:country=23424917"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PY", 
-        "longitude": -57.496584072605685, 
-        "artisanal:id": 34821454, 
-        "latitude": -25.16728545617194, 
-        "woe:id": 34821454, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34821454, 
       "properties": {
         "ne:fid": 3263, 
         "ne:hasPlace": 15, 
@@ -309,7 +290,8 @@
         "latitude": -25.16728545617194, 
         "woe:id": 34821454, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34821454
     }
   ]
 }

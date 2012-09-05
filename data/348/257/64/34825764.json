@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Azerbaidjan"
   ], 
-  "alias_UNK_V": [
-    "Azarbaycan Respublikasi"
-  ], 
+  "ne_longitude": 50.607849, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Azerbaij\u00e3o"
@@ -438,8 +436,9 @@
       "Azerbaidzan", 
       "Azerbaid\u017ean"
     ], 
-    "Norwegian": [
-      "Aserbajdsjan"
+    "Portuguese": [
+      "Azerbaijao", 
+      "Azerbaij\u00e3o"
     ], 
     "Czech": [
       "\u00c1zerb\u00e1jd\u017e\u00e1n"
@@ -447,8 +446,10 @@
     "Romanian": [
       "Azerbaidjan"
     ], 
-    "Dutch": [
-      "Azerbeidzjan"
+    "Spanish": [
+      "Azerbaidj\u00e1n", 
+      "Azerbaidjan", 
+      "Azerbaiy\u00e1n"
     ], 
     "Japanese": [
       "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3", 
@@ -458,31 +459,28 @@
       "Azerba\u00efdjan", 
       "Azerbaidjan"
     ], 
-    "German": [
-      "Aserbaidschan", 
-      "Republik Aserbaidschan"
-    ], 
-    "Portuguese": [
-      "Azerbaijao", 
-      "Azerbaij\u00e3o"
-    ], 
-    "Unknown": [
-      "Azarbaycan Respublikasi"
-    ], 
-    "Spanish": [
-      "Azerbaidj\u00e1n", 
-      "Azerbaidjan", 
-      "Azerbaiy\u00e1n"
+    "Norwegian": [
+      "Aserbajdsjan"
     ], 
     "English": [
       "AZ", 
       "Azerbaijani Republic"
+    ], 
+    "Unknown": [
+      "Azarbaycan Respublikasi"
+    ], 
+    "Dutch": [
+      "Azerbeidzjan"
     ], 
     "Polish": [
       "Azerbejd\u017can"
     ], 
     "Korean": [
       "\uc544\uc81c\ub974\ubc14\uc774\uc794"
+    ], 
+    "German": [
+      "Aserbaidschan", 
+      "Republik Aserbaidschan"
     ], 
     "Italian": [
       "Azerbaigian"
@@ -494,8 +492,8 @@
   "alias_ITA_Q": [
     "Azerbaigian"
   ], 
-  "alias_GER_V": [
-    "Republik Aserbaidschan"
+  "alias_DAN_Q": [
+    "Aserbajdsjan"
   ], 
   "alias_CHI_V": [
     "\u4e9e\u585e\u62dc\u7136"
@@ -540,8 +538,8 @@
   "alias_CZE_Q": [
     "\u00c1zerb\u00e1jd\u017e\u00e1n"
   ], 
-  "alias_DAN_Q": [
-    "Aserbajdsjan"
+  "alias_GER_V": [
+    "Republik Aserbaidschan"
   ], 
   "alias_GER_Q": [
     "Aserbaidschan"
@@ -553,7 +551,9 @@
   "alias_HUN_Q": [
     "Azerbajdzs\u00e1n"
   ], 
-  "ne_longitude": 50.607849, 
+  "alias_UNK_V": [
+    "Azarbaycan Respublikasi"
+  ], 
   "longitude": 47.687069, 
   "iso": "AZ", 
   "sw_latitude": 38.397041, 
@@ -599,25 +599,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9729, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825764", 
-          "woe:region=20070221", 
-          "woe:country=23424741"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "AZ", 
-        "longitude": 48.7850182471958, 
-        "artisanal:id": 34825764, 
-        "latitude": 41.47528517981914, 
-        "woe:id": 34825764, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825764, 
       "properties": {
         "ne:fid": 9729, 
         "ne:hasPlace": 15, 
@@ -635,7 +616,8 @@
         "latitude": 41.47528517981914, 
         "woe:id": 34825764, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825764
     }
   ], 
   "alias_FRE_S": [

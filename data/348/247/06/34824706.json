@@ -118,9 +118,8 @@
       "Kongo \u2013 Brazzaville", 
       "Kongon tasavalta"
     ], 
-    "Norwegian": [
-      "Republikken Kongo", 
-      "Kongo-Brazzaville"
+    "Portuguese": [
+      "Congo-Brazzaville"
     ], 
     "Czech": [
       "Republika Kongo", 
@@ -129,8 +128,8 @@
     "Romanian": [
       "Republica Congo"
     ], 
-    "Dutch": [
-      "Congo-Brazzaville"
+    "Spanish": [
+      "Rep\u00fablica del Congo"
     ], 
     "Japanese": [
       "\u30b3\u30f3\u30b4\u5171\u548c\u56fd", 
@@ -141,22 +140,19 @@
       "Republique du Congo", 
       "Congo-Brazzaville"
     ], 
-    "German": [
-      "Kongo", 
-      "Republik Kongo"
-    ], 
-    "Portuguese": [
-      "Congo-Brazzaville"
-    ], 
-    "Unknown": [
-      "Republika Kongo"
-    ], 
-    "Spanish": [
-      "Rep\u00fablica del Congo"
+    "Norwegian": [
+      "Republikken Kongo", 
+      "Kongo-Brazzaville"
     ], 
     "English": [
       "CG", 
       "Congo Brazzaville"
+    ], 
+    "Unknown": [
+      "Republika Kongo"
+    ], 
+    "Dutch": [
+      "Congo-Brazzaville"
     ], 
     "Polish": [
       "Kongo", 
@@ -165,6 +161,10 @@
     "Korean": [
       "\ucf69\uace0", 
       "\ucf69\uace0 \uacf5\ud654\uad6d"
+    ], 
+    "German": [
+      "Kongo", 
+      "Republik Kongo"
     ], 
     "Italian": [
       "Repubblica del Congo"
@@ -176,8 +176,8 @@
   "alias_ITA_Q": [
     "Repubblica del Congo"
   ], 
-  "alias_GER_V": [
-    "Republik Kongo"
+  "alias_DAN_Q": [
+    "Republikken Congo"
   ], 
   "woeid": 23424779, 
   "alias_JPN_Q": [
@@ -193,6 +193,9 @@
     "Kongon tasavalta"
   ], 
   "sw_longitude": 11.205, 
+  "alias_HUN_V": [
+    "Kong\u00f3"
+  ], 
   "alias_FIN_V": [
     "Kongo \u2013 Brazzaville"
   ], 
@@ -209,9 +212,6 @@
     "\ucf69\uace0 \uacf5\ud654\uad6d"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Congo-Brazzaville"
-  ], 
   "alias_DUT_Q": [
     "Congo-Brazzaville"
   ], 
@@ -219,11 +219,11 @@
   "alias_CZE_Q": [
     "Republika Kongo"
   ], 
-  "alias_DAN_Q": [
-    "Republikken Congo"
+  "alias_GER_V": [
+    "Republik Kongo"
   ], 
-  "alias_GER_Q": [
-    "Kongo"
+  "alias_DAN_V": [
+    "Congo-Brazzaville"
   ], 
   "lang": "ENG", 
   "name": "Congo", 
@@ -238,8 +238,8 @@
   "alias_HUN_Q": [
     "Kong\u00f3i K\u00f6zt\u00e1rsas\u00e1g"
   ], 
-  "alias_HUN_V": [
-    "Kong\u00f3"
+  "alias_GER_Q": [
+    "Kongo"
   ], 
   "ne_longitude": 18.64983, 
   "longitude": 14.92741, 
@@ -298,25 +298,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8174, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824706", 
-          "woe:region=2344972", 
-          "woe:country=23424779"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CG", 
-        "longitude": 12.690274699597646, 
-        "artisanal:id": 34824706, 
-        "latitude": -4.206424252940127, 
-        "woe:id": 34824706, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824706, 
       "properties": {
         "ne:fid": 8174, 
         "ne:hasPlace": 15, 
@@ -334,7 +315,8 @@
         "latitude": -4.206424252940127, 
         "woe:id": 34824706, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824706
     }
   ], 
   "alias_FRE_S": [

@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Coreea de Sud"
   ], 
-  "alias_UNK_V": [
-    "Etel\u00e4-Korea"
-  ], 
+  "ne_longitude": 130.933899, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\u5927\u97d3\u6c11\u56fd"
@@ -40,9 +38,6 @@
   ], 
   "alias_ENG_A": [
     "KR"
-  ], 
-  "alias_CZE_Q": [
-    "Ji\u017en\u00ed Korea"
   ], 
   "children": {
     "placetype": [], 
@@ -216,10 +211,9 @@
       "Etela-Korea", 
       "Korean Tasavalta"
     ], 
-    "Norwegian": [
-      "S\u00f8r-Korea", 
-      "Sor-Korea", 
-      "Syd-Korea"
+    "Portuguese": [
+      "Cor\u00e9ia, Rep\u00fablica da", 
+      "Cor\u00e9ia do Sul"
     ], 
     "Czech": [
       "Ji\u017en\u00ed Korea"
@@ -227,9 +221,9 @@
     "Romanian": [
       "Coreea de Sud"
     ], 
-    "Dutch": [
-      "Korea, Republiek", 
-      "Zuid-Korea"
+    "Spanish": [
+      "Corea, Rep\u00fablica de", 
+      "Corea del Sur"
     ], 
     "Japanese": [
       "\u5927\u97d3\u6c11\u56fd", 
@@ -240,27 +234,24 @@
       "Coree du Sud", 
       "Cor\u00e9e"
     ], 
-    "German": [
-      "S\u00fcdkorea", 
-      "Korea (Republik Korea, S\u00fcdkorea)"
+    "Norwegian": [
+      "S\u00f8r-Korea", 
+      "Sor-Korea", 
+      "Syd-Korea"
     ], 
-    "Portuguese": [
-      "Cor\u00e9ia, Rep\u00fablica da", 
-      "Cor\u00e9ia do Sul"
+    "English": [
+      "KR", 
+      "South Korea", 
+      "Southkorea"
     ], 
     "Unknown": [
       "Su\u00f0ur-K\u00f3rea", 
       "Sor-Korea", 
       "Etel\u00e4-Korea"
     ], 
-    "Spanish": [
-      "Corea, Rep\u00fablica de", 
-      "Corea del Sur"
-    ], 
-    "English": [
-      "KR", 
-      "South Korea", 
-      "Southkorea"
+    "Dutch": [
+      "Korea, Republiek", 
+      "Zuid-Korea"
     ], 
     "Polish": [
       "Korea Po\u0142udniowa", 
@@ -268,6 +259,10 @@
     ], 
     "Korean": [
       "\u5927\u97d3\u6c11\u56fd"
+    ], 
+    "German": [
+      "S\u00fcdkorea", 
+      "Korea (Republik Korea, S\u00fcdkorea)"
     ], 
     "Italian": [
       "Corea", 
@@ -280,8 +275,8 @@
   "alias_ITA_Q": [
     "Corea del Sud"
   ], 
-  "alias_GER_V": [
-    "Korea (Republik Korea, S\u00fcdkorea)"
+  "alias_DAN_Q": [
+    "Sydkorea"
   ], 
   "alias_ITA_V": [
     "Corea"
@@ -309,6 +304,9 @@
     "Etela-Korea"
   ], 
   "sw_longitude": 124.608147, 
+  "alias_HUN_V": [
+    "Korea, D\u00e9l"
+  ], 
   "alias_FIN_V": [
     "Etel\u00e4-Korea"
   ], 
@@ -325,8 +323,8 @@
   ], 
   "date_indexed": "2010-12-02T17:53:06.497Z", 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Republikken Korea"
+  "alias_DUT_V": [
+    "Korea, Republiek"
   ], 
   "alias_SPA_V": [
     "Corea, Rep\u00fablica de"
@@ -335,14 +333,14 @@
     "Zuid-Korea"
   ], 
   "bbox": "33.10611,124.608147,38.612301,130.933899", 
-  "alias_DUT_V": [
-    "Korea, Republiek"
+  "alias_CZE_Q": [
+    "Ji\u017en\u00ed Korea"
   ], 
-  "alias_DAN_Q": [
-    "Sydkorea"
+  "alias_GER_V": [
+    "Korea (Republik Korea, S\u00fcdkorea)"
   ], 
-  "alias_GER_Q": [
-    "S\u00fcdkorea"
+  "alias_DAN_V": [
+    "Republikken Korea"
   ], 
   "lang": "KOR", 
   "name": "\ud55c\uad6d", 
@@ -357,10 +355,12 @@
   "alias_HUN_Q": [
     "D\u00e9l-Korea"
   ], 
-  "alias_HUN_V": [
-    "Korea, D\u00e9l"
+  "alias_GER_Q": [
+    "S\u00fcdkorea"
   ], 
-  "ne_longitude": 130.933899, 
+  "alias_UNK_V": [
+    "Etel\u00e4-Korea"
+  ], 
   "longitude": 127.850166, 
   "iso": "KR", 
   "sw_latitude": 33.10611, 
@@ -429,25 +429,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 10293, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826098", 
-          "woe:region=2345966", 
-          "woe:country=23424868"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "KR", 
-        "longitude": 127.89538816084067, 
-        "artisanal:id": 34826098, 
-        "latitude": 38.33725166768812, 
-        "woe:id": 34826098, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826098, 
       "properties": {
         "ne:fid": 10293, 
         "ne:hasPlace": -1, 
@@ -465,7 +446,8 @@
         "latitude": 38.33725166768812, 
         "woe:id": 34826098, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826098
     }
   ], 
   "alias_FRE_S": [

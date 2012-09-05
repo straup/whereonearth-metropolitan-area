@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 13.892, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Zvezna republika Nigerija"
-  ], 
+  "ne_longitude": 14.68006, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Nig\u00e9ria"
@@ -291,7 +289,9 @@
   "alias_HUN_Q": [
     "Nig\u00e9ria"
   ], 
-  "ne_longitude": 14.68006, 
+  "alias_UNK_V": [
+    "Zvezna republika Nigerija"
+  ], 
   "longitude": 8.67425, 
   "iso": "NG", 
   "sw_latitude": 4.27714, 
@@ -429,25 +429,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 847, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819848", 
-          "woe:region=2346361", 
-          "woe:country=23424908"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NG", 
-        "longitude": 5.23765771336629, 
-        "artisanal:id": 34819848, 
-        "latitude": 13.064863069189903, 
-        "woe:id": 34819848, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819848, 
       "properties": {
         "ne:fid": 847, 
         "ne:hasPlace": 20, 
@@ -465,7 +446,8 @@
         "latitude": 13.064863069189903, 
         "woe:id": 34819848, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819848
     }
   ]
 }

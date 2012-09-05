@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Hongkong"
   ], 
-  "alias_POL_Q": [
-    "Hongkong"
+  "alias_ENG_P": [
+    "Hong Kong"
   ], 
   "hierarchy": [
     {
@@ -78,8 +78,8 @@
       "Hongkongista", 
       "Hongkong"
     ], 
-    "Norwegian": [
-      "Hongkong"
+    "Portuguese": [
+      "Hong Kong"
     ], 
     "Czech": [
       "Hongkong"
@@ -87,8 +87,8 @@
     "Romanian": [
       "Hong Kong"
     ], 
-    "Dutch": [
-      "Hongkong"
+    "Spanish": [
+      "Hong Kong"
     ], 
     "Japanese": [
       "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a"
@@ -96,25 +96,25 @@
     "French": [
       "Hong Kong"
     ], 
-    "German": [
+    "Norwegian": [
       "Hongkong"
-    ], 
-    "Portuguese": [
-      "Hong Kong"
-    ], 
-    "Spanish": [
-      "Hong Kong"
     ], 
     "English": [
       "HK", 
       "Hong Kong", 
       "Hong Kong Special Administrative Region"
     ], 
+    "Dutch": [
+      "Hongkong"
+    ], 
     "Polish": [
       "Hongkong"
     ], 
     "Korean": [
       "\ud64d\ucf69"
+    ], 
+    "German": [
+      "Hongkong"
     ], 
     "Italian": [
       "Hong Kong"
@@ -127,8 +127,8 @@
     "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
   ], 
   "woeid": 24865698, 
-  "alias_ENG_P": [
-    "Hong Kong"
+  "alias_POL_Q": [
+    "Hongkong"
   ], 
   "alias_JPN_V": [
     "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a"
@@ -279,25 +279,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11571, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826920", 
-          "woe:region=24703007", 
-          "woe:country=24865698"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "HK", 
-        "longitude": 114.19193713055598, 
-        "artisanal:id": 34826920, 
-        "latitude": 22.258826330487526, 
-        "woe:id": 34826920, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826920, 
       "properties": {
         "ne:fid": 11571, 
         "ne:hasPlace": 15, 
@@ -315,7 +296,8 @@
         "latitude": 22.258826330487526, 
         "woe:id": 34826920, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826920
     }
   ], 
   "alias_FRE_Q": [

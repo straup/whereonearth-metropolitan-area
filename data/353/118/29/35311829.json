@@ -22,9 +22,7 @@
   ], 
   "ne_latitude": 27.298071, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Mavretanija"
-  ], 
+  "ne_longitude": -4.8352, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ubaa8\ub9ac\ud0c0\ub2c8\uc544"
@@ -34,9 +32,6 @@
   ], 
   "alias_ENG_A": [
     "MR"
-  ], 
-  "alias_CZE_Q": [
-    "Maurit\u00e1nie"
   ], 
   "children": {
     "placetype": [], 
@@ -134,10 +129,9 @@
       "Islamska republika Mavretanija", 
       "Mavretanija"
     ], 
-    "Dutch": [
-      "Mauretani\u00eb", 
-      "Mauretanie", 
-      "Mauritani\u00eb"
+    "English": [
+      "MR", 
+      "Mauritanian"
     ], 
     "Japanese": [
       "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2", 
@@ -150,9 +144,10 @@
       "Mauretanien", 
       "Islamische Republik Mauretanien"
     ], 
-    "English": [
-      "MR", 
-      "Mauritanian"
+    "Dutch": [
+      "Mauretani\u00eb", 
+      "Mauretanie", 
+      "Mauritani\u00eb"
     ], 
     "Polish": [
       "Mauretania"
@@ -165,8 +160,8 @@
   "alias_CHI_Q": [
     "\u8305\u5229\u5854\u5c3c\u4e9e"
   ], 
-  "alias_GER_V": [
-    "Islamische Republik Mauretanien"
+  "alias_DAN_Q": [
+    "Mauretanien"
   ], 
   "alias_CHI_V": [
     "\u8305\u5229\u5854\u5c3c\u4e9e"
@@ -186,6 +181,9 @@
   "alias_KOR_Q": [
     "\ubaa8\ub9ac\ud0c0\ub2c8"
   ], 
+  "alias_DUT_V": [
+    "Mauretani\u00eb"
+  ], 
   "alias_DUT_Q": [
     "Mauritani\u00eb"
   ], 
@@ -193,11 +191,11 @@
     "Mauretanie"
   ], 
   "bbox": "14.71554,-17.066521,27.298071,-4.8352", 
-  "alias_DUT_V": [
-    "Mauretani\u00eb"
+  "alias_CZE_Q": [
+    "Maurit\u00e1nie"
   ], 
-  "alias_DAN_Q": [
-    "Mauretanien"
+  "alias_GER_V": [
+    "Islamische Republik Mauretanien"
   ], 
   "alias_GER_Q": [
     "Mauretanien"
@@ -215,7 +213,9 @@
   "alias_HUN_Q": [
     "Maurit\u00e1nia"
   ], 
-  "ne_longitude": -4.8352, 
+  "alias_UNK_V": [
+    "Mavretanija"
+  ], 
   "longitude": -10.95086, 
   "iso": "MR", 
   "sw_latitude": 14.71554, 
@@ -293,25 +293,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1685, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311829", 
-          "woe:region=2346248", 
-          "woe:country=23424896"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MR", 
-        "longitude": -17.034020711091895, 
-        "artisanal:id": 35311829, 
-        "latitude": 20.937110177082257, 
-        "woe:id": 35311829, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311829, 
       "properties": {
         "ne:fid": 1685, 
         "ne:hasPlace": 15, 
@@ -329,7 +310,8 @@
         "latitude": 20.937110177082257, 
         "woe:id": 35311829, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311829
     }
   ], 
   "alias_FRE_Q": [

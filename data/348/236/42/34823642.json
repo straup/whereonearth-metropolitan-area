@@ -107,25 +107,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6568, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823642", 
-          "woe:region=29389238", 
-          "woe:country=20069817"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ME", 
-        "longitude": 18.945156880845143, 
-        "artisanal:id": 34823642, 
-        "latitude": 42.80363647032925, 
-        "woe:id": 34823642, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823642, 
       "properties": {
         "ne:fid": 6568, 
         "ne:hasPlace": 0, 
@@ -143,7 +124,8 @@
         "latitude": 42.80363647032925, 
         "woe:id": 34823642, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823642
     }
   ], 
   "alias_POL_Q": [
@@ -163,9 +145,7 @@
   "alias_RUM_Q": [
     "Muntenegru"
   ], 
-  "alias_UNK_V": [
-    "Republika Crna Gora"
-  ], 
+  "ne_longitude": 20.41608, 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\ubaac\ud14c\ub124\uadf8\ub85c"
@@ -294,6 +274,9 @@
     "Romanian": [
       "Muntenegru"
     ], 
+    "English": [
+      "Socialist Republic of Montenegro"
+    ], 
     "Japanese": [
       "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed"
     ], 
@@ -304,9 +287,6 @@
     "Unknown": [
       "Crna Gora", 
       "Republika Crna Gora"
-    ], 
-    "English": [
-      "Socialist Republic of Montenegro"
     ], 
     "Polish": [
       "Czarnog\u00f3ra"
@@ -344,7 +324,9 @@
   "alias_HUN_Q": [
     "Montenegr\u00f3"
   ], 
-  "ne_longitude": 20.41608, 
+  "alias_UNK_V": [
+    "Republika Crna Gora"
+  ], 
   "longitude": 19.43227, 
   "iso": "ME", 
   "sw_latitude": 41.84808, 

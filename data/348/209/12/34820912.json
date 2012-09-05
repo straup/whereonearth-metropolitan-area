@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Portugalia"
   ], 
-  "alias_UNK_V": [
-    "Portogal\u00eda"
-  ], 
+  "ne_longitude": -6.18931, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ud3ec\ub974\ud2b8\uce7c"
@@ -219,8 +217,8 @@
     ]
   }, 
   "aliases": {
-    "Chinese": [
-      "\u8461\u8404\u7259"
+    "Portuguese": [
+      "Rep\u00fablica Portuguesa"
     ], 
     "Finnish": [
       "Portugali"
@@ -228,14 +226,15 @@
     "Hungarian": [
       "Portug\u00e1lia"
     ], 
-    "Portuguese": [
-      "Rep\u00fablica Portuguesa"
-    ], 
     "Czech": [
       "Portugalsko"
     ], 
     "Romanian": [
       "Portugalia"
+    ], 
+    "English": [
+      "PT", 
+      "Portuguese Republic"
     ], 
     "Japanese": [
       "\u30dd\u30eb\u30c8\u30ac\u30eb", 
@@ -249,16 +248,15 @@
       "Portogalia", 
       "Portogal\u00eda"
     ], 
-    "English": [
-      "PT", 
-      "Portuguese Republic"
-    ], 
     "Polish": [
       "Portugalia"
     ], 
     "Korean": [
       "\ud3ec\ub974\ud2b8\uce7c", 
       "\ud3ec\ub974\ud22c\uac08"
+    ], 
+    "Chinese": [
+      "\u8461\u8404\u7259"
     ], 
     "Italian": [
       "Portogallo", 
@@ -309,7 +307,9 @@
   "alias_HUN_Q": [
     "Portug\u00e1lia"
   ], 
-  "ne_longitude": -6.18931, 
+  "alias_UNK_V": [
+    "Portogal\u00eda"
+  ], 
   "longitude": -7.84481, 
   "iso": "PT", 
   "sw_latitude": 30.028061, 
@@ -387,25 +387,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2475, 
-        "ne:hasPlace": 6, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820912", 
-          "woe:region=2346578", 
-          "woe:country=23424925"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PT", 
-        "longitude": -8.848445478651069, 
-        "artisanal:id": 34820912, 
-        "latitude": 41.92171823986191, 
-        "woe:id": 34820912, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820912, 
       "properties": {
         "ne:fid": 2475, 
         "ne:hasPlace": 6, 
@@ -423,7 +404,8 @@
         "latitude": 41.92171823986191, 
         "woe:id": 34820912, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820912
     }
   ]
 }

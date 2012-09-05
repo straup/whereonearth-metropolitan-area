@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": -8.22436, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Zambija"
-  ], 
+  "ne_longitude": 33.705711, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Z\u00e2mbia"
@@ -158,7 +156,9 @@
   "alias_UNK_Q": [
     "Samb\u00eda"
   ], 
-  "ne_longitude": 33.705711, 
+  "alias_UNK_V": [
+    "Republika Zambija"
+  ], 
   "longitude": 27.852539, 
   "iso": "ZM", 
   "sw_latitude": -18.07947, 
@@ -276,25 +276,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8218, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824736", 
-          "woe:region=2347802", 
-          "woe:country=23425003"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ZM", 
-        "longitude": 27.8710630461985, 
-        "artisanal:id": 34824736, 
-        "latitude": -12.535423698038919, 
-        "woe:id": 34824736, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824736, 
       "properties": {
         "ne:fid": 8218, 
         "ne:hasPlace": 20, 
@@ -312,7 +293,8 @@
         "latitude": -12.535423698038919, 
         "woe:id": 34824736, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824736
     }
   ], 
   "alias_FRE_Q": [

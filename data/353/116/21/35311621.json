@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Island"
   ], 
-  "alias_POL_Q": [
-    "Islandia"
+  "alias_ENG_P": [
+    "Iceland"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Islanda"
   ], 
-  "alias_UNK_V": [
-    "Islanti"
-  ], 
+  "ne_longitude": -13.23228, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Isl\u00e2ndia"
@@ -262,8 +260,8 @@
       "Islannista", 
       "Islannin"
     ], 
-    "Norwegian": [
-      "Island"
+    "Portuguese": [
+      "Isl\u00e2ndia"
     ], 
     "Czech": [
       "Island"
@@ -271,8 +269,8 @@
     "Romanian": [
       "Islanda"
     ], 
-    "Dutch": [
-      "Ijsland"
+    "Spanish": [
+      "Islandia"
     ], 
     "Japanese": [
       "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9", 
@@ -281,30 +279,30 @@
     "French": [
       "Islande"
     ], 
-    "German": [
-      "Island", 
-      "Republik Island"
-    ], 
-    "Portuguese": [
-      "Isl\u00e2ndia"
-    ], 
-    "Unknown": [
-      "Islandija", 
-      "Islanti"
-    ], 
-    "Spanish": [
-      "Islandia"
+    "Norwegian": [
+      "Island"
     ], 
     "English": [
       "IS", 
       "Iceland", 
       "Rep. Iceland"
     ], 
+    "Unknown": [
+      "Islandija", 
+      "Islanti"
+    ], 
+    "Dutch": [
+      "Ijsland"
+    ], 
     "Polish": [
       "Islandia"
     ], 
     "Korean": [
       "\uc544\uc774\uc2ac\ub780\ub4dc"
+    ], 
+    "German": [
+      "Island", 
+      "Republik Island"
     ], 
     "Italian": [
       "Islanda"
@@ -316,8 +314,8 @@
   "alias_ITA_Q": [
     "Islanda"
   ], 
-  "alias_GER_V": [
-    "Republik Island"
+  "alias_DAN_Q": [
+    "Island"
   ], 
   "alias_CHI_V": [
     "\u51b0\u5c9b"
@@ -326,8 +324,8 @@
   "alias_JPN_Q": [
     "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9"
   ], 
-  "alias_ENG_P": [
-    "Iceland"
+  "alias_POL_Q": [
+    "Islandia"
   ], 
   "alias_JPN_V": [
     "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
@@ -359,8 +357,8 @@
   "alias_CZE_Q": [
     "Island"
   ], 
-  "alias_DAN_Q": [
-    "Island"
+  "alias_GER_V": [
+    "Republik Island"
   ], 
   "alias_GER_Q": [
     "Island"
@@ -375,7 +373,9 @@
   "alias_HUN_Q": [
     "Izland"
   ], 
-  "ne_longitude": -13.23228, 
+  "alias_UNK_V": [
+    "Islanti"
+  ], 
   "longitude": -19.02116, 
   "iso": "IS", 
   "sw_latitude": 63.286751, 
@@ -429,25 +429,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1399, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311621", 
-          "woe:region=2345687", 
-          "woe:country=23424845"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "IS", 
-        "longitude": -20.3989314213587, 
-        "artisanal:id": 35311621, 
-        "latitude": 64.1610507559222, 
-        "woe:id": 35311621, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311621, 
       "properties": {
         "ne:fid": 1399, 
         "ne:hasPlace": -1, 
@@ -465,7 +446,8 @@
         "latitude": 64.1610507559222, 
         "woe:id": 35311621, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311621
     }
   ], 
   "alias_FRE_Q": [

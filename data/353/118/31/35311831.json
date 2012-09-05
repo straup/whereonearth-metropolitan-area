@@ -5,7 +5,7 @@
   "alias_ENG_A": [
     "SN"
   ], 
-  "alias_POL_Q": [
+  "alias_ENG_P": [
     "Senegal"
   ], 
   "hierarchy": [
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Senegal"
   ], 
-  "alias_UNK_V": [
-    "Republika Senegal"
-  ], 
+  "ne_longitude": -11.35588, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Senegal"
@@ -107,21 +105,6 @@
       }
     ]
   }, 
-  "alias_SWE_Q": [
-    "Senegal"
-  ], 
-  "alias_CHI_Q": [
-    "\u585e\u5167\u52a0\u723e"
-  ], 
-  "alias_ITA_Q": [
-    "Senegal"
-  ], 
-  "alias_GER_V": [
-    "Republik Senegal"
-  ], 
-  "alias_CHI_V": [
-    "\u585e\u5185\u52a0\u5c14"
-  ], 
   "aliases": {
     "Swedish": [
       "Senegal"
@@ -139,7 +122,7 @@
     "Finnish": [
       "Senegal"
     ], 
-    "Norwegian": [
+    "Portuguese": [
       "Senegal"
     ], 
     "Czech": [
@@ -148,7 +131,7 @@
     "Romanian": [
       "Senegal"
     ], 
-    "Dutch": [
+    "Spanish": [
       "Senegal"
     ], 
     "Japanese": [
@@ -158,17 +141,7 @@
     "French": [
       "R\u00e9publique du S\u00e9n\u00e9gal"
     ], 
-    "German": [
-      "Senegal", 
-      "Republik Senegal"
-    ], 
-    "Portuguese": [
-      "Senegal"
-    ], 
-    "Unknown": [
-      "Republika Senegal"
-    ], 
-    "Spanish": [
+    "Norwegian": [
       "Senegal"
     ], 
     "English": [
@@ -176,21 +149,43 @@
       "Senegal", 
       "Republic of Senegal"
     ], 
+    "Unknown": [
+      "Republika Senegal"
+    ], 
+    "Dutch": [
+      "Senegal"
+    ], 
     "Polish": [
       "Senegal"
     ], 
     "Korean": [
       "\uc138\ub124\uac08"
     ], 
+    "German": [
+      "Senegal", 
+      "Republik Senegal"
+    ], 
     "Italian": [
       "Senegal"
     ]
   }, 
+  "alias_CHI_Q": [
+    "\u585e\u5167\u52a0\u723e"
+  ], 
+  "alias_ITA_Q": [
+    "Senegal"
+  ], 
+  "alias_DAN_Q": [
+    "Senegal"
+  ], 
+  "alias_CHI_V": [
+    "\u585e\u5185\u52a0\u5c14"
+  ], 
   "woeid": 23424943, 
   "alias_JPN_Q": [
     "\u30bb\u30cd\u30ac\u30eb"
   ], 
-  "alias_ENG_P": [
+  "alias_POL_Q": [
     "Senegal"
   ], 
   "alias_JPN_V": [
@@ -210,6 +205,9 @@
     "Senegal"
   ], 
   "date_indexed": "2010-12-02T08:57:23.757Z", 
+  "alias_SWE_Q": [
+    "Senegal"
+  ], 
   "alias_DUT_Q": [
     "Senegal"
   ], 
@@ -217,8 +215,8 @@
   "alias_CZE_Q": [
     "Senegal"
   ], 
-  "alias_DAN_Q": [
-    "Senegal"
+  "alias_GER_V": [
+    "Republik Senegal"
   ], 
   "alias_GER_Q": [
     "Senegal"
@@ -230,7 +228,9 @@
   "alias_HUN_Q": [
     "Szeneg\u00e1l"
   ], 
-  "ne_longitude": -11.35588, 
+  "alias_UNK_V": [
+    "Republika Senegal"
+  ], 
   "longitude": -14.44555, 
   "iso": "SN", 
   "sw_latitude": 12.30727, 
@@ -295,25 +295,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1687, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311831", 
-          "woe:region=2346990", 
-          "woe:country=23424943"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SN", 
-        "longitude": -16.475723123367956, 
-        "artisanal:id": 35311831, 
-        "latitude": 16.02789442094372, 
-        "woe:id": 35311831, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311831, 
       "properties": {
         "ne:fid": 1687, 
         "ne:hasPlace": 15, 
@@ -331,7 +312,8 @@
         "latitude": 16.02789442094372, 
         "woe:id": 35311831, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311831
     }
   ]
 }

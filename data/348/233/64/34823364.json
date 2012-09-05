@@ -8,8 +8,8 @@
   "alias_SWE_Q": [
     "\u00d6sterrike"
   ], 
-  "alias_POL_Q": [
-    "Austria"
+  "alias_SWE_S": [
+    "Oesterrike"
   ], 
   "hierarchy": [
     {
@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Austria"
   ], 
-  "alias_UNK_V": [
-    "Austr\u00eda"
-  ], 
+  "ne_longitude": 17.160749, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "\u00c1ustria"
@@ -274,10 +272,8 @@
       "Itavalta", 
       "It\u00e4valta"
     ], 
-    "Norwegian": [
-      "Austerrike", 
-      "Oesterrike", 
-      "\u00d8sterrike"
+    "Portuguese": [
+      "\u00c1ustria"
     ], 
     "Czech": [
       "Rakousko"
@@ -285,8 +281,8 @@
     "Romanian": [
       "Austria"
     ], 
-    "Dutch": [
-      "Oostenrijk"
+    "Spanish": [
+      "Austria"
     ], 
     "Japanese": [
       "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2", 
@@ -295,31 +291,33 @@
     "French": [
       "Autriche"
     ], 
-    "German": [
-      "Republik \u00d6sterreich", 
-      "Republik Oesterreich"
-    ], 
-    "Portuguese": [
-      "\u00c1ustria"
-    ], 
-    "Unknown": [
-      "Austurr\u00edki", 
-      "Austurriki", 
-      "Austr\u00eda"
-    ], 
-    "Spanish": [
-      "Austria"
+    "Norwegian": [
+      "Austerrike", 
+      "Oesterrike", 
+      "\u00d8sterrike"
     ], 
     "English": [
       "AT", 
       "Austria", 
       "Osutoria"
     ], 
+    "Unknown": [
+      "Austurr\u00edki", 
+      "Austurriki", 
+      "Austr\u00eda"
+    ], 
+    "Dutch": [
+      "Oostenrijk"
+    ], 
     "Polish": [
       "Austria"
     ], 
     "Korean": [
       "\uc624\uc2a4\ud2b8\ub9ac\uc544"
+    ], 
+    "German": [
+      "Republik \u00d6sterreich", 
+      "Republik Oesterreich"
     ], 
     "Italian": [
       "Austria"
@@ -331,8 +329,8 @@
   "alias_ITA_Q": [
     "Austria"
   ], 
-  "alias_GER_V": [
-    "Republik \u00d6sterreich"
+  "alias_DAN_Q": [
+    "\u00d8strig"
   ], 
   "alias_CHI_V": [
     "\u5965\u5730\u5229"
@@ -341,8 +339,8 @@
   "alias_JPN_Q": [
     "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2"
   ], 
-  "alias_SWE_S": [
-    "Oesterrike"
+  "alias_POL_Q": [
+    "Austria"
   ], 
   "alias_JPN_V": [
     "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2\u5171\u548c\u56fd"
@@ -383,8 +381,8 @@
   "alias_DAN_S": [
     "Osterig"
   ], 
-  "alias_DAN_Q": [
-    "\u00d8strig"
+  "alias_GER_V": [
+    "Republik \u00d6sterreich"
   ], 
   "alias_GER_S": [
     "Republik Oesterreich"
@@ -402,7 +400,9 @@
   "alias_HUN_Q": [
     "Ausztria"
   ], 
-  "ne_longitude": 17.160749, 
+  "alias_UNK_V": [
+    "Austr\u00eda"
+  ], 
   "longitude": 13.34577, 
   "iso": "AT", 
   "sw_latitude": 46.372299, 
@@ -484,25 +484,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6149, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823364", 
-          "woe:region=2344709", 
-          "woe:country=23424750"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "AT", 
-        "longitude": 14.321526258062725, 
-        "artisanal:id": 34823364, 
-        "latitude": 46.63943967617616, 
-        "woe:id": 34823364, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823364, 
       "properties": {
         "ne:fid": 6149, 
         "ne:hasPlace": 20, 
@@ -520,7 +501,8 @@
         "latitude": 46.63943967617616, 
         "woe:id": 34823364, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823364
     }
   ], 
   "alias_FRE_Q": [

@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Ukraina"
   ], 
-  "alias_POL_Q": [
-    "Ukraina"
+  "alias_ENG_P": [
+    "Ukraine"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Ucraina"
   ], 
-  "alias_UNK_V": [
-    "Ukra\u00efna"
-  ], 
+  "ne_longitude": 40.218079, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Ucr\u00e2nia"
@@ -236,8 +234,9 @@
     "Finnish": [
       "Ukraina"
     ], 
-    "Norwegian": [
-      "Ukraina"
+    "Portuguese": [
+      "Ucrania", 
+      "Ucr\u00e2nia"
     ], 
     "Czech": [
       "Ukrajina"
@@ -245,9 +244,9 @@
     "Romanian": [
       "Ucraina"
     ], 
-    "Dutch": [
-      "Oekraine", 
-      "Oekra\u00efne"
+    "Spanish": [
+      "Ucrania", 
+      "Ucran\u00eda"
     ], 
     "Japanese": [
       "\u30a6\u30af\u30e9\u30a4\u30ca", 
@@ -256,33 +255,32 @@
     "French": [
       "Ukraine"
     ], 
-    "German": [
-      "Ukraine", 
-      "Ukrajina"
-    ], 
-    "Portuguese": [
-      "Ucrania", 
-      "Ucr\u00e2nia"
-    ], 
-    "Unknown": [
-      "Ucra\u00efna", 
-      "Oukrania", 
-      "Ukra\u00efna"
-    ], 
-    "Spanish": [
-      "Ucrania", 
-      "Ucran\u00eda"
+    "Norwegian": [
+      "Ukraina"
     ], 
     "English": [
       "UA", 
       "Ukraine", 
       "Ukrainian"
     ], 
+    "Unknown": [
+      "Ucra\u00efna", 
+      "Oukrania", 
+      "Ukra\u00efna"
+    ], 
+    "Dutch": [
+      "Oekraine", 
+      "Oekra\u00efne"
+    ], 
     "Polish": [
       "Ukraina"
     ], 
     "Korean": [
       "\uc6b0\ud06c\ub77c\uc774\ub098"
+    ], 
+    "German": [
+      "Ukraine", 
+      "Ukrajina"
     ], 
     "Italian": [
       "Ucraina"
@@ -294,8 +292,8 @@
   "alias_ITA_Q": [
     "Ucraina"
   ], 
-  "alias_GER_V": [
-    "Ukrajina"
+  "alias_DAN_Q": [
+    "Ukraine"
   ], 
   "alias_CHI_V": [
     "\u4e4c\u514b\u5170"
@@ -304,8 +302,8 @@
   "alias_JPN_Q": [
     "\u30a6\u30af\u30e9\u30a4\u30ca"
   ], 
-  "alias_ENG_P": [
-    "Ukraine"
+  "alias_POL_Q": [
+    "Ukraina"
   ], 
   "alias_JPN_V": [
     "\u30a6\u30af\u30e9\u30a4\u30ca\u5171\u548c\u56fd"
@@ -340,8 +338,8 @@
   "alias_CZE_Q": [
     "Ukrajina"
   ], 
-  "alias_DAN_Q": [
-    "Ukraine"
+  "alias_GER_V": [
+    "Ukrajina"
   ], 
   "alias_GER_Q": [
     "Ukraine"
@@ -359,7 +357,9 @@
   "alias_HUN_Q": [
     "Ukrajna"
   ], 
-  "ne_longitude": 40.218079, 
+  "alias_UNK_V": [
+    "Ukra\u00efna"
+  ], 
   "longitude": 31.173441, 
   "iso": "UA", 
   "sw_latitude": 44.390411, 
@@ -433,25 +433,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4370, 
-        "ne:hasPlace": 2, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822214", 
-          "woe:region=2347540", 
-          "woe:country=23424976"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "UA", 
-        "longitude": 37.367224651778365, 
-        "artisanal:id": 34822214, 
-        "latitude": 50.08066153077801, 
-        "woe:id": 34822214, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822214, 
       "properties": {
         "ne:fid": 4370, 
         "ne:hasPlace": 2, 
@@ -469,7 +450,8 @@
         "latitude": 50.08066153077801, 
         "woe:id": 34822214, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822214
     }
   ], 
   "alias_FRE_Q": [

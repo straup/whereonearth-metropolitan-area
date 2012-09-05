@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Kroatien"
   ], 
-  "alias_POL_Q": [
-    "Chorwacja"
+  "alias_ENG_P": [
+    "Croatia"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Croa\u0163ia"
   ], 
-  "alias_UNK_V": [
-    "Chorv\u00e1tsko"
-  ], 
+  "ne_longitude": 19.44722, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Cro\u00e1cia"
@@ -187,8 +185,8 @@
       "Kroatiasta", 
       "Kroatia"
     ], 
-    "Norwegian": [
-      "Kroatia"
+    "Portuguese": [
+      "Cro\u00e1cia"
     ], 
     "Czech": [
       "Chorvatsko"
@@ -196,9 +194,8 @@
     "Romanian": [
       "Croa\u0163ia"
     ], 
-    "Dutch": [
-      "Kroatie", 
-      "Kroati\u00eb"
+    "Spanish": [
+      "Croacia"
     ], 
     "Japanese": [
       "\u30af\u30ed\u30a2\u30c1\u30a2", 
@@ -207,30 +204,31 @@
     "French": [
       "Croatie"
     ], 
-    "German": [
-      "Kroatien", 
-      "Republik Kroatien"
-    ], 
-    "Portuguese": [
-      "Cro\u00e1cia"
-    ], 
-    "Unknown": [
-      "Kr\u00f3at\u00eda", 
-      "Chorv\u00e1tsko"
-    ], 
-    "Spanish": [
-      "Croacia"
+    "Norwegian": [
+      "Kroatia"
     ], 
     "English": [
       "HRV", 
       "Croatia", 
       "Rep. Croatia"
     ], 
+    "Unknown": [
+      "Kr\u00f3at\u00eda", 
+      "Chorv\u00e1tsko"
+    ], 
+    "Dutch": [
+      "Kroatie", 
+      "Kroati\u00eb"
+    ], 
     "Polish": [
       "Chorwacja"
     ], 
     "Korean": [
       "\ud06c\ub85c\uc544\ud2f0\uc544"
+    ], 
+    "German": [
+      "Kroatien", 
+      "Republik Kroatien"
     ], 
     "Italian": [
       "Croazia"
@@ -242,8 +240,8 @@
   "alias_ITA_Q": [
     "Croazia"
   ], 
-  "alias_GER_V": [
-    "Republik Kroatien"
+  "alias_DAN_Q": [
+    "Kroatien"
   ], 
   "alias_CHI_V": [
     "\u514b\u7f85\u57c3\u897f\u4e9e"
@@ -252,8 +250,8 @@
   "alias_JPN_Q": [
     "\u30af\u30ed\u30a2\u30c1\u30a2"
   ], 
-  "alias_ENG_P": [
-    "Croatia"
+  "alias_POL_Q": [
+    "Chorwacja"
   ], 
   "alias_JPN_V": [
     "\u30af\u30ed\u30a2\u30c1\u30a2\u5171\u548c\u56fd"
@@ -288,8 +286,8 @@
   "alias_CZE_Q": [
     "Chorvatsko"
   ], 
-  "alias_DAN_Q": [
-    "Kroatien"
+  "alias_GER_V": [
+    "Republik Kroatien"
   ], 
   "alias_GER_Q": [
     "Kroatien"
@@ -304,7 +302,9 @@
   "alias_HUN_Q": [
     "Horv\u00e1torsz\u00e1g"
   ], 
-  "ne_longitude": 19.44722, 
+  "alias_UNK_V": [
+    "Chorv\u00e1tsko"
+  ], 
   "longitude": 15.3408, 
   "iso": "HR", 
   "sw_latitude": 42.392208, 
@@ -369,25 +369,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6181, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823390", 
-          "woe:region=12577979", 
-          "woe:country=23424843"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "HR", 
-        "longitude": 16.417368937942364, 
-        "artisanal:id": 34823390, 
-        "latitude": 46.39475631490722, 
-        "woe:id": 34823390, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823390, 
       "properties": {
         "ne:fid": 6181, 
         "ne:hasPlace": 15, 
@@ -405,7 +386,8 @@
         "latitude": 46.39475631490722, 
         "woe:id": 34823390, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823390
     }
   ], 
   "alias_FRE_Q": [

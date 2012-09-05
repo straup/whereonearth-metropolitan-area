@@ -16,7 +16,9 @@
   ], 
   "ne_latitude": 11.1733, 
   "supercedes": [], 
-  "ne_longitude": 1.19178, 
+  "alias_UNK_V": [
+    "Republika Gana"
+  ], 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Gana"
@@ -137,9 +139,7 @@
   "alias_HUN_Q": [
     "Gh\u00e1na"
   ], 
-  "alias_UNK_V": [
-    "Republika Gana"
-  ], 
+  "ne_longitude": 1.19178, 
   "longitude": -1.03182, 
   "iso": "GH", 
   "sw_latitude": 4.73672, 
@@ -225,25 +225,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8088, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824660", 
-          "woe:region=2345466", 
-          "woe:country=23424824"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GH", 
-        "longitude": -0.3367432798097659, 
-        "artisanal:id": 34824660, 
-        "latitude": 5.816716080061908, 
-        "woe:id": 34824660, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824660, 
       "properties": {
         "ne:fid": 8088, 
         "ne:hasPlace": 15, 
@@ -261,7 +242,8 @@
         "latitude": 5.816716080061908, 
         "woe:id": 34824660, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824660
     }
   ]
 }

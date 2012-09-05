@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Coreea de Nord"
   ], 
-  "alias_UNK_V": [
-    "Choson MIK"
-  ], 
+  "ne_longitude": 130.674713, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc870\uc120 \ubbfc\uc8fc\uc8fc\uc758 \uc778\ubbfc \uacf5\ud654\uad6d"
@@ -40,9 +38,6 @@
   ], 
   "alias_ENG_A": [
     "KP"
-  ], 
-  "alias_CZE_Q": [
-    "Severn\u00ed Korea"
   ], 
   "children": {
     "placetype": [], 
@@ -134,8 +129,9 @@
       "Pohjois-Korea", 
       "Korean Demokraattinen Kansantasavalta"
     ], 
-    "Norwegian": [
-      "Nord-Korea"
+    "Portuguese": [
+      "Cor\u00e9ia, Rep\u00fablica Popular Democr\u00e1tica da", 
+      "Cor\u00e9ia do Norte"
     ], 
     "Czech": [
       "Severn\u00ed Korea"
@@ -143,9 +139,9 @@
     "Romanian": [
       "Coreea de Nord"
     ], 
-    "Dutch": [
-      "Korea, Democratische Volksrepubliek", 
-      "Noord-Korea"
+    "Spanish": [
+      "Corea, Rep\u00fablica Popular Democr\u00e1tica", 
+      "Corea del Norte"
     ], 
     "Japanese": [
       "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd", 
@@ -155,24 +151,19 @@
       "Rep. Pop. Dem. de Coree", 
       "Cor\u00e9e (R\u00e9publique populaire d\u00e9mocratique de)"
     ], 
-    "German": [
-      "Nordkorea", 
-      "Korea"
-    ], 
-    "Portuguese": [
-      "Cor\u00e9ia, Rep\u00fablica Popular Democr\u00e1tica da", 
-      "Cor\u00e9ia do Norte"
-    ], 
-    "Unknown": [
-      "Choson MIK"
-    ], 
-    "Spanish": [
-      "Corea, Rep\u00fablica Popular Democr\u00e1tica", 
-      "Corea del Norte"
+    "Norwegian": [
+      "Nord-Korea"
     ], 
     "English": [
       "KP", 
       "Northkorea"
+    ], 
+    "Unknown": [
+      "Choson MIK"
+    ], 
+    "Dutch": [
+      "Korea, Democratische Volksrepubliek", 
+      "Noord-Korea"
     ], 
     "Polish": [
       "Korea P\u00f3\u0142nocna", 
@@ -181,6 +172,10 @@
     "Korean": [
       "\uc870\uc120 \ubbfc\uc8fc\uc8fc\uc758 \uc778\ubbfc \uacf5\ud654\uad6d", 
       "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d"
+    ], 
+    "German": [
+      "Nordkorea", 
+      "Korea"
     ], 
     "Italian": [
       "Corea, Repubblica Popolare Democratica", 
@@ -193,8 +188,8 @@
   "alias_ITA_Q": [
     "Corea del Nord"
   ], 
-  "alias_GER_V": [
-    "Korea"
+  "alias_DAN_Q": [
+    "Nordkorea"
   ], 
   "alias_ITA_V": [
     "Corea, Repubblica Popolare Democratica"
@@ -216,6 +211,9 @@
     "Korean Demokraattinen Kansantasavalta"
   ], 
   "sw_longitude": 124.182739, 
+  "alias_HUN_V": [
+    "Korea, \u00c9szak"
+  ], 
   "alias_FIN_V": [
     "Pohjois-Korea"
   ], 
@@ -229,8 +227,8 @@
     "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Den demokratiske folkerepublik Korea"
+  "alias_DUT_V": [
+    "Korea, Democratische Volksrepubliek"
   ], 
   "alias_SPA_V": [
     "Corea, Rep\u00fablica Popular Democr\u00e1tica"
@@ -239,14 +237,14 @@
     "Noord-Korea"
   ], 
   "bbox": "37.632881,124.182739,43.006001,130.674713", 
-  "alias_DUT_V": [
-    "Korea, Democratische Volksrepubliek"
+  "alias_CZE_Q": [
+    "Severn\u00ed Korea"
   ], 
-  "alias_DAN_Q": [
-    "Nordkorea"
+  "alias_GER_V": [
+    "Korea"
   ], 
-  "alias_GER_Q": [
-    "Nordkorea"
+  "alias_DAN_V": [
+    "Den demokratiske folkerepublik Korea"
   ], 
   "lang": "ENG", 
   "name": "North Korea", 
@@ -255,10 +253,12 @@
   "alias_HUN_Q": [
     "\u00c9szak-Korea"
   ], 
-  "alias_HUN_V": [
-    "Korea, \u00c9szak"
+  "alias_GER_Q": [
+    "Nordkorea"
   ], 
-  "ne_longitude": 130.674713, 
+  "alias_UNK_V": [
+    "Choson MIK"
+  ], 
   "longitude": 127.495216, 
   "iso": "KP", 
   "sw_latitude": 37.632881, 
@@ -355,25 +355,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 10104, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825978", 
-          "woe:region=2345958", 
-          "woe:country=23424865"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "KP", 
-        "longitude": 129.77185188213323, 
-        "artisanal:id": 34825978, 
-        "latitude": 41.762959807580124, 
-        "woe:id": 34825978, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825978, 
       "properties": {
         "ne:fid": 10104, 
         "ne:hasPlace": 20, 
@@ -391,7 +372,8 @@
         "latitude": 41.762959807580124, 
         "woe:id": 34825978, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825978
     }
   ], 
   "alias_FRE_S": [

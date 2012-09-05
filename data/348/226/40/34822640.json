@@ -28,9 +28,7 @@
   "alias_RUM_Q": [
     "Olanda"
   ], 
-  "alias_UNK_V": [
-    "Holanda"
-  ], 
+  "ne_longitude": 7.22761, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ub124\ub4e4\ub780\ub4dc"
@@ -46,9 +44,6 @@
   ], 
   "alias_POR_S": [
     "Paises Baixos"
-  ], 
-  "alias_CZE_Q": [
-    "Nizozemsko"
   ], 
   "children": {
     "placetype": [], 
@@ -159,8 +154,10 @@
     "Finnish": [
       "Alankomaat"
     ], 
-    "Norwegian": [
-      "Holland"
+    "Portuguese": [
+      "Neerl\u00e2ndia", 
+      "Paises Baixos", 
+      "Pa\u00edses Baixos"
     ], 
     "Czech": [
       "Nizozemsko", 
@@ -170,8 +167,10 @@
       "Olanda", 
       "\u0162\u0103rile de Jos"
     ], 
-    "Dutch": [
-      "Koninkrijk der Nederlanden"
+    "Spanish": [
+      "Holanda", 
+      "Paises Bajos", 
+      "Pa\u00edses Bajos"
     ], 
     "Japanese": [
       "\u30aa\u30e9\u30f3\u30c0", 
@@ -181,30 +180,21 @@
       "Pays-Bas", 
       "Hollande"
     ], 
-    "German": [
-      "Niederlande", 
-      "K\u00f6nigreich der Niederlande", 
-      "Konigreich der Niederlande"
+    "Norwegian": [
+      "Holland"
     ], 
-    "Portuguese": [
-      "Neerl\u00e2ndia", 
-      "Paises Baixos", 
-      "Pa\u00edses Baixos"
+    "English": [
+      "NLD", 
+      "Netherlands", 
+      "Holland"
     ], 
     "Unknown": [
       "Pa\u00efsos Baixos", 
       "Kato Chores", 
       "Holanda"
     ], 
-    "Spanish": [
-      "Holanda", 
-      "Paises Bajos", 
-      "Pa\u00edses Bajos"
-    ], 
-    "English": [
-      "NLD", 
-      "Netherlands", 
-      "Holland"
+    "Dutch": [
+      "Koninkrijk der Nederlanden"
     ], 
     "Polish": [
       "Niderlandy", 
@@ -213,6 +203,11 @@
     "Korean": [
       "\ub124\ub4e4\ub780\ub4dc", 
       "\ub124\ub35c\ub780\ub4dc"
+    ], 
+    "German": [
+      "Niederlande", 
+      "K\u00f6nigreich der Niederlande", 
+      "Konigreich der Niederlande"
     ], 
     "Italian": [
       "Olanda", 
@@ -225,8 +220,8 @@
   "alias_ITA_Q": [
     "Paesi Bassi"
   ], 
-  "alias_GER_V": [
-    "K\u00f6nigreich der Niederlande"
+  "alias_DAN_Q": [
+    "Nederlandene"
   ], 
   "alias_ITA_V": [
     "Olanda"
@@ -261,30 +256,30 @@
     "Holland"
   ], 
   "date_indexed": "2010-12-02T18:17:47.034Z", 
-  "alias_FRE_V": [
-    "Hollande"
-  ], 
   "alias_KOR_Q": [
     "\ub124\ub35c\ub780\ub4dc"
   ], 
-  "alias_DAN_V": [
-    "Holland"
+  "alias_DUT_V": [
+    "Koninkrijk der Nederlanden"
   ], 
   "alias_SPA_V": [
     "Holanda"
+  ], 
+  "alias_RUM_V": [
+    "\u0162\u0103rile de Jos"
   ], 
   "alias_CZE_V": [
     "Holandsko"
   ], 
   "bbox": "50.75045,3.35833,53.55426,7.22761", 
-  "alias_DUT_V": [
-    "Koninkrijk der Nederlanden"
+  "alias_CZE_Q": [
+    "Nizozemsko"
   ], 
-  "alias_DAN_Q": [
-    "Nederlandene"
+  "alias_GER_V": [
+    "K\u00f6nigreich der Niederlande"
   ], 
-  "alias_GER_Q": [
-    "Niederlande"
+  "alias_DAN_V": [
+    "Holland"
   ], 
   "alias_GER_S": [
     "Konigreich der Niederlande"
@@ -302,12 +297,17 @@
   "alias_HUN_Q": [
     "Hollandia"
   ], 
-  "ne_longitude": 7.22761, 
+  "alias_GER_Q": [
+    "Niederlande"
+  ], 
+  "alias_UNK_V": [
+    "Holanda"
+  ], 
   "longitude": 5.32986, 
   "iso": "NL", 
   "sw_latitude": 50.75045, 
-  "alias_RUM_V": [
-    "\u0162\u0103rile de Jos"
+  "alias_FRE_V": [
+    "Hollande"
   ], 
   "fullname": "Nederland, Netherlands", 
   "features": [
@@ -783,25 +783,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 5027, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822640", 
-          "woe:region=2346376", 
-          "woe:country=23424909"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NL", 
-        "longitude": 6.885095286675503, 
-        "artisanal:id": 34822640, 
-        "latitude": 53.17946801862962, 
-        "woe:id": 34822640, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822640, 
       "properties": {
         "ne:fid": 5027, 
         "ne:hasPlace": 15, 
@@ -819,7 +800,8 @@
         "latitude": 53.17946801862962, 
         "woe:id": 34822640, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822640
     }
   ], 
   "alias_UNK_Q": [

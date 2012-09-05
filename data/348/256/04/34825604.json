@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Bahrein"
   ], 
-  "alias_UNK_V": [
-    "Dawlat Al-Bahrayn"
-  ], 
+  "ne_longitude": 50.828499, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Bareine"
@@ -129,9 +127,6 @@
       "Barem", 
       "Bahrein"
     ], 
-    "Spanish": [
-      "Bahr\u00e9in"
-    ], 
     "Hungarian": [
       "Bahrein"
     ], 
@@ -161,9 +156,8 @@
       "Bahrajn", 
       "Dawlat Al-Bahrayn"
     ], 
-    "English": [
-      "BH", 
-      "Kingdom of Bahrain"
+    "Spanish": [
+      "Bahr\u00e9in"
     ], 
     "Polish": [
       "Bahrajn"
@@ -173,6 +167,10 @@
     ], 
     "Korean": [
       "\ubc14\ub808\uc778"
+    ], 
+    "English": [
+      "BH", 
+      "Kingdom of Bahrain"
     ], 
     "Italian": [
       "Bahrein"
@@ -219,7 +217,9 @@
   "alias_HUN_Q": [
     "Bahrein"
   ], 
-  "ne_longitude": 50.828499, 
+  "alias_UNK_V": [
+    "Dawlat Al-Bahrayn"
+  ], 
   "longitude": 50.5485, 
   "iso": "BH", 
   "sw_latitude": 25.5422, 
@@ -411,25 +411,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9532, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825604", 
-          "woe:region=56051601", 
-          "woe:country=23424753"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BH", 
-        "longitude": 50.5290727324699, 
-        "artisanal:id": 34825604, 
-        "latitude": 26.15647011288169, 
-        "woe:id": 34825604, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825604, 
       "properties": {
         "ne:fid": 9532, 
         "ne:hasPlace": 20, 
@@ -447,7 +428,8 @@
         "latitude": 26.15647011288169, 
         "woe:id": 34825604, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825604
     }
   ], 
   "alias_FRE_Q": [

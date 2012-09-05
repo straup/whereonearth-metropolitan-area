@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Luxemburg"
   ], 
-  "alias_UNK_V": [
-    "Veliko vojvodstvo Luksemburg"
-  ], 
+  "ne_longitude": 6.53117, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Luxemburgo"
@@ -113,8 +111,8 @@
     "Romanian": [
       "Luxemburg"
     ], 
-    "Dutch": [
-      "Luxemburg"
+    "Spanish": [
+      "Luxemburgo"
     ], 
     "Japanese": [
       "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af", 
@@ -133,18 +131,18 @@
       "Louxemvourgo", 
       "Veliko vojvodstvo Luksemburg"
     ], 
-    "Spanish": [
-      "Luxemburgo"
-    ], 
-    "English": [
-      "LUX", 
-      "Luxembourgois"
+    "Dutch": [
+      "Luxemburg"
     ], 
     "Polish": [
       "Luksemburg"
     ], 
     "Korean": [
       "\ub8e9\uc148\ubd80\ub974\ud06c"
+    ], 
+    "English": [
+      "LUX", 
+      "Luxembourgois"
     ], 
     "Italian": [
       "Lussemburgo"
@@ -221,7 +219,9 @@
   "alias_GER_Q": [
     "Luxemburg"
   ], 
-  "ne_longitude": 6.53117, 
+  "alias_UNK_V": [
+    "Veliko vojvodstvo Luksemburg"
+  ], 
   "longitude": 6.13348, 
   "iso": "LU", 
   "sw_latitude": 49.447689, 
@@ -278,25 +278,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 5530, 
-        "ne:hasPlace": 2, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822962", 
-          "woe:region=20070559", 
-          "woe:country=23424881"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "LU", 
-        "longitude": 6.382980725381838, 
-        "artisanal:id": 34822962, 
-        "latitude": 49.5716424849446, 
-        "woe:id": 34822962, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822962, 
       "properties": {
         "ne:fid": 5530, 
         "ne:hasPlace": 2, 
@@ -314,7 +295,8 @@
         "latitude": 49.5716424849446, 
         "woe:id": 34822962, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822962
     }
   ]
 }

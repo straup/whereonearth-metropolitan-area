@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 18.520161, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "P\u00faerto-R\u00edco"
-  ], 
+  "ne_longitude": -65.219978, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Porto Rico"
@@ -516,7 +514,9 @@
   "alias_UNK_Q": [
     "Portoriko"
   ], 
-  "ne_longitude": -65.219978, 
+  "alias_UNK_V": [
+    "P\u00faerto-R\u00edco"
+  ], 
   "longitude": -66.428886, 
   "iso": "PR", 
   "sw_latitude": 17.883039, 
@@ -586,25 +586,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2133, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820712", 
-          "woe:region=2346864", 
-          "woe:country=23424935"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PR", 
-        "longitude": -66.41329220056414, 
-        "artisanal:id": 34820712, 
-        "latitude": 18.458821952809775, 
-        "woe:id": 34820712, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820712, 
       "properties": {
         "ne:fid": 2133, 
         "ne:hasPlace": 15, 
@@ -622,7 +603,8 @@
         "latitude": 18.458821952809775, 
         "woe:id": 34820712, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820712
     }
   ], 
   "alias_FRE_Q": [

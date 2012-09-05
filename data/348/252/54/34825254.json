@@ -93,8 +93,9 @@
     "Unknown": [
       "Saltanat 'Uman"
     ], 
-    "Spanish": [
-      "Om\u00e1n"
+    "English": [
+      "OM", 
+      "Sultanate of Oman"
     ], 
     "Japanese": [
       "\u30aa\u30de\u30fc\u30f3", 
@@ -103,9 +104,8 @@
     "German": [
       "Sultanat Oman"
     ], 
-    "English": [
-      "OM", 
-      "Sultanate of Oman"
+    "Spanish": [
+      "Om\u00e1n"
     ], 
     "Korean": [
       "\uc624\ub9cc"
@@ -200,25 +200,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9008, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825254", 
-          "woe:region=7038775", 
-          "woe:country=23424898"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "OM", 
-        "longitude": 56.57680938119601, 
-        "artisanal:id": 34825254, 
-        "latitude": 24.532370602670085, 
-        "woe:id": 34825254, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825254, 
       "properties": {
         "ne:fid": 9008, 
         "ne:hasPlace": 15, 
@@ -236,7 +217,8 @@
         "latitude": 24.532370602670085, 
         "woe:id": 34825254, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825254
     }
   ]
 }

@@ -1,4 +1,7 @@
 {
+  "alias_RUM_V": [
+    "Statele Unite"
+  ], 
   "alias_ENG_V": [
     "Unitedstates"
   ], 
@@ -25,9 +28,7 @@
   "alias_RUM_Q": [
     "Statele Unite Ale Americii"
   ], 
-  "alias_UNK_V": [
-    "Beikoku"
-  ], 
+  "ne_longitude": -66.940643, 
   "placetype": "Country", 
   "alias_POR_V": [
     "EUA"
@@ -40,9 +41,6 @@
   ], 
   "alias_POR_S": [
     "Estados Unidos da America"
-  ], 
-  "alias_CZE_Q": [
-    "Spojen\u00e9 St\u00e1ty Americk\u00e9"
   ], 
   "children": {
     "LandFeature": [
@@ -1584,8 +1582,10 @@
       "Amerikan yhdysvallat", 
       "Yhdysvallat"
     ], 
-    "Norwegian": [
-      "Amerikas Forente Stater"
+    "Portuguese": [
+      "EUA", 
+      "Estados Unidos da America", 
+      "Estados Unidos"
     ], 
     "Czech": [
       "Spojen\u00e9 St\u00e1ty Americk\u00e9", 
@@ -1595,9 +1595,10 @@
       "Statele Unite Ale Americii", 
       "Statele Unite"
     ], 
-    "Dutch": [
-      "VS", 
-      "Verenigde Staten"
+    "Spanish": [
+      "Estadosunidos", 
+      "Estados Unidos de America", 
+      "Estados Unidos"
     ], 
     "Japanese": [
       "\u30a2\u30e1\u30ea\u30ab", 
@@ -1608,34 +1609,31 @@
       "Amerique", 
       "Am\u00e9rique"
     ], 
-    "German": [
-      "Vereinigte Staaten", 
-      "Amerika"
+    "Norwegian": [
+      "Amerikas Forente Stater"
     ], 
-    "Portuguese": [
-      "EUA", 
-      "Estados Unidos da America", 
-      "Estados Unidos"
+    "English": [
+      "USA", 
+      "Unitedstates"
     ], 
     "Unknown": [
       "Bandar\u00edkin", 
       "Bandarikin", 
       "Beikoku"
     ], 
-    "Spanish": [
-      "Estadosunidos", 
-      "Estados Unidos de America", 
-      "Estados Unidos"
-    ], 
-    "English": [
-      "USA", 
-      "Unitedstates"
+    "Dutch": [
+      "VS", 
+      "Verenigde Staten"
     ], 
     "Polish": [
       "Stany Zjednoczone"
     ], 
     "Korean": [
       "\ubbf8\uad6d"
+    ], 
+    "German": [
+      "Vereinigte Staaten", 
+      "Amerika"
     ], 
     "Italian": [
       "Stati Uniti", 
@@ -1674,6 +1672,9 @@
     "Estados Unidos de America"
   ], 
   "sw_longitude": -179.150558, 
+  "alias_HUN_V": [
+    "Egyes\u00fclt \u00c1llamok"
+  ], 
   "alias_FIN_V": [
     "Amerikan yhdysvallat"
   ], 
@@ -1683,12 +1684,9 @@
     "Amerikas Forente Stater"
   ], 
   "date_indexed": "2010-12-02T18:39:52.755Z", 
-  "alias_FRE_V": [
-    "Am\u00e9rique"
-  ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Amerikas Forenede Stater"
+  "alias_DUT_V": [
+    "VS"
   ], 
   "alias_SPA_V": [
     "Estadosunidos"
@@ -1697,14 +1695,14 @@
     "Verenigde Staten"
   ], 
   "bbox": "18.91172,-179.150558,71.441048,-66.940643", 
-  "alias_DUT_V": [
-    "VS"
+  "alias_CZE_Q": [
+    "Spojen\u00e9 St\u00e1ty Americk\u00e9"
   ], 
   "alias_GER_V": [
     "Amerika"
   ], 
-  "alias_GER_Q": [
-    "Vereinigte Staaten"
+  "alias_DAN_V": [
+    "Amerikas Forenede Stater"
   ], 
   "lang": "ENG", 
   "name": "United States", 
@@ -1722,15 +1720,17 @@
   "alias_HUN_Q": [
     "Amerikai Egyes\u00fclt \u00c1llamok"
   ], 
-  "alias_HUN_V": [
-    "Egyes\u00fclt \u00c1llamok"
+  "alias_GER_Q": [
+    "Vereinigte Staaten"
   ], 
-  "ne_longitude": -66.940643, 
+  "alias_UNK_V": [
+    "Beikoku"
+  ], 
   "longitude": -95.845016, 
   "iso": "US", 
   "sw_latitude": 18.91172, 
-  "alias_RUM_V": [
-    "Statele Unite"
+  "alias_FRE_V": [
+    "Am\u00e9rique"
   ], 
   "fullname": "United States", 
   "features": [
@@ -1806,25 +1806,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1041, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819978", 
-          "woe:region=2347585", 
-          "woe:country=23424977"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "US", 
-        "longitude": -111.28871868413123, 
-        "artisanal:id": 34819978, 
-        "latitude": 47.50829763783676, 
-        "woe:id": 34819978, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819978, 
       "properties": {
         "ne:fid": 1041, 
         "ne:hasPlace": 20, 
@@ -1842,7 +1823,8 @@
         "latitude": 47.50829763783676, 
         "woe:id": 34819978, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819978
     }
   ], 
   "alias_FRE_S": [

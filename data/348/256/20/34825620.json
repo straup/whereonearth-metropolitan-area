@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Egipt"
   ], 
-  "alias_UNK_V": [
-    "\u00c6gypten"
-  ], 
+  "ne_longitude": 36.233822, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Egipto"
@@ -222,8 +220,8 @@
     "Romanian": [
       "Egipt"
     ], 
-    "Dutch": [
-      "Egypte"
+    "Spanish": [
+      "Egipto"
     ], 
     "Japanese": [
       "\u30a8\u30b8\u30d7\u30c8", 
@@ -237,18 +235,18 @@
       "AEgypten", 
       "\u00c6gypten"
     ], 
-    "Spanish": [
-      "Egipto"
-    ], 
-    "English": [
-      "EG", 
-      "Arab Republic of Egypt"
+    "Dutch": [
+      "Egypte"
     ], 
     "Polish": [
       "Egipt"
     ], 
     "Korean": [
       "\uc774\uc9d1\ud2b8"
+    ], 
+    "English": [
+      "EG", 
+      "Arab Republic of Egypt"
     ], 
     "Italian": [
       "Egitto"
@@ -260,8 +258,8 @@
   "alias_ITA_Q": [
     "Egitto"
   ], 
-  "alias_GER_V": [
-    "Arabische Republik \u00c4gypten"
+  "alias_DAN_Q": [
+    "Egypten"
   ], 
   "woeid": 23424802, 
   "alias_JPN_Q": [
@@ -287,18 +285,15 @@
     "\uc774\uc9d1\ud2b8"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "\u00c6gypten"
-  ], 
   "alias_DUT_Q": [
     "Egypte"
   ], 
   "bbox": "21.72538,24.698099,31.667339,36.233822", 
-  "alias_DAN_Q": [
-    "Egypten"
+  "alias_GER_V": [
+    "Arabische Republik \u00c4gypten"
   ], 
-  "alias_GER_Q": [
-    "\u00c4gypten"
+  "alias_DAN_V": [
+    "\u00c6gypten"
   ], 
   "alias_GER_S": [
     "Agypten"
@@ -316,7 +311,12 @@
   "alias_HUN_Q": [
     "Egyiptom"
   ], 
-  "ne_longitude": 36.233822, 
+  "alias_GER_Q": [
+    "\u00c4gypten"
+  ], 
+  "alias_UNK_V": [
+    "\u00c6gypten"
+  ], 
   "longitude": 30.246469, 
   "iso": "EG", 
   "sw_latitude": 21.72538, 
@@ -370,25 +370,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9551, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825620", 
-          "woe:region=2345232", 
-          "woe:country=23424802"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "EG", 
-        "longitude": 30.84836745308485, 
-        "artisanal:id": 34825620, 
-        "latitude": 28.66100675606834, 
-        "woe:id": 34825620, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825620, 
       "properties": {
         "ne:fid": 9551, 
         "ne:hasPlace": 0, 
@@ -406,7 +387,8 @@
         "latitude": 28.66100675606834, 
         "woe:id": 34825620, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825620
     }
   ], 
   "alias_FRE_Q": [

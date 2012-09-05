@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 23.283779, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Kuba"
-  ], 
+  "ne_longitude": -74.131783, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ud050\ubc14"
@@ -126,28 +124,6 @@
       }
     ]
   }, 
-  "alias_SWE_Q": [
-    "Kuba"
-  ], 
-  "alias_CHI_Q": [
-    "\u53e4\u5df4"
-  ], 
-  "woeid": 23424793, 
-  "alias_JPN_Q": [
-    "\u30ad\u30e5\u30fc\u30d0"
-  ], 
-  "alias_JPN_V": [
-    "\u30ad\u30e5\u30fc\u30d0\u5171\u548c\u56fd"
-  ], 
-  "alias_FIN_Q": [
-    "Kuuba"
-  ], 
-  "sw_longitude": -84.957428, 
-  "alias_FIN_V": [
-    "Kuubasta"
-  ], 
-  "provider": "geoplanet 7.6.0", 
-  "latitude": 21.511021, 
   "aliases": {
     "Swedish": [
       "Kuba"
@@ -189,8 +165,30 @@
       "\ucfe0\ubc14"
     ]
   }, 
+  "alias_CHI_Q": [
+    "\u53e4\u5df4"
+  ], 
+  "woeid": 23424793, 
+  "alias_JPN_Q": [
+    "\u30ad\u30e5\u30fc\u30d0"
+  ], 
+  "alias_JPN_V": [
+    "\u30ad\u30e5\u30fc\u30d0\u5171\u548c\u56fd"
+  ], 
+  "alias_FIN_Q": [
+    "Kuuba"
+  ], 
+  "sw_longitude": -84.957428, 
+  "alias_FIN_V": [
+    "Kuubasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 21.511021, 
   "date_indexed": "2010-12-02T08:58:58.127Z", 
   "adjacent": [], 
+  "alias_SWE_Q": [
+    "Kuba"
+  ], 
   "bbox": "19.828079,-84.957428,23.283779,-74.131783", 
   "alias_CZE_Q": [
     "Kuba"
@@ -211,7 +209,9 @@
   "alias_HUN_Q": [
     "Kuba"
   ], 
-  "ne_longitude": -74.131783, 
+  "alias_UNK_V": [
+    "Republika Kuba"
+  ], 
   "longitude": -77.806793, 
   "iso": "CU", 
   "sw_latitude": 19.828079, 
@@ -289,25 +289,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2126, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=35312159", 
-          "woe:region=2345108", 
-          "woe:country=23424793"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CU", 
-        "longitude": -81.29672467509964, 
-        "artisanal:id": 35312159, 
-        "latitude": 23.121766143345333, 
-        "woe:id": 35312159, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35312159, 
       "properties": {
         "ne:fid": 2126, 
         "ne:hasPlace": 15, 
@@ -325,7 +306,8 @@
         "latitude": 23.121766143345333, 
         "woe:id": 35312159, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35312159
     }
   ]
 }

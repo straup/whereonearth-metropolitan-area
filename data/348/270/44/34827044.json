@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Indonesien"
   ], 
-  "alias_POL_Q": [
-    "Indonezja"
+  "alias_ENG_P": [
+    "Indonesia"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Indonezia"
   ], 
-  "alias_UNK_V": [
-    "Republika Indonezija"
-  ], 
+  "ne_longitude": 141.021805, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Indon\u00e9sia"
@@ -452,8 +450,8 @@
     "Finnish": [
       "Indonesia"
     ], 
-    "Norwegian": [
-      "Indonesia"
+    "Portuguese": [
+      "Indon\u00e9sia"
     ], 
     "Czech": [
       "Indon\u00e9sie"
@@ -461,9 +459,8 @@
     "Romanian": [
       "Indonezia"
     ], 
-    "Dutch": [
-      "Indonesie", 
-      "Indonesi\u00eb"
+    "Spanish": [
+      "Indonesia"
     ], 
     "Japanese": [
       "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2", 
@@ -474,18 +471,7 @@
       "Indonesie", 
       "Indes orientales n\u00e9erlandaises"
     ], 
-    "German": [
-      "Indonesien", 
-      "Republik Indonesien"
-    ], 
-    "Portuguese": [
-      "Indon\u00e9sia"
-    ], 
-    "Unknown": [
-      "Ind\u00f3nes\u00eda", 
-      "Republika Indonezija"
-    ], 
-    "Spanish": [
+    "Norwegian": [
       "Indonesia"
     ], 
     "English": [
@@ -493,11 +479,23 @@
       "Indonesia", 
       "Republic of Indonesia"
     ], 
+    "Unknown": [
+      "Ind\u00f3nes\u00eda", 
+      "Republika Indonezija"
+    ], 
+    "Dutch": [
+      "Indonesie", 
+      "Indonesi\u00eb"
+    ], 
     "Polish": [
       "Indonezja"
     ], 
     "Korean": [
       "\uc778\ub3c4\ub124\uc2dc\uc544"
+    ], 
+    "German": [
+      "Indonesien", 
+      "Republik Indonesien"
     ], 
     "Italian": [
       "Indonesia"
@@ -509,8 +507,8 @@
   "alias_ITA_Q": [
     "Indonesia"
   ], 
-  "alias_GER_V": [
-    "Republik Indonesien"
+  "alias_DAN_Q": [
+    "Indonesien"
   ], 
   "alias_CHI_V": [
     "\u5370\u5ea6\u5c3c\u897f\u4e9a"
@@ -519,8 +517,8 @@
   "alias_JPN_Q": [
     "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2"
   ], 
-  "alias_ENG_P": [
-    "Indonesia"
+  "alias_POL_Q": [
+    "Indonezja"
   ], 
   "alias_JPN_V": [
     "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u5171\u548c\u56fd"
@@ -552,8 +550,8 @@
   "alias_CZE_Q": [
     "Indon\u00e9sie"
   ], 
-  "alias_DAN_Q": [
-    "Indonesien"
+  "alias_GER_V": [
+    "Republik Indonesien"
   ], 
   "alias_GER_Q": [
     "Indonesien"
@@ -568,7 +566,9 @@
   "alias_HUN_Q": [
     "Indon\u00e9zia"
   ], 
-  "ne_longitude": 141.021805, 
+  "alias_UNK_V": [
+    "Republika Indonezija"
+  ], 
   "longitude": 113.917397, 
   "iso": "ID", 
   "sw_latitude": -11.00485, 
@@ -637,25 +637,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11765, 
-        "ne:hasPlace": 1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34827044", 
-          "woe:region=55949082", 
-          "woe:country=23424846"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ID", 
-        "longitude": 104.00846374122231, 
-        "artisanal:id": 34827044, 
-        "latitude": 1.1359252047642159, 
-        "woe:id": 34827044, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34827044, 
       "properties": {
         "ne:fid": 11765, 
         "ne:hasPlace": 1, 
@@ -673,7 +654,8 @@
         "latitude": 1.1359252047642159, 
         "woe:id": 34827044, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34827044
     }
   ], 
   "alias_FRE_S": [

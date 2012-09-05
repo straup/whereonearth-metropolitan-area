@@ -16,7 +16,9 @@
   ], 
   "ne_latitude": 23.525021, 
   "supercedes": [], 
-  "ne_longitude": 15.99564, 
+  "alias_UNK_V": [
+    "Republika Niger"
+  ], 
   "placetype": "Country", 
   "alias_POR_Q": [
     "N\u00edger"
@@ -83,16 +85,16 @@
     "Unknown": [
       "Republika Niger"
     ], 
-    "Spanish": [
-      "N\u00edger"
+    "English": [
+      "NE", 
+      "Nigerien"
     ], 
     "Japanese": [
       "\u30cb\u30b8\u30a7\u30fc\u30eb\u5171\u548c\u56fd", 
       "\u30cb\u30b8\u30a7\u30fc\u30eb"
     ], 
-    "English": [
-      "NE", 
-      "Nigerien"
+    "Spanish": [
+      "N\u00edger"
     ], 
     "Korean": [
       "\ub2c8\uc81c\ub974"
@@ -127,9 +129,7 @@
   "name": "Niger", 
   "language": "English", 
   "parent_woeid": 1, 
-  "alias_UNK_V": [
-    "Republika Niger"
-  ], 
+  "ne_longitude": 15.99564, 
   "longitude": 8.08094, 
   "iso": "NE", 
   "sw_latitude": 11.69697, 
@@ -183,25 +183,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 840, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819838", 
-          "woe:region=2346324", 
-          "woe:country=23424906"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NE", 
-        "longitude": 7.979658465259606, 
-        "artisanal:id": 34819838, 
-        "latitude": 17.000737122776595, 
-        "woe:id": 34819838, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819838, 
       "properties": {
         "ne:fid": 840, 
         "ne:hasPlace": 20, 
@@ -219,7 +200,8 @@
         "latitude": 17.000737122776595, 
         "woe:id": 34819838, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819838
     }
   ]
 }

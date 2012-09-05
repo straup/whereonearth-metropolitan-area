@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 44.227261, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Burugaria"
-  ], 
+  "ne_longitude": 28.60882, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Bulg\u00e1ria"
@@ -205,8 +203,9 @@
       "Balgarija", 
       "Burugaria"
     ], 
-    "Dutch": [
-      "Bulgarije"
+    "English": [
+      "BGR", 
+      "Rep. Bulgaria"
     ], 
     "Japanese": [
       "\u30d6\u30eb\u30ac\u30ea\u30a2", 
@@ -221,9 +220,8 @@
       "Bulgarien", 
       "Republik Bulgarien"
     ], 
-    "English": [
-      "BGR", 
-      "Rep. Bulgaria"
+    "Dutch": [
+      "Bulgarije"
     ], 
     "Polish": [
       "Bu\u0142garia"
@@ -241,8 +239,8 @@
   "alias_ITA_Q": [
     "Bulgarie"
   ], 
-  "alias_GER_V": [
-    "Republik Bulgarien"
+  "alias_DAN_Q": [
+    "Bulgarien"
   ], 
   "woeid": 23424771, 
   "alias_JPN_Q": [
@@ -266,8 +264,8 @@
   "alias_CZE_Q": [
     "Bulharsko"
   ], 
-  "alias_DAN_Q": [
-    "Bulgarien"
+  "alias_GER_V": [
+    "Republik Bulgarien"
   ], 
   "alias_GER_Q": [
     "Bulgarien"
@@ -285,7 +283,9 @@
   "alias_HUN_Q": [
     "Bulg\u00e1ria"
   ], 
-  "ne_longitude": 28.60882, 
+  "alias_UNK_V": [
+    "Burugaria"
+  ], 
   "longitude": 25.48312, 
   "iso": "BG", 
   "sw_latitude": 41.235931, 
@@ -342,25 +342,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6527, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823608", 
-          "woe:region=20070056", 
-          "woe:country=23424771"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BG", 
-        "longitude": 23.22314429361796, 
-        "artisanal:id": 34823608, 
-        "latitude": 43.41336933681292, 
-        "woe:id": 34823608, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823608, 
       "properties": {
         "ne:fid": 6527, 
         "ne:hasPlace": 20, 
@@ -378,7 +359,8 @@
         "latitude": 43.41336933681292, 
         "woe:id": 34823608, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823608
     }
   ], 
   "alias_FRE_S": [

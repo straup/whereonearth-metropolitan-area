@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 14.44506, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Salvador"
-  ], 
+  "ne_longitude": -87.682869, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc5d8\uc0b4 \ubc14\ub3c4\ub974"
@@ -178,7 +176,9 @@
   "alias_HUN_Q": [
     "Salvador"
   ], 
-  "ne_longitude": -87.682869, 
+  "alias_UNK_V": [
+    "Republika Salvador"
+  ], 
   "longitude": -88.918793, 
   "iso": "SV", 
   "sw_latitude": 13.14867, 
@@ -304,25 +304,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3544, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=37167930", 
-          "woe:region=2345301", 
-          "woe:country=23424807"
-        ], 
-        "artisanal:foundry": "http://www.londonintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SV", 
-        "longitude": -89.20355268957059, 
-        "artisanal:id": 37167930, 
-        "latitude": 13.707355830518233, 
-        "woe:id": 37167930, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 37167930, 
       "properties": {
         "ne:fid": 3544, 
         "ne:hasPlace": 20, 
@@ -340,7 +321,8 @@
         "latitude": 13.707355830518233, 
         "woe:id": 37167930, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 37167930
     }
   ], 
   "alias_FRE_Q": [

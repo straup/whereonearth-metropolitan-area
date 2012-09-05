@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Lituania"
   ], 
-  "alias_UNK_V": [
-    "Litwa"
-  ], 
+  "ne_longitude": 26.835581, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Litu\u00e2nia"
@@ -126,8 +124,8 @@
       "Liettuasta", 
       "Liettua"
     ], 
-    "Norwegian": [
-      "Litauen"
+    "Portuguese": [
+      "Litu\u00e2nia"
     ], 
     "Czech": [
       "Litva", 
@@ -136,8 +134,8 @@
     "Romanian": [
       "Lituania"
     ], 
-    "Dutch": [
-      "Litouwen"
+    "Spanish": [
+      "Lituania"
     ], 
     "Japanese": [
       "\u30ea\u30c8\u30a2\u30cb\u30a2", 
@@ -146,31 +144,31 @@
     "French": [
       "Lituanie"
     ], 
-    "German": [
-      "Litauen", 
-      "Republik Litauen"
-    ], 
-    "Portuguese": [
-      "Litu\u00e2nia"
-    ], 
-    "Unknown": [
-      "Litu\u00e0nia", 
-      "Lithouania", 
-      "Litwa"
-    ], 
-    "Spanish": [
-      "Lituania"
+    "Norwegian": [
+      "Litauen"
     ], 
     "English": [
       "LT", 
       "Lithuania", 
       "Rep. Lithuania"
     ], 
+    "Unknown": [
+      "Litu\u00e0nia", 
+      "Lithouania", 
+      "Litwa"
+    ], 
+    "Dutch": [
+      "Litouwen"
+    ], 
     "Polish": [
       "Litwa"
     ], 
     "Korean": [
       "\ub9ac\ud22c\uc544\ub2c8\uc544"
+    ], 
+    "German": [
+      "Litauen", 
+      "Republik Litauen"
     ], 
     "Italian": [
       "Lituania"
@@ -182,8 +180,8 @@
   "alias_ITA_Q": [
     "Lituania"
   ], 
-  "alias_GER_V": [
-    "Republik Litauen"
+  "alias_DAN_Q": [
+    "Litauen"
   ], 
   "woeid": 23424875, 
   "alias_JPN_Q": [
@@ -222,8 +220,8 @@
   "alias_CZE_Q": [
     "Litva"
   ], 
-  "alias_DAN_Q": [
-    "Litauen"
+  "alias_GER_V": [
+    "Republik Litauen"
   ], 
   "alias_GER_Q": [
     "Litauen"
@@ -244,7 +242,9 @@
   "alias_HUN_Q": [
     "Litv\u00e1nia"
   ], 
-  "ne_longitude": 26.835581, 
+  "alias_UNK_V": [
+    "Litwa"
+  ], 
   "longitude": 23.89439, 
   "iso": "LT", 
   "sw_latitude": 53.89748, 
@@ -309,25 +309,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4812, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822508", 
-          "woe:region=55848080", 
-          "woe:country=23424875"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "LT", 
-        "longitude": 22.179074426098467, 
-        "artisanal:id": 34822508, 
-        "latitude": 56.402355861371866, 
-        "woe:id": 34822508, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822508, 
       "properties": {
         "ne:fid": 4812, 
         "ne:hasPlace": 0, 
@@ -345,7 +326,8 @@
         "latitude": 56.402355861371866, 
         "woe:id": 34822508, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822508
     }
   ], 
   "alias_FRE_Q": [

@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Cambodgia"
   ], 
-  "alias_UNK_V": [
-    "K\u00e2mpuch\u00e9a"
-  ], 
+  "ne_longitude": 107.627724, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Camboja"
@@ -188,8 +186,8 @@
       "Kambodza", 
       "Kambod\u017ea"
     ], 
-    "Norwegian": [
-      "Kambodsja"
+    "Portuguese": [
+      "Camboja"
     ], 
     "Czech": [
       "Kambod\u017ea"
@@ -197,8 +195,9 @@
     "Romanian": [
       "Cambodgia"
     ], 
-    "Dutch": [
-      "Cambodja"
+    "Spanish": [
+      "Reino de Camboya", 
+      "Camboya"
     ], 
     "Japanese": [
       "\u30ab\u30f3\u30dc\u30b8\u30a2", 
@@ -208,32 +207,31 @@
       "Cambodge", 
       "Kampuchea D\u00e9mocratique"
     ], 
-    "German": [
-      "Kambodscha", 
-      "K\u00f6nigreich Kambodscha", 
-      "Konigreich Kambodscha"
+    "Norwegian": [
+      "Kambodsja"
     ], 
-    "Portuguese": [
-      "Camboja"
+    "English": [
+      "KH", 
+      "Democratic Kampuchea"
     ], 
     "Unknown": [
       "Kamb\u00f3d\u00eda", 
       "Kampuchea", 
       "K\u00e2mpuch\u00e9a"
     ], 
-    "Spanish": [
-      "Reino de Camboya", 
-      "Camboya"
-    ], 
-    "English": [
-      "KH", 
-      "Democratic Kampuchea"
+    "Dutch": [
+      "Cambodja"
     ], 
     "Polish": [
       "Kambod\u017ca"
     ], 
     "Korean": [
       "\uce84\ubcf4\ub514\uc544"
+    ], 
+    "German": [
+      "Kambodscha", 
+      "K\u00f6nigreich Kambodscha", 
+      "Konigreich Kambodscha"
     ], 
     "Italian": [
       "Cambogia"
@@ -245,8 +243,8 @@
   "alias_ITA_Q": [
     "Cambogia"
   ], 
-  "alias_GER_V": [
-    "K\u00f6nigreich Kambodscha"
+  "alias_DAN_Q": [
+    "Cambodja"
   ], 
   "woeid": 23424776, 
   "alias_JPN_Q": [
@@ -285,8 +283,8 @@
   "alias_CZE_Q": [
     "Kambod\u017ea"
   ], 
-  "alias_DAN_Q": [
-    "Cambodja"
+  "alias_GER_V": [
+    "K\u00f6nigreich Kambodscha"
   ], 
   "alias_GER_Q": [
     "Kambodscha"
@@ -307,7 +305,9 @@
   "alias_HUN_Q": [
     "Kambodzsa"
   ], 
-  "ne_longitude": 107.627724, 
+  "alias_UNK_V": [
+    "K\u00e2mpuch\u00e9a"
+  ], 
   "longitude": 104.983856, 
   "iso": "KH", 
   "sw_latitude": 9.28325, 
@@ -436,25 +436,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11462, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826836", 
-          "woe:region=20070095", 
-          "woe:country=23424776"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "KH", 
-        "longitude": 104.92287374379636, 
-        "artisanal:id": 34826836, 
-        "latitude": 11.563638168519555, 
-        "woe:id": 34826836, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826836, 
       "properties": {
         "ne:fid": 11462, 
         "ne:hasPlace": 20, 
@@ -472,7 +453,8 @@
         "latitude": 11.563638168519555, 
         "woe:id": 34826836, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826836
     }
   ], 
   "alias_FRE_Q": [

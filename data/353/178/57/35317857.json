@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Noua Caledonie"
   ], 
-  "alias_UNK_V": [
-    "Ny-Caledonia"
-  ], 
+  "ne_longitude": 172.061417, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ub274 \uce7c\ub808\ub3c4\ub2c8\uc544"
@@ -87,8 +85,9 @@
     "Finnish": [
       "Uusi-Kaledonia"
     ], 
-    "Norwegian": [
-      "Ny-Caledonia"
+    "Portuguese": [
+      "Nova Caledonia", 
+      "Nova Caled\u00f3nia"
     ], 
     "Czech": [
       "Nov\u00e1 Kaledonie"
@@ -96,9 +95,8 @@
     "Romanian": [
       "Noua Caledonie"
     ], 
-    "Dutch": [
-      "Nieuw-Caledonie", 
-      "Nieuw-Caledoni\u00eb"
+    "Spanish": [
+      "Nueva Caledonia"
     ], 
     "Japanese": [
       "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2"
@@ -108,22 +106,19 @@
       "Nouvelle-Caledonie", 
       "Territoire des Nouvelle-Cal\u00e9donie et D\u00e9pendances"
     ], 
-    "German": [
-      "Neukaledonien"
-    ], 
-    "Portuguese": [
-      "Nova Caledonia", 
-      "Nova Caled\u00f3nia"
-    ], 
-    "Unknown": [
+    "Norwegian": [
       "Ny-Caledonia"
-    ], 
-    "Spanish": [
-      "Nueva Caledonia"
     ], 
     "English": [
       "NC", 
       "New Caledonian"
+    ], 
+    "Unknown": [
+      "Ny-Caledonia"
+    ], 
+    "Dutch": [
+      "Nieuw-Caledonie", 
+      "Nieuw-Caledoni\u00eb"
     ], 
     "Polish": [
       "Nowa Kaledonia"
@@ -131,6 +126,9 @@
     "Korean": [
       "\ub274 \uce7c\ub808\ub3c4\ub2c8\uc544", 
       "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8"
+    ], 
+    "German": [
+      "Neukaledonien"
     ], 
     "Italian": [
       "Nuova Caledonia"
@@ -189,7 +187,9 @@
   "alias_HUN_Q": [
     "\u00daj-Kaled\u00f3nia"
   ], 
-  "ne_longitude": 172.061417, 
+  "alias_UNK_V": [
+    "Ny-Caledonia"
+  ], 
   "longitude": 165.506744, 
   "iso": "NC", 
   "sw_latitude": -22.90045, 
@@ -322,25 +322,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9861, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35317857", 
-          "woe:region=24549807", 
-          "woe:country=23424903"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NC", 
-        "longitude": 166.4483961507109, 
-        "artisanal:id": 35317857, 
-        "latitude": -22.256140528729848, 
-        "woe:id": 35317857, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35317857, 
       "properties": {
         "ne:fid": 9861, 
         "ne:hasPlace": 20, 
@@ -358,7 +339,8 @@
         "latitude": -22.256140528729848, 
         "woe:id": 35317857, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35317857
     }
   ], 
   "alias_FRE_S": [

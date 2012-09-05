@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 9.8312, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Sr\u00ed-Lanka"
-  ], 
+  "ne_longitude": 81.88121, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Sri Lanca"
@@ -97,9 +95,9 @@
       "Sri-Lanka", 
       "Sr\u00ed-Lanka"
     ], 
-    "Spanish": [
-      "Isla Trapobana", 
-      "Ceilan"
+    "English": [
+      "LK", 
+      "Ceylon"
     ], 
     "Japanese": [
       "\u30b9\u30ea\u30e9\u30f3\u30ab", 
@@ -108,9 +106,9 @@
     "German": [
       "Demokratische Sozialistische Republik Sri Lanka"
     ], 
-    "English": [
-      "LK", 
-      "Ceylon"
+    "Spanish": [
+      "Isla Trapobana", 
+      "Ceilan"
     ], 
     "Korean": [
       "\uc2a4\ub9ac\ub791\uce74"
@@ -160,7 +158,9 @@
   "alias_HUN_Q": [
     "Sr\u00ed Lanka"
   ], 
-  "ne_longitude": 81.88121, 
+  "alias_UNK_V": [
+    "Sr\u00ed-Lanka"
+  ], 
   "longitude": 80.789711, 
   "iso": "LK", 
   "sw_latitude": 5.9167, 
@@ -206,25 +206,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9472, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825560", 
-          "woe:region=2344961", 
-          "woe:country=23424778"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "LK", 
-        "longitude": 80.38298039886088, 
-        "artisanal:id": 34825560, 
-        "latitude": 8.70899227627264, 
-        "woe:id": 34825560, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825560, 
       "properties": {
         "ne:fid": 9472, 
         "ne:hasPlace": -1, 
@@ -242,7 +223,8 @@
         "latitude": 8.70899227627264, 
         "woe:id": 34825560, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825560
     }
   ]
 }

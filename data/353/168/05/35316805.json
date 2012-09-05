@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": -10.31925, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Mauritius"
-  ], 
+  "ne_longitude": 63.525379, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Maur\u00edcio"
@@ -132,9 +130,9 @@
       "Maritius", 
       "Republika Mauritius"
     ], 
-    "Spanish": [
-      "Rep\u00fablica de Mauricio", 
-      "Mauricio"
+    "English": [
+      "MU", 
+      "Republic of Mauritius"
     ], 
     "Japanese": [
       "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9", 
@@ -148,9 +146,9 @@
     "German": [
       "Republik Mauritius"
     ], 
-    "English": [
-      "MU", 
-      "Republic of Mauritius"
+    "Spanish": [
+      "Rep\u00fablica de Mauricio", 
+      "Mauricio"
     ], 
     "Korean": [
       "\ubaa8\ub9ac\uc154\uc2a4"
@@ -203,7 +201,9 @@
   "alias_UNK_Q": [
     "M\u00e1rit\u00edus"
   ], 
-  "ne_longitude": 63.525379, 
+  "alias_UNK_V": [
+    "Republika Mauritius"
+  ], 
   "longitude": 57.551739, 
   "iso": "MU", 
   "sw_latitude": -20.525709, 
@@ -408,25 +408,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8426, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35316805", 
-          "woe:region=2346231", 
-          "woe:country=23424894"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MU", 
-        "longitude": 57.49029227137605, 
-        "artisanal:id": 35316805, 
-        "latitude": -20.23769238596214, 
-        "woe:id": 35316805, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35316805, 
       "properties": {
         "ne:fid": 8426, 
         "ne:hasPlace": 20, 
@@ -444,7 +425,8 @@
         "latitude": -20.23769238596214, 
         "woe:id": 35316805, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35316805
     }
   ], 
   "alias_FRE_S": [

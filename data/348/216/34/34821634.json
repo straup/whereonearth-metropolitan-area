@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": -0.01297, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Peru"
-  ], 
+  "ne_longitude": -68.677979, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ud398\ub974"
@@ -184,8 +182,9 @@
     "Unknown": [
       "Republika Peru"
     ], 
-    "Spanish": [
-      "Per\u00fa"
+    "English": [
+      "PE", 
+      "Republic of Peru"
     ], 
     "Japanese": [
       "\u30da\u30eb\u30fc", 
@@ -195,9 +194,8 @@
       "P\u00e9rou", 
       "Perou"
     ], 
-    "English": [
-      "PE", 
-      "Republic of Peru"
+    "Spanish": [
+      "Per\u00fa"
     ], 
     "Korean": [
       "\ud398\ub974", 
@@ -239,7 +237,9 @@
   "name": "Peru", 
   "language": "English", 
   "parent_woeid": 1, 
-  "ne_longitude": -68.677979, 
+  "alias_UNK_V": [
+    "Republika Peru"
+  ], 
   "longitude": -75.002357, 
   "iso": "PE", 
   "sw_latitude": -18.34972, 
@@ -293,25 +293,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3552, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34821634", 
-          "woe:region=2346483", 
-          "woe:country=23424919"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PE", 
-        "longitude": -73.25179949753803, 
-        "artisanal:id": 34821634, 
-        "latitude": -3.738788356184822, 
-        "woe:id": 34821634, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34821634, 
       "properties": {
         "ne:fid": 3552, 
         "ne:hasPlace": 20, 
@@ -329,7 +310,8 @@
         "latitude": -3.738788356184822, 
         "woe:id": 34821634, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34821634
     }
   ], 
   "alias_FRE_S": [

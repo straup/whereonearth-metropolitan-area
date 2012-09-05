@@ -26,14 +26,14 @@
   "alias_KOR_V": [
     "\uc548\ud2f0\uac00 \ubc14\ubd80\ub2e4"
   ], 
+  "alias_RUM_V": [
+    "Antigua \u015fi Barbuda"
+  ], 
   "alias_POR_Q": [
     "Ant\u00edgua e Barbuda"
   ], 
   "alias_ENG_A": [
     "AG"
-  ], 
-  "alias_CZE_Q": [
-    "Antigua a Barbuda"
   ], 
   "children": {
     "placetype": [], 
@@ -105,8 +105,8 @@
     "Finnish": [
       "Antigua ja Barbuda"
     ], 
-    "Norwegian": [
-      "Antigua og Barbuda"
+    "Portuguese": [
+      "Ant\u00edgua e Barbuda"
     ], 
     "Czech": [
       "Antigua a Barbuda"
@@ -115,9 +115,8 @@
       "Antigua \u015ei Barbuda", 
       "Antigua \u015fi Barbuda"
     ], 
-    "Dutch": [
-      "Antigua-en-Barbuda", 
-      "Antigua en Barbuda"
+    "Spanish": [
+      "Antigua y Barbuda"
     ], 
     "Japanese": [
       "\u30a2\u30f3\u30c1\u30b0\u30a2\u30d0\u30fc\u30d6\u30fc\u30c0", 
@@ -127,21 +126,19 @@
       "Antigua-et-Barbuda", 
       "Antigua et Barbuda"
     ], 
-    "German": [
-      "Antigua und Barbuda"
-    ], 
-    "Portuguese": [
-      "Ant\u00edgua e Barbuda"
-    ], 
-    "Unknown": [
-      "Antigva in Barbuda"
-    ], 
-    "Spanish": [
-      "Antigua y Barbuda"
+    "Norwegian": [
+      "Antigua og Barbuda"
     ], 
     "English": [
       "AG", 
       "Antiguan"
+    ], 
+    "Unknown": [
+      "Antigva in Barbuda"
+    ], 
+    "Dutch": [
+      "Antigua-en-Barbuda", 
+      "Antigua en Barbuda"
     ], 
     "Polish": [
       "Antigua I Barbuda"
@@ -149,6 +146,9 @@
     "Korean": [
       "\uc548\ud2f0\uac00 \ubc14\ubd80\ub2e4", 
       "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"
+    ], 
+    "German": [
+      "Antigua und Barbuda"
     ], 
     "Italian": [
       "Antigua e Barbuda"
@@ -184,18 +184,18 @@
     "Antigua og Barbuda"
   ], 
   "date_indexed": "2010-12-02T08:58:52.73Z", 
-  "alias_FRE_V": [
-    "Antigua et Barbuda"
-  ], 
   "alias_KOR_Q": [
     "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"
+  ], 
+  "alias_DUT_V": [
+    "Antigua-en-Barbuda"
   ], 
   "alias_DUT_Q": [
     "Antigua en Barbuda"
   ], 
   "bbox": "16.927219,-62.352402,17.72938,-61.659081", 
-  "alias_DUT_V": [
-    "Antigua-en-Barbuda"
+  "alias_CZE_Q": [
+    "Antigua a Barbuda"
   ], 
   "alias_DAN_Q": [
     "Antigua og Barbuda"
@@ -220,8 +220,8 @@
   "longitude": -61.789421, 
   "iso": "AG", 
   "sw_latitude": 16.927219, 
-  "alias_RUM_V": [
-    "Antigua \u015fi Barbuda"
+  "alias_FRE_V": [
+    "Antigua et Barbuda"
   ], 
   "fullname": "Antigua and Barbuda", 
   "features": [
@@ -297,25 +297,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2144, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35312177", 
-          "woe:region=2344543", 
-          "woe:country=23424737"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "AG", 
-        "longitude": -61.83945570939312, 
-        "artisanal:id": 35312177, 
-        "latitude": 17.145322341406384, 
-        "woe:id": 35312177, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35312177, 
       "properties": {
         "ne:fid": 2144, 
         "ne:hasPlace": 20, 
@@ -333,7 +314,8 @@
         "latitude": 17.145322341406384, 
         "woe:id": 35312177, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35312177
     }
   ], 
   "alias_FRE_Q": [

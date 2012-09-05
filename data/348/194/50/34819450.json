@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Turcia"
   ], 
-  "alias_UNK_V": [
-    "Turkki"
-  ], 
+  "ne_longitude": 44.8297, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Turquia"
@@ -518,8 +516,8 @@
       "Turkista", 
       "Turkin"
     ], 
-    "Norwegian": [
-      "Tyrkia"
+    "Portuguese": [
+      "Turquia"
     ], 
     "Czech": [
       "Turecko"
@@ -527,8 +525,8 @@
     "Romanian": [
       "Turcia"
     ], 
-    "Dutch": [
-      "Turkije"
+    "Spanish": [
+      "Turqu\u00eda"
     ], 
     "Japanese": [
       "\u30c8\u30eb\u30b3", 
@@ -537,31 +535,31 @@
     "French": [
       "Turquie"
     ], 
-    "German": [
-      "T\u00fcrkei", 
-      "Republik T\u00fcrkei", 
-      "Republik Turkei"
+    "Norwegian": [
+      "Tyrkia"
     ], 
-    "Portuguese": [
-      "Turquia"
+    "English": [
+      "TUR", 
+      "Rep. Turkey"
     ], 
     "Unknown": [
       "Tyrkland", 
       "Turkiye", 
       "Turkki"
     ], 
-    "Spanish": [
-      "Turqu\u00eda"
-    ], 
-    "English": [
-      "TUR", 
-      "Rep. Turkey"
+    "Dutch": [
+      "Turkije"
     ], 
     "Polish": [
       "Turcja"
     ], 
     "Korean": [
       "\ud130\ud0a4"
+    ], 
+    "German": [
+      "T\u00fcrkei", 
+      "Republik T\u00fcrkei", 
+      "Republik Turkei"
     ], 
     "Italian": [
       "Turchia"
@@ -573,8 +571,8 @@
   "alias_ITA_Q": [
     "Turchia"
   ], 
-  "alias_GER_V": [
-    "Republik T\u00fcrkei"
+  "alias_DAN_Q": [
+    "Tyrkiet"
   ], 
   "woeid": 23424969, 
   "alias_JPN_Q": [
@@ -610,8 +608,8 @@
   "alias_CZE_Q": [
     "Turecko"
   ], 
-  "alias_DAN_Q": [
-    "Tyrkiet"
+  "alias_GER_V": [
+    "Republik T\u00fcrkei"
   ], 
   "alias_GER_Q": [
     "T\u00fcrkei"
@@ -632,7 +630,9 @@
   "alias_HUN_Q": [
     "T\u00f6r\u00f6korsz\u00e1g"
   ], 
-  "ne_longitude": 44.8297, 
+  "alias_UNK_V": [
+    "Turkki"
+  ], 
   "longitude": 35.431702, 
   "iso": "TR", 
   "sw_latitude": 35.809971, 
@@ -702,25 +702,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 290, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819450", 
-          "woe:region=2347282", 
-          "woe:country=23424969"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "TR", 
-        "longitude": 41.989847735809114, 
-        "artisanal:id": 34819450, 
-        "latitude": 40.55485496416268, 
-        "woe:id": 34819450, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819450, 
       "properties": {
         "ne:fid": 290, 
         "ne:hasPlace": 15, 
@@ -738,7 +719,8 @@
         "latitude": 40.55485496416268, 
         "woe:id": 34819450, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819450
     }
   ], 
   "alias_FRE_Q": [

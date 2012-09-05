@@ -189,9 +189,49 @@
       }
     ]
   }, 
-  "alias_SWE_Q": [
-    "Kanada"
-  ], 
+  "aliases": {
+    "Swedish": [
+      "Kanada"
+    ], 
+    "Portuguese": [
+      "Canad\u00e1"
+    ], 
+    "Finnish": [
+      "Kanadasta", 
+      "Kanada"
+    ], 
+    "Hungarian": [
+      "Kanada"
+    ], 
+    "Czech": [
+      "Kanada"
+    ], 
+    "Unknown": [
+      "K'aenada"
+    ], 
+    "English": [
+      "CAN", 
+      "Canadian"
+    ], 
+    "Japanese": [
+      "\u30ab\u30ca\u30c0"
+    ], 
+    "German": [
+      "Kanada"
+    ], 
+    "Spanish": [
+      "Canad\u00e1"
+    ], 
+    "Polish": [
+      "Kanada"
+    ], 
+    "Korean": [
+      "\uce90\ub098\ub2e4"
+    ], 
+    "Chinese": [
+      "\u52a0\u62ff\u5927"
+    ]
+  }, 
   "alias_CHI_Q": [
     "\u52a0\u62ff\u5927"
   ], 
@@ -211,51 +251,11 @@
   ], 
   "provider": "geoplanet 7.6.0", 
   "latitude": 56.954681, 
-  "aliases": {
-    "Swedish": [
-      "Kanada"
-    ], 
-    "Chinese": [
-      "\u52a0\u62ff\u5927"
-    ], 
-    "Finnish": [
-      "Kanadasta", 
-      "Kanada"
-    ], 
-    "Hungarian": [
-      "Kanada"
-    ], 
-    "Portuguese": [
-      "Canad\u00e1"
-    ], 
-    "Czech": [
-      "Kanada"
-    ], 
-    "Unknown": [
-      "K'aenada"
-    ], 
-    "Spanish": [
-      "Canad\u00e1"
-    ], 
-    "Japanese": [
-      "\u30ab\u30ca\u30c0"
-    ], 
-    "German": [
-      "Kanada"
-    ], 
-    "English": [
-      "CAN", 
-      "Canadian"
-    ], 
-    "Polish": [
-      "Kanada"
-    ], 
-    "Korean": [
-      "\uce90\ub098\ub2e4"
-    ]
-  }, 
   "date_indexed": "2010-12-02T10:24:00.207Z", 
   "adjacent": [], 
+  "alias_SWE_Q": [
+    "Kanada"
+  ], 
   "bbox": "41.681019,-141.002701,83.110619,-52.620201", 
   "alias_CZE_Q": [
     "Kanada"
@@ -487,25 +487,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2582, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820992", 
-          "woe:region=2344924", 
-          "woe:country=23424775"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CA", 
-        "longitude": -72.7158932928265, 
-        "artisanal:id": 34820992, 
-        "latitude": 46.601920601040554, 
-        "woe:id": 34820992, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820992, 
       "properties": {
         "ne:fid": 2582, 
         "ne:hasPlace": 15, 
@@ -523,7 +504,8 @@
         "latitude": 46.601920601040554, 
         "woe:id": 34820992, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820992
     }
   ]
 }

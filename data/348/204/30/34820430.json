@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Gambia"
   ], 
-  "alias_UNK_V": [
-    "Republika Gambija"
-  ], 
+  "ne_longitude": -13.7978, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "G\u00e2mbia"
@@ -84,8 +82,8 @@
     "Finnish": [
       "Gambia"
     ], 
-    "Norwegian": [
-      "Gambia"
+    "Portuguese": [
+      "G\u00e2mbia"
     ], 
     "Czech": [
       "Gambie"
@@ -93,7 +91,7 @@
     "Romanian": [
       "Gambia"
     ], 
-    "Dutch": [
+    "Spanish": [
       "Gambia"
     ], 
     "Japanese": [
@@ -103,29 +101,29 @@
     "French": [
       "Gambie"
     ], 
-    "German": [
-      "Gambia", 
-      "Republik Gambia"
-    ], 
-    "Portuguese": [
-      "G\u00e2mbia"
-    ], 
-    "Unknown": [
-      "Gambija", 
-      "Republika Gambija"
-    ], 
-    "Spanish": [
+    "Norwegian": [
       "Gambia"
     ], 
     "English": [
       "GM", 
       "Gambia, The"
     ], 
+    "Unknown": [
+      "Gambija", 
+      "Republika Gambija"
+    ], 
+    "Dutch": [
+      "Gambia"
+    ], 
     "Polish": [
       "Gambia"
     ], 
     "Korean": [
       "\uac10\ube44\uc544"
+    ], 
+    "German": [
+      "Gambia", 
+      "Republik Gambia"
     ], 
     "Italian": [
       "Gambia"
@@ -137,8 +135,8 @@
   "alias_ITA_Q": [
     "Gambia"
   ], 
-  "alias_GER_V": [
-    "Republik Gambia"
+  "alias_DAN_Q": [
+    "Gambia"
   ], 
   "alias_CHI_V": [
     "\u5188\u6bd4\u4e9a"
@@ -174,8 +172,8 @@
   "alias_CZE_Q": [
     "Gambie"
   ], 
-  "alias_DAN_Q": [
-    "Gambia"
+  "alias_GER_V": [
+    "Republik Gambia"
   ], 
   "alias_GER_Q": [
     "Gambia"
@@ -190,7 +188,9 @@
   "alias_HUN_Q": [
     "Gambia"
   ], 
-  "ne_longitude": -13.7978, 
+  "alias_UNK_V": [
+    "Republika Gambija"
+  ], 
   "longitude": -15.31143, 
   "iso": "GM", 
   "sw_latitude": 13.06425, 
@@ -236,25 +236,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1697, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820430", 
-          "woe:region=2345448", 
-          "woe:country=23424821"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GM", 
-        "longitude": -15.445543396521366, 
-        "artisanal:id": 34820430, 
-        "latitude": 13.57693377741242, 
-        "woe:id": 34820430, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820430, 
       "properties": {
         "ne:fid": 1697, 
         "ne:hasPlace": -1, 
@@ -272,7 +253,8 @@
         "latitude": 13.57693377741242, 
         "woe:id": 34820430, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820430
     }
   ], 
   "alias_FRE_Q": [

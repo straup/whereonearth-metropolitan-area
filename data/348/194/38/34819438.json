@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 41.30183, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Armenija"
-  ], 
+  "ne_longitude": 46.630039, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Arm\u00eania"
@@ -114,9 +112,9 @@
       "Armen\u00eda", 
       "Republika Armenija"
     ], 
-    "Dutch": [
-      "Armenie", 
-      "Armeni\u00eb"
+    "English": [
+      "AM", 
+      "Hayastan"
     ], 
     "Japanese": [
       "\u30a2\u30eb\u30e1\u30cb\u30a2", 
@@ -129,9 +127,9 @@
     "German": [
       "Armenien"
     ], 
-    "English": [
-      "AM", 
-      "Hayastan"
+    "Dutch": [
+      "Armenie", 
+      "Armeni\u00eb"
     ], 
     "Korean": [
       "\uc544\ub974\uba54\ub2c8\uc544"
@@ -184,7 +182,9 @@
   "alias_HUN_Q": [
     "\u00d6rm\u00e9nyorsz\u00e1g"
   ], 
-  "ne_longitude": 46.630039, 
+  "alias_UNK_V": [
+    "Republika Armenija"
+  ], 
   "longitude": 45.03989, 
   "iso": "AM", 
   "sw_latitude": 38.830521, 
@@ -258,25 +258,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 274, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819438", 
-          "woe:region=20070207", 
-          "woe:country=23424743"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "AM", 
-        "longitude": 44.49306640830438, 
-        "artisanal:id": 34819438, 
-        "latitude": 40.81130681285955, 
-        "woe:id": 34819438, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819438, 
       "properties": {
         "ne:fid": 274, 
         "ne:hasPlace": 20, 
@@ -294,7 +275,8 @@
         "latitude": 40.81130681285955, 
         "woe:id": 34819438, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819438
     }
   ], 
   "alias_FRE_S": [

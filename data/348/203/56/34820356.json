@@ -281,9 +281,6 @@
     "Danish": [
       "Algeriet"
     ], 
-    "Portuguese": [
-      "Arg\u00e9lia"
-    ], 
     "Hungarian": [
       "Alg\u00e9ria"
     ], 
@@ -291,8 +288,8 @@
       "\u963f\u5c14\u53ca\u5229\u4e9a", 
       "\u963f\u723e\u53ca\u5229\u4e9e"
     ], 
-    "Norwegian": [
-      "Algerie"
+    "Portuguese": [
+      "Arg\u00e9lia"
     ], 
     "Czech": [
       "Al\u017e\u00edrsko"
@@ -301,8 +298,8 @@
       "Arujeria", 
       "Alsir"
     ], 
-    "Dutch": [
-      "Algerije"
+    "Spanish": [
+      "Argelia"
     ], 
     "Japanese": [
       "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2", 
@@ -311,16 +308,15 @@
     "French": [
       "Alg\u00e9rie"
     ], 
-    "German": [
-      "Algerien", 
-      "Demokratische Volksrepublik Algerien"
-    ], 
-    "Spanish": [
-      "Argelia"
+    "Norwegian": [
+      "Algerie"
     ], 
     "English": [
       "DZ", 
       "Democratic and Popular Republic of Algeria"
+    ], 
+    "Dutch": [
+      "Algerije"
     ], 
     "Polish": [
       "Algieria"
@@ -330,13 +326,17 @@
     ], 
     "Korean": [
       "\uc54c\uc81c\ub9ac"
+    ], 
+    "German": [
+      "Algerien", 
+      "Demokratische Volksrepublik Algerien"
     ]
   }, 
   "alias_CHI_Q": [
     "\u963f\u723e\u53ca\u5229\u4e9e"
   ], 
-  "alias_GER_V": [
-    "Demokratische Volksrepublik Algerien"
+  "alias_DAN_Q": [
+    "Algeriet"
   ], 
   "alias_CHI_V": [
     "\u963f\u5c14\u53ca\u5229\u4e9a"
@@ -369,8 +369,8 @@
   "alias_CZE_Q": [
     "Al\u017e\u00edrsko"
   ], 
-  "alias_DAN_Q": [
-    "Algeriet"
+  "alias_GER_V": [
+    "Demokratische Volksrepublik Algerien"
   ], 
   "alias_GER_Q": [
     "Algerien"
@@ -474,25 +474,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1612, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820356", 
-          "woe:region=2344606", 
-          "woe:country=23424740"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "DZ", 
-        "longitude": -1.1161339859545794, 
-        "artisanal:id": 34820356, 
-        "latitude": 35.31575202171536, 
-        "woe:id": 34820356, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820356, 
       "properties": {
         "ne:fid": 1612, 
         "ne:hasPlace": 15, 
@@ -510,7 +491,8 @@
         "latitude": 35.31575202171536, 
         "woe:id": 34820356, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820356
     }
   ], 
   "alias_FRE_Q": [

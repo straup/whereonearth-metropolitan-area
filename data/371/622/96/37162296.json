@@ -28,9 +28,7 @@
   "alias_RUM_Q": [
     "Antilele Olandeze"
   ], 
-  "alias_UNK_V": [
-    "Nederlandske Antiller"
-  ], 
+  "ne_longitude": -62.943661, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ub124\ub35c\ub780\ub4dc \uc5f4\ub3c4"
@@ -43,9 +41,6 @@
   ], 
   "alias_ENG_A": [
     "AN"
-  ], 
-  "alias_CZE_Q": [
-    "Nizozemsk\u00e9 Antily"
   ], 
   "children": {
     "placetype": [], 
@@ -130,9 +125,9 @@
       "Cura\u00e7ao", 
       "Alankomaiden Antillit"
     ], 
-    "Norwegian": [
-      "De nederlandske Antillene", 
-      "Cura\u00e7ao"
+    "Portuguese": [
+      "Cura\u00e7ao", 
+      "Antilhas Holandesas"
     ], 
     "Czech": [
       "Nizozemsk\u00e9 Antily", 
@@ -141,9 +136,9 @@
     "Romanian": [
       "Antilele Olandeze"
     ], 
-    "Dutch": [
-      "Cura\u00e7ao", 
-      "Nederlandse Antillen"
+    "Spanish": [
+      "Curazao", 
+      "Antillas Hollandesas"
     ], 
     "Japanese": [
       "\u30aa\u30e9\u30f3\u30c0\u9818\u30a2\u30f3\u30c6\u30a3\u30eb\u8af8\u5cf6", 
@@ -154,25 +149,20 @@
       "Antilles Neerlandaises", 
       "Cura\u00e7ao"
     ], 
-    "German": [
-      "Niederl\u00e4ndische Antillen", 
-      "Cura\u00e7ao", 
-      "Niederlandische Antillen"
-    ], 
-    "Portuguese": [
-      "Cura\u00e7ao", 
-      "Antilhas Holandesas"
-    ], 
-    "Unknown": [
-      "Nederlandske Antiller"
-    ], 
-    "Spanish": [
-      "Curazao", 
-      "Antillas Hollandesas"
+    "Norwegian": [
+      "De nederlandske Antillene", 
+      "Cura\u00e7ao"
     ], 
     "English": [
       "AN", 
       "Cura\u00e7ao"
+    ], 
+    "Unknown": [
+      "Nederlandske Antiller"
+    ], 
+    "Dutch": [
+      "Cura\u00e7ao", 
+      "Nederlandse Antillen"
     ], 
     "Polish": [
       "Antyle Holenderskie", 
@@ -181,6 +171,11 @@
     "Korean": [
       "\ub124\ub35c\ub780\ub4dc \uc5f4\ub3c4", 
       "\ub124\ub35c\ub780\ub4dc\ub839 \uc548\ud2f8\ub808\uc2a4"
+    ], 
+    "German": [
+      "Niederl\u00e4ndische Antillen", 
+      "Cura\u00e7ao", 
+      "Niederlandische Antillen"
     ], 
     "Italian": [
       "Cura\u00e7ao", 
@@ -193,8 +188,8 @@
   "alias_ITA_Q": [
     "Antille Olandesi"
   ], 
-  "alias_GER_V": [
-    "Cura\u00e7ao"
+  "alias_DAN_Q": [
+    "Nederlandske Antiller"
   ], 
   "alias_ITA_V": [
     "Cura\u00e7ao"
@@ -235,7 +230,7 @@
     "\ub124\ub35c\ub780\ub4dc\ub839 \uc548\ud2f8\ub808\uc2a4"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
+  "alias_DUT_V": [
     "Cura\u00e7ao"
   ], 
   "alias_SPA_V": [
@@ -245,14 +240,14 @@
     "Nederlandse Antillen"
   ], 
   "bbox": "11.97319,-69.157204,18.07024,-62.943661", 
-  "alias_DUT_V": [
+  "alias_CZE_Q": [
+    "Nizozemsk\u00e9 Antily"
+  ], 
+  "alias_GER_V": [
     "Cura\u00e7ao"
   ], 
-  "alias_DAN_Q": [
-    "Nederlandske Antiller"
-  ], 
-  "alias_GER_Q": [
-    "Niederl\u00e4ndische Antillen"
+  "alias_DAN_V": [
+    "Cura\u00e7ao"
   ], 
   "alias_GER_S": [
     "Niederlandische Antillen"
@@ -267,7 +262,12 @@
   "alias_HUN_Q": [
     "Holland Antill\u00e1k"
   ], 
-  "ne_longitude": -62.943661, 
+  "alias_GER_Q": [
+    "Niederl\u00e4ndische Antillen"
+  ], 
+  "alias_UNK_V": [
+    "Nederlandske Antiller"
+  ], 
   "longitude": -69.039413, 
   "iso": "AN", 
   "sw_latitude": 11.97319, 
@@ -364,25 +364,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1766, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=37162296", 
-          "woe:region=24549810", 
-          "woe:country=23424914"
-        ], 
-        "artisanal:foundry": "http://www.londonintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "AN", 
-        "longitude": -68.91714137766522, 
-        "artisanal:id": 37162296, 
-        "latitude": 12.136505715753753, 
-        "woe:id": 37162296, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 37162296, 
       "properties": {
         "ne:fid": 1766, 
         "ne:hasPlace": 15, 
@@ -400,7 +381,8 @@
         "latitude": 12.136505715753753, 
         "woe:id": 37162296, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 37162296
     }
   ], 
   "alias_FRE_S": [

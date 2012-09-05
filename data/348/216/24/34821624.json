@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Columbia"
   ], 
-  "alias_UNK_V": [
-    "Republika Kolumbija"
-  ], 
+  "ne_longitude": -66.869827, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Col\u00f4mbia"
@@ -237,6 +235,10 @@
     "Romanian": [
       "Columbia"
     ], 
+    "English": [
+      "CO", 
+      "Republic of Colombia"
+    ], 
     "Japanese": [
       "\u30b3\u30ed\u30f3\u30d3\u30a2", 
       "\u30b3\u30ed\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
@@ -252,10 +254,6 @@
       "Kolumbia", 
       "Kolombia", 
       "Republika Kolumbija"
-    ], 
-    "English": [
-      "CO", 
-      "Republic of Colombia"
     ], 
     "Polish": [
       "Kolumbia"
@@ -311,7 +309,9 @@
   "alias_HUN_Q": [
     "Kolumbia"
   ], 
-  "ne_longitude": -66.869827, 
+  "alias_UNK_V": [
+    "Republika Kolumbija"
+  ], 
   "longitude": -72.958527, 
   "iso": "CO", 
   "sw_latitude": -4.23048, 
@@ -549,25 +549,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3543, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34821624", 
-          "woe:region=2345074", 
-          "woe:country=23424787"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CO", 
-        "longitude": -76.51522269768131, 
-        "artisanal:id": 34821624, 
-        "latitude": 3.453796575046536, 
-        "woe:id": 34821624, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34821624, 
       "properties": {
         "ne:fid": 3543, 
         "ne:hasPlace": 20, 
@@ -585,7 +566,8 @@
         "latitude": 3.453796575046536, 
         "woe:id": 34821624, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34821624
     }
   ], 
   "alias_FRE_Q": [

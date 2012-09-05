@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 47.270649, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Lichtenst\u00e1in"
-  ], 
+  "ne_longitude": 9.63578, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Lichtenstein"
@@ -163,7 +161,9 @@
   "alias_HUN_V": [
     "Lichtenstein"
   ], 
-  "ne_longitude": 9.63578, 
+  "alias_UNK_V": [
+    "Lichtenst\u00e1in"
+  ], 
   "longitude": 9.5538, 
   "iso": "LI", 
   "sw_latitude": 47.04834, 
@@ -244,25 +244,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 7779, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=37180674", 
-          "woe:region=20070535", 
-          "woe:country=23424879"
-        ], 
-        "artisanal:foundry": "http://www.londonintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "LI", 
-        "longitude": 9.505394594881372, 
-        "artisanal:id": 37180674, 
-        "latitude": 47.17246176654962, 
-        "woe:id": 37180674, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 37180674, 
       "properties": {
         "ne:fid": 7779, 
         "ne:hasPlace": 15, 
@@ -280,7 +261,8 @@
         "latitude": 47.17246176654962, 
         "woe:id": 37180674, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 37180674
     }
   ], 
   "alias_FRE_S": [

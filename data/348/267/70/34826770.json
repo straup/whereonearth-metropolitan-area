@@ -22,18 +22,13 @@
   "alias_RUM_Q": [
     "Filipine"
   ], 
-  "alias_UNK_V": [
-    "Filippinene"
-  ], 
+  "ne_longitude": 126.856628, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Filipinas"
   ], 
   "alias_ENG_A": [
     "PH"
-  ], 
-  "alias_CZE_Q": [
-    "Filip\u00edny"
   ], 
   "children": {
     "placetype": [], 
@@ -219,8 +214,8 @@
       "Filippiineilta", 
       "Filippiineill\u00e4"
     ], 
-    "Norwegian": [
-      "Filippinene"
+    "Portuguese": [
+      "Filipinas"
     ], 
     "Czech": [
       "Filip\u00edny"
@@ -228,9 +223,8 @@
     "Romanian": [
       "Filipine"
     ], 
-    "Dutch": [
-      "Filippijnen", 
-      "Filipijnen"
+    "Spanish": [
+      "Filipinas"
     ], 
     "Japanese": [
       "\u30d5\u30a3\u30ea\u30d4\u30f3", 
@@ -240,29 +234,30 @@
       "Iles Philippines", 
       "\u00celes Philippines"
     ], 
-    "German": [
-      "Philippinen", 
-      "Republik der Philippinen"
+    "Norwegian": [
+      "Filippinene"
     ], 
-    "Portuguese": [
-      "Filipinas"
+    "English": [
+      "PH", 
+      "Rep. the Philippines"
     ], 
     "Unknown": [
       "Filipini", 
       "Filippinene"
     ], 
-    "Spanish": [
-      "Filipinas"
-    ], 
-    "English": [
-      "PH", 
-      "Rep. the Philippines"
+    "Dutch": [
+      "Filippijnen", 
+      "Filipijnen"
     ], 
     "Polish": [
       "Filipiny"
     ], 
     "Korean": [
       "\ud544\ub9ac\ud540"
+    ], 
+    "German": [
+      "Philippinen", 
+      "Republik der Philippinen"
     ], 
     "Italian": [
       "Filippine"
@@ -274,8 +269,8 @@
   "alias_ITA_Q": [
     "Filippine"
   ], 
-  "alias_GER_V": [
-    "Republik der Philippinen"
+  "alias_DAN_Q": [
+    "Philippinerne"
   ], 
   "alias_CHI_V": [
     "\u83f2\u5f8b\u5bbe"
@@ -310,21 +305,21 @@
     "\ud544\ub9ac\ud540"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Filippinerne"
+  "alias_DUT_V": [
+    "Filippijnen"
   ], 
   "alias_DUT_Q": [
     "Filipijnen"
   ], 
   "bbox": "4.46811,116.812721,21.23415,126.856628", 
-  "alias_DUT_V": [
-    "Filippijnen"
+  "alias_CZE_Q": [
+    "Filip\u00edny"
   ], 
-  "alias_DAN_Q": [
-    "Philippinerne"
+  "alias_GER_V": [
+    "Republik der Philippinen"
   ], 
-  "alias_GER_Q": [
-    "Philippinen"
+  "alias_DAN_V": [
+    "Filippinerne"
   ], 
   "lang": "ENG", 
   "name": "Philippines", 
@@ -336,7 +331,12 @@
   "alias_HUN_Q": [
     "F\u00fcl\u00f6p-Szigetek"
   ], 
-  "ne_longitude": 126.856628, 
+  "alias_GER_Q": [
+    "Philippinen"
+  ], 
+  "alias_UNK_V": [
+    "Filippinene"
+  ], 
   "longitude": 120.739067, 
   "iso": "PH", 
   "sw_latitude": 4.46811, 
@@ -421,25 +421,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11365, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826770", 
-          "woe:region=23424724", 
-          "woe:country=23424934"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "PH", 
-        "longitude": 120.60032500663617, 
-        "artisanal:id": 34826770, 
-        "latitude": 18.21222047977529, 
-        "woe:id": 34826770, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826770, 
       "properties": {
         "ne:fid": 11365, 
         "ne:hasPlace": 20, 
@@ -457,7 +438,8 @@
         "latitude": 18.21222047977529, 
         "woe:id": 34826770, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826770
     }
   ], 
   "alias_FRE_S": [

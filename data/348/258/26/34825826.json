@@ -26,8 +26,8 @@
   "alias_POR_Q": [
     "Austr\u00e1lia"
   ], 
-  "alias_ENG_A": [
-    "AU"
+  "alias_KOR_Q": [
+    "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544"
   ], 
   "children": {
     "placetype": [], 
@@ -325,68 +325,6 @@
         "name": "Western Australia"
       }
     ], 
-    "Timezone": [
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350877, 
-        "name": "Australia/Adelaide"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350878, 
-        "name": "Australia/Brisbane"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 56043537, 
-        "name": "Australia/Broken_Hill"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 56043539, 
-        "name": "Australia/Currie"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350879, 
-        "name": "Australia/Darwin"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 56043538, 
-        "name": "Australia/Eucla"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350880, 
-        "name": "Australia/Hobart"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350881, 
-        "name": "Australia/Lindeman"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350882, 
-        "name": "Australia/Lord_Howe"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350883, 
-        "name": "Australia/Melbourne"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350884, 
-        "name": "Australia/Perth"
-      }, 
-      {
-        "placetype": "Timezone", 
-        "woeid": 28350885, 
-        "name": "Australia/Sydney"
-      }
-    ], 
     "Drainage": [
       {
         "placetype": "Drainage", 
@@ -483,6 +421,68 @@
         "woeid": 28741761, 
         "name": "Warrego River"
       }
+    ], 
+    "Timezone": [
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350877, 
+        "name": "Australia/Adelaide"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350878, 
+        "name": "Australia/Brisbane"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043537, 
+        "name": "Australia/Broken_Hill"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043539, 
+        "name": "Australia/Currie"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350879, 
+        "name": "Australia/Darwin"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043538, 
+        "name": "Australia/Eucla"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350880, 
+        "name": "Australia/Hobart"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350881, 
+        "name": "Australia/Lindeman"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350882, 
+        "name": "Australia/Lord_Howe"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350883, 
+        "name": "Australia/Melbourne"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350884, 
+        "name": "Australia/Perth"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350885, 
+        "name": "Australia/Sydney"
+      }
     ]
   }, 
   "aliases": {
@@ -512,8 +512,10 @@
       "\u00c1stral\u00eda", 
       "Astralia"
     ], 
-    "Dutch": [
-      "Australi\u00eb"
+    "English": [
+      "AU", 
+      "Land down Under", 
+      "Osutoraria"
     ], 
     "Japanese": [
       "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2"
@@ -524,10 +526,8 @@
     "German": [
       "Australien"
     ], 
-    "English": [
-      "AU", 
-      "Land down Under", 
-      "Osutoraria"
+    "Dutch": [
+      "Australi\u00eb"
     ], 
     "Korean": [
       "\ud638\uc8fc", 
@@ -551,8 +551,8 @@
   "provider": "geoplanet 7.6.0", 
   "latitude": -24.916201, 
   "date_indexed": "2010-12-02T17:46:05.279Z", 
-  "alias_KOR_Q": [
-    "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544"
+  "alias_ENG_A": [
+    "AU"
   ], 
   "adjacent": [], 
   "alias_DUT_Q": [
@@ -635,25 +635,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9850, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825826", 
-          "woe:region=2344706", 
-          "woe:country=23424748"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "AU", 
-        "longitude": 122.22362517826619, 
-        "artisanal:id": 34825826, 
-        "latitude": -17.946011043247378, 
-        "woe:id": 34825826, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825826, 
       "properties": {
         "ne:fid": 9850, 
         "ne:hasPlace": 20, 
@@ -671,7 +652,8 @@
         "latitude": -17.946011043247378, 
         "woe:id": 34825826, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825826
     }
   ], 
   "alias_FRE_Q": [

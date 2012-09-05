@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 4.62933, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Kenija"
-  ], 
+  "ne_longitude": 41.899059, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Qu\u00eania"
@@ -105,9 +103,6 @@
       "Quenia", 
       "Qu\u00e9nia"
     ], 
-    "Spanish": [
-      "Kenia"
-    ], 
     "Chinese": [
       "\u80af\u5c3c\u4e9a", 
       "\u80af\u4e9e"
@@ -134,15 +129,18 @@
       "Kenia", 
       "Republik Kenia"
     ], 
-    "English": [
-      "KE", 
-      "Republic of Kenya"
+    "Spanish": [
+      "Kenia"
     ], 
     "Polish": [
       "Kenia"
     ], 
     "Korean": [
       "\ucf00\ub0d0"
+    ], 
+    "English": [
+      "KE", 
+      "Republic of Kenya"
     ]
   }, 
   "alias_CHI_Q": [
@@ -192,7 +190,9 @@
   "alias_UNK_Q": [
     "Kenija"
   ], 
-  "ne_longitude": 41.899059, 
+  "alias_UNK_V": [
+    "Republika Kenija"
+  ], 
   "longitude": 37.90395, 
   "iso": "KE", 
   "sw_latitude": -4.71712, 
@@ -234,25 +234,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8123, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824678", 
-          "woe:region=2345937", 
-          "woe:country=23424863"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "KE", 
-        "longitude": 36.917205545581986, 
-        "artisanal:id": 34824678, 
-        "latitude": -0.9467315416156517, 
-        "woe:id": 34824678, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824678, 
       "properties": {
         "ne:fid": 8123, 
         "ne:hasPlace": -1, 
@@ -270,7 +251,8 @@
         "latitude": -0.9467315416156517, 
         "woe:id": 34824678, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824678
     }
   ]
 }

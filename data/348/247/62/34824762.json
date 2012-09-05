@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": -15.60883, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Zimbabve"
-  ], 
+  "ne_longitude": 33.056301, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Zimb\u00e1bwe"
@@ -101,17 +99,17 @@
       "Simbabve", 
       "Republika Zimbabve"
     ], 
-    "Spanish": [
-      "Zimbawe", 
-      "Zimbabue"
+    "English": [
+      "ZW", 
+      "Southern Rhodesia"
     ], 
     "Japanese": [
       "\u30b8\u30f3\u30d0\u30d6\u30a8", 
       "\u30b8\u30f3\u30d0\u30d6\u30a8\u5171\u548c\u56fd"
     ], 
-    "English": [
-      "ZW", 
-      "Southern Rhodesia"
+    "Spanish": [
+      "Zimbawe", 
+      "Zimbabue"
     ], 
     "Korean": [
       "\uc9d0\ubc14\ube0c\uc6e8"
@@ -155,7 +153,9 @@
   "alias_UNK_Q": [
     "Simbabve"
   ], 
-  "ne_longitude": 33.056301, 
+  "alias_UNK_V": [
+    "Republika Zimbabve"
+  ], 
   "longitude": 29.14666, 
   "iso": "ZW", 
   "sw_latitude": -22.41773, 
@@ -193,25 +193,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8255, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824762", 
-          "woe:region=2347814", 
-          "woe:country=23425004"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ZW", 
-        "longitude": 30.194562462473524, 
-        "artisanal:id": 34824762, 
-        "latitude": -17.365769705917312, 
-        "woe:id": 34824762, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824762, 
       "properties": {
         "ne:fid": 8255, 
         "ne:hasPlace": 20, 
@@ -229,7 +210,8 @@
         "latitude": -17.365769705917312, 
         "woe:id": 34824762, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824762
     }
   ]
 }

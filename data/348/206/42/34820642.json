@@ -161,25 +161,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2025, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820642", 
-          "woe:region=2347569", 
-          "woe:country=23424977"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "US", 
-        "longitude": -83.67101524363527, 
-        "artisanal:id": 34820642, 
-        "latitude": 32.85609827288998, 
-        "woe:id": 34820642, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820642, 
       "properties": {
         "ne:fid": 2025, 
         "ne:hasPlace": 20, 
@@ -197,7 +178,8 @@
         "latitude": 32.85609827288998, 
         "woe:id": 34820642, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820642
     }
   ], 
   "bbox": [

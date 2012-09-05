@@ -93,15 +93,15 @@
     "Romanian": [
       "Guadelupa"
     ], 
-    "Spanish": [
-      "Guadalupe"
+    "English": [
+      "GP", 
+      "Guadaloupe"
     ], 
     "Japanese": [
       "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7"
     ], 
-    "English": [
-      "GP", 
-      "Guadaloupe"
+    "Spanish": [
+      "Guadalupe"
     ], 
     "Polish": [
       "Gwadelupa"
@@ -228,25 +228,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2146, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35312179", 
-          "woe:region=28358256", 
-          "woe:country=23424831"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GP", 
-        "longitude": -61.52495077367503, 
-        "artisanal:id": 35312179, 
-        "latitude": 16.27467625684168, 
-        "woe:id": 35312179, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35312179, 
       "properties": {
         "ne:fid": 2146, 
         "ne:hasPlace": 20, 
@@ -264,7 +245,8 @@
         "latitude": 16.27467625684168, 
         "woe:id": 35312179, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35312179
     }
   ]
 }

@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Fran\u0163a"
   ], 
-  "alias_UNK_V": [
-    "Franc\u00fazsko"
-  ], 
+  "ne_longitude": 9.55932, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "P'urangsu"
@@ -218,8 +216,9 @@
       "Ranskasta", 
       "Ranska"
     ], 
-    "Norwegian": [
-      "Frankrike"
+    "Portuguese": [
+      "Franca", 
+      "Fran\u00e7a"
     ], 
     "Czech": [
       "Francie"
@@ -227,8 +226,8 @@
     "Romanian": [
       "Fran\u0163a"
     ], 
-    "Dutch": [
-      "Frankrijk"
+    "Spanish": [
+      "Francia"
     ], 
     "Japanese": [
       "\u30d5\u30e9\u30f3\u30b9", 
@@ -238,26 +237,20 @@
       "Gallia", 
       "R\u00e9publique Fran\u00e7aise"
     ], 
-    "German": [
-      "Frankreich", 
-      "Franz\u00f6sische Republik", 
-      "Franzosische Republik"
+    "Norwegian": [
+      "Frankrike"
     ], 
-    "Portuguese": [
-      "Franca", 
-      "Fran\u00e7a"
+    "English": [
+      "FRA", 
+      "French Republic"
     ], 
     "Unknown": [
       "Frakkland", 
       "Francuzsko", 
       "Franc\u00fazsko"
     ], 
-    "Spanish": [
-      "Francia"
-    ], 
-    "English": [
-      "FRA", 
-      "French Republic"
+    "Dutch": [
+      "Frankrijk"
     ], 
     "Polish": [
       "Francja"
@@ -265,6 +258,11 @@
     "Korean": [
       "P'urangsu", 
       "\ud504\ub791\uc2a4"
+    ], 
+    "German": [
+      "Frankreich", 
+      "Franz\u00f6sische Republik", 
+      "Franzosische Republik"
     ], 
     "Italian": [
       "Francia"
@@ -276,8 +274,8 @@
   "alias_ITA_Q": [
     "Francia"
   ], 
-  "alias_GER_V": [
-    "Franz\u00f6sische Republik"
+  "alias_DAN_Q": [
+    "Frankrig"
   ], 
   "alias_CHI_V": [
     "\u6cd5\u56fd"
@@ -316,8 +314,8 @@
   "alias_CZE_Q": [
     "Francie"
   ], 
-  "alias_DAN_Q": [
-    "Frankrig"
+  "alias_GER_V": [
+    "Franz\u00f6sische Republik"
   ], 
   "alias_GER_Q": [
     "Frankreich"
@@ -338,7 +336,9 @@
   "alias_HUN_Q": [
     "Franciaorsz\u00e1g"
   ], 
-  "ne_longitude": 9.55932, 
+  "alias_UNK_V": [
+    "Franc\u00fazsko"
+  ], 
   "longitude": 1.71819, 
   "iso": "FR", 
   "sw_latitude": 41.33374, 
@@ -466,25 +466,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1501, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820282", 
-          "woe:region=7153313", 
-          "woe:country=23424819"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "FR", 
-        "longitude": -2.753123414496729, 
-        "artisanal:id": 34820282, 
-        "latitude": 48.52121347615858, 
-        "woe:id": 34820282, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820282, 
       "properties": {
         "ne:fid": 1501, 
         "ne:hasPlace": 20, 
@@ -502,7 +483,8 @@
         "latitude": 48.52121347615858, 
         "woe:id": 34820282, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820282
     }
   ], 
   "alias_FRE_S": [

@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": -25.719641, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Kraljevina Svazi"
-  ], 
+  "ne_longitude": 32.137272, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc2a4\uc640\uc9c8\ub79c\ub4dc"
@@ -61,19 +59,15 @@
     ]
   }, 
   "aliases": {
-    "Chinese": [
-      "\u53f2\u74e6\u6fdf\u862d", 
-      "\u53f2\u74e6\u6fdf\u862d"
+    "Portuguese": [
+      "Suazilandia", 
+      "Suazil\u00e2ndia"
     ], 
     "Finnish": [
       "Swazimaa"
     ], 
     "Hungarian": [
       "Szv\u00e1zif\u00f6ld"
-    ], 
-    "Portuguese": [
-      "Suazilandia", 
-      "Suazil\u00e2ndia"
     ], 
     "Czech": [
       "Svazijsko", 
@@ -83,9 +77,9 @@
       "Svazi", 
       "Kraljevina Svazi"
     ], 
-    "Spanish": [
-      "Swazilandia", 
-      "Suazilandia"
+    "English": [
+      "SZ", 
+      "Kingdom of Swaziland"
     ], 
     "Japanese": [
       "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9", 
@@ -96,9 +90,9 @@
       "K\u00f6nigreich Swasiland", 
       "Koenigreich Swasiland"
     ], 
-    "English": [
-      "SZ", 
-      "Kingdom of Swaziland"
+    "Spanish": [
+      "Swazilandia", 
+      "Suazilandia"
     ], 
     "Polish": [
       "Suazi"
@@ -106,6 +100,10 @@
     "Korean": [
       "\uc2a4\uc640\uc9c8\ub79c\ub4dc", 
       "\uc2a4\uc640\uc9c8\ub780\ub4dc"
+    ], 
+    "Chinese": [
+      "\u53f2\u74e6\u6fdf\u862d", 
+      "\u53f2\u74e6\u6fdf\u862d"
     ]
   }, 
   "alias_CHI_Q": [
@@ -161,7 +159,9 @@
   "alias_HUN_Q": [
     "Szv\u00e1zif\u00f6ld"
   ], 
-  "ne_longitude": 32.137272, 
+  "alias_UNK_V": [
+    "Kraljevina Svazi"
+  ], 
   "longitude": 31.465679, 
   "iso": "SZ", 
   "sw_latitude": -27.317101, 
@@ -259,25 +259,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8339, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35316751", 
-          "woe:region=20069889", 
-          "woe:country=23424993"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SZ", 
-        "longitude": 31.127468483670725, 
-        "artisanal:id": 35316751, 
-        "latitude": -26.29645928627407, 
-        "woe:id": 35316751, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35316751, 
       "properties": {
         "ne:fid": 8339, 
         "ne:hasPlace": 20, 
@@ -295,7 +276,8 @@
         "latitude": -26.29645928627407, 
         "woe:id": 35316751, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35316751
     }
   ]
 }

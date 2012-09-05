@@ -92,6 +92,10 @@
     "Romanian": [
       "Eritreea"
     ], 
+    "English": [
+      "ER", 
+      "Ertra"
+    ], 
     "Japanese": [
       "\u30a8\u30ea\u30c8\u30ea\u30a2"
     ], 
@@ -101,10 +105,6 @@
     ], 
     "Unknown": [
       "Eritreja"
-    ], 
-    "English": [
-      "ER", 
-      "Ertra"
     ], 
     "Polish": [
       "Erytrea"
@@ -197,25 +197,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9320, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825470", 
-          "woe:region=24549686", 
-          "woe:country=23424806"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "ER", 
-        "longitude": 38.474891124398845, 
-        "artisanal:id": 34825470, 
-        "latitude": 16.719429356096654, 
-        "woe:id": 34825470, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825470, 
       "properties": {
         "ne:fid": 9320, 
         "ne:hasPlace": -1, 
@@ -233,7 +214,8 @@
         "latitude": 16.719429356096654, 
         "woe:id": 34825470, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825470
     }
   ], 
   "alias_FRE_S": [

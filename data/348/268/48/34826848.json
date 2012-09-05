@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Malaezia"
   ], 
-  "alias_UNK_V": [
-    "Mallae-i jia"
-  ], 
+  "ne_longitude": 119.448433, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ub9d0\ub808\uc774\uc9c0\uc544"
@@ -162,9 +160,8 @@
       "Malaezia", 
       "Malaiezia"
     ], 
-    "Dutch": [
-      "Maleisie", 
-      "Maleisi\u00eb"
+    "Spanish": [
+      "Malasia"
     ], 
     "Japanese": [
       "\u30de\u30ec\u30fc\u30b7\u30a2", 
@@ -177,12 +174,9 @@
       "Malas\u00eda", 
       "Mallae-i jia"
     ], 
-    "Spanish": [
-      "Malasia"
-    ], 
-    "English": [
-      "MY", 
-      "Malaysian"
+    "Dutch": [
+      "Maleisie", 
+      "Maleisi\u00eb"
     ], 
     "Polish": [
       "Malezja"
@@ -190,6 +184,10 @@
     "Korean": [
       "\ub9d0\ub808\uc774\uc9c0\uc544", 
       "\ub9d0\ub808\uc774\uc2dc\uc544"
+    ], 
+    "English": [
+      "MY", 
+      "Malaysian"
     ], 
     "Italian": [
       "Malaisia", 
@@ -252,7 +250,9 @@
   "alias_HUN_V": [
     "Mal\u00e1jf\u00f6ld"
   ], 
-  "ne_longitude": 119.448433, 
+  "alias_UNK_V": [
+    "Mallae-i jia"
+  ], 
   "longitude": 114.401657, 
   "iso": "MY", 
   "sw_latitude": 0.66364, 
@@ -397,25 +397,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11481, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826848", 
-          "woe:region=2346298", 
-          "woe:country=23424901"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MY", 
-        "longitude": 102.26670163607001, 
-        "artisanal:id": 34826848, 
-        "latitude": 6.136520262023696, 
-        "woe:id": 34826848, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826848, 
       "properties": {
         "ne:fid": 11481, 
         "ne:hasPlace": 20, 
@@ -433,7 +414,8 @@
         "latitude": 6.136520262023696, 
         "woe:id": 34826848, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826848
     }
   ], 
   "alias_FRE_Q": [

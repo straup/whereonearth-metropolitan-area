@@ -26,9 +26,6 @@
   "alias_ENG_A": [
     "QA"
   ], 
-  "alias_CZE_Q": [
-    "Katar"
-  ], 
   "children": {
     "placetype": [], 
     "State": [
@@ -98,8 +95,9 @@
     "Czech": [
       "Katar"
     ], 
-    "Dutch": [
-      "Quatar"
+    "English": [
+      "QA", 
+      "State of Qatar"
     ], 
     "Japanese": [
       "\u30ab\u30bf\u30fc\u30eb", 
@@ -109,9 +107,8 @@
       "Katar", 
       "Staat Katar"
     ], 
-    "English": [
-      "QA", 
-      "State of Qatar"
+    "Dutch": [
+      "Quatar"
     ], 
     "Polish": [
       "Katar"
@@ -138,9 +135,12 @@
   "provider": "geoplanet 7.6.0", 
   "latitude": 25.3188, 
   "date_indexed": "2010-12-02T12:16:10.277Z", 
-  "bbox": "24.482901,50.757011,26.177509,52.427509", 
   "alias_DUT_V": [
     "Quatar"
+  ], 
+  "bbox": "24.482901,50.757011,26.177509,52.427509", 
+  "alias_CZE_Q": [
+    "Katar"
   ], 
   "alias_GER_V": [
     "Staat Katar"
@@ -209,25 +209,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8925, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825212", 
-          "woe:region=20070006", 
-          "woe:country=23424930"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "QA", 
-        "longitude": 51.5159298383885, 
-        "artisanal:id": 34825212, 
-        "latitude": 25.699087873901302, 
-        "woe:id": 34825212, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825212, 
       "properties": {
         "ne:fid": 8925, 
         "ne:hasPlace": 15, 
@@ -245,7 +226,8 @@
         "latitude": 25.699087873901302, 
         "woe:id": 34825212, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825212
     }
   ]
 }

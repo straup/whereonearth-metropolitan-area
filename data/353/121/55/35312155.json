@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Bahamas"
   ], 
-  "alias_UNK_V": [
-    "Zveza Bahami"
-  ], 
+  "ne_longitude": -72.649513, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Baamas"
@@ -34,9 +32,6 @@
   ], 
   "alias_ENG_A": [
     "BS"
-  ], 
-  "alias_CZE_Q": [
-    "Bahamy"
   ], 
   "children": {
     "placetype": [], 
@@ -361,7 +356,8 @@
       "Bahamasta", 
       "Bahama"
     ], 
-    "Norwegian": [
+    "Portuguese": [
+      "Baamas", 
       "Bahamas"
     ], 
     "Czech": [
@@ -370,9 +366,8 @@
     "Romanian": [
       "Bahamas"
     ], 
-    "Dutch": [
-      "Bahama\u2019s", 
-      "Bahama's"
+    "Spanish": [
+      "Bahamas"
     ], 
     "Japanese": [
       "\u30d0\u30cf\u30de", 
@@ -383,30 +378,30 @@
       "Bahamas, Iles", 
       "Bahamas, \u00celes"
     ], 
-    "German": [
-      "Bahamas", 
-      "Commonwealth der Bahamas"
-    ], 
-    "Portuguese": [
-      "Baamas", 
-      "Bahamas"
-    ], 
-    "Unknown": [
-      "Bahami", 
-      "Zveza Bahami"
-    ], 
-    "Spanish": [
+    "Norwegian": [
       "Bahamas"
     ], 
     "English": [
       "BS", 
       "Bahamas"
     ], 
+    "Unknown": [
+      "Bahami", 
+      "Zveza Bahami"
+    ], 
+    "Dutch": [
+      "Bahama\u2019s", 
+      "Bahama's"
+    ], 
     "Polish": [
       "Bahamy"
     ], 
     "Korean": [
       "\ubc14\ud558\ub9c8"
+    ], 
+    "German": [
+      "Bahamas", 
+      "Commonwealth der Bahamas"
     ], 
     "Italian": [
       "Bahama", 
@@ -419,8 +414,8 @@
   "alias_ITA_Q": [
     "Bahamas"
   ], 
-  "alias_GER_V": [
-    "Commonwealth der Bahamas"
+  "alias_DAN_Q": [
+    "Bahamas"
   ], 
   "alias_ITA_V": [
     "Bahama"
@@ -455,15 +450,18 @@
     "\ubc14\ud558\ub9c8"
   ], 
   "adjacent": [], 
+  "alias_DUT_V": [
+    "Bahama\u2019s"
+  ], 
   "alias_DUT_Q": [
     "Bahama's"
   ], 
   "bbox": "20.916059,-80.499229,27.933781,-72.649513", 
-  "alias_DUT_V": [
-    "Bahama\u2019s"
+  "alias_CZE_Q": [
+    "Bahamy"
   ], 
-  "alias_DAN_Q": [
-    "Bahamas"
+  "alias_GER_V": [
+    "Commonwealth der Bahamas"
   ], 
   "alias_GER_Q": [
     "Bahamas"
@@ -481,7 +479,9 @@
   "alias_HUN_V": [
     "Baham\u00e1k"
   ], 
-  "ne_longitude": -72.649513, 
+  "alias_UNK_V": [
+    "Zveza Bahami"
+  ], 
   "longitude": -78.080017, 
   "iso": "BS", 
   "sw_latitude": 20.916059, 
@@ -554,25 +554,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2120, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35312155", 
-          "woe:region=2344779", 
-          "woe:country=23424758"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BS", 
-        "longitude": -78.70094976412517, 
-        "artisanal:id": 35312155, 
-        "latitude": 26.547366585680585, 
-        "woe:id": 35312155, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35312155, 
       "properties": {
         "ne:fid": 2120, 
         "ne:hasPlace": 20, 
@@ -590,7 +571,8 @@
         "latitude": 26.547366585680585, 
         "woe:id": 35312155, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35312155
     }
   ], 
   "alias_FRE_S": [

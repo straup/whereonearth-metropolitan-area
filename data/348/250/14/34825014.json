@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Kuweit"
   ], 
-  "alias_UNK_V": [
-    "K\u00fava\u00edt"
-  ], 
+  "ne_longitude": 48.78384, 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\ucfe0\uc6e8\uc774\ud2b8"
@@ -80,8 +78,9 @@
     "Romanian": [
       "Kuweit"
     ], 
-    "Dutch": [
-      "Koeweit"
+    "English": [
+      "KW", 
+      "State of Kuwait"
     ], 
     "Japanese": [
       "\u30af\u30a6\u30a7\u30fc\u30c8", 
@@ -99,9 +98,8 @@
       "Kuvait", 
       "K\u00fava\u00edt"
     ], 
-    "English": [
-      "KW", 
-      "State of Kuwait"
+    "Dutch": [
+      "Koeweit"
     ], 
     "Polish": [
       "Kuwejt"
@@ -151,7 +149,9 @@
   "alias_HUN_Q": [
     "Kuvait"
   ], 
-  "ne_longitude": 48.78384, 
+  "alias_UNK_V": [
+    "K\u00fava\u00edt"
+  ], 
   "longitude": 47.49445, 
   "iso": "KW", 
   "sw_latitude": 28.5245, 
@@ -208,25 +208,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8620, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825014", 
-          "woe:region=20070165", 
-          "woe:country=23424870"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "KW", 
-        "longitude": 47.974223775056934, 
-        "artisanal:id": 34825014, 
-        "latitude": 30.033688263047004, 
-        "woe:id": 34825014, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825014, 
       "properties": {
         "ne:fid": 8620, 
         "ne:hasPlace": -1, 
@@ -244,7 +225,8 @@
         "latitude": 30.033688263047004, 
         "woe:id": 34825014, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825014
     }
   ], 
   "alias_FRE_Q": [

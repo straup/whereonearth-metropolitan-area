@@ -171,17 +171,15 @@
     "Finnish": [
       "Jemen"
     ], 
-    "Norwegian": [
-      "Jemen"
-    ], 
     "Czech": [
       "Jemen"
     ], 
     "Unknown": [
       "Republika Jemen"
     ], 
-    "Dutch": [
-      "Jemen"
+    "English": [
+      "YE", 
+      "Republic of Yemen"
     ], 
     "Japanese": [
       "\u30a4\u30a8\u30e1\u30f3", 
@@ -190,13 +188,11 @@
     "French": [
       "Y\u00e9men"
     ], 
-    "German": [
-      "Jemen", 
-      "Republik Jemen"
+    "Norwegian": [
+      "Jemen"
     ], 
-    "English": [
-      "YE", 
-      "Republic of Yemen"
+    "Dutch": [
+      "Jemen"
     ], 
     "Polish": [
       "Jemen"
@@ -206,6 +202,10 @@
     ], 
     "Korean": [
       "\uc608\uba58"
+    ], 
+    "German": [
+      "Jemen", 
+      "Republik Jemen"
     ]
   }, 
   "alias_CHI_Q": [
@@ -312,25 +312,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9354, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825488", 
-          "woe:region=20070046", 
-          "woe:country=23425002"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "YE", 
-        "longitude": 43.46927114752481, 
-        "artisanal:id": 34825488, 
-        "latitude": 15.414969443952513, 
-        "woe:id": 34825488, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825488, 
       "properties": {
         "ne:fid": 9354, 
         "ne:hasPlace": -1, 
@@ -348,7 +329,8 @@
         "latitude": 15.414969443952513, 
         "woe:id": 34825488, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825488
     }
   ], 
   "alias_FRE_Q": [

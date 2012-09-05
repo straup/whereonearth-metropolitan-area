@@ -63,9 +63,10 @@
     ]
   }, 
   "aliases": {
-    "Chinese": [
-      "\u571f\u5e93\u66fc\u65af\u5766", 
-      "\u571f\u5eab\u66fc"
+    "Portuguese": [
+      "Turcomenist\u00e3o", 
+      "Turquemenistao", 
+      "Turquemenist\u00e3o"
     ], 
     "Finnish": [
       "Turkmenistassa"
@@ -73,16 +74,12 @@
     "Hungarian": [
       "T\u00fcrkmeniszt\u00e1n"
     ], 
-    "Portuguese": [
-      "Turcomenist\u00e3o", 
-      "Turquemenistao", 
-      "Turquemenist\u00e3o"
-    ], 
     "Czech": [
       "Turkmenist\u00e1n"
     ], 
-    "Spanish": [
-      "Turkmenist\u00e1n"
+    "English": [
+      "TM", 
+      "Turkmen"
     ], 
     "Japanese": [
       "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3"
@@ -90,13 +87,16 @@
     "French": [
       "Turkm\u00e9nistan"
     ], 
-    "English": [
-      "TM", 
-      "Turkmen"
+    "Spanish": [
+      "Turkmenist\u00e1n"
     ], 
     "Korean": [
       "\ud22c\ub974\ud06c\uba58", 
       "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
+    ], 
+    "Chinese": [
+      "\u571f\u5e93\u66fc\u65af\u5766", 
+      "\u571f\u5eab\u66fc"
     ]
   }, 
   "alias_CHI_Q": [
@@ -217,25 +217,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9751, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825784", 
-          "woe:region=2347349", 
-          "woe:country=23424972"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "TM", 
-        "longitude": 54.33913179727798, 
-        "artisanal:id": 34825784, 
-        "latitude": 39.529184595293124, 
-        "woe:id": 34825784, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825784, 
       "properties": {
         "ne:fid": 9751, 
         "ne:hasPlace": 20, 
@@ -253,7 +234,8 @@
         "latitude": 39.529184595293124, 
         "woe:id": 34825784, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825784
     }
   ], 
   "alias_FRE_Q": [

@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": -1.05348, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Ruandska republika"
-  ], 
+  "ne_longitude": 30.89596, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Ruanda"
@@ -109,18 +107,14 @@
     ]
   }, 
   "aliases": {
-    "Chinese": [
-      "\u76e7\u5b89\u9054", 
-      "\u76e7\u5b89\u9054"
+    "Portuguese": [
+      "Ruanda"
     ], 
     "Finnish": [
       "Ruandasta", 
       "Ruanda"
     ], 
     "Hungarian": [
-      "Ruanda"
-    ], 
-    "Portuguese": [
       "Ruanda"
     ], 
     "German": [
@@ -131,19 +125,23 @@
       "Rwandese Republic", 
       "Ruandska republika"
     ], 
-    "Spanish": [
-      "Ruanda"
+    "English": [
+      "RW", 
+      "Republic of Rwanda"
     ], 
     "Japanese": [
       "\u30eb\u30ef\u30f3\u30c0", 
       "\u30eb\u30ef\u30f3\u30c0\u5171\u548c\u56fd"
     ], 
-    "English": [
-      "RW", 
-      "Republic of Rwanda"
+    "Spanish": [
+      "Ruanda"
     ], 
     "Korean": [
       "\ub974\uc644\ub2e4"
+    ], 
+    "Chinese": [
+      "\u76e7\u5b89\u9054", 
+      "\u76e7\u5b89\u9054"
     ], 
     "Italian": [
       "Ruanda"
@@ -196,7 +194,9 @@
   "alias_HUN_Q": [
     "Ruanda"
   ], 
-  "ne_longitude": 30.89596, 
+  "alias_UNK_V": [
+    "Ruandska republika"
+  ], 
   "longitude": 29.876381, 
   "iso": "RW", 
   "sw_latitude": -2.84067, 
@@ -258,25 +258,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8133, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824684", 
-          "woe:region=55864753", 
-          "woe:country=23424937"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "RW", 
-        "longitude": 29.24417806616138, 
-        "artisanal:id": 34824684, 
-        "latitude": -1.672845277253531, 
-        "woe:id": 34824684, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824684, 
       "properties": {
         "ne:fid": 8133, 
         "ne:hasPlace": 20, 
@@ -294,7 +275,8 @@
         "latitude": -1.672845277253531, 
         "woe:id": 34824684, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824684
     }
   ]
 }

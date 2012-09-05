@@ -28,9 +28,7 @@
   "alias_RUM_Q": [
     "China"
   ], 
-  "alias_UNK_V": [
-    "Aomen"
-  ], 
+  "ne_longitude": 134.773605, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d"
@@ -43,9 +41,6 @@
   ], 
   "alias_ENG_A": [
     "CHN"
-  ], 
-  "alias_CZE_Q": [
-    "\u010c\u00edna"
   ], 
   "children": {
     "Island": [
@@ -80,6 +75,14 @@
         "name": "Wanshan Qundao"
       }
     ], 
+    "Airport": [
+      {
+        "placetype": "Airport", 
+        "woeid": 12512162, 
+        "name": "Pratas Island Airport"
+      }
+    ], 
+    "placetype": [], 
     "State": [
       {
         "placetype": "State", 
@@ -242,14 +245,6 @@
         "name": "\u9ed1\u9f99\u6c5f\u7701"
       }
     ], 
-    "placetype": [], 
-    "Airport": [
-      {
-        "placetype": "Airport", 
-        "woeid": 12512162, 
-        "name": "Pratas Island Airport"
-      }
-    ], 
     "Drainage": [
       {
         "placetype": "Drainage", 
@@ -294,10 +289,6 @@
       "Kina", 
       "Folkerepublikken Kina"
     ], 
-    "Portuguese": [
-      "Rep\u00fablica Popular da China", 
-      "China"
-    ], 
     "Chinese": [
       "\u4e2d\u56fd"
     ], 
@@ -305,9 +296,9 @@
       "Kiinan kansantasavalta", 
       "Kiina"
     ], 
-    "Norwegian": [
-      "Kina", 
-      "Folkerepublikken Kina"
+    "Portuguese": [
+      "Rep\u00fablica Popular da China", 
+      "China"
     ], 
     "Czech": [
       "\u010c\u00edna", 
@@ -317,8 +308,8 @@
       "China", 
       "Republica Popular\u0103 Chinez\u0103"
     ], 
-    "Dutch": [
-      "Volksrepubliek China", 
+    "Spanish": [
+      "Rep\u00fablica Popular China", 
       "China"
     ], 
     "Japanese": [
@@ -330,22 +321,22 @@
       "Republique Populaire de Chine", 
       "R\u00e9publique Populaire de Chine"
     ], 
-    "German": [
-      "China", 
-      "China - Volksrepublik"
-    ], 
-    "Unknown": [
-      "Kitajska", 
-      "Aomen"
-    ], 
-    "Spanish": [
-      "Rep\u00fablica Popular China", 
-      "China"
+    "Norwegian": [
+      "Kina", 
+      "Folkerepublikken Kina"
     ], 
     "English": [
       "CHN", 
       "China", 
       "China Peoples Rep"
+    ], 
+    "Unknown": [
+      "Kitajska", 
+      "Aomen"
+    ], 
+    "Dutch": [
+      "Volksrepubliek China", 
+      "China"
     ], 
     "Polish": [
       "Chiny", 
@@ -355,6 +346,10 @@
       "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d", 
       "\uc911\uad6d"
     ], 
+    "German": [
+      "China", 
+      "China - Volksrepublik"
+    ], 
     "Italian": [
       "Repubblica Popolare Cinese", 
       "Cina"
@@ -363,8 +358,8 @@
   "alias_ITA_Q": [
     "Cina"
   ], 
-  "alias_GER_V": [
-    "China - Volksrepublik"
+  "alias_DAN_Q": [
+    "Kina"
   ], 
   "alias_ITA_V": [
     "Repubblica Popolare Cinese"
@@ -401,31 +396,31 @@
     "Folkerepublikken Kina"
   ], 
   "date_indexed": "2010-12-02T08:51:54.882Z", 
-  "alias_FRE_V": [
-    "R\u00e9publique Populaire de Chine"
-  ], 
   "alias_KOR_Q": [
     "\uc911\uad6d"
   ], 
   "adjacent": [], 
-  "alias_DAN_V": [
-    "Folkerepublikken Kina"
+  "alias_DUT_V": [
+    "Volksrepubliek China"
   ], 
   "alias_SPA_V": [
     "Rep\u00fablica Popular China"
+  ], 
+  "alias_RUM_V": [
+    "Republica Popular\u0103 Chinez\u0103"
   ], 
   "alias_DUT_Q": [
     "China"
   ], 
   "bbox": "15.7754,73.557709,53.5606,134.773605", 
-  "alias_DUT_V": [
-    "Volksrepubliek China"
+  "alias_CZE_Q": [
+    "\u010c\u00edna"
   ], 
-  "alias_DAN_Q": [
-    "Kina"
+  "alias_GER_V": [
+    "China - Volksrepublik"
   ], 
-  "alias_GER_Q": [
-    "China"
+  "alias_DAN_V": [
+    "Folkerepublikken Kina"
   ], 
   "lang": "CHI", 
   "name": "\u4e2d\u570b", 
@@ -437,12 +432,17 @@
   "alias_UNK_Q": [
     "Kitajska"
   ], 
-  "ne_longitude": 134.773605, 
+  "alias_GER_Q": [
+    "China"
+  ], 
+  "alias_UNK_V": [
+    "Aomen"
+  ], 
   "longitude": 104.165649, 
   "iso": "CN", 
   "sw_latitude": 15.7754, 
-  "alias_RUM_V": [
-    "Republica Popular\u0103 Chinez\u0103"
+  "alias_FRE_V": [
+    "R\u00e9publique Populaire de Chine"
   ], 
   "fullname": "\u4e2d\u570b, China", 
   "features": [
@@ -490,25 +490,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 38, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819284", 
-          "woe:region=12577998", 
-          "woe:country=23424781"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CN", 
-        "longitude": 123.87423395174267, 
-        "artisanal:id": 34819284, 
-        "latitude": 52.70491106058397, 
-        "woe:id": 34819284, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819284, 
       "properties": {
         "ne:fid": 38, 
         "ne:hasPlace": -1, 
@@ -526,7 +507,8 @@
         "latitude": 52.70491106058397, 
         "woe:id": 34819284, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819284
     }
   ], 
   "alias_FRE_S": [

@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 33.43338, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Yisra'el"
-  ], 
+  "ne_longitude": 35.940941, 
   "placetype": "Country", 
   "alias_KOR_Q": [
     "\uc774\uc2a4\ub77c\uc5d8"
@@ -82,8 +80,9 @@
       "Izrael", 
       "Yisra'el"
     ], 
-    "Dutch": [
-      "Isra\u00ebl"
+    "English": [
+      "IL", 
+      "State of Israel"
     ], 
     "Japanese": [
       "\u30a4\u30b9\u30e9\u30a8\u30eb", 
@@ -95,9 +94,8 @@
     "German": [
       "Staat Israel"
     ], 
-    "English": [
-      "IL", 
-      "State of Israel"
+    "Dutch": [
+      "Isra\u00ebl"
     ], 
     "Polish": [
       "Izrael"
@@ -147,7 +145,9 @@
   "alias_HUN_Q": [
     "Izrael"
   ], 
-  "ne_longitude": 35.940941, 
+  "alias_UNK_V": [
+    "Yisra'el"
+  ], 
   "longitude": 35.36124, 
   "iso": "IL", 
   "sw_latitude": 29.4965, 
@@ -197,25 +197,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 7099, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824018", 
-          "woe:region=2345793", 
-          "woe:country=23424852"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "IL", 
-        "longitude": 35.573677676818164, 
-        "artisanal:id": 34824018, 
-        "latitude": 33.19087144443934, 
-        "woe:id": 34824018, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824018, 
       "properties": {
         "ne:fid": 7099, 
         "ne:hasPlace": 15, 
@@ -233,7 +214,8 @@
         "latitude": 33.19087144443934, 
         "woe:id": 34824018, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824018
     }
   ], 
   "alias_FRE_Q": [

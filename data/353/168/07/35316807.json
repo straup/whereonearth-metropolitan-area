@@ -5,7 +5,7 @@
   "alias_KOR_Q": [
     "\ub808\uc704\ub2c8\uc639"
   ], 
-  "alias_POL_Q": [
+  "alias_ENG_P": [
     "Reunion"
   ], 
   "hierarchy": [
@@ -69,16 +69,12 @@
       "Reuniao", 
       "Reuni\u00e3o"
     ], 
-    "Spanish": [
-      "Reuni\u00f3n"
-    ], 
     "Chinese": [
       "\u7559\u5c3c\u65fa", 
       "\u7559\u5c3c\u65fa"
     ], 
-    "Dutch": [
-      "La R\u00e9union", 
-      "La Reunion"
+    "Spanish": [
+      "Reuni\u00f3n"
     ], 
     "Japanese": [
       "\u30ec\u30e6\u30cb\u30aa\u30f3", 
@@ -87,10 +83,9 @@
     "French": [
       "R\u00e9union"
     ], 
-    "English": [
-      "RE", 
-      "Reunion", 
-      "Reunionese"
+    "Dutch": [
+      "La R\u00e9union", 
+      "La Reunion"
     ], 
     "Polish": [
       "Reunion"
@@ -98,6 +93,11 @@
     "Korean": [
       "\ub9ac\uc720\ub2c8\uc628", 
       "\ub808\uc704\ub2c8\uc639"
+    ], 
+    "English": [
+      "RE", 
+      "Reunion", 
+      "Reunionese"
     ], 
     "Italian": [
       "Riunione"
@@ -116,7 +116,7 @@
   "alias_JPN_Q": [
     "\u30ec\u30e6\u30cb\u30aa\u30f3"
   ], 
-  "alias_ENG_P": [
+  "alias_POL_Q": [
     "Reunion"
   ], 
   "alias_JPN_V": [
@@ -246,25 +246,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8430, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=35316807", 
-          "woe:region=24549828", 
-          "woe:country=23424931"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "RE", 
-        "longitude": 55.42435183089726, 
-        "artisanal:id": 35316807, 
-        "latitude": -21.277401236824392, 
-        "woe:id": 35316807, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35316807, 
       "properties": {
         "ne:fid": 8430, 
         "ne:hasPlace": 15, 
@@ -282,7 +263,8 @@
         "latitude": -21.277401236824392, 
         "woe:id": 35316807, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35316807
     }
   ]
 }

@@ -16,15 +16,13 @@
   ], 
   "ne_latitude": 52.154099, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Mongol Ard Uls"
-  ], 
+  "ne_longitude": 119.92411, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Mong\u00f3lia"
   ], 
-  "alias_KOR_Q": [
-    "\ubabd\uace8"
+  "alias_ENG_A": [
+    "MN"
   ], 
   "children": {
     "placetype": [], 
@@ -176,8 +174,9 @@
       "Mongolija", 
       "Mongol Ard Uls"
     ], 
-    "Dutch": [
-      "Mongoli\u00eb"
+    "English": [
+      "MN", 
+      "Mongolian"
     ], 
     "Japanese": [
       "\u30e2\u30f3\u30b4\u30eb", 
@@ -189,9 +188,8 @@
     "German": [
       "Mongolei"
     ], 
-    "English": [
-      "MN", 
-      "Mongolian"
+    "Dutch": [
+      "Mongoli\u00eb"
     ], 
     "Korean": [
       "\ubabd\uace8"
@@ -212,8 +210,8 @@
   "provider": "geoplanet 7.6.0", 
   "latitude": 46.860802, 
   "date_indexed": "2010-12-02T08:53:23.398Z", 
-  "alias_ENG_A": [
-    "MN"
+  "alias_KOR_Q": [
+    "\ubabd\uace8"
   ], 
   "alias_DUT_Q": [
     "Mongoli\u00eb"
@@ -238,7 +236,9 @@
   "alias_HUN_Q": [
     "Mong\u00f3lia"
   ], 
-  "ne_longitude": 119.92411, 
+  "alias_UNK_V": [
+    "Mongol Ard Uls"
+  ], 
   "longitude": 103.836807, 
   "iso": "MN", 
   "sw_latitude": 41.567501, 
@@ -316,25 +316,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 76, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819300", 
-          "woe:region=2346174", 
-          "woe:country=23424887"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MN", 
-        "longitude": 104.1461800919527, 
-        "artisanal:id": 34819300, 
-        "latitude": 49.061697158706274, 
-        "woe:id": 34819300, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819300, 
       "properties": {
         "ne:fid": 76, 
         "ne:hasPlace": 0, 
@@ -352,7 +333,8 @@
         "latitude": 49.061697158706274, 
         "woe:id": 34819300, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819300
     }
   ], 
   "alias_FRE_Q": [

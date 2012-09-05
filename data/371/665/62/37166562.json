@@ -81,25 +81,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3142, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=37166562", 
-          "woe:region=2344856", 
-          "woe:country=23424768"
-        ], 
-        "artisanal:foundry": "http://www.londonintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BR", 
-        "longitude": -45.000086426324515, 
-        "artisanal:id": 37166562, 
-        "latitude": -21.247618761243025, 
-        "woe:id": 37166562, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 37166562, 
       "properties": {
         "ne:fid": 3142, 
         "ne:hasPlace": 20, 
@@ -117,7 +98,8 @@
         "latitude": -21.247618761243025, 
         "woe:id": 37166562, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 37166562
     }
   ], 
   "bbox": [

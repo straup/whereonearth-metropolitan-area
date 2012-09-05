@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Trinidad-Tobago"
   ], 
-  "alias_UNK_V": [
-    "Trinidad ja Tobago"
-  ], 
+  "ne_longitude": -60.489552, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc\ud1a0\ubc14\uace0"
@@ -215,8 +213,9 @@
     "Finnish": [
       "Trinidad ja Tobago"
     ], 
-    "Norwegian": [
-      "Trinidad og Tobago"
+    "Portuguese": [
+      "Trindade e Tobago", 
+      "Trinidad E Tobago"
     ], 
     "Czech": [
       "Trinidad a Tobago"
@@ -225,8 +224,8 @@
       "Trinidad-Tobago", 
       "Trinidad \u015fi Tobago"
     ], 
-    "Dutch": [
-      "Trinidad en Tobago"
+    "Spanish": [
+      "Trinidad y Tobago"
     ], 
     "Japanese": [
       "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4", 
@@ -237,24 +236,19 @@
       "Trinite-et-Tobago", 
       "Trinidad et Tobago"
     ], 
-    "German": [
-      "Trinidad und Tobago", 
-      "Republik Trinidad und Tobago"
+    "Norwegian": [
+      "Trinidad og Tobago"
     ], 
-    "Portuguese": [
-      "Trindade e Tobago", 
-      "Trinidad E Tobago"
+    "English": [
+      "TT", 
+      "Trinidad & Tobago"
     ], 
     "Unknown": [
       "Trinidad in Tobago", 
       "Trinidad ja Tobago"
     ], 
-    "Spanish": [
-      "Trinidad y Tobago"
-    ], 
-    "English": [
-      "TT", 
-      "Trinidad & Tobago"
+    "Dutch": [
+      "Trinidad en Tobago"
     ], 
     "Polish": [
       "Trynidad I Tobago", 
@@ -263,6 +257,10 @@
     "Korean": [
       "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc\ud1a0\ubc14\uace0", 
       "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0"
+    ], 
+    "German": [
+      "Trinidad und Tobago", 
+      "Republik Trinidad und Tobago"
     ], 
     "Italian": [
       "Trinidad e Tobago"
@@ -274,8 +272,8 @@
   "alias_ITA_Q": [
     "Trinidad e Tobago"
   ], 
-  "alias_GER_V": [
-    "Republik Trinidad und Tobago"
+  "alias_DAN_Q": [
+    "Trinidad og Tobago"
   ], 
   "alias_CHI_V": [
     "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5"
@@ -301,11 +299,11 @@
     "Trinidad og Tobago"
   ], 
   "date_indexed": "2010-12-02T18:05:31.524Z", 
-  "alias_FRE_V": [
-    "Trinidad et Tobago"
-  ], 
   "alias_KOR_Q": [
     "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0"
+  ], 
+  "alias_RUM_V": [
+    "Trinidad \u015fi Tobago"
   ], 
   "alias_DUT_Q": [
     "Trinidad en Tobago"
@@ -314,8 +312,8 @@
   "alias_CZE_Q": [
     "Trinidad a Tobago"
   ], 
-  "alias_DAN_Q": [
-    "Trinidad og Tobago"
+  "alias_GER_V": [
+    "Republik Trinidad und Tobago"
   ], 
   "alias_GER_Q": [
     "Trinidad und Tobago"
@@ -333,12 +331,14 @@
   "alias_HUN_V": [
     "Trinidad \u00e9s Tobago"
   ], 
-  "ne_longitude": -60.489552, 
+  "alias_UNK_V": [
+    "Trinidad ja Tobago"
+  ], 
   "longitude": -61.41713, 
   "iso": "TT", 
   "sw_latitude": 10.0361, 
-  "alias_RUM_V": [
-    "Trinidad \u015fi Tobago"
+  "alias_FRE_V": [
+    "Trinidad et Tobago"
   ], 
   "fullname": "Trinidad and Tobago", 
   "features": [
@@ -474,25 +474,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1780, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820492", 
-          "woe:region=2347120", 
-          "woe:country=23424958"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "TT", 
-        "longitude": -61.4742334052815, 
-        "artisanal:id": 34820492, 
-        "latitude": 10.65767784889197, 
-        "woe:id": 34820492, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820492, 
       "properties": {
         "ne:fid": 1780, 
         "ne:hasPlace": 20, 
@@ -510,7 +491,8 @@
         "latitude": 10.65767784889197, 
         "woe:id": 34820492, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820492
     }
   ], 
   "alias_FRE_S": [

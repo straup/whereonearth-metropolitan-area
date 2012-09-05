@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": -17.780809, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Bocvana"
-  ], 
+  "ne_longitude": 29.360781, 
   "placetype": "Country", 
   "alias_ENG_A": [
     "BW"
@@ -144,7 +142,9 @@
   "alias_UNK_Q": [
     "Bocvana"
   ], 
-  "ne_longitude": 29.360781, 
+  "alias_UNK_V": [
+    "Republika Bocvana"
+  ], 
   "longitude": 24.680161, 
   "iso": "BW", 
   "sw_latitude": -26.90724, 
@@ -198,25 +198,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8281, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824780", 
-          "woe:region=2344741", 
-          "woe:country=23424755"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BW", 
-        "longitude": 27.123788590749754, 
-        "artisanal:id": 34824780, 
-        "latitude": -22.54974554671431, 
-        "woe:id": 34824780, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824780, 
       "properties": {
         "ne:fid": 8281, 
         "ne:hasPlace": 20, 
@@ -234,7 +215,8 @@
         "latitude": -22.54974554671431, 
         "woe:id": 34824780, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824780
     }
   ]
 }

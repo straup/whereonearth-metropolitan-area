@@ -19,18 +19,13 @@
   ], 
   "ne_latitude": -9.68056, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Bolivija"
-  ], 
+  "ne_longitude": -57.458092, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Bol\u00edvia"
   ], 
   "alias_ENG_A": [
     "BO"
-  ], 
-  "alias_CZE_Q": [
-    "Bol\u00edvie"
   ], 
   "children": {
     "placetype": [], 
@@ -100,8 +95,9 @@
       "B\u00f3liv\u00eda", 
       "Republika Bolivija"
     ], 
-    "Dutch": [
-      "Bolivi\u00eb"
+    "English": [
+      "BO", 
+      "Republic of Bolivia"
     ], 
     "Japanese": [
       "\u30dc\u30ea\u30d3\u30a2", 
@@ -114,9 +110,8 @@
       "Bolivien", 
       "Republik Bolivien"
     ], 
-    "English": [
-      "BO", 
-      "Republic of Bolivia"
+    "Dutch": [
+      "Bolivi\u00eb"
     ], 
     "Polish": [
       "Boliwia"
@@ -143,9 +138,12 @@
   "provider": "geoplanet 7.6.0", 
   "latitude": -16.288349, 
   "date_indexed": "2010-12-02T17:57:50.22Z", 
-  "bbox": "-22.89613,-69.640762,-9.68056,-57.458092", 
   "alias_DUT_V": [
     "Bolivi\u00eb"
+  ], 
+  "bbox": "-22.89613,-69.640762,-9.68056,-57.458092", 
+  "alias_CZE_Q": [
+    "Bol\u00edvie"
   ], 
   "alias_GER_V": [
     "Republik Bolivien"
@@ -163,7 +161,9 @@
   "alias_HUN_Q": [
     "Bol\u00edvia"
   ], 
-  "ne_longitude": -57.458092, 
+  "alias_UNK_V": [
+    "Republika Bolivija"
+  ], 
   "longitude": -63.549419, 
   "iso": "BO", 
   "sw_latitude": -22.89613, 
@@ -381,25 +381,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 929, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311217", 
-          "woe:region=2344804", 
-          "woe:country=23424762"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BO", 
-        "longitude": -68.14598722604252, 
-        "artisanal:id": 35311217, 
-        "latitude": -16.508253744606, 
-        "woe:id": 35311217, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311217, 
       "properties": {
         "ne:fid": 929, 
         "ne:hasPlace": 20, 
@@ -417,7 +398,8 @@
         "latitude": -16.508253744606, 
         "woe:id": 35311217, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311217
     }
   ], 
   "alias_FRE_Q": [

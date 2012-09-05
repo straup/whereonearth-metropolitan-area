@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": -16.95989, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Namibija"
-  ], 
+  "ne_longitude": 25.256701, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Nam\u00edbia"
@@ -126,8 +124,9 @@
       "Namib\u00eda", 
       "Republika Namibija"
     ], 
-    "Dutch": [
-      "Namibi\u00eb"
+    "English": [
+      "NA", 
+      "Republic of Namibia"
     ], 
     "Japanese": [
       "\u30ca\u30df\u30d3\u30a2", 
@@ -139,9 +138,8 @@
     "German": [
       "Republik Namibia"
     ], 
-    "English": [
-      "NA", 
-      "Republic of Namibia"
+    "Dutch": [
+      "Namibi\u00eb"
     ], 
     "Korean": [
       "\ub098\ubbf8\ube44\uc544"
@@ -185,7 +183,9 @@
   "alias_HUN_Q": [
     "Nam\u00edbia"
   ], 
-  "ne_longitude": 25.256701, 
+  "alias_UNK_V": [
+    "Republika Namibija"
+  ], 
   "longitude": 18.48617, 
   "iso": "NA", 
   "sw_latitude": -28.97142, 
@@ -247,25 +247,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8266, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824770", 
-          "woe:region=20069841", 
-          "woe:country=23424987"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NA", 
-        "longitude": 17.71511104194802, 
-        "artisanal:id": 34824770, 
-        "latitude": -19.242458378002677, 
-        "woe:id": 34824770, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824770, 
       "properties": {
         "ne:fid": 8266, 
         "ne:hasPlace": 20, 
@@ -283,7 +264,8 @@
         "latitude": -19.242458378002677, 
         "woe:id": 34824770, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824770
     }
   ], 
   "alias_FRE_Q": [

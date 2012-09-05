@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": -11.94543, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Madagaskar"
-  ], 
+  "ne_longitude": 50.483799, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ub9c8\ub2e4\uce74\uc2a4\uce74\ub974"
@@ -91,8 +89,8 @@
     "Finnish": [
       "Madagaskar"
     ], 
-    "Norwegian": [
-      "Madagaskar"
+    "Portuguese": [
+      "Madag\u00e1scar"
     ], 
     "Czech": [
       "Madagaskar"
@@ -101,23 +99,19 @@
       "Madagasikara", 
       "Republika Madagaskar"
     ], 
-    "Dutch": [
-      "Madagaskar"
+    "English": [
+      "MG", 
+      "Republic of Madagascar"
     ], 
     "Japanese": [
       "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb", 
       "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb\u5171\u548c\u56fd"
     ], 
-    "German": [
-      "Madagaskar", 
-      "Republik Madagaskar"
+    "Norwegian": [
+      "Madagaskar"
     ], 
-    "Portuguese": [
-      "Madag\u00e1scar"
-    ], 
-    "English": [
-      "MG", 
-      "Republic of Madagascar"
+    "Dutch": [
+      "Madagaskar"
     ], 
     "Polish": [
       "Madagaskar"
@@ -125,13 +119,17 @@
     "Korean": [
       "\ub9c8\ub2e4\uce74\uc2a4\uce74\ub974", 
       "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974"
+    ], 
+    "German": [
+      "Madagaskar", 
+      "Republik Madagaskar"
     ]
   }, 
   "alias_CHI_Q": [
     "\u99ac\u9054\u52a0\u65af\u52a0"
   ], 
-  "alias_GER_V": [
-    "Republik Madagaskar"
+  "alias_DAN_Q": [
+    "Madagaskar"
   ], 
   "alias_CHI_V": [
     "\u9a6c\u8fbe\u52a0\u65af\u52a0"
@@ -164,8 +162,8 @@
   "alias_CZE_Q": [
     "Madagaskar"
   ], 
-  "alias_DAN_Q": [
-    "Madagaskar"
+  "alias_GER_V": [
+    "Republik Madagaskar"
   ], 
   "alias_GER_Q": [
     "Madagaskar"
@@ -180,7 +178,9 @@
   "alias_HUN_Q": [
     "Madagaszk\u00e1r"
   ], 
-  "ne_longitude": 50.483799, 
+  "alias_UNK_V": [
+    "Republika Madagaskar"
+  ], 
   "longitude": 46.854321, 
   "iso": "MG", 
   "sw_latitude": -25.60894, 
@@ -282,25 +282,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8432, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824878", 
-          "woe:region=2346146", 
-          "woe:country=23424883"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MG", 
-        "longitude": 49.30190232511652, 
-        "artisanal:id": 34824878, 
-        "latitude": -12.299170054769897, 
-        "woe:id": 34824878, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824878, 
       "properties": {
         "ne:fid": 8432, 
         "ne:hasPlace": 20, 
@@ -318,7 +299,8 @@
         "latitude": -12.299170054769897, 
         "woe:id": 34824878, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824878
     }
   ]
 }

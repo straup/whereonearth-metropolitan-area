@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Libia"
   ], 
-  "alias_UNK_V": [
-    "Libyan Arab Jamahirya"
-  ], 
+  "ne_longitude": 25.15061, 
   "placetype": "Country", 
   "alias_POR_V": [
     "L\u00edbia \u00c1rabe Jamahiriya"
@@ -37,9 +35,6 @@
   ], 
   "alias_ENG_A": [
     "LY"
-  ], 
-  "alias_CZE_Q": [
-    "Libye"
   ], 
   "children": {
     "placetype": [], 
@@ -186,10 +181,6 @@
       "Libyen", 
       "Libyan Arab Jamahiriya"
     ], 
-    "Spanish": [
-      "Libia, Rep\u00fablica \u00c1rabe", 
-      "Libia"
-    ], 
     "Hungarian": [
       "L\u00edbiai Arab Jamahiriya", 
       "L\u00edbia"
@@ -229,9 +220,9 @@
     "Unknown": [
       "Libyan Arab Jamahirya"
     ], 
-    "English": [
-      "LY", 
-      "Libyan Arab Jamahiriya"
+    "Spanish": [
+      "Libia, Rep\u00fablica \u00c1rabe", 
+      "Libia"
     ], 
     "Polish": [
       "Libia", 
@@ -239,6 +230,10 @@
     ], 
     "Korean": [
       "\ub9ac\ube44\uc544"
+    ], 
+    "English": [
+      "LY", 
+      "Libyan Arab Jamahiriya"
     ], 
     "Italian": [
       "Libia, Repubblica Araba", 
@@ -251,8 +246,8 @@
   "alias_ITA_Q": [
     "Libia"
   ], 
-  "alias_GER_V": [
-    "Libysch-Arabische Dschamahirija"
+  "alias_DAN_Q": [
+    "Libyen"
   ], 
   "alias_ITA_V": [
     "Libia, Repubblica Araba"
@@ -271,21 +266,24 @@
     "Libia"
   ], 
   "sw_longitude": 9.38702, 
+  "alias_HUN_V": [
+    "L\u00edbiai Arab Jamahiriya"
+  ], 
   "adjacent": [], 
   "provider": "geoplanet 7.6.0", 
   "latitude": 26.33852, 
   "date_indexed": "2010-12-02T08:58:29.666Z", 
-  "alias_FRE_V": [
-    "Jamahiriya arabe libyenne"
-  ], 
   "alias_KOR_Q": [
     "\ub9ac\ube44\uc544"
   ], 
-  "alias_DAN_V": [
-    "Libyan Arab Jamahiriya"
+  "alias_DUT_V": [
+    "Libische Arabische Republiek"
   ], 
   "alias_SPA_V": [
     "Libia, Rep\u00fablica \u00c1rabe"
+  ], 
+  "alias_RUM_V": [
+    "Libia, Jamahiriya Arab\u0103"
   ], 
   "alias_DUT_Q": [
     "Libi\u00eb"
@@ -294,14 +292,14 @@
     "Libie"
   ], 
   "bbox": "19.508039,9.38702,33.168999,25.15061", 
-  "alias_DUT_V": [
-    "Libische Arabische Republiek"
+  "alias_CZE_Q": [
+    "Libye"
   ], 
-  "alias_DAN_Q": [
-    "Libyen"
+  "alias_GER_V": [
+    "Libysch-Arabische Dschamahirija"
   ], 
-  "alias_GER_Q": [
-    "Libyen"
+  "alias_DAN_V": [
+    "Libyan Arab Jamahiriya"
   ], 
   "lang": "ENG", 
   "name": "Libya", 
@@ -310,15 +308,17 @@
   "alias_HUN_Q": [
     "L\u00edbia"
   ], 
-  "alias_HUN_V": [
-    "L\u00edbiai Arab Jamahiriya"
+  "alias_GER_Q": [
+    "Libyen"
   ], 
-  "ne_longitude": 25.15061, 
+  "alias_UNK_V": [
+    "Libyan Arab Jamahirya"
+  ], 
   "longitude": 17.26882, 
   "iso": "LY", 
   "sw_latitude": 19.508039, 
-  "alias_RUM_V": [
-    "Libia, Jamahiriya Arab\u0103"
+  "alias_FRE_V": [
+    "Jamahiriya arabe libyenne"
   ], 
   "fullname": "Libya", 
   "features": [
@@ -366,25 +366,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 7111, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824028", 
-          "woe:region=2346132", 
-          "woe:country=23424882"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "LY", 
-        "longitude": 21.758456245810034, 
-        "artisanal:id": 34824028, 
-        "latitude": 32.7717986294251, 
-        "woe:id": 34824028, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824028, 
       "properties": {
         "ne:fid": 7111, 
         "ne:hasPlace": 0, 
@@ -402,7 +383,8 @@
         "latitude": 32.7717986294251, 
         "woe:id": 34824028, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824028
     }
   ], 
   "alias_FRE_Q": [

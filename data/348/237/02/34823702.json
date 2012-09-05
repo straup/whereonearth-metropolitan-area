@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Grekland"
   ], 
-  "alias_POL_Q": [
-    "Grecja"
+  "alias_ENG_P": [
+    "Greece"
   ], 
   "hierarchy": [
     {
@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Grecia"
   ], 
-  "alias_UNK_V": [
-    "Helenska republika"
-  ], 
+  "ne_longitude": 29.70056, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Gr\u00e9cia"
@@ -206,8 +204,8 @@
       "Kreikka", 
       "Creece"
     ], 
-    "Norwegian": [
-      "Hellas"
+    "Portuguese": [
+      "Gr\u00e9cia"
     ], 
     "Czech": [
       "\u0158ecko"
@@ -215,8 +213,9 @@
     "Romanian": [
       "Grecia"
     ], 
-    "Dutch": [
-      "Griekenland"
+    "Spanish": [
+      "Gr\u00e8cia", 
+      "Grecia"
     ], 
     "Japanese": [
       "\u30ae\u30ea\u30b7\u30e3", 
@@ -226,32 +225,31 @@
       "Gr\u00e8ce", 
       "Grece"
     ], 
-    "German": [
-      "Griechenland", 
-      "Hellenische Republik"
-    ], 
-    "Portuguese": [
-      "Gr\u00e9cia"
-    ], 
-    "Unknown": [
-      "Grikkland", 
-      "Ellas", 
-      "Helenska republika"
-    ], 
-    "Spanish": [
-      "Gr\u00e8cia", 
-      "Grecia"
+    "Norwegian": [
+      "Hellas"
     ], 
     "English": [
       "GR", 
       "Greece", 
       "Hellenic Republic"
     ], 
+    "Unknown": [
+      "Grikkland", 
+      "Ellas", 
+      "Helenska republika"
+    ], 
+    "Dutch": [
+      "Griekenland"
+    ], 
     "Polish": [
       "Grecja"
     ], 
     "Korean": [
       "\uadf8\ub9ac\uc2a4"
+    ], 
+    "German": [
+      "Griechenland", 
+      "Hellenische Republik"
     ], 
     "Italian": [
       "Grecia"
@@ -263,8 +261,8 @@
   "alias_ITA_Q": [
     "Grecia"
   ], 
-  "alias_GER_V": [
-    "Hellenische Republik"
+  "alias_DAN_Q": [
+    "Gr\u00e6kenland"
   ], 
   "alias_CHI_V": [
     "\u5e0c\u814a"
@@ -273,8 +271,8 @@
   "alias_JPN_Q": [
     "\u30ae\u30ea\u30b7\u30e3"
   ], 
-  "alias_ENG_P": [
-    "Greece"
+  "alias_POL_Q": [
+    "Grecja"
   ], 
   "alias_JPN_V": [
     "\u30ae\u30ea\u30b7\u30e3\u5171\u548c\u56fd"
@@ -312,8 +310,8 @@
   "alias_DAN_S": [
     "Graekenland"
   ], 
-  "alias_DAN_Q": [
-    "Gr\u00e6kenland"
+  "alias_GER_V": [
+    "Hellenische Republik"
   ], 
   "alias_GER_Q": [
     "Griechenland"
@@ -331,7 +329,9 @@
   "alias_HUN_Q": [
     "G\u00f6r\u00f6gorsz\u00e1g"
   ], 
-  "ne_longitude": 29.70056, 
+  "alias_UNK_V": [
+    "Helenska republika"
+  ], 
   "longitude": 21.84556, 
   "iso": "GR", 
   "sw_latitude": 34.809502, 
@@ -396,25 +396,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 6673, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34823702", 
-          "woe:region=12577878", 
-          "woe:country=23424833"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GR", 
-        "longitude": 26.535777132106233, 
-        "artisanal:id": 34823702, 
-        "latitude": 41.524457515799945, 
-        "woe:id": 34823702, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34823702, 
       "properties": {
         "ne:fid": 6673, 
         "ne:hasPlace": 15, 
@@ -432,7 +413,8 @@
         "latitude": 41.524457515799945, 
         "woe:id": 34823702, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34823702
     }
   ], 
   "alias_FRE_S": [

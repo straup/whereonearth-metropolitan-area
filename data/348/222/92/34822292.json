@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Norvegia"
   ], 
-  "alias_UNK_V": [
-    "Norje"
-  ], 
+  "ne_longitude": 31.17046, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Noruega"
@@ -981,6 +979,11 @@
     ]
   }, 
   "aliases": {
+    "German": [
+      "Norwegen", 
+      "K\u00f6nigreich Norwegen", 
+      "Konigreich Norwegen"
+    ], 
     "Portuguese": [
       "Noruega"
     ], 
@@ -993,17 +996,14 @@
     "Finnish": [
       "Norja"
     ], 
-    "Norwegian": [
-      "Kongeriket Norge"
-    ], 
     "Czech": [
       "Norsko"
     ], 
     "Romanian": [
       "Norvegia"
     ], 
-    "Dutch": [
-      "Noorwegen"
+    "Spanish": [
+      "Noruega"
     ], 
     "Japanese": [
       "\u30ce\u30eb\u30a6\u30a7\u30fc", 
@@ -1013,29 +1013,27 @@
       "Norv\u00e8ge", 
       "Norvege"
     ], 
-    "German": [
-      "Norwegen", 
-      "K\u00f6nigreich Norwegen", 
-      "Konigreich Norwegen"
+    "Norwegian": [
+      "Kongeriket Norge"
     ], 
     "Unknown": [
       "Noregur", 
       "Norvigia", 
       "Norje"
     ], 
-    "Spanish": [
-      "Noruega"
-    ], 
-    "English": [
-      "NO", 
-      "Norway", 
-      "Norwegian"
+    "Dutch": [
+      "Noorwegen"
     ], 
     "Polish": [
       "Norwegia"
     ], 
     "Korean": [
       "\ub178\ub974\uc6e8\uc774"
+    ], 
+    "English": [
+      "NO", 
+      "Norway", 
+      "Norwegian"
     ], 
     "Italian": [
       "Norvegia", 
@@ -1104,7 +1102,9 @@
   "alias_HUN_Q": [
     "Norv\u00e9gia"
   ], 
-  "ne_longitude": 31.17046, 
+  "alias_UNK_V": [
+    "Norje"
+  ], 
   "longitude": 12.66538, 
   "iso": "NO", 
   "sw_latitude": 57.95924, 
@@ -1166,25 +1166,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 4492, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34822292", 
-          "woe:region=2346401", 
-          "woe:country=23424910"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "NO", 
-        "longitude": 18.804708848817437, 
-        "artisanal:id": 34822292, 
-        "latitude": 69.74172939001083, 
-        "woe:id": 34822292, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34822292, 
       "properties": {
         "ne:fid": 4492, 
         "ne:hasPlace": -1, 
@@ -1202,7 +1183,8 @@
         "latitude": 69.74172939001083, 
         "woe:id": 34822292, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34822292
     }
   ], 
   "alias_FRE_S": [

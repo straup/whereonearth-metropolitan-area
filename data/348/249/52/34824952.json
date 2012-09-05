@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Irak"
   ], 
-  "alias_UNK_V": [
-    "Republika Irak"
-  ], 
+  "ne_longitude": 48.575699, 
   "placetype": "Country", 
   "alias_POR_Q": [
     "Iraque"
@@ -166,8 +164,8 @@
     "Chinese": [
       "\u4f0a\u62c9\u514b"
     ], 
-    "Norwegian": [
-      "Irak"
+    "Portuguese": [
+      "Iraque"
     ], 
     "Czech": [
       "Ir\u00e1k"
@@ -175,8 +173,9 @@
     "Romanian": [
       "Irak"
     ], 
-    "Dutch": [
-      "Irak"
+    "English": [
+      "IQ", 
+      "Republic of Iraq"
     ], 
     "Japanese": [
       "\u30a4\u30e9\u30af", 
@@ -185,20 +184,15 @@
     "French": [
       "Irak"
     ], 
-    "German": [
-      "Irak", 
-      "Republik Irak"
-    ], 
-    "Portuguese": [
-      "Iraque"
+    "Norwegian": [
+      "Irak"
     ], 
     "Unknown": [
       "\u00cdrak", 
       "Republika Irak"
     ], 
-    "English": [
-      "IQ", 
-      "Republic of Iraq"
+    "Dutch": [
+      "Irak"
     ], 
     "Polish": [
       "Irak"
@@ -208,13 +202,17 @@
     ], 
     "Korean": [
       "\uc774\ub77c\ud06c"
+    ], 
+    "German": [
+      "Irak", 
+      "Republik Irak"
     ]
   }, 
   "alias_CHI_Q": [
     "\u4f0a\u62c9\u514b"
   ], 
-  "alias_GER_V": [
-    "Republik Irak"
+  "alias_DAN_Q": [
+    "Irak"
   ], 
   "woeid": 23424855, 
   "alias_JPN_Q": [
@@ -247,8 +245,8 @@
   "alias_CZE_Q": [
     "Ir\u00e1k"
   ], 
-  "alias_DAN_Q": [
-    "Irak"
+  "alias_GER_V": [
+    "Republik Irak"
   ], 
   "alias_GER_Q": [
     "Irak"
@@ -263,7 +261,9 @@
   "alias_HUN_Q": [
     "Irak"
   ], 
-  "ne_longitude": 48.575699, 
+  "alias_UNK_V": [
+    "Republika Irak"
+  ], 
   "longitude": 43.68985, 
   "iso": "IQ", 
   "sw_latitude": 29.103001, 
@@ -337,25 +337,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 8538, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=34824952", 
-          "woe:region=2345841", 
-          "woe:country=23424855"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "IQ", 
-        "longitude": 46.47194927536639, 
-        "artisanal:id": 34824952, 
-        "latitude": 30.897324305579282, 
-        "woe:id": 34824952, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34824952, 
       "properties": {
         "ne:fid": 8538, 
         "ne:hasPlace": 0, 
@@ -373,7 +354,8 @@
         "latitude": 30.897324305579282, 
         "woe:id": 34824952, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34824952
     }
   ], 
   "alias_FRE_Q": [

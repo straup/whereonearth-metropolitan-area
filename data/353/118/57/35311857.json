@@ -16,9 +16,7 @@
   ], 
   "ne_latitude": 10.00043, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Republika Sierra Leone"
-  ], 
+  "ne_longitude": -10.28423, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uc2dc\uc5d0\ub77c \ub9ac\uc628"
@@ -68,16 +66,16 @@
     "Unknown": [
       "Republika Sierra Leone"
     ], 
-    "Spanish": [
-      "Sierra Leona"
+    "English": [
+      "SL", 
+      "Republic of Sierra Leone"
     ], 
     "Japanese": [
       "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd\u5171\u548c\u56fd", 
       "\u30b7\u30a8\u30e9\u30ec\u30aa\u30aa\u30cd"
     ], 
-    "English": [
-      "SL", 
-      "Republic of Sierra Leone"
+    "Spanish": [
+      "Sierra Leona"
     ], 
     "Korean": [
       "\uc2dc\uc5d0\ub77c \ub9ac\uc628", 
@@ -113,7 +111,9 @@
   "name": "Sierra Leone", 
   "language": "English", 
   "parent_woeid": 1, 
-  "ne_longitude": -10.28423, 
+  "alias_UNK_V": [
+    "Republika Sierra Leone"
+  ], 
   "longitude": -11.79593, 
   "iso": "SL", 
   "sw_latitude": 6.92868, 
@@ -167,25 +167,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1720, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311857", 
-          "woe:region=2347002", 
-          "woe:country=23424946"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "SL", 
-        "longitude": -11.729908606355844, 
-        "artisanal:id": 35311857, 
-        "latitude": 7.9670596737566, 
-        "woe:id": 35311857, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311857, 
       "properties": {
         "ne:fid": 1720, 
         "ne:hasPlace": 20, 
@@ -203,7 +184,8 @@
         "latitude": 7.9670596737566, 
         "woe:id": 35311857, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311857
     }
   ]
 }

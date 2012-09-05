@@ -53,16 +53,14 @@
     "Finnish": [
       "Macao"
     ], 
-    "Norwegian": [
-      "Macao"
-    ], 
     "Czech": [
       "Macao"
     ], 
     "Romanian": [
       "Macao"
     ], 
-    "Spanish": [
+    "English": [
+      "MO", 
       "Macao"
     ], 
     "Japanese": [
@@ -72,12 +70,10 @@
     "French": [
       "Macao"
     ], 
-    "German": [
-      "Macao", 
-      "Makao"
+    "Norwegian": [
+      "Macao"
     ], 
-    "English": [
-      "MO", 
+    "Spanish": [
       "Macao"
     ], 
     "Polish": [
@@ -85,6 +81,10 @@
     ], 
     "Korean": [
       "\ub9c8\uce74\uc624"
+    ], 
+    "German": [
+      "Macao", 
+      "Makao"
     ], 
     "Italian": [
       "Macao"
@@ -96,8 +96,8 @@
   "alias_ITA_Q": [
     "Macao"
   ], 
-  "alias_GER_V": [
-    "Makao"
+  "alias_DAN_Q": [
+    "Macao"
   ], 
   "alias_CHI_V": [
     "\u4e2d\u570b\u6fb3\u9580"
@@ -130,8 +130,8 @@
   "alias_CZE_Q": [
     "Macao"
   ], 
-  "alias_DAN_Q": [
-    "Macao"
+  "alias_GER_V": [
+    "Makao"
   ], 
   "alias_GER_Q": [
     "Macao"
@@ -189,24 +189,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 12018, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=35319421", 
-          "woe:country=20070017"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "MO", 
-        "longitude": 113.5513317194179, 
-        "artisanal:id": 35319421, 
-        "latitude": 22.16067250488159, 
-        "woe:id": 35319421, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35319421, 
       "properties": {
         "ne:fid": 12018, 
         "ne:hasPlace": 15, 
@@ -223,7 +205,8 @@
         "latitude": 22.16067250488159, 
         "woe:id": 35319421, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35319421
     }
   ], 
   "alias_FRE_Q": [

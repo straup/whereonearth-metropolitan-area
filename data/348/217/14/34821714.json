@@ -25,18 +25,16 @@
   "alias_RUM_Q": [
     "Rusia"
   ], 
-  "alias_UNK_V": [
-    "Rossiya"
-  ], 
+  "ne_longitude": -168.889999, 
   "placetype": "Country", 
+  "alias_RUM_V": [
+    "Federa\u021bia Rus\u0103"
+  ], 
   "alias_POR_Q": [
     "R\u00fassia"
   ], 
   "alias_ENG_A": [
     "RU"
-  ], 
-  "alias_CZE_Q": [
-    "Rusko"
   ], 
   "children": {
     "LandFeature": [
@@ -641,8 +639,8 @@
       "Venaejae", 
       "Ven\u00e4j\u00e4"
     ], 
-    "Norwegian": [
-      "Russland"
+    "Portuguese": [
+      "R\u00fassia"
     ], 
     "Czech": [
       "Rusko"
@@ -651,9 +649,10 @@
       "Rusia", 
       "Federa\u021bia Rus\u0103"
     ], 
-    "Dutch": [
-      "Russische Federatie", 
-      "Rusland"
+    "Spanish": [
+      "Rusia, Federaci\u00f3n de", 
+      "Rusia, Federacion de", 
+      "Rusia"
     ], 
     "Japanese": [
       "\u30ed\u30b7\u30a2", 
@@ -664,28 +663,22 @@
       "Federation de Russie", 
       "F\u00e9d\u00e9ration de Russie"
     ], 
-    "German": [
-      "Russland", 
-      "Ru\u00dfland", 
-      "Russische Foederation"
+    "Norwegian": [
+      "Russland"
     ], 
-    "Portuguese": [
-      "R\u00fassia"
+    "English": [
+      "RU", 
+      "Russia", 
+      "Russian Soviet Federative Socialist Republic"
     ], 
     "Unknown": [
       "R\u00fassland", 
       "Rosia", 
       "Rossiya"
     ], 
-    "Spanish": [
-      "Rusia, Federaci\u00f3n de", 
-      "Rusia, Federacion de", 
-      "Rusia"
-    ], 
-    "English": [
-      "RU", 
-      "Russia", 
-      "Russian Soviet Federative Socialist Republic"
+    "Dutch": [
+      "Russische Federatie", 
+      "Rusland"
     ], 
     "Polish": [
       "Rosja", 
@@ -693,6 +686,11 @@
     ], 
     "Korean": [
       "\ub7ec\uc2dc\uc544"
+    ], 
+    "German": [
+      "Russland", 
+      "Ru\u00dfland", 
+      "Russische Foederation"
     ], 
     "Italian": [
       "Federazione Russa", 
@@ -705,8 +703,8 @@
   "alias_ITA_Q": [
     "Russia"
   ], 
-  "alias_GER_V": [
-    "Ru\u00dfland"
+  "alias_DAN_Q": [
+    "Rusland"
   ], 
   "alias_ITA_V": [
     "Federazione Russa"
@@ -746,13 +744,13 @@
     "Russland"
   ], 
   "date_indexed": "2010-12-02T16:11:04.498Z", 
-  "alias_FRE_V": [
-    "F\u00e9d\u00e9ration de Russie"
-  ], 
   "alias_KOR_Q": [
     "\ub7ec\uc2dc\uc544"
   ], 
   "adjacent": [], 
+  "alias_DUT_V": [
+    "Russische Federatie"
+  ], 
   "alias_SPA_V": [
     "Rusia, Federaci\u00f3n de"
   ], 
@@ -760,11 +758,11 @@
     "Rusland"
   ], 
   "bbox": "41.18885,19.6381,82.50045,-168.889999", 
-  "alias_DUT_V": [
-    "Russische Federatie"
+  "alias_CZE_Q": [
+    "Rusko"
   ], 
-  "alias_DAN_Q": [
-    "Rusland"
+  "alias_GER_V": [
+    "Ru\u00dfland"
   ], 
   "alias_GER_Q": [
     "Russland"
@@ -788,15 +786,17 @@
   "alias_HUN_V": [
     "Orosz K\u00f6zt\u00e1rsas\u00e1g"
   ], 
-  "ne_longitude": -168.889999, 
+  "alias_UNK_V": [
+    "Rossiya"
+  ], 
   "longitude": 108.831779, 
   "iso": "RU", 
   "sw_latitude": 41.18885, 
   "alias_HUN_S": [
     "Oroszorszag"
   ], 
-  "alias_RUM_V": [
-    "Federa\u021bia Rus\u0103"
+  "alias_FRE_V": [
+    "F\u00e9d\u00e9ration de Russie"
   ], 
   "fullname": "Rossija, Russia", 
   "features": [
@@ -836,25 +836,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 3655, 
-        "ne:hasPlace": 0, 
-        "hierarchy": [
-          "woe:metropolitan-area=34821714", 
-          "woe:region=20070524", 
-          "woe:country=23424936"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "RU", 
-        "longitude": 88.1120743780154, 
-        "artisanal:id": 34821714, 
-        "latitude": 69.36511622280948, 
-        "woe:id": 34821714, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34821714, 
       "properties": {
         "ne:fid": 3655, 
         "ne:hasPlace": 0, 
@@ -872,7 +853,8 @@
         "latitude": 69.36511622280948, 
         "woe:id": 34821714, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34821714
     }
   ], 
   "alias_FRE_S": [

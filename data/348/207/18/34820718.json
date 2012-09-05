@@ -1,4 +1,7 @@
 {
+  "alias_RUM_V": [
+    "Sain Kitts \u015fi Nevis"
+  ], 
   "alias_ENG_V": [
     "Saint Kitts & Nevis"
   ], 
@@ -40,9 +43,6 @@
   ], 
   "alias_POR_S": [
     "Sao Cristovao e Nevis"
-  ], 
-  "alias_CZE_Q": [
-    "Svat\u00fd Kry\u0161tof a Nevis"
   ], 
   "children": {
     "placetype": [], 
@@ -150,8 +150,10 @@
     "Finnish": [
       "Saint Kitts ja Nevis"
     ], 
-    "Norwegian": [
-      "Saint Kitts og Nevis"
+    "Portuguese": [
+      "S\u00e3o Crist\u00f3v\u00e3o e N\u00e9vis", 
+      "Sao Cristovao e Nevis", 
+      "S\u00e3o Crist\u00f3v\u00e3o e Nevis"
     ], 
     "Czech": [
       "Svat\u00fd Kry\u0161tof a Nevis", 
@@ -161,9 +163,10 @@
       "Sf\u00e2ntul Cristofor \u015ei Nevis", 
       "Sain Kitts \u015fi Nevis"
     ], 
-    "Dutch": [
-      "St. Kitts en Nevis", 
-      "Saint Kitts en Nevis"
+    "Spanish": [
+      "St. Kitts y Nevis", 
+      "San Cristobal y Nevis", 
+      "San Crist\u00f3bal Y Nieves"
     ], 
     "Japanese": [
       "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9", 
@@ -172,27 +175,19 @@
     "French": [
       "Saint Kitts et Nevis"
     ], 
-    "German": [
-      "St. Kitts und Nevis", 
-      "F\u00f6deration St. Kitts und Nevis", 
-      "Foderation St. Kitts und Nevis"
-    ], 
-    "Portuguese": [
-      "S\u00e3o Crist\u00f3v\u00e3o e N\u00e9vis", 
-      "Sao Cristovao e Nevis", 
-      "S\u00e3o Crist\u00f3v\u00e3o e Nevis"
-    ], 
-    "Unknown": [
-      "Saint Kitts in Nevis"
-    ], 
-    "Spanish": [
-      "St. Kitts y Nevis", 
-      "San Cristobal y Nevis", 
-      "San Crist\u00f3bal Y Nieves"
+    "Norwegian": [
+      "Saint Kitts og Nevis"
     ], 
     "English": [
       "KN", 
       "Saint Kitts & Nevis"
+    ], 
+    "Unknown": [
+      "Saint Kitts in Nevis"
+    ], 
+    "Dutch": [
+      "St. Kitts en Nevis", 
+      "Saint Kitts en Nevis"
     ], 
     "Polish": [
       "Saint Kitts I Nevis"
@@ -200,6 +195,11 @@
     "Korean": [
       "\uc138\uc778\ud2b8 \ud0a4\uce20 \ub124\ube44\uc2a4", 
       "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4"
+    ], 
+    "German": [
+      "St. Kitts und Nevis", 
+      "F\u00f6deration St. Kitts und Nevis", 
+      "Foderation St. Kitts und Nevis"
     ], 
     "Italian": [
       "San Cristoforo", 
@@ -212,8 +212,8 @@
   "alias_ITA_Q": [
     "Saint Kitts E Nevis"
   ], 
-  "alias_GER_V": [
-    "F\u00f6deration St. Kitts und Nevis"
+  "alias_DAN_Q": [
+    "Saint Kitts og Nevis"
   ], 
   "alias_ITA_V": [
     "San Cristoforo"
@@ -245,11 +245,11 @@
     "Saint Kitts og Nevis"
   ], 
   "date_indexed": "2010-12-02T08:52:18.536Z", 
-  "alias_FRE_V": [
-    "Saint Kitts et Nevis"
-  ], 
   "alias_KOR_Q": [
     "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4"
+  ], 
+  "alias_DUT_V": [
+    "St. Kitts en Nevis"
   ], 
   "alias_SPA_V": [
     "St. Kitts y Nevis"
@@ -258,11 +258,11 @@
     "Saint Kitts en Nevis"
   ], 
   "bbox": "17.095341,-62.86956,17.420111,-62.543259", 
-  "alias_DUT_V": [
-    "St. Kitts en Nevis"
+  "alias_CZE_Q": [
+    "Svat\u00fd Kry\u0161tof a Nevis"
   ], 
-  "alias_DAN_Q": [
-    "Saint Kitts og Nevis"
+  "alias_GER_V": [
+    "F\u00f6deration St. Kitts und Nevis"
   ], 
   "alias_GER_Q": [
     "St. Kitts und Nevis"
@@ -290,8 +290,8 @@
   "longitude": -62.746368, 
   "iso": "KN", 
   "sw_latitude": 17.095341, 
-  "alias_RUM_V": [
-    "Sain Kitts \u015fi Nevis"
+  "alias_FRE_V": [
+    "Saint Kitts et Nevis"
   ], 
   "fullname": "Saint Kitts and Nevis", 
   "features": [
@@ -339,25 +339,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2143, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820718", 
-          "woe:region=2346966", 
-          "woe:country=23424940"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "KN", 
-        "longitude": -62.733544819279444, 
-        "artisanal:id": 34820718, 
-        "latitude": 17.31175111739773, 
-        "woe:id": 34820718, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820718, 
       "properties": {
         "ne:fid": 2143, 
         "ne:hasPlace": 20, 
@@ -375,7 +356,8 @@
         "latitude": 17.31175111739773, 
         "woe:id": 34820718, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820718
     }
   ]
 }

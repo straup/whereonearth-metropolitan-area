@@ -25,9 +25,7 @@
   "alias_RUM_Q": [
     "Republica Dominican\u0103"
   ], 
-  "alias_UNK_V": [
-    "Dominikaaninen tasavalta"
-  ], 
+  "ne_longitude": -68.319992, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ub3c4\ubbf8\ub2c8\uce74\uacf5\ud654\uad6d"
@@ -228,8 +226,8 @@
     "Finnish": [
       "Dominikaaninen tasavalta"
     ], 
-    "Norwegian": [
-      "Den dominikanske republikk"
+    "Portuguese": [
+      "Rep\u00fablica Dominicana"
     ], 
     "Czech": [
       "Dominik\u00e1nsk\u00e1 republika"
@@ -237,8 +235,9 @@
     "Romanian": [
       "Republica Dominican\u0103"
     ], 
-    "Dutch": [
-      "Dominicaanse republiek"
+    "Spanish": [
+      "Quisqueya", 
+      "Rep\u00fablica Dominicana"
     ], 
     "Japanese": [
       "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd"
@@ -248,25 +247,20 @@
       "Republique Dominicaine", 
       "Dominicaine, r\u00e9publique"
     ], 
-    "German": [
-      "Dominikanische Republik", 
-      "Dominikanische Rep."
+    "Norwegian": [
+      "Den dominikanske republikk"
     ], 
-    "Portuguese": [
-      "Rep\u00fablica Dominicana"
+    "English": [
+      "DO", 
+      "Dominicanrepublic"
     ], 
     "Unknown": [
       "Dominikanska republika", 
       "Dominiska lydveldid", 
       "Dominikaaninen tasavalta"
     ], 
-    "Spanish": [
-      "Quisqueya", 
-      "Rep\u00fablica Dominicana"
-    ], 
-    "English": [
-      "DO", 
-      "Dominicanrepublic"
+    "Dutch": [
+      "Dominicaanse republiek"
     ], 
     "Polish": [
       "Dominikana", 
@@ -275,6 +269,10 @@
     "Korean": [
       "\ub3c4\ubbf8\ub2c8\uce74\uacf5\ud654\uad6d", 
       "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+    ], 
+    "German": [
+      "Dominikanische Republik", 
+      "Dominikanische Rep."
     ], 
     "Italian": [
       "Repubblica Dominicana"
@@ -286,8 +284,8 @@
   "alias_ITA_Q": [
     "Repubblica Dominicana"
   ], 
-  "alias_GER_V": [
-    "Dominikanische Rep."
+  "alias_DAN_Q": [
+    "Dominikanske Republik"
   ], 
   "alias_CHI_V": [
     "\u591a\u7c73\u5c3c\u52a0"
@@ -313,9 +311,6 @@
   "alias_KOR_Q": [
     "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
   ], 
-  "alias_DAN_V": [
-    "Den Dominikanske Republik"
-  ], 
   "alias_SPA_V": [
     "Quisqueya"
   ], 
@@ -326,11 +321,11 @@
   "alias_CZE_Q": [
     "Dominik\u00e1nsk\u00e1 republika"
   ], 
-  "alias_DAN_Q": [
-    "Dominikanske Republik"
+  "alias_GER_V": [
+    "Dominikanische Rep."
   ], 
-  "alias_GER_Q": [
-    "Dominikanische Republik"
+  "alias_DAN_V": [
+    "Den Dominikanske Republik"
   ], 
   "lang": "ENG", 
   "name": "Dominican Republic", 
@@ -345,7 +340,12 @@
   "alias_HUN_Q": [
     "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
   ], 
-  "ne_longitude": -68.319992, 
+  "alias_GER_Q": [
+    "Dominikanische Republik"
+  ], 
+  "alias_UNK_V": [
+    "Dominikaaninen tasavalta"
+  ], 
   "longitude": -70.161743, 
   "iso": "DO", 
   "sw_latitude": 17.469299, 
@@ -426,25 +426,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2134, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34820714", 
-          "woe:region=2345192", 
-          "woe:country=23424800"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "DO", 
-        "longitude": -69.29666249441803, 
-        "artisanal:id": 34820714, 
-        "latitude": 18.462130267959463, 
-        "woe:id": 34820714, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34820714, 
       "properties": {
         "ne:fid": 2134, 
         "ne:hasPlace": 20, 
@@ -462,7 +443,8 @@
         "latitude": 18.462130267959463, 
         "woe:id": 34820714, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34820714
     }
   ], 
   "alias_FRE_S": [

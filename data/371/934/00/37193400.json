@@ -57,8 +57,9 @@
     "Unknown": [
       "Negara Brunei Darussalam"
     ], 
-    "Spanish": [
-      "Brun\u00e9i"
+    "English": [
+      "BN", 
+      "Brunei, Sultanate Of"
     ], 
     "Japanese": [
       "\u30d6\u30eb\u30cd\u30a4", 
@@ -70,9 +71,8 @@
     "German": [
       "Brunei Darussalam"
     ], 
-    "English": [
-      "BN", 
-      "Brunei, Sultanate Of"
+    "Spanish": [
+      "Brun\u00e9i"
     ], 
     "Korean": [
       "\ube0c\ub8e8\ub098\uc774"
@@ -345,25 +345,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11793, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=37193400", 
-          "woe:region=20069846", 
-          "woe:country=23424773"
-        ], 
-        "artisanal:foundry": "http://www.londonintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "BN", 
-        "longitude": 114.90811752486196, 
-        "artisanal:id": 37193400, 
-        "latitude": 4.9180656471056645, 
-        "woe:id": 37193400, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 37193400, 
       "properties": {
         "ne:fid": 11793, 
         "ne:hasPlace": 20, 
@@ -381,7 +362,8 @@
         "latitude": 4.9180656471056645, 
         "woe:id": 37193400, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 37193400
     }
   ]
 }

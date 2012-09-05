@@ -22,9 +22,7 @@
   "alias_RUM_Q": [
     "Thailanda"
   ], 
-  "alias_UNK_V": [
-    "Muang Thai"
-  ], 
+  "ne_longitude": 105.639381, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ud0c0\uc774"
@@ -743,9 +741,9 @@
       "Thailanda", 
       "Tailanda"
     ], 
-    "Spanish": [
-      "Siam", 
-      "Tailandia"
+    "English": [
+      "TH", 
+      "Prathet Thai"
     ], 
     "Japanese": [
       "\u30bf\u30a4", 
@@ -764,9 +762,9 @@
       "Tailand", 
       "Muang Thai"
     ], 
-    "English": [
-      "TH", 
-      "Prathet Thai"
+    "Spanish": [
+      "Siam", 
+      "Tailandia"
     ], 
     "Polish": [
       "Tajlandia"
@@ -839,7 +837,9 @@
   "alias_HUN_Q": [
     "Thaif\u00f6ld"
   ], 
-  "ne_longitude": 105.639381, 
+  "alias_UNK_V": [
+    "Muang Thai"
+  ], 
   "longitude": 101.4925, 
   "iso": "TH", 
   "sw_latitude": 5.61, 
@@ -920,25 +920,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 11361, 
-        "ne:hasPlace": -1, 
-        "hierarchy": [
-          "woe:metropolitan-area=34826762", 
-          "woe:region=2347133", 
-          "woe:country=23424960"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "TH", 
-        "longitude": 99.73938917579966, 
-        "artisanal:id": 34826762, 
-        "latitude": 18.334653003105494, 
-        "woe:id": 34826762, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34826762, 
       "properties": {
         "ne:fid": 11361, 
         "ne:hasPlace": -1, 
@@ -956,7 +937,8 @@
         "latitude": 18.334653003105494, 
         "woe:id": 34826762, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34826762
     }
   ], 
   "alias_FRE_S": [

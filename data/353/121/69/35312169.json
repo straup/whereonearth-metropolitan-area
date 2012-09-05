@@ -23,9 +23,6 @@
   "alias_ENG_A": [
     "JM"
   ], 
-  "alias_CZE_Q": [
-    "Jamajka"
-  ], 
   "children": {
     "placetype": [], 
     "Colloquial": [
@@ -140,8 +137,9 @@
     "Unknown": [
       "Jama\u00edka"
     ], 
-    "Dutch": [
-      "Jama\u00efca"
+    "English": [
+      "JM", 
+      "Jamaican"
     ], 
     "Japanese": [
       "\u30b8\u30e3\u30de\u30a4\u30ab"
@@ -153,9 +151,8 @@
     "German": [
       "Jamaika"
     ], 
-    "English": [
-      "JM", 
-      "Jamaican"
+    "Dutch": [
+      "Jama\u00efca"
     ], 
     "Polish": [
       "Jamajka"
@@ -191,9 +188,12 @@
   "latitude": 18.115259, 
   "date_indexed": "2010-12-02T08:59:07.601Z", 
   "adjacent": [], 
-  "bbox": "16.949551,-78.366638,18.52697,-75.982857", 
   "alias_DUT_V": [
     "Jama\u00efca"
+  ], 
+  "bbox": "16.949551,-78.366638,18.52697,-75.982857", 
+  "alias_CZE_Q": [
+    "Jamajka"
   ], 
   "alias_GER_Q": [
     "Jamaika"
@@ -383,25 +383,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 2140, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35312169", 
-          "woe:region=2345916", 
-          "woe:country=23424858"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "JM", 
-        "longitude": -76.8139938309809, 
-        "artisanal:id": 35312169, 
-        "latitude": 18.012526316166507, 
-        "woe:id": 35312169, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35312169, 
       "properties": {
         "ne:fid": 2140, 
         "ne:hasPlace": 20, 
@@ -419,7 +400,8 @@
         "latitude": 18.012526316166507, 
         "woe:id": 35312169, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35312169
     }
   ], 
   "alias_FRE_S": [

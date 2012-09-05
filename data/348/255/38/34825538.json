@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 12.70683, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "D\u00edb\u00fat\u00ed"
-  ], 
+  "ne_longitude": 43.450459, 
   "placetype": "Country", 
   "alias_POR_V": [
     "Djibuti"
@@ -78,9 +76,9 @@
       "Dibuti", 
       "D\u00edb\u00fat\u00ed"
     ], 
-    "Spanish": [
-      "Djibuti", 
-      "Yibuti"
+    "English": [
+      "DJ", 
+      "Kingdom of Djibouti"
     ], 
     "Japanese": [
       "\u30b8\u30d6\u30c1", 
@@ -90,9 +88,9 @@
       "Dschibuti", 
       "Republik Dschibuti"
     ], 
-    "English": [
-      "DJ", 
-      "Kingdom of Djibouti"
+    "Spanish": [
+      "Djibuti", 
+      "Yibuti"
     ], 
     "Polish": [
       "D\u017cibuti"
@@ -154,7 +152,9 @@
   "alias_HUN_Q": [
     "Dzsibuti"
   ], 
-  "ne_longitude": 43.450459, 
+  "alias_UNK_V": [
+    "D\u00edb\u00fat\u00ed"
+  ], 
   "longitude": 42.595211, 
   "iso": "DJ", 
   "sw_latitude": 10.90991, 
@@ -240,25 +240,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 9430, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=34825538", 
-          "woe:region=2345158", 
-          "woe:country=23424797"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "DJ", 
-        "longitude": 43.133844099864966, 
-        "artisanal:id": 34825538, 
-        "latitude": 11.568011070109645, 
-        "woe:id": 34825538, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34825538, 
       "properties": {
         "ne:fid": 9430, 
         "ne:hasPlace": 20, 
@@ -276,7 +257,8 @@
         "latitude": 11.568011070109645, 
         "woe:id": 34825538, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34825538
     }
   ]
 }

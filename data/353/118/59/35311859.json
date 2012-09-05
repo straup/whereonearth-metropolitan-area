@@ -5,8 +5,8 @@
   "alias_SWE_Q": [
     "Elfenbenskusten"
   ], 
-  "alias_POL_Q": [
-    "Wybrze\u017ce Ko\u015bci S\u0142oniowej"
+  "alias_ENG_P": [
+    "Ivory Coast"
   ], 
   "hierarchy": [
     {
@@ -25,6 +25,9 @@
   "placetype": "Country", 
   "alias_KOR_V": [
     "\ucf54\ud2b8\ub514\ubd80\uc640\ub974"
+  ], 
+  "alias_RUM_V": [
+    "C\u00f4te d'Ivoire"
   ], 
   "alias_POR_Q": [
     "Costa do Marfim"
@@ -149,8 +152,8 @@
     "Finnish": [
       "Norsunluurannikko"
     ], 
-    "Norwegian": [
-      "Elfenbenskysten"
+    "Portuguese": [
+      "Costa do Marfim"
     ], 
     "Czech": [
       "Pob\u0159e\u017e\u00ed Slonoviny"
@@ -159,8 +162,10 @@
       "Coasta de Filde\u015f", 
       "C\u00f4te d'Ivoire"
     ], 
-    "Dutch": [
-      "Ivoorkust"
+    "Spanish": [
+      "Republica C\u00f4te d'Ivoire", 
+      "Republica Cote d'Ivoire", 
+      "Costa de Marfil"
     ], 
     "Japanese": [
       "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb", 
@@ -169,23 +174,16 @@
     "French": [
       "C\u00f4te-d'Ivoire"
     ], 
-    "German": [
-      "Elfenbeink\u00fcste", 
-      "C\u00f4te d\u2019Ivoire", 
-      "Republik Cote d\u00b4Ivoire"
-    ], 
-    "Portuguese": [
-      "Costa do Marfim"
-    ], 
-    "Spanish": [
-      "Republica C\u00f4te d'Ivoire", 
-      "Republica Cote d'Ivoire", 
-      "Costa de Marfil"
+    "Norwegian": [
+      "Elfenbenskysten"
     ], 
     "English": [
       "CI", 
       "Ivory Coast", 
       "C\u00f4te d'Ivoire"
+    ], 
+    "Dutch": [
+      "Ivoorkust"
     ], 
     "Polish": [
       "Wybrze\u017ce Ko\u015bci S\u0142oniowej"
@@ -193,6 +191,11 @@
     "Korean": [
       "\ucf54\ud2b8\ub514\ubd80\uc640\ub974", 
       "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
+    ], 
+    "German": [
+      "Elfenbeink\u00fcste", 
+      "C\u00f4te d\u2019Ivoire", 
+      "Republik Cote d\u00b4Ivoire"
     ], 
     "Italian": [
       "Costa d\u2019Avorio", 
@@ -205,8 +208,8 @@
   "alias_ITA_Q": [
     "Costa d'Avorio"
   ], 
-  "alias_GER_V": [
-    "C\u00f4te d\u2019Ivoire"
+  "alias_DAN_Q": [
+    "Elfenbenskysten"
   ], 
   "alias_ITA_V": [
     "Costa d\u2019Avorio"
@@ -218,8 +221,8 @@
   "alias_JPN_Q": [
     "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb"
   ], 
-  "alias_ENG_P": [
-    "Ivory Coast"
+  "alias_POL_Q": [
+    "Wybrze\u017ce Ko\u015bci S\u0142oniowej"
   ], 
   "alias_JPN_V": [
     "\u30b3\u30fc\u30c8\u30b8\u30dc\u30a2\u30fc\u30eb"
@@ -241,9 +244,6 @@
     "Elfenbenskysten"
   ], 
   "date_indexed": "2010-12-02T09:35:19.639Z", 
-  "alias_FRE_V": [
-    "C\u00f4te-d'Ivoire"
-  ], 
   "alias_KOR_Q": [
     "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
   ], 
@@ -257,8 +257,8 @@
   "alias_CZE_Q": [
     "Pob\u0159e\u017e\u00ed Slonoviny"
   ], 
-  "alias_DAN_Q": [
-    "Elfenbenskysten"
+  "alias_GER_V": [
+    "C\u00f4te d\u2019Ivoire"
   ], 
   "alias_GER_Q": [
     "Elfenbeink\u00fcste"
@@ -277,8 +277,8 @@
   "longitude": -5.54709, 
   "iso": "CI", 
   "sw_latitude": 4.35706, 
-  "alias_RUM_V": [
-    "C\u00f4te d'Ivoire"
+  "alias_FRE_V": [
+    "C\u00f4te-d'Ivoire"
   ], 
   "fullname": "C\u00f4te d\u00b4Ivoire, Ivory Coast", 
   "features": [
@@ -398,25 +398,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 1722, 
-        "ne:hasPlace": 20, 
-        "hierarchy": [
-          "woe:metropolitan-area=35311859", 
-          "woe:region=55967005", 
-          "woe:country=23424854"
-        ], 
-        "artisanal:foundry": "http://www.brooklynintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "CI", 
-        "longitude": -5.028717927911004, 
-        "artisanal:id": 35311859, 
-        "latitude": 7.697105119579919, 
-        "woe:id": 35311859, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 35311859, 
       "properties": {
         "ne:fid": 1722, 
         "ne:hasPlace": 20, 
@@ -434,7 +415,8 @@
         "latitude": 7.697105119579919, 
         "woe:id": 35311859, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 35311859
     }
   ]
 }

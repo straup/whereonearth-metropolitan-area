@@ -19,9 +19,7 @@
   ], 
   "ne_latitude": 43.584549, 
   "supercedes": [], 
-  "alias_UNK_V": [
-    "Sakartvelo"
-  ], 
+  "ne_longitude": 46.721359, 
   "placetype": "Country", 
   "alias_KOR_V": [
     "\uadf8\ub8e8\uc9c0\uc544"
@@ -381,9 +379,9 @@
       "Gruzija", 
       "Sakartvelo"
     ], 
-    "Dutch": [
-      "Georgie", 
-      "Georgi\u00eb"
+    "English": [
+      "GE", 
+      "Georgian Soviet Socialist Republic"
     ], 
     "Japanese": [
       "\u30b0\u30eb\u30b8\u30a2", 
@@ -396,9 +394,9 @@
     "German": [
       "Georgien"
     ], 
-    "English": [
-      "GE", 
-      "Georgian Soviet Socialist Republic"
+    "Dutch": [
+      "Georgie", 
+      "Georgi\u00eb"
     ], 
     "Polish": [
       "Gruzja"
@@ -455,7 +453,9 @@
   "alias_HUN_Q": [
     "Gr\u00fazia"
   ], 
-  "ne_longitude": 46.721359, 
+  "alias_UNK_V": [
+    "Sakartvelo"
+  ], 
   "longitude": 43.365791, 
   "iso": "GE", 
   "sw_latitude": 41.038502, 
@@ -509,25 +509,6 @@
           ]
         ]
       }, 
-      "props": {
-        "ne:fid": 219, 
-        "ne:hasPlace": 15, 
-        "hierarchy": [
-          "woe:metropolitan-area=34819400", 
-          "woe:region=20070393", 
-          "woe:country=23424823"
-        ], 
-        "artisanal:foundry": "http://www.missionintegers.com/", 
-        "ne:FeatureCla": "Urban area", 
-        "placetype": "metropolitan-area", 
-        "iso": "GE", 
-        "longitude": 42.326684399841994, 
-        "artisanal:id": 34819400, 
-        "latitude": 42.1754876504829, 
-        "woe:id": 34819400, 
-        "ne:ScaleRank": 7
-      }, 
-      "id": 34819400, 
       "properties": {
         "ne:fid": 219, 
         "ne:hasPlace": 15, 
@@ -545,7 +526,8 @@
         "latitude": 42.1754876504829, 
         "woe:id": 34819400, 
         "ne:ScaleRank": 7
-      }
+      }, 
+      "id": 34819400
     }
   ], 
   "alias_FRE_S": [
