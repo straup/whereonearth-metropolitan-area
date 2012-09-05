@@ -1,5 +1,173 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Bolivia"
+  ], 
+  "alias_KOR_Q": [
+    "\ubcfc\ub9ac\ube44\uc544"
+  ], 
+  "alias_POL_Q": [
+    "Boliwia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -9.68056, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Bolivija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Bol\u00edvia"
+  ], 
+  "alias_ENG_A": [
+    "BO"
+  ], 
+  "alias_CZE_Q": [
+    "Bol\u00edvie"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344801, 
+        "name": "Chuquisaca"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344802, 
+        "name": "Cochabamba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344803, 
+        "name": "El Beni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344804, 
+        "name": "La Paz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344805, 
+        "name": "Oruro"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344806, 
+        "name": "Pando"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344807, 
+        "name": "Potos\u00ed"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344808, 
+        "name": "Santa Cruz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344809, 
+        "name": "Tarija"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Bol\u00edvia"
+    ], 
+    "Hungarian": [
+      "Bol\u00edvia"
+    ], 
+    "Chinese": [
+      "\u73bb\u5229\u7ef4\u4e9a", 
+      "\u73bb\u5229\u7dad\u4e9e"
+    ], 
+    "Czech": [
+      "Bol\u00edvie"
+    ], 
+    "Unknown": [
+      "B\u00f3liv\u00eda", 
+      "Republika Bolivija"
+    ], 
+    "Dutch": [
+      "Bolivi\u00eb"
+    ], 
+    "Japanese": [
+      "\u30dc\u30ea\u30d3\u30a2", 
+      "\u30dc\u30ea\u30d3\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Bolivie"
+    ], 
+    "German": [
+      "Bolivien", 
+      "Republik Bolivien"
+    ], 
+    "English": [
+      "BO", 
+      "Republic of Bolivia"
+    ], 
+    "Polish": [
+      "Boliwia"
+    ], 
+    "Korean": [
+      "\ubcfc\ub9ac\ube44\uc544"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u73bb\u5229\u7dad\u4e9e"
+  ], 
+  "alias_CHI_V": [
+    "\u73bb\u5229\u7ef4\u4e9a"
+  ], 
+  "woeid": 23424762, 
+  "alias_JPN_Q": [
+    "\u30dc\u30ea\u30d3\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30dc\u30ea\u30d3\u30a2\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": -69.640762, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -16.288349, 
+  "date_indexed": "2010-12-02T17:57:50.22Z", 
+  "bbox": "-22.89613,-69.640762,-9.68056,-57.458092", 
+  "alias_DUT_V": [
+    "Bolivi\u00eb"
+  ], 
+  "alias_GER_V": [
+    "Republik Bolivien"
+  ], 
+  "alias_GER_Q": [
+    "Bolivien"
+  ], 
+  "lang": "ENG", 
+  "name": "Bolivia", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "B\u00f3liv\u00eda"
+  ], 
+  "alias_HUN_Q": [
+    "Bol\u00edvia"
+  ], 
+  "ne_longitude": -57.458092, 
+  "longitude": -63.549419, 
+  "iso": "BO", 
+  "sw_latitude": -22.89613, 
+  "fullname": "Bolivia", 
   "features": [
     {
       "geometry": {
@@ -213,23 +381,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 929, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311217", 
+          "woe:region=2344804", 
+          "woe:country=23424762"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "BO", 
+        "longitude": -68.14598722604252, 
+        "artisanal:id": 35311217, 
+        "latitude": -16.508253744606, 
+        "woe:id": 35311217, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35311217, 
       "properties": {
         "ne:fid": 929, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311217", 
+          "woe:region=2344804", 
+          "woe:country=23424762"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "BO", 
+        "longitude": -68.14598722604252, 
         "artisanal:id": 35311217, 
+        "latitude": -16.508253744606, 
         "woe:id": 35311217, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -68.26376054551093, 
-    -16.59211353929559, 
-    -68.03044145371312, 
-    -16.424113457914714
+  "alias_FRE_Q": [
+    "Bolivie"
   ]
 }

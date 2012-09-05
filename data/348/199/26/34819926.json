@@ -1,5 +1,333 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Argentine Republic"
+  ], 
+  "alias_ENG_A": [
+    "AR"
+  ], 
+  "alias_POL_Q": [
+    "Argentyna"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -21.781269, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Argentinska Republika"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\uc544\ub974\ud5e8\ud2f0\ub098"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23509541, 
+        "name": "Patagonia"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344675, 
+        "name": "Buenos Aires"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344676, 
+        "name": "Catamarca"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344677, 
+        "name": "Chaco"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344678, 
+        "name": "Chubut"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344681, 
+        "name": "Ciudad de Buenos Aires"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344680, 
+        "name": "Corrientes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344679, 
+        "name": "C\u00f3rdoba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344682, 
+        "name": "Entre Rios"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344683, 
+        "name": "Formosa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344684, 
+        "name": "Jujuy"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344685, 
+        "name": "La Pampa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344686, 
+        "name": "La Rioja"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344687, 
+        "name": "Mendoza"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344688, 
+        "name": "Misiones"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344689, 
+        "name": "Neuqu\u00e9n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344690, 
+        "name": "Rio Negro"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344691, 
+        "name": "Salta"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344692, 
+        "name": "San Juan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344693, 
+        "name": "San Luis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344694, 
+        "name": "Santa Cruz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344695, 
+        "name": "Santa Fe"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344696, 
+        "name": "Santiago del Estero"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344697, 
+        "name": "Tierra del Fuego Antartida e Islas Del Atlantico Sur"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344698, 
+        "name": "Tucum\u00e1n"
+      }
+    ], 
+    "Timezone": [
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043551, 
+        "name": "America/Argentina/Buenos_Aires"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043540, 
+        "name": "America/Argentina/Catamarca"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043541, 
+        "name": "America/Argentina/Cordoba"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043542, 
+        "name": "America/Argentina/Jujuy"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043543, 
+        "name": "America/Argentina/La_Rioja"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043544, 
+        "name": "America/Argentina/Mendoza"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043545, 
+        "name": "America/Argentina/Rio_Gallegos"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043546, 
+        "name": "America/Argentina/Salta"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043547, 
+        "name": "America/Argentina/San_Juan"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043548, 
+        "name": "America/Argentina/San_Luis"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043549, 
+        "name": "America/Argentina/Tucuman"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043550, 
+        "name": "America/Argentina/Ushuaia"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354183, 
+        "name": "Negro River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354152, 
+        "name": "Parana River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354448, 
+        "name": "Pico River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354182, 
+        "name": "Salado River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Hungarian": [
+      "Argent\u00edna"
+    ], 
+    "Chinese": [
+      "\u963f\u6839\u5ef7"
+    ], 
+    "Finnish": [
+      "Argentiina"
+    ], 
+    "German": [
+      "Argentinien", 
+      "Argentinische Republik"
+    ], 
+    "Unknown": [
+      "Argent\u00edna", 
+      "Argentinska Republika"
+    ], 
+    "Dutch": [
+      "Argentinie", 
+      "Argentini\u00eb"
+    ], 
+    "Japanese": [
+      "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3", 
+      "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Argentine"
+    ], 
+    "English": [
+      "AR", 
+      "Argentine Republic"
+    ], 
+    "Polish": [
+      "Argentyna"
+    ], 
+    "Korean": [
+      "\uc544\ub974\ud5e8\ud2f0\ub098"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u963f\u6839\u5ef7"
+  ], 
+  "woeid": 23424747, 
+  "alias_JPN_Q": [
+    "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3"
+  ], 
+  "alias_JPN_V": [
+    "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u5171\u548c\u56fd"
+  ], 
+  "alias_FIN_Q": [
+    "Argentiina"
+  ], 
+  "sw_longitude": -73.577782, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -37.090698, 
+  "date_indexed": "2010-12-02T17:41:29.176Z", 
+  "alias_DUT_Q": [
+    "Argentini\u00eb"
+  ], 
+  "alias_DUT_S": [
+    "Argentinie"
+  ], 
+  "bbox": "-55.06712,-73.577782,-21.781269,-53.591831", 
+  "alias_GER_V": [
+    "Argentinische Republik"
+  ], 
+  "alias_GER_Q": [
+    "Argentinien"
+  ], 
+  "lang": "ENG", 
+  "name": "Argentina", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Argent\u00edna"
+  ], 
+  "alias_HUN_Q": [
+    "Argent\u00edna"
+  ], 
+  "ne_longitude": -53.591831, 
+  "longitude": -63.584808, 
+  "iso": "AR", 
+  "sw_latitude": -55.06712, 
+  "fullname": "Argentina", 
   "features": [
     {
       "geometry": {
@@ -57,23 +385,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 947, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819926", 
+          "woe:region=2344684", 
+          "woe:country=23424747"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "AR", 
+        "longitude": -64.80244311362873, 
+        "artisanal:id": 34819926, 
+        "latitude": -23.803397902891057, 
+        "woe:id": 34819926, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34819926, 
       "properties": {
         "ne:fid": 947, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819926", 
+          "woe:region=2344684", 
+          "woe:country=23424747"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "AR", 
+        "longitude": -64.80244311362873, 
         "artisanal:id": 34819926, 
+        "latitude": -23.803397902891057, 
         "woe:id": 34819926, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -64.83125688338784, 
-    -23.835392347918315, 
-    -64.76787573918185, 
-    -23.768729750261798
+  "alias_FRE_Q": [
+    "Argentine"
   ]
 }

@@ -1,5 +1,352 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Estonia"
+  ], 
+  "alias_SWE_Q": [
+    "Estland"
+  ], 
+  "alias_POL_Q": [
+    "Estonia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 59.685749, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Estonia"
+  ], 
+  "alias_UNK_V": [
+    "Republika Estonija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Est\u00f4nia"
+  ], 
+  "alias_POR_Q": [
+    "Est\u00f3nia"
+  ], 
+  "alias_ENG_A": [
+    "EE"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345276, 
+        "name": "Harjumaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345277, 
+        "name": "Hiiumaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345278, 
+        "name": "Ida-Virumaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345279, 
+        "name": "J\u00e4rvamaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345280, 
+        "name": "J\u00f5gevamaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345282, 
+        "name": "L\u00e4\u00e4ne-Virumaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345281, 
+        "name": "L\u00e4\u00e4nemaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345283, 
+        "name": "P\u00e4rnumaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345284, 
+        "name": "P\u00f5lvamaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345285, 
+        "name": "Raplamaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345286, 
+        "name": "Saaremaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345287, 
+        "name": "Tartumaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345288, 
+        "name": "Valgamaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345289, 
+        "name": "Viljandimaa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345290, 
+        "name": "V\u00f5rumaa"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56057298, 
+        "name": "Lahemaa Rahvuspark"
+      }
+    ], 
+    "Zone": [
+      {
+        "placetype": "Zone", 
+        "woeid": 24868244, 
+        "name": "32 Laane-Virumaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868246, 
+        "name": "38 Jarvamaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868247, 
+        "name": "43 Viljandimaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868248, 
+        "name": "44 Parnumaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868249, 
+        "name": "45 Saaremaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868250, 
+        "name": "46 Hiiumaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868251, 
+        "name": "47 Laanemaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868252, 
+        "name": "48 Raplamaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868253, 
+        "name": "6 Harjumaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868254, 
+        "name": "73 Tartumaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868255, 
+        "name": "76 Valgamaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868256, 
+        "name": "77 Jogevamaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868257, 
+        "name": "78 Vorumaa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868258, 
+        "name": "79 Polvamaa"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354395, 
+        "name": "Emajogi River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354382, 
+        "name": "Lake Peipus"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Estland"
+    ], 
+    "Danish": [
+      "Estland"
+    ], 
+    "Hungarian": [
+      "Esztorszag", 
+      "\u00c9sztorsz\u00e1g"
+    ], 
+    "Chinese": [
+      "\u7231\u6c99\u5c3c\u4e9a", 
+      "\u611b\u6c99\u5c3c\u4e9e"
+    ], 
+    "Finnish": [
+      "Viro"
+    ], 
+    "Norwegian": [
+      "Estland"
+    ], 
+    "Czech": [
+      "Estonsko"
+    ], 
+    "Romanian": [
+      "Estonia"
+    ], 
+    "Dutch": [
+      "Estland"
+    ], 
+    "Japanese": [
+      "\u30a8\u30b9\u30c8\u30cb\u30a2", 
+      "\u30a8\u30b9\u30c8\u30cb\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Estonie"
+    ], 
+    "German": [
+      "Estland", 
+      "Republik Estland"
+    ], 
+    "Portuguese": [
+      "Est\u00f4nia", 
+      "Est\u00f3nia"
+    ], 
+    "Unknown": [
+      "Eistland", 
+      "Esthonia", 
+      "Republika Estonija"
+    ], 
+    "Spanish": [
+      "Estonia"
+    ], 
+    "English": [
+      "EE", 
+      "Estonia", 
+      "Republic of Estonia"
+    ], 
+    "Polish": [
+      "Estonia"
+    ], 
+    "Korean": [
+      "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
+    ], 
+    "Italian": [
+      "Estonia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u611b\u6c99\u5c3c\u4e9e"
+  ], 
+  "alias_ITA_Q": [
+    "Estonia"
+  ], 
+  "alias_GER_V": [
+    "Republik Estland"
+  ], 
+  "alias_CHI_V": [
+    "\u7231\u6c99\u5c3c\u4e9a"
+  ], 
+  "woeid": 23424805, 
+  "alias_JPN_Q": [
+    "\u30a8\u30b9\u30c8\u30cb\u30a2"
+  ], 
+  "alias_ENG_P": [
+    "Estonia"
+  ], 
+  "alias_JPN_V": [
+    "\u30a8\u30b9\u30c8\u30cb\u30a2\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Estonia"
+  ], 
+  "alias_FIN_Q": [
+    "Viro"
+  ], 
+  "sw_longitude": 21.771851, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 58.592319, 
+  "alias_NOR_Q": [
+    "Estland"
+  ], 
+  "date_indexed": "2010-12-02T16:43:34.589Z", 
+  "alias_KOR_Q": [
+    "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
+  ], 
+  "alias_DUT_Q": [
+    "Estland"
+  ], 
+  "bbox": "57.509312,21.771851,59.685749,28.20989", 
+  "alias_CZE_Q": [
+    "Estonsko"
+  ], 
+  "alias_DAN_Q": [
+    "Estland"
+  ], 
+  "alias_GER_Q": [
+    "Estland"
+  ], 
+  "lang": "UNK", 
+  "name": "Eesti", 
+  "language": "Unknown", 
+  "alias_UNK_S": [
+    "Esthonia"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Eistland"
+  ], 
+  "alias_HUN_Q": [
+    "\u00c9sztorsz\u00e1g"
+  ], 
+  "ne_longitude": 28.20989, 
+  "longitude": 25.80695, 
+  "iso": "EE", 
+  "sw_latitude": 57.509312, 
+  "alias_HUN_S": [
+    "Esztorszag"
+  ], 
+  "fullname": "Eesti, Estonia", 
   "features": [
     {
       "geometry": {
@@ -117,23 +464,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 4699, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822424", 
+          "woe:region=2345278", 
+          "woe:country=23424805"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "EE", 
+        "longitude": 27.37419132356554, 
+        "artisanal:id": 34822424, 
+        "latitude": 59.35924386767021, 
+        "woe:id": 34822424, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34822424, 
       "properties": {
         "ne:fid": 4699, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822424", 
+          "woe:region=2345278", 
+          "woe:country=23424805"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "EE", 
+        "longitude": 27.37419132356554, 
         "artisanal:id": 34822424, 
+        "latitude": 59.35924386767021, 
         "woe:id": 34822424, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    27.324875115678736, 
-    59.32283926048726, 
-    27.437736443804198, 
-    59.40076732038341
+  "alias_FRE_Q": [
+    "Estonie"
   ]
 }

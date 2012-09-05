@@ -1,5 +1,139 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Nigerien"
+  ], 
+  "alias_KOR_Q": [
+    "\ub2c8\uc81c\ub974"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 23.525021, 
+  "supercedes": [], 
+  "ne_longitude": 15.99564, 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "N\u00edger"
+  ], 
+  "alias_ENG_A": [
+    "NE"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346324, 
+        "name": "Agadez"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346325, 
+        "name": "Diffa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346326, 
+        "name": "Dosso"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346327, 
+        "name": "Maradi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069994, 
+        "name": "Niamey"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346329, 
+        "name": "Tahoua"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069995, 
+        "name": "Tillaberi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346330, 
+        "name": "Zinder"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "N\u00edger"
+    ], 
+    "Chinese": [
+      "\u5c3c\u65e5", 
+      "\u5c3c\u65e5"
+    ], 
+    "German": [
+      "Republik Niger"
+    ], 
+    "Unknown": [
+      "Republika Niger"
+    ], 
+    "Spanish": [
+      "N\u00edger"
+    ], 
+    "Japanese": [
+      "\u30cb\u30b8\u30a7\u30fc\u30eb\u5171\u548c\u56fd", 
+      "\u30cb\u30b8\u30a7\u30fc\u30eb"
+    ], 
+    "English": [
+      "NE", 
+      "Nigerien"
+    ], 
+    "Korean": [
+      "\ub2c8\uc81c\ub974"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5c3c\u65e5"
+  ], 
+  "alias_CHI_V": [
+    "\u5c3c\u65e5"
+  ], 
+  "woeid": 23424906, 
+  "alias_JPN_Q": [
+    "\u30cb\u30b8\u30a7\u30fc\u30eb"
+  ], 
+  "alias_JPN_V": [
+    "\u30cb\u30b8\u30a7\u30fc\u30eb\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "N\u00edger"
+  ], 
+  "sw_longitude": 0.16625, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 17.610991, 
+  "date_indexed": "2010-12-02T17:43:23.884Z", 
+  "bbox": "11.69697,0.16625,23.525021,15.99564", 
+  "alias_GER_V": [
+    "Republik Niger"
+  ], 
+  "lang": "ENG", 
+  "name": "Niger", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_V": [
+    "Republika Niger"
+  ], 
+  "longitude": 8.08094, 
+  "iso": "NE", 
+  "sw_latitude": 11.69697, 
+  "fullname": "Niger", 
   "features": [
     {
       "geometry": {
@@ -89,23 +223,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 839, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=37159794", 
+          "woe:region=2346324", 
+          "woe:country=23424906"
+        ], 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "NE", 
+        "longitude": 7.369742869714998, 
+        "artisanal:id": 37159794, 
+        "latitude": 18.729816440938528, 
+        "woe:id": 37159794, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 37159794, 
       "properties": {
         "ne:fid": 839, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=37159794", 
+          "woe:region=2346324", 
+          "woe:country=23424906"
+        ], 
         "artisanal:foundry": "http://www.londonintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "NE", 
+        "longitude": 7.369742869714998, 
         "artisanal:id": 37159794, 
+        "latitude": 18.729816440938528, 
         "woe:id": 37159794, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    7.31896447106746, 
-    18.69963410081955, 
-    7.418906691119957, 
-    18.757201646392687
   ]
 }

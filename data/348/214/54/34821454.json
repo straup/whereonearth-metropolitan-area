@@ -1,5 +1,201 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Paraguay"
+  ], 
+  "alias_KOR_Q": [
+    "\ud30c\ub77c\uacfc\uc774"
+  ], 
+  "alias_POL_Q": [
+    "Paragwaj"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -19.294041, 
+  "supercedes": [], 
+  "ne_longitude": -54.25935, 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Paraguai"
+  ], 
+  "alias_ENG_A": [
+    "PY"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346463, 
+        "name": "Alto Paraguay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346448, 
+        "name": "Alto Paran\u00e1"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346449, 
+        "name": "Amambay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070148, 
+        "name": "Asunci\u00f3n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346450, 
+        "name": "Boquer\u00f3n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346451, 
+        "name": "Caaguaz\u00fa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346452, 
+        "name": "Caazap\u00e1"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346464, 
+        "name": "Canindey\u00fa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346453, 
+        "name": "Central"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346454, 
+        "name": "Concepci\u00f3n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346455, 
+        "name": "Cordillera"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346456, 
+        "name": "Guair\u00e1"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346457, 
+        "name": "Itap\u00faa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346458, 
+        "name": "Misiones"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346460, 
+        "name": "Paraguar\u00ed"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346461, 
+        "name": "Presidente Hayes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346462, 
+        "name": "San Pedro"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346459, 
+        "name": "\u00d1eembuc\u00fa"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354194, 
+        "name": "Paraguay River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354193, 
+        "name": "Pilcomayo River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Paraguai"
+    ], 
+    "Chinese": [
+      "\u5df4\u62c9\u572d"
+    ], 
+    "German": [
+      "Republik Paraguay"
+    ], 
+    "Unknown": [
+      "Paragvaj", 
+      "Republika Paragvaj"
+    ], 
+    "Japanese": [
+      "\u30d1\u30e9\u30b0\u30a2\u30a4\u5171\u548c\u56fd", 
+      "\u30d1\u30e9\u30b0\u30a2\u30a4"
+    ], 
+    "English": [
+      "PY", 
+      "Republic of Paraguay"
+    ], 
+    "Polish": [
+      "Paragwaj"
+    ], 
+    "Korean": [
+      "\ud30c\ub77c\uacfc\uc774"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5df4\u62c9\u572d"
+  ], 
+  "woeid": 23424917, 
+  "alias_JPN_Q": [
+    "\u30d1\u30e9\u30b0\u30a2\u30a4"
+  ], 
+  "alias_JPN_V": [
+    "\u30d1\u30e9\u30b0\u30a2\u30a4\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": -62.647072, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -23.451389, 
+  "date_indexed": "2010-12-02T12:08:38.228Z", 
+  "bbox": "-27.60873,-62.647072,-19.294041,-54.25935", 
+  "alias_GER_V": [
+    "Republik Paraguay"
+  ], 
+  "lang": "ENG", 
+  "name": "Paraguay", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Paragvaj"
+  ], 
+  "alias_UNK_V": [
+    "Republika Paragvaj"
+  ], 
+  "longitude": -58.453209, 
+  "iso": "PY", 
+  "sw_latitude": -27.60873, 
+  "fullname": "Paraguay", 
   "features": [
     {
       "geometry": {
@@ -77,23 +273,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 3263, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34821454", 
+          "woe:region=2346453", 
+          "woe:country=23424917"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "PY", 
+        "longitude": -57.496584072605685, 
+        "artisanal:id": 34821454, 
+        "latitude": -25.16728545617194, 
+        "woe:id": 34821454, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34821454, 
       "properties": {
         "ne:fid": 3263, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34821454", 
+          "woe:region=2346453", 
+          "woe:country=23424917"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "PY", 
+        "longitude": -57.496584072605685, 
         "artisanal:id": 34821454, 
+        "latitude": -25.16728545617194, 
         "woe:id": 34821454, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -57.543768886939404, 
-    -25.184198907168508, 
-    -57.454472011939046, 
-    -25.144873142194392
   ]
 }

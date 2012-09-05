@@ -1,5 +1,317 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Rep. Croatia"
+  ], 
+  "alias_SWE_Q": [
+    "Kroatien"
+  ], 
+  "alias_POL_Q": [
+    "Chorwacja"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 46.554981, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Croa\u0163ia"
+  ], 
+  "alias_UNK_V": [
+    "Chorv\u00e1tsko"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Cro\u00e1cia"
+  ], 
+  "alias_ENG_A": [
+    "HRV"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23509546, 
+        "name": "Dalmacia"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 12577991, 
+        "name": "Bjelovarsko-Bilogorska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577972, 
+        "name": "Brodsko-Posavska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577973, 
+        "name": "Dubrova\u010dko-neretvanska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070170, 
+        "name": "Grad Zagreb"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577974, 
+        "name": "Istarska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577975, 
+        "name": "Karlova\u010dka"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577976, 
+        "name": "Koprivni\u010dko-kri\u017eeva\u010dka"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577977, 
+        "name": "Krapinsko-Zagorska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577978, 
+        "name": "Li\u010dko-senjska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577979, 
+        "name": "Medjimurska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577980, 
+        "name": "Osje\u010dko-baranjska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577981, 
+        "name": "Po\u017ee\u0161ko-slavonska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577982, 
+        "name": "Primorsko-Goranska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577983, 
+        "name": "Sibenska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577984, 
+        "name": "Sisa\u010dko-moslava\u010dka"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577985, 
+        "name": "Splitsko-Dalmatinska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577986, 
+        "name": "Vara\u017edinska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577987, 
+        "name": "Viroviti\u010dko-podravska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577988, 
+        "name": "Vukovarsko-Srijemska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577989, 
+        "name": "Zadarsko-Kninska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577990, 
+        "name": "Zagreba\u010dka"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56058432, 
+        "name": "Nacionalni Park Paklenica"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56058433, 
+        "name": "Nacionalni Park Plitvicka Jezera"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354252, 
+        "name": "Sava River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Kroatien"
+    ], 
+    "Danish": [
+      "Kroatien"
+    ], 
+    "Hungarian": [
+      "Horvatorszag", 
+      "Horv\u00e1torsz\u00e1g"
+    ], 
+    "Chinese": [
+      "\u514b\u7f85\u57c3\u897f\u4e9e", 
+      "\u514b\u7f85\u57c3\u897f\u4e9e"
+    ], 
+    "Finnish": [
+      "Kroatiasta", 
+      "Kroatia"
+    ], 
+    "Norwegian": [
+      "Kroatia"
+    ], 
+    "Czech": [
+      "Chorvatsko"
+    ], 
+    "Romanian": [
+      "Croa\u0163ia"
+    ], 
+    "Dutch": [
+      "Kroatie", 
+      "Kroati\u00eb"
+    ], 
+    "Japanese": [
+      "\u30af\u30ed\u30a2\u30c1\u30a2", 
+      "\u30af\u30ed\u30a2\u30c1\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Croatie"
+    ], 
+    "German": [
+      "Kroatien", 
+      "Republik Kroatien"
+    ], 
+    "Portuguese": [
+      "Cro\u00e1cia"
+    ], 
+    "Unknown": [
+      "Kr\u00f3at\u00eda", 
+      "Chorv\u00e1tsko"
+    ], 
+    "Spanish": [
+      "Croacia"
+    ], 
+    "English": [
+      "HRV", 
+      "Croatia", 
+      "Rep. Croatia"
+    ], 
+    "Polish": [
+      "Chorwacja"
+    ], 
+    "Korean": [
+      "\ud06c\ub85c\uc544\ud2f0\uc544"
+    ], 
+    "Italian": [
+      "Croazia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u514b\u7f85\u57c3\u897f\u4e9e"
+  ], 
+  "alias_ITA_Q": [
+    "Croazia"
+  ], 
+  "alias_GER_V": [
+    "Republik Kroatien"
+  ], 
+  "alias_CHI_V": [
+    "\u514b\u7f85\u57c3\u897f\u4e9e"
+  ], 
+  "woeid": 23424843, 
+  "alias_JPN_Q": [
+    "\u30af\u30ed\u30a2\u30c1\u30a2"
+  ], 
+  "alias_ENG_P": [
+    "Croatia"
+  ], 
+  "alias_JPN_V": [
+    "\u30af\u30ed\u30a2\u30c1\u30a2\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Croacia"
+  ], 
+  "alias_FIN_Q": [
+    "Kroatia"
+  ], 
+  "sw_longitude": 13.48972, 
+  "alias_FIN_V": [
+    "Kroatiasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 44.746712, 
+  "alias_NOR_Q": [
+    "Kroatia"
+  ], 
+  "date_indexed": "2010-12-02T17:07:03.684Z", 
+  "alias_KOR_Q": [
+    "\ud06c\ub85c\uc544\ud2f0\uc544"
+  ], 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Kroati\u00eb"
+  ], 
+  "alias_DUT_S": [
+    "Kroatie"
+  ], 
+  "bbox": "42.392208,13.48972,46.554981,19.44722", 
+  "alias_CZE_Q": [
+    "Chorvatsko"
+  ], 
+  "alias_DAN_Q": [
+    "Kroatien"
+  ], 
+  "alias_GER_Q": [
+    "Kroatien"
+  ], 
+  "lang": "UNK", 
+  "name": "Hrvatska", 
+  "language": "Unknown", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Kr\u00f3at\u00eda"
+  ], 
+  "alias_HUN_Q": [
+    "Horv\u00e1torsz\u00e1g"
+  ], 
+  "ne_longitude": 19.44722, 
+  "longitude": 15.3408, 
+  "iso": "HR", 
+  "sw_latitude": 42.392208, 
+  "alias_HUN_S": [
+    "Horvatorszag"
+  ], 
+  "fullname": "Hrvatska, Croatia", 
   "features": [
     {
       "geometry": {
@@ -57,23 +369,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 6181, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823390", 
+          "woe:region=12577979", 
+          "woe:country=23424843"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "HR", 
+        "longitude": 16.417368937942364, 
+        "artisanal:id": 34823390, 
+        "latitude": 46.39475631490722, 
+        "woe:id": 34823390, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34823390, 
       "properties": {
         "ne:fid": 6181, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823390", 
+          "woe:region=12577979", 
+          "woe:country=23424843"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "HR", 
+        "longitude": 16.417368937942364, 
         "artisanal:id": 34823390, 
+        "latitude": 46.39475631490722, 
         "woe:id": 34823390, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    16.384147576572474, 
-    46.37812551531829, 
-    16.450706821364406, 
-    46.42259308530545
+  "alias_FRE_Q": [
+    "Croatie"
   ]
 }

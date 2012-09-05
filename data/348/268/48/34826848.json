@@ -1,5 +1,265 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Malaysian"
+  ], 
+  "alias_KOR_Q": [
+    "\ub9d0\ub808\uc774\uc2dc\uc544"
+  ], 
+  "alias_POL_Q": [
+    "Malezja"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 7.58378, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Malaezia"
+  ], 
+  "alias_UNK_V": [
+    "Mallae-i jia"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ub9d0\ub808\uc774\uc9c0\uc544"
+  ], 
+  "alias_POR_Q": [
+    "Mal\u00e1sia"
+  ], 
+  "alias_ENG_A": [
+    "MY"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 2346308, 
+        "name": "Wilayah Persekutuan"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346296, 
+        "name": "Johor"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346297, 
+        "name": "Kedah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346298, 
+        "name": "Kelantan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56014685, 
+        "name": "Kuala Lumpur"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346309, 
+        "name": "Labuan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346299, 
+        "name": "Melaka"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346300, 
+        "name": "Negeri Sembilan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346301, 
+        "name": "Pahang"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346302, 
+        "name": "Perak"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346303, 
+        "name": "Perlis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346304, 
+        "name": "Pulau Pinang"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28350159, 
+        "name": "Putrajaya"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346310, 
+        "name": "Sabah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346305, 
+        "name": "Sarawak"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346306, 
+        "name": "Selangor"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346307, 
+        "name": "Terengganu"
+      }
+    ], 
+    "Timezone": [
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043603, 
+        "name": "Asia/Kuala_Lumpur"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043604, 
+        "name": "Asia/Kuching"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Mal\u00e1sia"
+    ], 
+    "Hungarian": [
+      "Mal\u00e1jf\u00f6ld", 
+      "Malajzia"
+    ], 
+    "Chinese": [
+      "\u9a6c\u6765\u897f\u4e9a", 
+      "\u99ac\u4f86\u897f\u4e9e"
+    ], 
+    "Finnish": [
+      "Malesiaan", 
+      "Malesiasta"
+    ], 
+    "Czech": [
+      "Malajsie"
+    ], 
+    "Romanian": [
+      "Malaezia", 
+      "Malaiezia"
+    ], 
+    "Dutch": [
+      "Maleisie", 
+      "Maleisi\u00eb"
+    ], 
+    "Japanese": [
+      "\u30de\u30ec\u30fc\u30b7\u30a2", 
+      "\u30de\u30ec\u30a4\u30b7\u30a2"
+    ], 
+    "French": [
+      "Malaisie"
+    ], 
+    "Unknown": [
+      "Malas\u00eda", 
+      "Mallae-i jia"
+    ], 
+    "Spanish": [
+      "Malasia"
+    ], 
+    "English": [
+      "MY", 
+      "Malaysian"
+    ], 
+    "Polish": [
+      "Malezja"
+    ], 
+    "Korean": [
+      "\ub9d0\ub808\uc774\uc9c0\uc544", 
+      "\ub9d0\ub808\uc774\uc2dc\uc544"
+    ], 
+    "Italian": [
+      "Malaisia", 
+      "Malesia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u99ac\u4f86\u897f\u4e9e"
+  ], 
+  "alias_ITA_Q": [
+    "Malesia"
+  ], 
+  "alias_ITA_V": [
+    "Malaisia"
+  ], 
+  "alias_CHI_V": [
+    "\u9a6c\u6765\u897f\u4e9a"
+  ], 
+  "woeid": 23424901, 
+  "alias_JPN_Q": [
+    "\u30de\u30ec\u30fc\u30b7\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30de\u30ec\u30a4\u30b7\u30a2"
+  ], 
+  "alias_SPA_Q": [
+    "Malasia"
+  ], 
+  "alias_FIN_Q": [
+    "Malesiasta"
+  ], 
+  "sw_longitude": 98.935059, 
+  "alias_FIN_V": [
+    "Malesiaan"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 3.94515, 
+  "date_indexed": "2010-12-02T18:04:56.474Z", 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Maleisi\u00eb"
+  ], 
+  "alias_DUT_S": [
+    "Maleisie"
+  ], 
+  "bbox": "0.66364,98.935059,7.58378,119.448433", 
+  "alias_CZE_Q": [
+    "Malajsie"
+  ], 
+  "lang": "ENG", 
+  "name": "Malaysia", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Malas\u00eda"
+  ], 
+  "alias_HUN_Q": [
+    "Malajzia"
+  ], 
+  "alias_HUN_V": [
+    "Mal\u00e1jf\u00f6ld"
+  ], 
+  "ne_longitude": 119.448433, 
+  "longitude": 114.401657, 
+  "iso": "MY", 
+  "sw_latitude": 0.66364, 
+  "alias_RUM_V": [
+    "Malaiezia"
+  ], 
+  "fullname": "Malaysia", 
   "features": [
     {
       "geometry": {
@@ -137,23 +397,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 11481, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826848", 
+          "woe:region=2346298", 
+          "woe:country=23424901"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MY", 
+        "longitude": 102.26670163607001, 
+        "artisanal:id": 34826848, 
+        "latitude": 6.136520262023696, 
+        "woe:id": 34826848, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34826848, 
       "properties": {
         "ne:fid": 11481, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826848", 
+          "woe:region=2346298", 
+          "woe:country=23424901"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MY", 
+        "longitude": 102.26670163607001, 
         "artisanal:id": 34826848, 
+        "latitude": 6.136520262023696, 
         "woe:id": 34826848, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    102.21963178915544, 
-    6.084538479024289, 
-    102.31109907431204, 
-    6.194092515483064
+  "alias_FRE_Q": [
+    "Malaisie"
   ]
 }

@@ -1,5 +1,1738 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Unitedstates"
+  ], 
+  "alias_SWE_V": [
+    "F\u00f6renta Staterna"
+  ], 
+  "alias_KOR_Q": [
+    "\ubbf8\uad6d"
+  ], 
+  "alias_POL_Q": [
+    "Stany Zjednoczone"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 71.441048, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Statele Unite Ale Americii"
+  ], 
+  "alias_UNK_V": [
+    "Beikoku"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "EUA"
+  ], 
+  "alias_POR_Q": [
+    "Estados Unidos"
+  ], 
+  "alias_ENG_A": [
+    "USA"
+  ], 
+  "alias_POR_S": [
+    "Estados Unidos da America"
+  ], 
+  "alias_CZE_Q": [
+    "Spojen\u00e9 St\u00e1ty Americk\u00e9"
+  ], 
+  "children": {
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074019, 
+        "name": "Absaroka Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073974, 
+        "name": "Allegheny Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074072, 
+        "name": "Amargosa Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073975, 
+        "name": "Appalachian Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074059, 
+        "name": "Bear River Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074018, 
+        "name": "Beartooth Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074011, 
+        "name": "Beaverhead Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074023, 
+        "name": "Big Horn Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074010, 
+        "name": "Bitterroot Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074129, 
+        "name": "Bitterroot Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23511788, 
+        "name": "Black Hills"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073970, 
+        "name": "Blue Ridge Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073979, 
+        "name": "Boston Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074008, 
+        "name": "Cabinet Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074100, 
+        "name": "Cascade Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073968, 
+        "name": "Catskill Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074069, 
+        "name": "Chocolate Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074052, 
+        "name": "Chuska Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074130, 
+        "name": "Coast Ranges"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074012, 
+        "name": "Coeur d'Al\u00e8ne Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074038, 
+        "name": "Culebra Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073972, 
+        "name": "Cumberland Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073985, 
+        "name": "Flint Hills"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073998, 
+        "name": "Gogebic Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074061, 
+        "name": "Great Salt Lake Desert"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 55862619, 
+        "name": "Great Smoky Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 55843518, 
+        "name": "Great Smoky Mountains National Park"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073962, 
+        "name": "Green Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074135, 
+        "name": "Guadalupe Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073966, 
+        "name": "Hudson Highlands"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074095, 
+        "name": "Klamath Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074025, 
+        "name": "Laramie Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073981, 
+        "name": "Lower Boston Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073963, 
+        "name": "Mahoosuc Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074031, 
+        "name": "Medicine Bow Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073982, 
+        "name": "Ouachita Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074034, 
+        "name": "Park Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074007, 
+        "name": "Pioneer Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073987, 
+        "name": "Red Hills"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074134, 
+        "name": "Rocky Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074013, 
+        "name": "Saint Joe Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074029, 
+        "name": "Salt River Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074132, 
+        "name": "San Juan Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074001, 
+        "name": "Sand Hills"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074036, 
+        "name": "Sangre de Cristo Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23511741, 
+        "name": "Sierra Nevada"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074096, 
+        "name": "Siskiyou Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074075, 
+        "name": "Snake Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074048, 
+        "name": "Southern San Juan Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073965, 
+        "name": "Taconic Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56073964, 
+        "name": "The Berkshires"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074058, 
+        "name": "Uinta Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074094, 
+        "name": "Warner Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074060, 
+        "name": "Wasatch Range"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23511784, 
+        "name": "White Mountains"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56074089, 
+        "name": "White Mountains"
+      }
+    ], 
+    "Zone": [
+      {
+        "placetype": "Zone", 
+        "woeid": 24701644, 
+        "name": "202 District Of Columbia"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701719, 
+        "name": "207 Maine"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701676, 
+        "name": "208 Idaho"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701645, 
+        "name": "302 Delaware"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701867, 
+        "name": "304 West Virginia"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701868, 
+        "name": "307 Wyoming"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701812, 
+        "name": "401 Rhode Island"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701748, 
+        "name": "406 Montana"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701769, 
+        "name": "505 New Mexico"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701759, 
+        "name": "603 New Hampshire"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701816, 
+        "name": "605 South Dakota"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701756, 
+        "name": "701 North Dakota"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701856, 
+        "name": "802 Vermont"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701670, 
+        "name": "808 Hawaii"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24701599, 
+        "name": "907 Alaska"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702580, 
+        "name": "MD Lake County-Kenosha County"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702753, 
+        "name": "MD New York-White Plains-Wayne"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702752, 
+        "name": "MD Newark-Union"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 55949109, 
+        "name": "MD Washington-Arlington-Alexandria"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702774, 
+        "name": "MD Wilmington"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702881, 
+        "name": "MSA Allentown-Bethlehem-Easton"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702541, 
+        "name": "MSA Augusta-Richmond County"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702899, 
+        "name": "MSA Boston-Cambridge-Quincy"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 56120770, 
+        "name": "MSA Cape Girardeau-Jackson"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702574, 
+        "name": "MSA Charlotte-Gastonia-Concord"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702576, 
+        "name": "MSA Chattanooga"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702578, 
+        "name": "MSA Chicago-Naperville-Joliet"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702582, 
+        "name": "MSA Cincinnati-Middletown"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702583, 
+        "name": "MSA Clarksville"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702591, 
+        "name": "MSA Columbus"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702596, 
+        "name": "MSA Cumberland"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702602, 
+        "name": "MSA Davenport-Moline-Rock Island"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702614, 
+        "name": "MSA Duluth"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702624, 
+        "name": "MSA Evansville"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702626, 
+        "name": "MSA Fargo"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702629, 
+        "name": "MSA Fayetteville-Springdale-Rogers"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702636, 
+        "name": "MSA Fort Smith"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702645, 
+        "name": "MSA Grand Forks"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702655, 
+        "name": "MSA Hagerstown-Martinsburg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702667, 
+        "name": "MSA Huntington-Ashland"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702686, 
+        "name": "MSA Kansas City"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702689, 
+        "name": "MSA Kingsport-Bristol-Bristol"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702693, 
+        "name": "MSA La Crosse"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702706, 
+        "name": "MSA Lewiston"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702711, 
+        "name": "MSA Logan"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702716, 
+        "name": "MSA Louisville-Jefferson County"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702725, 
+        "name": "MSA Memphis"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702733, 
+        "name": "MSA Minneapolis-St. Paul-Bloomington"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 55949116, 
+        "name": "MSA New York-Northern New Jersey-Long Island"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702761, 
+        "name": "MSA Omaha-Council Bluffs"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702768, 
+        "name": "MSA Parkersburg-Marietta-Vienna"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 55949117, 
+        "name": "MSA Philadelphia-Camden-Wilmington"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702779, 
+        "name": "MSA Portland-Vancouver-Beaverton"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702904, 
+        "name": "MSA Providence-New Bedford-Fall River"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702830, 
+        "name": "MSA Sioux City"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702832, 
+        "name": "MSA South Bend-Mishawaka"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702804, 
+        "name": "MSA St. Joseph"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702805, 
+        "name": "MSA St. Louis"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702845, 
+        "name": "MSA Texarkana"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702859, 
+        "name": "MSA Virginia Beach-Norfolk-Newport News"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702864, 
+        "name": "MSA Washington-Arlington-Alexandria"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702867, 
+        "name": "MSA Weirton-Steubenville"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702869, 
+        "name": "MSA Wheeling"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702874, 
+        "name": "MSA Winchester"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702878, 
+        "name": "MSA Youngstown-Warren-Boardman"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702900, 
+        "name": "NECTA Haverhill-North Andover-Amesbury"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702883, 
+        "name": "NECTA Lawrence-Methuen-Salem"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702884, 
+        "name": "NECTA Lowell-Billerica-Chelmsford"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702885, 
+        "name": "NECTA Nashua"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 56120766, 
+        "name": "NECTA Norwich-New London"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702897, 
+        "name": "NECTA Portsmouth"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 56120764, 
+        "name": "NECTA Providence-Fall River-Warwick"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24702898, 
+        "name": "NECTA Rochester-Dover"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 56120758, 
+        "name": "NECTA Springfield"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 56120759, 
+        "name": "NECTA Worcester"
+      }
+    ], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56073967, 
+        "name": "Allegheny Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875666, 
+        "name": "Appalachia"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 55812156, 
+        "name": "Appalachian Trail"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28298980, 
+        "name": "Arizona's Four Corners"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875649, 
+        "name": "Canada International Border States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875670, 
+        "name": "Cascadia"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875648, 
+        "name": "Civil War Border States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074074, 
+        "name": "Colorado Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23511765, 
+        "name": "Columbia Basin"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875667, 
+        "name": "Columbia River Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875662, 
+        "name": "Continental United States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56073999, 
+        "name": "Coteau du Missouri"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56073973, 
+        "name": "Cumberland Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074140, 
+        "name": "Death Valley"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875651, 
+        "name": "Deep South"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875665, 
+        "name": "Delmarva Peninsula"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875668, 
+        "name": "Driftless Area"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689955, 
+        "name": "East Coast"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56043520, 
+        "name": "East North Central States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56043519, 
+        "name": "East South Central States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875664, 
+        "name": "Four Corners"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875669, 
+        "name": "Great Basin"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875652, 
+        "name": "Great Lakes Region"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875653, 
+        "name": "Great North Woods"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074002, 
+        "name": "Great Plains"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875654, 
+        "name": "Gulf of Mexico Coast"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875655, 
+        "name": "Gulf of Mexico South"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23511730, 
+        "name": "High Sierra"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875658, 
+        "name": "Interior Plains"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875656, 
+        "name": "Intermountain States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074065, 
+        "name": "Kaibab Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23511744, 
+        "name": "Lake Tahoe Region"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56073984, 
+        "name": "Llano Estacado"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875650, 
+        "name": "Mexico International Border States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23509540, 
+        "name": "Mid West"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23511766, 
+        "name": "Mid-Ohio Valley"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875657, 
+        "name": "Middle America"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689957, 
+        "name": "Middle Atlantic States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875659, 
+        "name": "Mississippi Delta"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074067, 
+        "name": "Mogollon Rim"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875663, 
+        "name": "Mojave Desert"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074056, 
+        "name": "Monument Valley"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56043516, 
+        "name": "Mountain States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23509507, 
+        "name": "New England"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689944, 
+        "name": "New Southwest"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28299081, 
+        "name": "Northeastern New Mexico"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689958, 
+        "name": "Northeastern States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28299011, 
+        "name": "Northern Rockies"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28299015, 
+        "name": "Northern Wasatch Front"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689950, 
+        "name": "Old Southwest"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56120771, 
+        "name": "Owens Valley"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689943, 
+        "name": "Pacific Northwest"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689940, 
+        "name": "Pacific States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875661, 
+        "name": "Palouse"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56073971, 
+        "name": "Piedmont"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23511776, 
+        "name": "Quad Cities"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 55863340, 
+        "name": "Redwood Empire"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56073969, 
+        "name": "Ridge-and-Valley Appalachians"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074053, 
+        "name": "Roan Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689945, 
+        "name": "Rocky Mountain Region"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56073977, 
+        "name": "Salem Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689952, 
+        "name": "South Atlantic States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28299024, 
+        "name": "South Central Montana"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28299071, 
+        "name": "Southern Green Mountains"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689951, 
+        "name": "Southern States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28298990, 
+        "name": "Southwest Corner"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689948, 
+        "name": "Southwestern States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56073978, 
+        "name": "Springfield Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689953, 
+        "name": "The Carolinas"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689949, 
+        "name": "The Dakotas"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074133, 
+        "name": "The Ozarks"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689954, 
+        "name": "The Virginias"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56074051, 
+        "name": "Uncompahgre Plateau"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24875660, 
+        "name": "Upper Midwest"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689956, 
+        "name": "US Eastern States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689947, 
+        "name": "US Western States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28299043, 
+        "name": "Washington's Columbia Gorge"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23689941, 
+        "name": "West Coast"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56043517, 
+        "name": "West North Central States"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56043518, 
+        "name": "West South Central States"
+      }
+    ], 
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2347559, 
+        "name": "Alabama"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347560, 
+        "name": "Alaska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347561, 
+        "name": "Arizona"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347562, 
+        "name": "Arkansas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347563, 
+        "name": "California"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347564, 
+        "name": "Colorado"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347565, 
+        "name": "Connecticut"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347566, 
+        "name": "Delaware"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347567, 
+        "name": "District of Columbia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347568, 
+        "name": "Florida"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347569, 
+        "name": "Georgia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347570, 
+        "name": "Hawaii"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347571, 
+        "name": "Idaho"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347572, 
+        "name": "Illinois"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347573, 
+        "name": "Indiana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347574, 
+        "name": "Iowa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347575, 
+        "name": "Kansas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347576, 
+        "name": "Kentucky"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347577, 
+        "name": "Louisiana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347578, 
+        "name": "Maine"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347579, 
+        "name": "Maryland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347580, 
+        "name": "Massachusetts"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347581, 
+        "name": "Michigan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347582, 
+        "name": "Minnesota"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347583, 
+        "name": "Mississippi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347584, 
+        "name": "Missouri"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347585, 
+        "name": "Montana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347586, 
+        "name": "Nebraska"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347587, 
+        "name": "Nevada"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347588, 
+        "name": "New Hampshire"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347589, 
+        "name": "New Jersey"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347590, 
+        "name": "New Mexico"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347591, 
+        "name": "New York"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347592, 
+        "name": "North Carolina"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347593, 
+        "name": "North Dakota"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347594, 
+        "name": "Ohio"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347595, 
+        "name": "Oklahoma"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347596, 
+        "name": "Oregon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347597, 
+        "name": "Pennsylvania"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347598, 
+        "name": "Rhode Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347599, 
+        "name": "South Carolina"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347600, 
+        "name": "South Dakota"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347601, 
+        "name": "Tennessee"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347602, 
+        "name": "Texas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347603, 
+        "name": "Utah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347604, 
+        "name": "Vermont"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347605, 
+        "name": "Virginia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347606, 
+        "name": "Washington"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347607, 
+        "name": "West Virginia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347608, 
+        "name": "Wisconsin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347609, 
+        "name": "Wyoming"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354411, 
+        "name": "Caloosahatchee River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354403, 
+        "name": "Detroit River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354431, 
+        "name": "Homosassa River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 24875611, 
+        "name": "Lake Erie"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 24875609, 
+        "name": "Lake Huron"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 24703264, 
+        "name": "Lake Michigan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 24875610, 
+        "name": "Lake Ontario"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26789663, 
+        "name": "Lake Pontchartrain"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 24875608, 
+        "name": "Lake Superior"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 56126016, 
+        "name": "Lake Tahoe"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354405, 
+        "name": "Niagara River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354465, 
+        "name": "St. Lawrence River"
+      }
+    ], 
+    "Timezone": [
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350731, 
+        "name": "America/Adak"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043669, 
+        "name": "America/Anchorage"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043662, 
+        "name": "America/Boise"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043661, 
+        "name": "America/Chicago"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043665, 
+        "name": "America/Denver"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043658, 
+        "name": "America/Detroit"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043656, 
+        "name": "America/Indiana/Indianapolis"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043650, 
+        "name": "America/Indiana/Knox"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043652, 
+        "name": "America/Indiana/Marengo"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043655, 
+        "name": "America/Indiana/Petersburg"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043654, 
+        "name": "America/Indiana/Tell_City"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043653, 
+        "name": "America/Indiana/Vevay"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043649, 
+        "name": "America/Indiana/Vincennes"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043651, 
+        "name": "America/Indiana/Winamac"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043667, 
+        "name": "America/Juneau"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043647, 
+        "name": "America/Kentucky/Louisville"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043646, 
+        "name": "America/Kentucky/Monticello"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043663, 
+        "name": "America/Los_Angeles"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043657, 
+        "name": "America/Menominee"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043648, 
+        "name": "America/New_York"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043670, 
+        "name": "America/Nome"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043659, 
+        "name": "America/North_Dakota/Center"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043660, 
+        "name": "America/North_Dakota/New_Salem"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043666, 
+        "name": "America/Phoenix"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043664, 
+        "name": "America/Shiprock"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043668, 
+        "name": "America/Yakutat"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350949, 
+        "name": "Pacific/Honolulu"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "F\u00f6renta Staterna", 
+      "Amerikas Forenta Stater"
+    ], 
+    "Danish": [
+      "Amerikas Forenede Stater"
+    ], 
+    "Hungarian": [
+      "Egyes\u00fclt \u00c1llamok", 
+      "Amerikai Egyes\u00fclt \u00c1llamok"
+    ], 
+    "Chinese": [
+      "\u7f8e\u5229\u5805\u5408\u8846\u56fd", 
+      "\u7f8e\u570b"
+    ], 
+    "Finnish": [
+      "Amerikan yhdysvallat", 
+      "Yhdysvallat"
+    ], 
+    "Norwegian": [
+      "Amerikas Forente Stater"
+    ], 
+    "Czech": [
+      "Spojen\u00e9 St\u00e1ty Americk\u00e9", 
+      "Spojen\u00e9 st\u00e1ty"
+    ], 
+    "Romanian": [
+      "Statele Unite Ale Americii", 
+      "Statele Unite"
+    ], 
+    "Dutch": [
+      "VS", 
+      "Verenigde Staten"
+    ], 
+    "Japanese": [
+      "\u30a2\u30e1\u30ea\u30ab", 
+      "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd"
+    ], 
+    "French": [
+      "\u00c9tats-Unis", 
+      "Amerique", 
+      "Am\u00e9rique"
+    ], 
+    "German": [
+      "Vereinigte Staaten", 
+      "Amerika"
+    ], 
+    "Portuguese": [
+      "EUA", 
+      "Estados Unidos da America", 
+      "Estados Unidos"
+    ], 
+    "Unknown": [
+      "Bandar\u00edkin", 
+      "Bandarikin", 
+      "Beikoku"
+    ], 
+    "Spanish": [
+      "Estadosunidos", 
+      "Estados Unidos de America", 
+      "Estados Unidos"
+    ], 
+    "English": [
+      "USA", 
+      "Unitedstates"
+    ], 
+    "Polish": [
+      "Stany Zjednoczone"
+    ], 
+    "Korean": [
+      "\ubbf8\uad6d"
+    ], 
+    "Italian": [
+      "Stati Uniti", 
+      "Stati Uniti d'America"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7f8e\u570b"
+  ], 
+  "alias_ITA_Q": [
+    "Stati Uniti d'America"
+  ], 
+  "alias_ITA_V": [
+    "Stati Uniti"
+  ], 
+  "alias_CHI_V": [
+    "\u7f8e\u5229\u5805\u5408\u8846\u56fd"
+  ], 
+  "woeid": 23424977, 
+  "alias_JPN_Q": [
+    "\u30a2\u30e1\u30ea\u30ab"
+  ], 
+  "alias_SWE_S": [
+    "Amerikas Forenta Stater"
+  ], 
+  "alias_JPN_V": [
+    "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Estados Unidos"
+  ], 
+  "alias_FIN_Q": [
+    "Yhdysvallat"
+  ], 
+  "alias_SPA_S": [
+    "Estados Unidos de America"
+  ], 
+  "sw_longitude": -179.150558, 
+  "alias_FIN_V": [
+    "Amerikan yhdysvallat"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 37.167931, 
+  "alias_NOR_Q": [
+    "Amerikas Forente Stater"
+  ], 
+  "date_indexed": "2010-12-02T18:39:52.755Z", 
+  "alias_FRE_V": [
+    "Am\u00e9rique"
+  ], 
+  "adjacent": [], 
+  "alias_DAN_V": [
+    "Amerikas Forenede Stater"
+  ], 
+  "alias_SPA_V": [
+    "Estadosunidos"
+  ], 
+  "alias_DUT_Q": [
+    "Verenigde Staten"
+  ], 
+  "bbox": "18.91172,-179.150558,71.441048,-66.940643", 
+  "alias_DUT_V": [
+    "VS"
+  ], 
+  "alias_GER_V": [
+    "Amerika"
+  ], 
+  "alias_GER_Q": [
+    "Vereinigte Staaten"
+  ], 
+  "lang": "ENG", 
+  "name": "United States", 
+  "language": "English", 
+  "alias_CZE_V": [
+    "Spojen\u00e9 st\u00e1ty"
+  ], 
+  "alias_UNK_S": [
+    "Bandarikin"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Bandar\u00edkin"
+  ], 
+  "alias_HUN_Q": [
+    "Amerikai Egyes\u00fclt \u00c1llamok"
+  ], 
+  "alias_HUN_V": [
+    "Egyes\u00fclt \u00c1llamok"
+  ], 
+  "ne_longitude": -66.940643, 
+  "longitude": -95.845016, 
+  "iso": "US", 
+  "sw_latitude": 18.91172, 
+  "alias_RUM_V": [
+    "Statele Unite"
+  ], 
+  "fullname": "United States", 
   "features": [
     {
       "geometry": {
@@ -121,23 +1854,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2047, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820660", 
+          "woe:region=2347569", 
+          "woe:country=23424977"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "US", 
+        "longitude": -81.6151720893138, 
+        "artisanal:id": 34820660, 
+        "latitude": 31.86808333600113, 
+        "woe:id": 34820660, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820660, 
       "properties": {
         "ne:fid": 2047, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820660", 
+          "woe:region=2347569", 
+          "woe:country=23424977"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "US", 
+        "longitude": -81.6151720893138, 
         "artisanal:id": 34820660, 
+        "latitude": 31.86808333600113, 
         "woe:id": 34820660, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -81.66426042349423, 
-    31.815060940064726, 
-    -81.56785803905373, 
-    31.915028998333355
+  "alias_FRE_S": [
+    "Amerique"
+  ], 
+  "alias_FRE_Q": [
+    "\u00c9tats-Unis"
   ]
 }

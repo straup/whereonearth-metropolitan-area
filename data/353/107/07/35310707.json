@@ -1,5 +1,465 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Georgian Soviet Socialist Republic"
+  ], 
+  "alias_SWE_Q": [
+    "Georgien"
+  ], 
+  "alias_POL_Q": [
+    "Gruzja"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 43.584549, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Sakartvelo"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\uadf8\ub8e8\uc9c0\uc544"
+  ], 
+  "alias_POR_Q": [
+    "Ge\u00f3rgia"
+  ], 
+  "alias_ENG_A": [
+    "GE"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070395, 
+        "name": "Abashis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070401, 
+        "name": "Abkhazia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070347, 
+        "name": "Adigenis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070400, 
+        "name": "Ajaria"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070364, 
+        "name": "Akhalgoris Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070352, 
+        "name": "Akhalk\u00b4alak\u00b4is Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070348, 
+        "name": "Akhalts\u00b4ikhis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070374, 
+        "name": "Akhmetis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070380, 
+        "name": "Ambrolauris Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070350, 
+        "name": "Aspindzis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070388, 
+        "name": "Baghdat\u00b4is Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070356, 
+        "name": "Bolnisis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070349, 
+        "name": "Borjomis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070384, 
+        "name": "Chiat\u00b4ura"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070397, 
+        "name": "Ch\u00b4khorotsqus Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070377, 
+        "name": "Ch\u00b4okhatauris Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070371, 
+        "name": "Dedop\u00b4listsqaros Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070353, 
+        "name": "Dmanisis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070363, 
+        "name": "Dushet\u00b4is Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070408, 
+        "name": "Gardabanis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070402, 
+        "name": "Gori"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070403, 
+        "name": "Goris Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070369, 
+        "name": "Gurjaanis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070365, 
+        "name": "Javis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070366, 
+        "name": "Kaspis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070385, 
+        "name": "Kharagaulis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070367, 
+        "name": "Khashuris Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070406, 
+        "name": "Khobis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070392, 
+        "name": "Khonis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070368, 
+        "name": "K\u00b4arelis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070404, 
+        "name": "K\u00b4ut\u00b4aisi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070370, 
+        "name": "Lagodekhis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070378, 
+        "name": "Lanch\u00b4khut\u00b4is Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070382, 
+        "name": "Lentekhis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070373, 
+        "name": "Marneulis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070396, 
+        "name": "Martvilis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070394, 
+        "name": "Mestiis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070360, 
+        "name": "Mts\u00b4khet\u00b4is Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070351, 
+        "name": "Ninotsmindis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070379, 
+        "name": "Onis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070376, 
+        "name": "Ozurget\u00b4is Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070405, 
+        "name": "P\u00b4ot\u00b4I"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070362, 
+        "name": "Qazbegis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070372, 
+        "name": "Qvarlis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070407, 
+        "name": "Rust\u00b4avi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070383, 
+        "name": "Sach\u00b4kheris Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070359, 
+        "name": "Sagarejos Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070393, 
+        "name": "Samtrediis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070399, 
+        "name": "Senakis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070357, 
+        "name": "Sighnaghis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070389, 
+        "name": "Tqibuli"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070398, 
+        "name": "Tsalenjikhis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070354, 
+        "name": "Tsalkis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070390, 
+        "name": "Tsqaltubo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070381, 
+        "name": "Ts\u00b4ageris Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070358, 
+        "name": "T\u00b4bilisi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070375, 
+        "name": "T\u00b4elavis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070387, 
+        "name": "T\u00b4erjolis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070355, 
+        "name": "T\u00b4et\u00b4ritsqaros Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070361, 
+        "name": "T\u00b4ianet\u00b4is Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070391, 
+        "name": "Vanis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070386, 
+        "name": "Zestap\u00b4onis Raioni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070409, 
+        "name": "Zugdidi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070410, 
+        "name": "Zugdidis Raioni"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Georgien"
+    ], 
+    "Danish": [
+      "Georgien"
+    ], 
+    "Hungarian": [
+      "Gr\u00fazia"
+    ], 
+    "Chinese": [
+      "\u55ac\u6cbb\u4e9e", 
+      "\u55ac\u6cbb\u4e9e"
+    ], 
+    "Portuguese": [
+      "Ge\u00f3rgia"
+    ], 
+    "Czech": [
+      "Gruzie"
+    ], 
+    "Unknown": [
+      "Gruzija", 
+      "Sakartvelo"
+    ], 
+    "Dutch": [
+      "Georgie", 
+      "Georgi\u00eb"
+    ], 
+    "Japanese": [
+      "\u30b0\u30eb\u30b8\u30a2", 
+      "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "G\u00e9orgie", 
+      "Georgie"
+    ], 
+    "German": [
+      "Georgien"
+    ], 
+    "English": [
+      "GE", 
+      "Georgian Soviet Socialist Republic"
+    ], 
+    "Polish": [
+      "Gruzja"
+    ], 
+    "Korean": [
+      "\uadf8\ub8e8\uc9c0\uc544", 
+      "\uadf8\ub8e8\uc9c0\uc57c"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u55ac\u6cbb\u4e9e"
+  ], 
+  "alias_CHI_V": [
+    "\u55ac\u6cbb\u4e9e"
+  ], 
+  "woeid": 23424823, 
+  "alias_JPN_Q": [
+    "\u30b0\u30eb\u30b8\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": 40.01022, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 42.31152, 
+  "date_indexed": "2010-12-02T17:51:59.926Z", 
+  "alias_KOR_Q": [
+    "\uadf8\ub8e8\uc9c0\uc57c"
+  ], 
+  "alias_DUT_Q": [
+    "Georgi\u00eb"
+  ], 
+  "alias_DUT_S": [
+    "Georgie"
+  ], 
+  "bbox": "41.038502,40.01022,43.584549,46.721359", 
+  "alias_CZE_Q": [
+    "Gruzie"
+  ], 
+  "alias_DAN_Q": [
+    "Georgien"
+  ], 
+  "alias_GER_Q": [
+    "Georgien"
+  ], 
+  "lang": "ENG", 
+  "name": "Georgia", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Gruzija"
+  ], 
+  "alias_HUN_Q": [
+    "Gr\u00fazia"
+  ], 
+  "ne_longitude": 46.721359, 
+  "longitude": 43.365791, 
+  "iso": "GE", 
+  "sw_latitude": 41.038502, 
+  "fullname": "Georgia", 
   "features": [
     {
       "geometry": {
@@ -85,23 +545,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 215, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35310707", 
+          "woe:region=20070404", 
+          "woe:country=23424823"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "GE", 
+        "longitude": 42.67646415174478, 
+        "artisanal:id": 35310707, 
+        "latitude": 42.27856995153546, 
+        "woe:id": 35310707, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35310707, 
       "properties": {
         "ne:fid": 215, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35310707", 
+          "woe:region=20070404", 
+          "woe:country=23424823"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "GE", 
+        "longitude": 42.67646415174478, 
         "artisanal:id": 35310707, 
+        "latitude": 42.27856995153546, 
         "woe:id": 35310707, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    42.59267703631275, 
-    42.232771307944944, 
-    42.738197869646655, 
-    42.32312754980728
+  "alias_FRE_S": [
+    "Georgie"
+  ], 
+  "alias_FRE_Q": [
+    "G\u00e9orgie"
   ]
 }

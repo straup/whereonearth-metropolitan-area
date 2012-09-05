@@ -1,5 +1,158 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Haiti"
+  ], 
+  "alias_ENG_A": [
+    "HT"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 20.08782, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Haiti"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ud558\uc774\ud2f0"
+  ], 
+  "alias_KOR_Q": [
+    "\uc544\uc774\ud2f0"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 24547144, 
+        "name": "Haiti Island"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345615, 
+        "name": "Artibonite"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345616, 
+        "name": "Centre"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345617, 
+        "name": "Grand 'Anse"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345618, 
+        "name": "Nord"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345619, 
+        "name": "Nord-Est"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345614, 
+        "name": "Nord-Ouest"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345620, 
+        "name": "Ouest"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345621, 
+        "name": "Sud"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345622, 
+        "name": "Sud-Est"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Spanish": [
+      "Hait\u00ed"
+    ], 
+    "Chinese": [
+      "\u6d77\u5730"
+    ], 
+    "German": [
+      "Republik Haiti"
+    ], 
+    "Unknown": [
+      "Republika Haiti"
+    ], 
+    "Dutch": [
+      "Ha\u00efti"
+    ], 
+    "Japanese": [
+      "\u30cf\u30a4\u30c1", 
+      "\u30cf\u30a4\u30c1\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Ha\u00efti", 
+      "R\u00e9publique d\u2019Ha\u00efti"
+    ], 
+    "English": [
+      "HT", 
+      "Republic of Haiti"
+    ], 
+    "Korean": [
+      "\ud558\uc774\ud2f0", 
+      "\uc544\uc774\ud2f0"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u6d77\u5730"
+  ], 
+  "woeid": 23424839, 
+  "alias_JPN_Q": [
+    "\u30cf\u30a4\u30c1"
+  ], 
+  "alias_JPN_V": [
+    "\u30cf\u30a4\u30c1\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Hait\u00ed"
+  ], 
+  "sw_longitude": -74.478592, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 18.986059, 
+  "date_indexed": "2010-12-02T17:52:09.514Z", 
+  "alias_DUT_Q": [
+    "Ha\u00efti"
+  ], 
+  "bbox": "18.02103,-74.478592,20.08782,-71.61335", 
+  "alias_GER_V": [
+    "Republik Haiti"
+  ], 
+  "lang": "ENG", 
+  "name": "Haiti", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "ne_longitude": -71.61335, 
+  "longitude": -72.292259, 
+  "iso": "HT", 
+  "sw_latitude": 18.02103, 
+  "alias_FRE_V": [
+    "R\u00e9publique d\u2019Ha\u00efti"
+  ], 
+  "fullname": "Haiti", 
   "features": [
     {
       "geometry": {
@@ -53,23 +206,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2129, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820710", 
+          "woe:region=2345620", 
+          "woe:country=23424839"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "HT", 
+        "longitude": -72.3227387863778, 
+        "artisanal:id": 34820710, 
+        "latitude": 18.56295681955844, 
+        "woe:id": 34820710, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820710, 
       "properties": {
         "ne:fid": 2129, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820710", 
+          "woe:region=2345620", 
+          "woe:country=23424839"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "HT", 
+        "longitude": -72.3227387863778, 
         "artisanal:id": 34820710, 
+        "latitude": 18.56295681955844, 
         "woe:id": 34820710, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -72.34904090034499, 
-    18.536827500884, 
-    -72.29514238146456, 
-    18.595790310129033
+  "alias_FRE_Q": [
+    "Ha\u00efti"
   ]
 }

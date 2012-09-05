@@ -1,5 +1,200 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Gambia, The"
+  ], 
+  "alias_SWE_Q": [
+    "Gambia"
+  ], 
+  "alias_POL_Q": [
+    "Gambia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 13.82657, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Gambia"
+  ], 
+  "alias_UNK_V": [
+    "Republika Gambija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "G\u00e2mbia"
+  ], 
+  "alias_ENG_A": [
+    "GM"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345443, 
+        "name": "Banjul"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345444, 
+        "name": "Lower River"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345445, 
+        "name": "MacCarthy Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345448, 
+        "name": "North Bank"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345446, 
+        "name": "Upper River"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345447, 
+        "name": "Western"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Gambia"
+    ], 
+    "Danish": [
+      "Gambia"
+    ], 
+    "Hungarian": [
+      "Gambia"
+    ], 
+    "Chinese": [
+      "\u5188\u6bd4\u4e9a", 
+      "\u7518\u6bd4\u4e9e"
+    ], 
+    "Finnish": [
+      "Gambia"
+    ], 
+    "Norwegian": [
+      "Gambia"
+    ], 
+    "Czech": [
+      "Gambie"
+    ], 
+    "Romanian": [
+      "Gambia"
+    ], 
+    "Dutch": [
+      "Gambia"
+    ], 
+    "Japanese": [
+      "\u30ac\u30f3\u30d3\u30a2", 
+      "\u30ac\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Gambie"
+    ], 
+    "German": [
+      "Gambia", 
+      "Republik Gambia"
+    ], 
+    "Portuguese": [
+      "G\u00e2mbia"
+    ], 
+    "Unknown": [
+      "Gambija", 
+      "Republika Gambija"
+    ], 
+    "Spanish": [
+      "Gambia"
+    ], 
+    "English": [
+      "GM", 
+      "Gambia, The"
+    ], 
+    "Polish": [
+      "Gambia"
+    ], 
+    "Korean": [
+      "\uac10\ube44\uc544"
+    ], 
+    "Italian": [
+      "Gambia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7518\u6bd4\u4e9e"
+  ], 
+  "alias_ITA_Q": [
+    "Gambia"
+  ], 
+  "alias_GER_V": [
+    "Republik Gambia"
+  ], 
+  "alias_CHI_V": [
+    "\u5188\u6bd4\u4e9a"
+  ], 
+  "woeid": 23424821, 
+  "alias_JPN_Q": [
+    "\u30ac\u30f3\u30d3\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30ac\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Gambia"
+  ], 
+  "alias_FIN_Q": [
+    "Gambia"
+  ], 
+  "sw_longitude": -16.82506, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 13.44541, 
+  "alias_NOR_Q": [
+    "Gambia"
+  ], 
+  "date_indexed": "2010-12-02T08:51:00.956Z", 
+  "alias_KOR_Q": [
+    "\uac10\ube44\uc544"
+  ], 
+  "alias_DUT_Q": [
+    "Gambia"
+  ], 
+  "bbox": "13.06425,-16.82506,13.82657,-13.7978", 
+  "alias_CZE_Q": [
+    "Gambie"
+  ], 
+  "alias_DAN_Q": [
+    "Gambia"
+  ], 
+  "alias_GER_Q": [
+    "Gambia"
+  ], 
+  "lang": "ENG", 
+  "name": "The Gambia", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Gambija"
+  ], 
+  "alias_HUN_Q": [
+    "Gambia"
+  ], 
+  "ne_longitude": -13.7978, 
+  "longitude": -15.31143, 
+  "iso": "GM", 
+  "sw_latitude": 13.06425, 
+  "fullname": "The Gambia", 
   "features": [
     {
       "geometry": {
@@ -41,23 +236,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1697, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820430", 
+          "woe:region=2345448", 
+          "woe:country=23424821"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "GM", 
+        "longitude": -15.445543396521366, 
+        "artisanal:id": 34820430, 
+        "latitude": 13.57693377741242, 
+        "woe:id": 34820430, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820430, 
       "properties": {
         "ne:fid": 1697, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820430", 
+          "woe:region=2345448", 
+          "woe:country=23424821"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "GM", 
+        "longitude": -15.445543396521366, 
         "artisanal:id": 34820430, 
+        "latitude": 13.57693377741242, 
         "woe:id": 34820430, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -15.465252041067956, 
-    13.548165594939562, 
-    -15.421585455781326, 
-    13.598705145721013
+  "alias_FRE_Q": [
+    "Gambie"
   ]
 }

@@ -1,5 +1,138 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Malian"
+  ], 
+  "alias_KOR_Q": [
+    "\ub9d0\ub9ac"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 25, 
+  "supercedes": [], 
+  "ne_longitude": 4.24495, 
+  "placetype": "Country", 
+  "alias_ENG_A": [
+    "ML"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346180, 
+        "name": "Bamako"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346181, 
+        "name": "Gao"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346182, 
+        "name": "Kayes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55999799, 
+        "name": "Kidal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346186, 
+        "name": "Koulikoro"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346183, 
+        "name": "Mopti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346184, 
+        "name": "Segou"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346185, 
+        "name": "Sikasso"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346187, 
+        "name": "Tombouctou"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u99ac\u5229", 
+      "\u99ac\u5229"
+    ], 
+    "German": [
+      "Republik Mali"
+    ], 
+    "Unknown": [
+      "Republika Mali"
+    ], 
+    "English": [
+      "ML", 
+      "Malian"
+    ], 
+    "Japanese": [
+      "\u30de\u30ea\u5171\u548c\u56fd", 
+      "\u30de\u30ea"
+    ], 
+    "Spanish": [
+      "Mal\u00ed"
+    ], 
+    "Korean": [
+      "\ub9d0\ub9ac"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u99ac\u5229"
+  ], 
+  "alias_CHI_V": [
+    "\u99ac\u5229"
+  ], 
+  "woeid": 23424891, 
+  "alias_JPN_Q": [
+    "\u30de\u30ea"
+  ], 
+  "alias_JPN_V": [
+    "\u30de\u30ea\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Mal\u00ed"
+  ], 
+  "sw_longitude": -12.24261, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 17.57975, 
+  "date_indexed": "2010-12-02T08:58:41.452Z", 
+  "bbox": "10.15951,-12.24261,25,4.24495", 
+  "alias_GER_V": [
+    "Republik Mali"
+  ], 
+  "lang": "ENG", 
+  "name": "Mali", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_V": [
+    "Republika Mali"
+  ], 
+  "longitude": -3.99883, 
+  "iso": "ML", 
+  "sw_latitude": 10.15951, 
+  "fullname": "Mali", 
   "features": [
     {
       "geometry": {
@@ -45,23 +178,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1702, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311845", 
+          "woe:region=2346184", 
+          "woe:country=23424891"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "ML", 
+        "longitude": -4.88270108356671, 
+        "artisanal:id": 35311845, 
+        "latitude": 13.28250049760758, 
+        "woe:id": 35311845, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35311845, 
       "properties": {
         "ne:fid": 1702, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311845", 
+          "woe:region=2346184", 
+          "woe:country=23424891"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "ML", 
+        "longitude": -4.88270108356671, 
         "artisanal:id": 35311845, 
+        "latitude": 13.28250049760758, 
         "woe:id": 35311845, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -4.901142340504862, 
-    13.265598863167597, 
-    -4.85670060873386, 
-    13.300222072803152
   ]
 }

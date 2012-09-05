@@ -1,5 +1,358 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Republika Dominikany"
+  ], 
+  "alias_ENG_V": [
+    "Dominicanrepublic"
+  ], 
+  "alias_SWE_Q": [
+    "Dominikanska republiken"
+  ], 
+  "alias_POL_Q": [
+    "Dominikana"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 19.92985, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Republica Dominican\u0103"
+  ], 
+  "alias_UNK_V": [
+    "Dominikaaninen tasavalta"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ub3c4\ubbf8\ub2c8\uce74\uacf5\ud654\uad6d"
+  ], 
+  "alias_POR_Q": [
+    "Rep\u00fablica Dominicana"
+  ], 
+  "alias_ENG_A": [
+    "DO"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12483974, 
+        "name": "Dominican Republic Island"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345172, 
+        "name": "Azua"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345173, 
+        "name": "Bahoruco"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345174, 
+        "name": "Barahona"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345175, 
+        "name": "Dajabon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345176, 
+        "name": "Distrito Nacional"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345177, 
+        "name": "Duarte"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345196, 
+        "name": "El Seibo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345181, 
+        "name": "Elias Pi\u00f1a"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345178, 
+        "name": "Espaillat"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345197, 
+        "name": "Hato Mayor"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345179, 
+        "name": "Independencia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345180, 
+        "name": "La Altagracia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345198, 
+        "name": "La Vega"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345183, 
+        "name": "Maria Trinidad Sanch\u00e9z"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345199, 
+        "name": "Monse\u00f1or Nouel"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345184, 
+        "name": "Monte Cristri"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345200, 
+        "name": "Monte Plata"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345185, 
+        "name": "Pedernales"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345186, 
+        "name": "Peravia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345187, 
+        "name": "Puerto Plata"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345182, 
+        "name": "Romana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345188, 
+        "name": "Salcedo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345189, 
+        "name": "Samana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345201, 
+        "name": "San Cristobal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28358195, 
+        "name": "San Jose de Ocoa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345191, 
+        "name": "San Juan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345192, 
+        "name": "San Pedro de Marcoris"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345193, 
+        "name": "Santiago"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345194, 
+        "name": "Santiago Rodriguez"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28358196, 
+        "name": "Santo Domingo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345190, 
+        "name": "S\u00e1nchez Ramirez"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345195, 
+        "name": "Valverde"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Dominikanska republiken"
+    ], 
+    "Danish": [
+      "Dominikanske Republik", 
+      "Den Dominikanske Republik"
+    ], 
+    "Hungarian": [
+      "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
+    ], 
+    "Chinese": [
+      "\u591a\u7c73\u5c3c\u52a0", 
+      "\u591a\u660e\u5c3c\u52a0"
+    ], 
+    "Finnish": [
+      "Dominikaaninen tasavalta"
+    ], 
+    "Norwegian": [
+      "Den dominikanske republikk"
+    ], 
+    "Czech": [
+      "Dominik\u00e1nsk\u00e1 republika"
+    ], 
+    "Romanian": [
+      "Republica Dominican\u0103"
+    ], 
+    "Dutch": [
+      "Dominicaanse republiek"
+    ], 
+    "Japanese": [
+      "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "R\u00e9publique Dominicaine", 
+      "Republique Dominicaine", 
+      "Dominicaine, r\u00e9publique"
+    ], 
+    "German": [
+      "Dominikanische Republik", 
+      "Dominikanische Rep."
+    ], 
+    "Portuguese": [
+      "Rep\u00fablica Dominicana"
+    ], 
+    "Unknown": [
+      "Dominikanska republika", 
+      "Dominiska lydveldid", 
+      "Dominikaaninen tasavalta"
+    ], 
+    "Spanish": [
+      "Quisqueya", 
+      "Rep\u00fablica Dominicana"
+    ], 
+    "English": [
+      "DO", 
+      "Dominicanrepublic"
+    ], 
+    "Polish": [
+      "Dominikana", 
+      "Republika Dominikany"
+    ], 
+    "Korean": [
+      "\ub3c4\ubbf8\ub2c8\uce74\uacf5\ud654\uad6d", 
+      "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+    ], 
+    "Italian": [
+      "Repubblica Dominicana"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u591a\u660e\u5c3c\u52a0"
+  ], 
+  "alias_ITA_Q": [
+    "Repubblica Dominicana"
+  ], 
+  "alias_GER_V": [
+    "Dominikanische Rep."
+  ], 
+  "alias_CHI_V": [
+    "\u591a\u7c73\u5c3c\u52a0"
+  ], 
+  "woeid": 23424800, 
+  "alias_JPN_Q": [
+    "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Rep\u00fablica Dominicana"
+  ], 
+  "alias_FIN_Q": [
+    "Dominikaaninen tasavalta"
+  ], 
+  "sw_longitude": -72.003479, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 18.7679, 
+  "alias_NOR_Q": [
+    "Den dominikanske republikk"
+  ], 
+  "date_indexed": "2010-12-02T16:32:46.353Z", 
+  "alias_KOR_Q": [
+    "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+  ], 
+  "alias_DAN_V": [
+    "Den Dominikanske Republik"
+  ], 
+  "alias_SPA_V": [
+    "Quisqueya"
+  ], 
+  "alias_DUT_Q": [
+    "Dominicaanse republiek"
+  ], 
+  "bbox": "17.469299,-72.003479,19.92985,-68.319992", 
+  "alias_CZE_Q": [
+    "Dominik\u00e1nsk\u00e1 republika"
+  ], 
+  "alias_DAN_Q": [
+    "Dominikanske Republik"
+  ], 
+  "alias_GER_Q": [
+    "Dominikanische Republik"
+  ], 
+  "lang": "ENG", 
+  "name": "Dominican Republic", 
+  "language": "English", 
+  "alias_UNK_S": [
+    "Dominiska lydveldid"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Dominikanska republika"
+  ], 
+  "alias_HUN_Q": [
+    "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
+  ], 
+  "ne_longitude": -68.319992, 
+  "longitude": -70.161743, 
+  "iso": "DO", 
+  "sw_latitude": 17.469299, 
+  "alias_FRE_V": [
+    "Dominicaine, r\u00e9publique"
+  ], 
+  "fullname": "Dominican Republic", 
   "features": [
     {
       "geometry": {
@@ -73,23 +426,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2134, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820714", 
+          "woe:region=2345192", 
+          "woe:country=23424800"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "DO", 
+        "longitude": -69.29666249441803, 
+        "artisanal:id": 34820714, 
+        "latitude": 18.462130267959463, 
+        "woe:id": 34820714, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820714, 
       "properties": {
         "ne:fid": 2134, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820714", 
+          "woe:region=2345192", 
+          "woe:country=23424800"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "DO", 
+        "longitude": -69.29666249441803, 
         "artisanal:id": 34820714, 
+        "latitude": 18.462130267959463, 
         "woe:id": 34820714, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -69.32757158067145, 
-    18.439029852771625, 
-    -69.27240698919987, 
-    18.487243964099946
+  "alias_FRE_S": [
+    "Republique Dominicaine"
+  ], 
+  "alias_FRE_Q": [
+    "R\u00e9publique Dominicaine"
   ]
 }

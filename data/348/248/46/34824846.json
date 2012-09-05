@@ -1,5 +1,157 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Lesotho"
+  ], 
+  "alias_ENG_A": [
+    "LS"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -28.57205, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Kraljevina Lesoto"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Lesoto"
+  ], 
+  "alias_KOR_Q": [
+    "\ub808\uc18c\ud1a0"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20069865, 
+        "name": "Berea"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069862, 
+        "name": "Butha-Buthe"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069863, 
+        "name": "Leribe"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069869, 
+        "name": "Mafeteng"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069870, 
+        "name": "Maseru"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069868, 
+        "name": "Mohale's Hoek"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069861, 
+        "name": "Mokhotlong"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069866, 
+        "name": "Qacha's Nek"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069867, 
+        "name": "Quthing"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069864, 
+        "name": "Thaba-Tseka"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Lesoto"
+    ], 
+    "Chinese": [
+      "\u8cf4\u7d22\u6258", 
+      "\u8cf4\u7d22\u6258"
+    ], 
+    "German": [
+      "K\u00f6nigreich Lesotho", 
+      "Konigreich Lesotho"
+    ], 
+    "Unknown": [
+      "Kraljevina Lesoto"
+    ], 
+    "Spanish": [
+      "Lesoto o Lesotho", 
+      "Lesoto"
+    ], 
+    "Japanese": [
+      "\u30ec\u30bd\u30c8", 
+      "\u30ec\u30bd\u30c8\u738b\u56fd"
+    ], 
+    "English": [
+      "LS", 
+      "Republic of Lesotho"
+    ], 
+    "Korean": [
+      "\ub808\uc18c\ud1a0"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u8cf4\u7d22\u6258"
+  ], 
+  "alias_CHI_V": [
+    "\u8cf4\u7d22\u6258"
+  ], 
+  "woeid": 23424880, 
+  "alias_JPN_Q": [
+    "\u30ec\u30bd\u30c8"
+  ], 
+  "alias_JPN_V": [
+    "\u30ec\u30bd\u30c8\u738b\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Lesoto"
+  ], 
+  "sw_longitude": 27.02906, 
+  "adjacent": [], 
+  "alias_SPA_V": [
+    "Lesoto o Lesotho"
+  ], 
+  "latitude": -29.62051, 
+  "date_indexed": "2010-12-02T08:57:23.835Z", 
+  "provider": "geoplanet 7.6.0", 
+  "bbox": "-30.668961,27.02906,-28.57205,29.465771", 
+  "alias_GER_V": [
+    "K\u00f6nigreich Lesotho"
+  ], 
+  "alias_GER_S": [
+    "Konigreich Lesotho"
+  ], 
+  "lang": "ENG", 
+  "name": "Lesotho", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "ne_longitude": 29.465771, 
+  "longitude": 28.247419, 
+  "iso": "LS", 
+  "sw_latitude": -30.668961, 
+  "fullname": "Lesotho", 
   "features": [
     {
       "geometry": {
@@ -57,23 +209,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8379, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824846", 
+          "woe:region=20069869", 
+          "woe:country=23424880"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "LS", 
+        "longitude": 27.251484625271473, 
+        "artisanal:id": 34824846, 
+        "latitude": -29.812390031776822, 
+        "woe:id": 34824846, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34824846, 
       "properties": {
         "ne:fid": 8379, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824846", 
+          "woe:region=20069869", 
+          "woe:country=23424880"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "LS", 
+        "longitude": 27.251484625271473, 
         "artisanal:id": 34824846, 
+        "latitude": -29.812390031776822, 
         "woe:id": 34824846, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    27.21552778494913, 
-    -29.835181166301695, 
-    27.282293735470233, 
-    -29.77931894299418
   ]
 }

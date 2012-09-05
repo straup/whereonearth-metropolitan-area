@@ -1,5 +1,195 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Namibia"
+  ], 
+  "alias_ENG_A": [
+    "NA"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -16.95989, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Namibija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Nam\u00edbia"
+  ], 
+  "alias_KOR_Q": [
+    "\ub098\ubbf8\ube44\uc544"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20069834, 
+        "name": "Caprivi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069837, 
+        "name": "Erongo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069844, 
+        "name": "Hardap"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069838, 
+        "name": "Karas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069845, 
+        "name": "Khomas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069839, 
+        "name": "Kunene"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069840, 
+        "name": "Ohangwena"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069820, 
+        "name": "Okavango"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069836, 
+        "name": "Omaheke"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069842, 
+        "name": "Omusati"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069843, 
+        "name": "Oshana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069841, 
+        "name": "Oshikoto"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069835, 
+        "name": "Otjozondjupa"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56057539, 
+        "name": "Bwabwata National Park"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 55863650, 
+        "name": "Etosha National Park"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Nam\u00edbia"
+    ], 
+    "Hungarian": [
+      "Nam\u00edbia"
+    ], 
+    "Chinese": [
+      "\u7eb3\u7c73\u6bd4\u4e9a", 
+      "\u7d0d\u7c73\u6bd4\u4e9e"
+    ], 
+    "Czech": [
+      "Namibie"
+    ], 
+    "Unknown": [
+      "Namib\u00eda", 
+      "Republika Namibija"
+    ], 
+    "Dutch": [
+      "Namibi\u00eb"
+    ], 
+    "Japanese": [
+      "\u30ca\u30df\u30d3\u30a2", 
+      "\u30ca\u30df\u30d3\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Namibie"
+    ], 
+    "German": [
+      "Republik Namibia"
+    ], 
+    "English": [
+      "NA", 
+      "Republic of Namibia"
+    ], 
+    "Korean": [
+      "\ub098\ubbf8\ube44\uc544"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7d0d\u7c73\u6bd4\u4e9e"
+  ], 
+  "alias_CHI_V": [
+    "\u7eb3\u7c73\u6bd4\u4e9a"
+  ], 
+  "woeid": 23424987, 
+  "alias_JPN_Q": [
+    "\u30ca\u30df\u30d3\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30ca\u30df\u30d3\u30a2\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": 11.71563, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -22.96566, 
+  "date_indexed": "2010-12-02T07:50:17.753Z", 
+  "alias_DUT_Q": [
+    "Namibi\u00eb"
+  ], 
+  "bbox": "-28.97142,11.71563,-16.95989,25.256701", 
+  "alias_CZE_Q": [
+    "Namibie"
+  ], 
+  "alias_GER_V": [
+    "Republik Namibia"
+  ], 
+  "lang": "ENG", 
+  "name": "Namibia", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Namib\u00eda"
+  ], 
+  "alias_HUN_Q": [
+    "Nam\u00edbia"
+  ], 
+  "ne_longitude": 25.256701, 
+  "longitude": 18.48617, 
+  "iso": "NA", 
+  "sw_latitude": -28.97142, 
+  "fullname": "Namibia", 
   "features": [
     {
       "geometry": {
@@ -57,23 +247,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8266, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824770", 
+          "woe:region=20069841", 
+          "woe:country=23424987"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "NA", 
+        "longitude": 17.71511104194802, 
+        "artisanal:id": 34824770, 
+        "latitude": -19.242458378002677, 
+        "woe:id": 34824770, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34824770, 
       "properties": {
         "ne:fid": 8266, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824770", 
+          "woe:region=20069841", 
+          "woe:country=23424987"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "NA", 
+        "longitude": 17.71511104194802, 
         "artisanal:id": 34824770, 
+        "latitude": -19.242458378002677, 
         "woe:id": 34824770, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    17.683913201577667, 
-    -19.27902963631155, 
-    17.739206984129993, 
-    -19.212418715087324
+  "alias_FRE_Q": [
+    "Namibie"
   ]
 }

@@ -1,5 +1,172 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Burundian"
+  ], 
+  "alias_ENG_A": [
+    "BI"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -2.31012, 
+  "supercedes": [], 
+  "ne_longitude": 30.847719, 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\ubd80\ub8ec\ub514"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344902, 
+        "name": "Bubanza"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344900, 
+        "name": "Bujumbura Mairie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56017453, 
+        "name": "Bujumbura Rural"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344903, 
+        "name": "Bururi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344904, 
+        "name": "Cankuzo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344905, 
+        "name": "Cibitoke"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344906, 
+        "name": "Gitega"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344907, 
+        "name": "Karuzi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344908, 
+        "name": "Kayanza"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344909, 
+        "name": "Kirundo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344910, 
+        "name": "Makamba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344901, 
+        "name": "Muramvya"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344911, 
+        "name": "Muyinga"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56017454, 
+        "name": "Mwaro"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344912, 
+        "name": "Ngozi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344913, 
+        "name": "Rutana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344914, 
+        "name": "Ruyigi"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u84b2\u9686\u5730", 
+      "\u84b2\u9686\u5730"
+    ], 
+    "German": [
+      "Republik Burundi"
+    ], 
+    "Unknown": [
+      "B\u00farund\u00ed"
+    ], 
+    "Japanese": [
+      "\u30d6\u30eb\u30f3\u30b8\u5171\u548c\u56fd", 
+      "\u30d6\u30eb\u30f3\u30b8"
+    ], 
+    "English": [
+      "BI", 
+      "Burundian"
+    ], 
+    "Korean": [
+      "\ubd80\ub8ec\ub514"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u84b2\u9686\u5730"
+  ], 
+  "alias_CHI_V": [
+    "\u84b2\u9686\u5730"
+  ], 
+  "woeid": 23424774, 
+  "alias_JPN_Q": [
+    "\u30d6\u30eb\u30f3\u30b8"
+  ], 
+  "alias_JPN_V": [
+    "\u30d6\u30eb\u30f3\u30b8\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": 28.993071, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -3.38791, 
+  "date_indexed": "2010-12-02T08:58:52.726Z", 
+  "bbox": "-4.46571,28.993071,-2.31012,30.847719", 
+  "alias_GER_V": [
+    "Republik Burundi"
+  ], 
+  "lang": "ENG", 
+  "name": "Burundi", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_V": [
+    "B\u00farund\u00ed"
+  ], 
+  "longitude": 29.920389, 
+  "iso": "BI", 
+  "sw_latitude": -4.46571, 
+  "fullname": "Burundi", 
   "features": [
     {
       "geometry": {
@@ -49,23 +216,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8161, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824700", 
+          "woe:region=2344908", 
+          "woe:country=23424774"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "BI", 
+        "longitude": 29.57244249925723, 
+        "artisanal:id": 34824700, 
+        "latitude": -2.896016128412152, 
+        "woe:id": 34824700, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34824700, 
       "properties": {
         "ne:fid": 8161, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824700", 
+          "woe:region=2344908", 
+          "woe:country=23424774"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "BI", 
+        "longitude": 29.57244249925723, 
         "artisanal:id": 34824700, 
+        "latitude": -2.896016128412152, 
         "woe:id": 34824700, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    29.548615350062647, 
-    -2.923077080907575, 
-    29.604115838344114, 
-    -2.878687025568858
   ]
 }

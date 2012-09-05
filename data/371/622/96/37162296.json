@@ -1,5 +1,280 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Cura\u00e7ao"
+  ], 
+  "alias_ENG_V": [
+    "Cura\u00e7ao"
+  ], 
+  "alias_SWE_V": [
+    "Cura\u00e7ao"
+  ], 
+  "alias_SWE_Q": [
+    "Nederl\u00e4ndska Antillerna"
+  ], 
+  "alias_POL_Q": [
+    "Antyle Holenderskie"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 18.07024, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Antilele Olandeze"
+  ], 
+  "alias_UNK_V": [
+    "Nederlandske Antiller"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ub124\ub35c\ub780\ub4dc \uc5f4\ub3c4"
+  ], 
+  "alias_POR_V": [
+    "Cura\u00e7ao"
+  ], 
+  "alias_POR_Q": [
+    "Antilhas Holandesas"
+  ], 
+  "alias_ENG_A": [
+    "AN"
+  ], 
+  "alias_CZE_Q": [
+    "Nizozemsk\u00e9 Antily"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12484681, 
+        "name": "Bonaire"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12484678, 
+        "name": "Curacao"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 28298977, 
+        "name": "Netherlands Antilles"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 15021536, 
+        "name": "Saba"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12484679, 
+        "name": "Saint Eustatius"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12484680, 
+        "name": "St. Maarten"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 24549811, 
+        "name": "Bonaire"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549810, 
+        "name": "Curacao"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549808, 
+        "name": "Saba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549809, 
+        "name": "St. Eustatius"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 23425000, 
+        "name": "St. Maarten"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Cura\u00e7ao", 
+      "Nederl\u00e4ndska Antillerna", 
+      "Nederlandska Vastindien"
+    ], 
+    "Danish": [
+      "Nederlandske Antiller", 
+      "Cura\u00e7ao"
+    ], 
+    "Hungarian": [
+      "Holland Antill\u00e1k"
+    ], 
+    "Chinese": [
+      "\u8377\u5c5e\u5b89\u7684\u5217\u65af", 
+      "\u8377\u5c6c\u5b89\u7684\u5217\u65af"
+    ], 
+    "Finnish": [
+      "Cura\u00e7ao", 
+      "Alankomaiden Antillit"
+    ], 
+    "Norwegian": [
+      "De nederlandske Antillene", 
+      "Cura\u00e7ao"
+    ], 
+    "Czech": [
+      "Nizozemsk\u00e9 Antily", 
+      "Holandsk\u00e9 Antily"
+    ], 
+    "Romanian": [
+      "Antilele Olandeze"
+    ], 
+    "Dutch": [
+      "Cura\u00e7ao", 
+      "Nederlandse Antillen"
+    ], 
+    "Japanese": [
+      "\u30aa\u30e9\u30f3\u30c0\u9818\u30a2\u30f3\u30c6\u30a3\u30eb\u8af8\u5cf6", 
+      "\u30ad\u30e5\u30e9\u30bd\u30fc\u5cf6"
+    ], 
+    "French": [
+      "Antilles N\u00e9erlandaises", 
+      "Antilles Neerlandaises", 
+      "Cura\u00e7ao"
+    ], 
+    "German": [
+      "Niederl\u00e4ndische Antillen", 
+      "Cura\u00e7ao", 
+      "Niederlandische Antillen"
+    ], 
+    "Portuguese": [
+      "Cura\u00e7ao", 
+      "Antilhas Holandesas"
+    ], 
+    "Unknown": [
+      "Nederlandske Antiller"
+    ], 
+    "Spanish": [
+      "Curazao", 
+      "Antillas Hollandesas"
+    ], 
+    "English": [
+      "AN", 
+      "Cura\u00e7ao"
+    ], 
+    "Polish": [
+      "Antyle Holenderskie", 
+      "Cura\u00e7ao"
+    ], 
+    "Korean": [
+      "\ub124\ub35c\ub780\ub4dc \uc5f4\ub3c4", 
+      "\ub124\ub35c\ub780\ub4dc\ub839 \uc548\ud2f8\ub808\uc2a4"
+    ], 
+    "Italian": [
+      "Cura\u00e7ao", 
+      "Antille Olandesi"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u8377\u5c6c\u5b89\u7684\u5217\u65af"
+  ], 
+  "alias_ITA_Q": [
+    "Antille Olandesi"
+  ], 
+  "alias_GER_V": [
+    "Cura\u00e7ao"
+  ], 
+  "alias_ITA_V": [
+    "Cura\u00e7ao"
+  ], 
+  "alias_CHI_V": [
+    "\u8377\u5c5e\u5b89\u7684\u5217\u65af"
+  ], 
+  "woeid": 23424914, 
+  "alias_JPN_Q": [
+    "\u30aa\u30e9\u30f3\u30c0\u9818\u30a2\u30f3\u30c6\u30a3\u30eb\u8af8\u5cf6"
+  ], 
+  "alias_SWE_S": [
+    "Nederlandska Vastindien"
+  ], 
+  "alias_JPN_V": [
+    "\u30ad\u30e5\u30e9\u30bd\u30fc\u5cf6"
+  ], 
+  "alias_SPA_Q": [
+    "Antillas Hollandesas"
+  ], 
+  "alias_FIN_Q": [
+    "Alankomaiden Antillit"
+  ], 
+  "sw_longitude": -69.157204, 
+  "alias_FIN_V": [
+    "Cura\u00e7ao"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 12.20921, 
+  "alias_NOR_Q": [
+    "De nederlandske Antillene"
+  ], 
+  "alias_NOR_V": [
+    "Cura\u00e7ao"
+  ], 
+  "date_indexed": "2010-12-02T16:42:51.988Z", 
+  "alias_KOR_Q": [
+    "\ub124\ub35c\ub780\ub4dc\ub839 \uc548\ud2f8\ub808\uc2a4"
+  ], 
+  "adjacent": [], 
+  "alias_DAN_V": [
+    "Cura\u00e7ao"
+  ], 
+  "alias_SPA_V": [
+    "Curazao"
+  ], 
+  "alias_DUT_Q": [
+    "Nederlandse Antillen"
+  ], 
+  "bbox": "11.97319,-69.157204,18.07024,-62.943661", 
+  "alias_DUT_V": [
+    "Cura\u00e7ao"
+  ], 
+  "alias_DAN_Q": [
+    "Nederlandske Antiller"
+  ], 
+  "alias_GER_Q": [
+    "Niederl\u00e4ndische Antillen"
+  ], 
+  "alias_GER_S": [
+    "Niederlandische Antillen"
+  ], 
+  "lang": "ENG", 
+  "name": "Netherlands Antilles", 
+  "language": "English", 
+  "alias_CZE_V": [
+    "Holandsk\u00e9 Antily"
+  ], 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "Holland Antill\u00e1k"
+  ], 
+  "ne_longitude": -62.943661, 
+  "longitude": -69.039413, 
+  "iso": "AN", 
+  "sw_latitude": 11.97319, 
+  "alias_FRE_V": [
+    "Cura\u00e7ao"
+  ], 
+  "fullname": "Netherlands Antilles", 
   "features": [
     {
       "geometry": {
@@ -89,23 +364,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1766, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=37162296", 
+          "woe:region=24549810", 
+          "woe:country=23424914"
+        ], 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "AN", 
+        "longitude": -68.91714137766522, 
+        "artisanal:id": 37162296, 
+        "latitude": 12.136505715753753, 
+        "woe:id": 37162296, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 37162296, 
       "properties": {
         "ne:fid": 1766, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=37162296", 
+          "woe:region=24549810", 
+          "woe:country=23424914"
+        ], 
         "artisanal:foundry": "http://www.londonintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "AN", 
+        "longitude": -68.91714137766522, 
         "artisanal:id": 37162296, 
+        "latitude": 12.136505715753753, 
         "woe:id": 37162296, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -68.98077104356068, 
-    12.09140696863166, 
-    -68.86364640977115, 
-    12.180807196496588
+  "alias_FRE_S": [
+    "Antilles Neerlandaises"
+  ], 
+  "alias_FRE_Q": [
+    "Antilles N\u00e9erlandaises"
   ]
 }

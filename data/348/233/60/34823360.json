@@ -1,5 +1,374 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Mo\u0142dawia, Republika"
+  ], 
+  "alias_ENG_V": [
+    "Moldova, Republic Of"
+  ], 
+  "alias_SWE_Q": [
+    "Moldavien"
+  ], 
+  "alias_POL_Q": [
+    "Mo\u0142dawia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 48.490162, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Republica Moldova"
+  ], 
+  "alias_UNK_V": [
+    "Moldavsko"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Moldova, Rep\u00fablica de"
+  ], 
+  "alias_POR_Q": [
+    "Mold\u00e1via"
+  ], 
+  "alias_ENG_A": [
+    "MD"
+  ], 
+  "alias_CZE_Q": [
+    "Moldavsko"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 55948205, 
+        "name": "Anenii Noi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069873, 
+        "name": "Balti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948179, 
+        "name": "Basarabeasca"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948180, 
+        "name": "Briceni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069882, 
+        "name": "Cahul"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948181, 
+        "name": "Calarasi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948182, 
+        "name": "Cantemir"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948183, 
+        "name": "Causeni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069878, 
+        "name": "Chisinau"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948184, 
+        "name": "Cimislia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948185, 
+        "name": "Criuleni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948186, 
+        "name": "Donduseni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948187, 
+        "name": "Drochia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069876, 
+        "name": "Dubasari"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069871, 
+        "name": "Edinet"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948188, 
+        "name": "Falesti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948189, 
+        "name": "Floresti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069881, 
+        "name": "Gagauzia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948190, 
+        "name": "Glodeni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948191, 
+        "name": "Hincesti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948192, 
+        "name": "Ialoveni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948193, 
+        "name": "Leova"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948194, 
+        "name": "Nisporeni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948195, 
+        "name": "Ocnita"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069875, 
+        "name": "Orhei"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948196, 
+        "name": "Rezina"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948197, 
+        "name": "Riscani"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948198, 
+        "name": "Singerei"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948199, 
+        "name": "Soldanesti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069872, 
+        "name": "Soroca"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948200, 
+        "name": "Stefan-voda"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948201, 
+        "name": "Stinga Nistrul"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948202, 
+        "name": "Straseni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948203, 
+        "name": "Taraclia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55948204, 
+        "name": "Telenesti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069877, 
+        "name": "Tighina"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069874, 
+        "name": "Ungheni"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 20069879, 
+        "name": "Chisinau"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 20069880, 
+        "name": "Lapusna"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354262, 
+        "name": "Prut River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Moldavien"
+    ], 
+    "Portuguese": [
+      "Moldova, Rep\u00fablica de", 
+      "Mold\u00e1via"
+    ], 
+    "Spanish": [
+      "Moldavia"
+    ], 
+    "Chinese": [
+      "\u6469\u723e\u591a\u74e6", 
+      "\u6469\u723e\u591a\u74e6"
+    ], 
+    "Czech": [
+      "Moldavsko", 
+      "Moldavsk\u00e1 republika"
+    ], 
+    "Romanian": [
+      "Republica Moldova", 
+      "Moldova, Republica"
+    ], 
+    "Dutch": [
+      "Republiek Moldavi\u00eb", 
+      "Moldavi\u00eb"
+    ], 
+    "Japanese": [
+      "\u30e2\u30eb\u30c9\u30d0", 
+      "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Moldavie", 
+      "Moldovie"
+    ], 
+    "German": [
+      "Moldawien", 
+      "Moldau, Republik"
+    ], 
+    "Unknown": [
+      "Moldavija", 
+      "Moldavsko"
+    ], 
+    "English": [
+      "MD", 
+      "Moldova, Republic Of"
+    ], 
+    "Polish": [
+      "Mo\u0142dawia", 
+      "Mo\u0142dawia, Republika"
+    ], 
+    "Korean": [
+      "\ubab0\ub3c4\ubc14"
+    ], 
+    "Italian": [
+      "Moldavia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u6469\u723e\u591a\u74e6"
+  ], 
+  "alias_ITA_Q": [
+    "Moldavia"
+  ], 
+  "alias_CHI_V": [
+    "\u6469\u723e\u591a\u74e6"
+  ], 
+  "woeid": 23424885, 
+  "alias_JPN_Q": [
+    "\u30e2\u30eb\u30c9\u30d0"
+  ], 
+  "alias_JPN_V": [
+    "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Moldavia"
+  ], 
+  "sw_longitude": 26.618879, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 46.979328, 
+  "date_indexed": "2010-12-02T17:58:04.432Z", 
+  "alias_FRE_V": [
+    "Moldovie"
+  ], 
+  "alias_KOR_Q": [
+    "\ubab0\ub3c4\ubc14"
+  ], 
+  "alias_DUT_Q": [
+    "Moldavi\u00eb"
+  ], 
+  "bbox": "45.468498,26.618879,48.490162,30.16374", 
+  "alias_DUT_V": [
+    "Republiek Moldavi\u00eb"
+  ], 
+  "alias_GER_V": [
+    "Moldau, Republik"
+  ], 
+  "alias_GER_Q": [
+    "Moldawien"
+  ], 
+  "lang": "ENG", 
+  "name": "Moldova", 
+  "language": "English", 
+  "alias_CZE_V": [
+    "Moldavsk\u00e1 republika"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Moldavija"
+  ], 
+  "ne_longitude": 30.16374, 
+  "longitude": 28.39131, 
+  "iso": "MD", 
+  "sw_latitude": 45.468498, 
+  "alias_RUM_V": [
+    "Moldova, Republica"
+  ], 
+  "fullname": "Moldova", 
   "features": [
     {
       "geometry": {
@@ -69,23 +438,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 6145, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823360", 
+          "woe:region=55948183", 
+          "woe:country=23424885"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MD", 
+        "longitude": 29.40846693351433, 
+        "artisanal:id": 34823360, 
+        "latitude": 46.68448188837585, 
+        "woe:id": 34823360, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34823360, 
       "properties": {
         "ne:fid": 6145, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823360", 
+          "woe:region=55948183", 
+          "woe:country=23424885"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MD", 
+        "longitude": 29.40846693351433, 
         "artisanal:id": 34823360, 
+        "latitude": 46.68448188837585, 
         "woe:id": 34823360, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    29.38149376803071, 
-    46.6448017441605, 
-    29.45962853365603, 
-    46.711981106139945
+  "alias_FRE_Q": [
+    "Moldavie"
   ]
 }

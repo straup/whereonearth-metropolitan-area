@@ -1,5 +1,256 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "United States of Venezuela"
+  ], 
+  "alias_ENG_A": [
+    "VE"
+  ], 
+  "alias_POL_Q": [
+    "Wenezuela"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 12.2019, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Venezuela"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ubca0\ub124\uc8fc\uc5d8\ub77c"
+  ], 
+  "alias_KOR_Q": [
+    "\ubca0\ub124\uc218\uc5d8\ub77c"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12505744, 
+        "name": "El Gran Roque Isla"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12505887, 
+        "name": "Lesser Antilles"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12505880, 
+        "name": "Los Roques Islas"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2347677, 
+        "name": "Amazonas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347678, 
+        "name": "Anzoategui"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347679, 
+        "name": "Apure"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347680, 
+        "name": "Aragua"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347681, 
+        "name": "Barinas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347682, 
+        "name": "Bol\u00edvar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347683, 
+        "name": "Carabobo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347684, 
+        "name": "Cojedes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347685, 
+        "name": "Delta Amacuro"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347700, 
+        "name": "Dependencias Federales"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347686, 
+        "name": "Distrito Federal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347687, 
+        "name": "Falcon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347688, 
+        "name": "Guarico"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347689, 
+        "name": "Lara"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347691, 
+        "name": "Miranda"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347692, 
+        "name": "Monagas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347690, 
+        "name": "M\u00e9rida"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347693, 
+        "name": "Nueva Esparta"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347694, 
+        "name": "Portuguesa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347695, 
+        "name": "Sucre"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347696, 
+        "name": "Tachira"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347697, 
+        "name": "Trujillo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069993, 
+        "name": "Vargas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347698, 
+        "name": "Yaracuy"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347699, 
+        "name": "Zulia"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354196, 
+        "name": "Rio Orinoco River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u59d4\u5167\u745e\u62c9"
+    ], 
+    "German": [
+      "Bolivarische Republik Venezuela"
+    ], 
+    "Unknown": [
+      "Venes\u00faela", 
+      "Venesuela", 
+      "Republika Venezuela"
+    ], 
+    "Japanese": [
+      "\u30d9\u30cd\u30ba\u30a8\u30e9", 
+      "\u30d9\u30cd\u30ba\u30a8\u30e9\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "V\u00e9n\u00e9zu\u00e9la"
+    ], 
+    "English": [
+      "VE", 
+      "United States of Venezuela"
+    ], 
+    "Polish": [
+      "Wenezuela"
+    ], 
+    "Korean": [
+      "\ubca0\ub124\uc8fc\uc5d8\ub77c", 
+      "\ubca0\ub124\uc218\uc5d8\ub77c"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u59d4\u5167\u745e\u62c9"
+  ], 
+  "woeid": 23424982, 
+  "alias_JPN_Q": [
+    "\u30d9\u30cd\u30ba\u30a8\u30e9"
+  ], 
+  "alias_JPN_V": [
+    "\u30d9\u30cd\u30ba\u30a8\u30e9\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": -73.374313, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 6.47279, 
+  "date_indexed": "2010-12-02T16:11:43.876Z", 
+  "bbox": "0.74368,-73.374313,12.2019,-59.803768", 
+  "alias_GER_V": [
+    "Bolivarische Republik Venezuela"
+  ], 
+  "lang": "ENG", 
+  "name": "Venezuela", 
+  "language": "English", 
+  "alias_UNK_S": [
+    "Venesuela"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Venes\u00faela"
+  ], 
+  "ne_longitude": -59.803768, 
+  "longitude": -66.589043, 
+  "iso": "VE", 
+  "sw_latitude": 0.74368, 
+  "alias_FRE_V": [
+    "V\u00e9n\u00e9zu\u00e9la"
+  ], 
+  "fullname": "Venezuela", 
   "features": [
     {
       "geometry": {
@@ -153,23 +404,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1767, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311891", 
+          "woe:region=2347687", 
+          "woe:country=23424982"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "VE", 
+        "longitude": -70.18401095816965, 
+        "artisanal:id": 35311891, 
+        "latitude": 11.693898893282576, 
+        "woe:id": 35311891, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35311891, 
       "properties": {
         "ne:fid": 1767, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311891", 
+          "woe:region=2347687", 
+          "woe:country=23424982"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "VE", 
+        "longitude": -70.18401095816965, 
         "artisanal:id": 35311891, 
+        "latitude": 11.693898893282576, 
         "woe:id": 35311891, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -70.23309770372194, 
-    11.602599595582817, 
-    -70.11899614122149, 
-    11.775560614463728
   ]
 }

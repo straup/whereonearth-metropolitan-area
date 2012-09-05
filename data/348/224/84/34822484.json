@@ -1,5 +1,426 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Kingdom of Denmark"
+  ], 
+  "alias_KOR_Q": [
+    "\ub374\ub9c8\ud06c"
+  ], 
+  "alias_POL_Q": [
+    "Dania"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 57.751949, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Danemarca"
+  ], 
+  "alias_UNK_V": [
+    "Dhan\u00eda"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Dinamarca"
+  ], 
+  "alias_ENG_A": [
+    "DNK"
+  ], 
+  "children": {
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29353754, 
+        "name": "Amager F\u00e6lled"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29353806, 
+        "name": "Kl\u00f8vermarken"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56057297, 
+        "name": "Nationalpark Thy"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29353847, 
+        "name": "S\u00f8parken"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29353857, 
+        "name": "Valbyparken"
+      }
+    ], 
+    "Zone": [
+      {
+        "placetype": "Zone", 
+        "woeid": 24868182, 
+        "name": "4 North Sealand"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868183, 
+        "name": "5 West South Sealand and Bornhold Island"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868185, 
+        "name": "7 Southern Jutland"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868186, 
+        "name": "74 Southern Jutland"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868188, 
+        "name": "9 Northern Jutland"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868189, 
+        "name": "99 Northern Jutland"
+      }
+    ], 
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 28362583, 
+        "name": "Hovedstaden"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28362580, 
+        "name": "Midtjylland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28362579, 
+        "name": "Nordjylland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28362582, 
+        "name": "Sj\u00e6lland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28362581, 
+        "name": "Syddanmark"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353438, 
+        "name": "Belvederekanalen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353477, 
+        "name": "Frederiksholms Kanal"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353488, 
+        "name": "Glomstrup Vig"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353493, 
+        "name": "Guden\u00e5"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353535, 
+        "name": "Klejtrup S\u00f8"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353529, 
+        "name": "K\u00e5s Bredning"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354240, 
+        "name": "Limfjorden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353559, 
+        "name": "Lovns Bredning"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353732, 
+        "name": "Nissum Bredning"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353593, 
+        "name": "Omme \u00c5"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353601, 
+        "name": "Randers Fjord"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353608, 
+        "name": "Risg\u00e5rde Bredning"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353741, 
+        "name": "Salling Sund"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353632, 
+        "name": "Skive Fjord"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353633, 
+        "name": "Skjern \u00c5"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353652, 
+        "name": "Stadsgraven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29353697, 
+        "name": "Visby Bredning"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345142, 
+        "name": "Bornholm Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345143, 
+        "name": "Frederiksborg"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345144, 
+        "name": "Fyns Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345146, 
+        "name": "K\u00f8benhavn-Frederiksberg"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345145, 
+        "name": "K\u00f8benhavns Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345147, 
+        "name": "Nordjyllands"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345148, 
+        "name": "Ribe Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345149, 
+        "name": "Ringk\u00f8bing Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345150, 
+        "name": "Roskilde Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345152, 
+        "name": "Storstr\u00f8ms Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345151, 
+        "name": "S\u00f8nderjyllands"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345153, 
+        "name": "Vejle Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345154, 
+        "name": "Vestsj\u00e6llands Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345155, 
+        "name": "Viborg Amt"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2345141, 
+        "name": "\u00c5rhus Amt"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Danish": [
+      "Kongeriget Danmark"
+    ], 
+    "Hungarian": [
+      "D\u00e1nia"
+    ], 
+    "Chinese": [
+      "\u4e39\u9ea6", 
+      "\u4e39\u9ea5"
+    ], 
+    "Finnish": [
+      "Tanskan", 
+      "Tanska"
+    ], 
+    "Portuguese": [
+      "Dinamarca"
+    ], 
+    "Czech": [
+      "Dansko", 
+      "D\u00e1nsko"
+    ], 
+    "Romanian": [
+      "Danemarca"
+    ], 
+    "Dutch": [
+      "Denemarken"
+    ], 
+    "Japanese": [
+      "\u30c7\u30f3\u30de\u30fc\u30af", 
+      "\u30c7\u30f3\u30de\u30fc\u30af\u738b\u56fd"
+    ], 
+    "French": [
+      "Danemark"
+    ], 
+    "German": [
+      "D\u00e4nemark", 
+      "K\u00f6nigreich D\u00e4nemark", 
+      "Daenemark"
+    ], 
+    "Unknown": [
+      "Danska", 
+      "Danmork", 
+      "Dhan\u00eda"
+    ], 
+    "Spanish": [
+      "Dinamarca"
+    ], 
+    "English": [
+      "DNK", 
+      "Denmark", 
+      "Kingdom of Denmark"
+    ], 
+    "Polish": [
+      "Dania"
+    ], 
+    "Korean": [
+      "\ub374\ub9c8\ud06c"
+    ], 
+    "Italian": [
+      "Danimarca"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u4e39\u9ea5"
+  ], 
+  "alias_ITA_Q": [
+    "Danimarca"
+  ], 
+  "alias_CHI_V": [
+    "\u4e39\u9ea6"
+  ], 
+  "woeid": 23424796, 
+  "alias_JPN_Q": [
+    "\u30c7\u30f3\u30de\u30fc\u30af"
+  ], 
+  "alias_ENG_P": [
+    "Denmark"
+  ], 
+  "alias_JPN_V": [
+    "\u30c7\u30f3\u30de\u30fc\u30af\u738b\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Dinamarca"
+  ], 
+  "alias_FIN_Q": [
+    "Tanska"
+  ], 
+  "sw_longitude": 8.07472, 
+  "alias_FIN_V": [
+    "Tanskan"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 56.276089, 
+  "date_indexed": "2010-12-02T16:13:18.535Z", 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Denemarken"
+  ], 
+  "alias_CZE_S": [
+    "Dansko"
+  ], 
+  "bbox": "54.559132,8.07472,57.751949,15.19324", 
+  "alias_CZE_Q": [
+    "D\u00e1nsko"
+  ], 
+  "alias_GER_V": [
+    "K\u00f6nigreich D\u00e4nemark"
+  ], 
+  "alias_DAN_V": [
+    "Kongeriget Danmark"
+  ], 
+  "alias_GER_S": [
+    "Daenemark"
+  ], 
+  "lang": "DAN", 
+  "name": "Danmark", 
+  "language": "Danish", 
+  "alias_UNK_S": [
+    "Danmork"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Danska"
+  ], 
+  "alias_HUN_Q": [
+    "D\u00e1nia"
+  ], 
+  "alias_GER_Q": [
+    "D\u00e4nemark"
+  ], 
+  "ne_longitude": 15.19324, 
+  "longitude": 9.51695, 
+  "iso": "DK", 
+  "sw_latitude": 54.559132, 
+  "fullname": "Danmark, Denmark", 
   "features": [
     {
       "geometry": {
@@ -45,23 +466,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 4773, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822484", 
+          "woe:region=28362579", 
+          "woe:country=23424796"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "DK", 
+        "longitude": 9.999367645477252, 
+        "artisanal:id": 34822484, 
+        "latitude": 57.459020973854926, 
+        "woe:id": 34822484, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34822484, 
       "properties": {
         "ne:fid": 4773, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822484", 
+          "woe:region=28362579", 
+          "woe:country=23424796"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "DK", 
+        "longitude": 9.999367645477252, 
         "artisanal:id": 34822484, 
+        "latitude": 57.459020973854926, 
         "woe:id": 34822484, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    9.963040805713462, 
-    57.43804474550576, 
-    10.029600050505394, 
-    57.47938589133926
+  "alias_FRE_Q": [
+    "Danemark"
   ]
 }

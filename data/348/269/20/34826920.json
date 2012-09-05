@@ -1,5 +1,183 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Hong Kong Special Administrative Region"
+  ], 
+  "alias_SWE_Q": [
+    "Hongkong"
+  ], 
+  "alias_POL_Q": [
+    "Hongkong"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 22.56204, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Hong Kong"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Hong Kong"
+  ], 
+  "alias_ENG_A": [
+    "HK"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29281899, 
+        "name": "New Kowloon"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 24703006, 
+        "name": "\u4e5d\u9f8d"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24703004, 
+        "name": "\u65b0\u754c"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24703007, 
+        "name": "\u6e2f\u5cf6"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24703005, 
+        "name": "\u96e2\u5cf6"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Hongkong"
+    ], 
+    "Danish": [
+      "Hongkong"
+    ], 
+    "Hungarian": [
+      "Hongkong"
+    ], 
+    "Chinese": [
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
+    ], 
+    "Finnish": [
+      "Hongkongista", 
+      "Hongkong"
+    ], 
+    "Norwegian": [
+      "Hongkong"
+    ], 
+    "Czech": [
+      "Hongkong"
+    ], 
+    "Romanian": [
+      "Hong Kong"
+    ], 
+    "Dutch": [
+      "Hongkong"
+    ], 
+    "Japanese": [
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a"
+    ], 
+    "French": [
+      "Hong Kong"
+    ], 
+    "German": [
+      "Hongkong"
+    ], 
+    "Portuguese": [
+      "Hong Kong"
+    ], 
+    "Spanish": [
+      "Hong Kong"
+    ], 
+    "English": [
+      "HK", 
+      "Hong Kong", 
+      "Hong Kong Special Administrative Region"
+    ], 
+    "Polish": [
+      "Hongkong"
+    ], 
+    "Korean": [
+      "\ud64d\ucf69"
+    ], 
+    "Italian": [
+      "Hong Kong"
+    ]
+  }, 
+  "alias_ITA_Q": [
+    "Hong Kong"
+  ], 
+  "alias_CHI_V": [
+    "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
+  ], 
+  "woeid": 24865698, 
+  "alias_ENG_P": [
+    "Hong Kong"
+  ], 
+  "alias_JPN_V": [
+    "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a"
+  ], 
+  "alias_SPA_Q": [
+    "Hong Kong"
+  ], 
+  "alias_FIN_Q": [
+    "Hongkong"
+  ], 
+  "sw_longitude": 113.835083, 
+  "alias_FIN_V": [
+    "Hongkongista"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 22.411249, 
+  "alias_NOR_Q": [
+    "Hongkong"
+  ], 
+  "date_indexed": "2010-12-02T12:08:18.664Z", 
+  "alias_KOR_Q": [
+    "\ud64d\ucf69"
+  ], 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Hongkong"
+  ], 
+  "bbox": "22.15416,113.835083,22.56204,114.441803", 
+  "alias_CZE_Q": [
+    "Hongkong"
+  ], 
+  "alias_DAN_Q": [
+    "Hongkong"
+  ], 
+  "alias_GER_Q": [
+    "Hongkong"
+  ], 
+  "lang": "CHI", 
+  "name": "\u9999\u6e2f", 
+  "language": "Chinese", 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "Hongkong"
+  ], 
+  "ne_longitude": 114.441803, 
+  "longitude": 114.153542, 
+  "iso": "HK", 
+  "sw_latitude": 22.15416, 
+  "fullname": "\u9999\u6e2f, Hong Kong", 
   "features": [
     {
       "geometry": {
@@ -101,23 +279,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 11571, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826920", 
+          "woe:region=24703007", 
+          "woe:country=24865698"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "HK", 
+        "longitude": 114.19193713055598, 
+        "artisanal:id": 34826920, 
+        "latitude": 22.258826330487526, 
+        "woe:id": 34826920, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34826920, 
       "properties": {
         "ne:fid": 11571, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826920", 
+          "woe:region=24703007", 
+          "woe:country=24865698"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "HK", 
+        "longitude": 114.19193713055598, 
         "artisanal:id": 34826920, 
+        "latitude": 22.258826330487526, 
         "woe:id": 34826920, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    114.1319796082135, 
-    22.198852037031457, 
-    114.24804487514106, 
-    22.294427598555288
+  "alias_FRE_Q": [
+    "Hong Kong"
   ]
 }

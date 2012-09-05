@@ -1,5 +1,188 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Rep. Somalia"
+  ], 
+  "alias_ENG_A": [
+    "SO"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 11.9852, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Somalska demokratiena republika"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\uc18c\ub9d0\ub9ac\uc57c"
+  ], 
+  "alias_POR_Q": [
+    "Som\u00e1lia"
+  ], 
+  "alias_KOR_Q": [
+    "\uc18c\ub9d0\ub9ac\uc544"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2347006, 
+        "name": "Bakool"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347007, 
+        "name": "Banaadir"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347008, 
+        "name": "Bari"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347009, 
+        "name": "Bay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347010, 
+        "name": "Galguduud"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347011, 
+        "name": "Gedo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347012, 
+        "name": "Hiiraan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347013, 
+        "name": "Jubbada Dhexe"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347014, 
+        "name": "Jubbada Hoose"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347015, 
+        "name": "Mudug"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347016, 
+        "name": "Nugaal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347017, 
+        "name": "Sanaag"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347018, 
+        "name": "Shabeellaha Dhexe"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347019, 
+        "name": "Shabeellaha Hoose"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347020, 
+        "name": "Togdheer"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347021, 
+        "name": "Woqooyi Galbeed"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Som\u00e1lia"
+    ], 
+    "Hungarian": [
+      "Szom\u00e1lia"
+    ], 
+    "Czech": [
+      "Som\u00e1lsko"
+    ], 
+    "Unknown": [
+      "Somalija", 
+      "Somalska demokratiena republika"
+    ], 
+    "Dutch": [
+      "Somali\u00eb"
+    ], 
+    "Japanese": [
+      "\u30bd\u30de\u30ea\u30a2"
+    ], 
+    "French": [
+      "Somalie"
+    ], 
+    "German": [
+      "Republik Somalia"
+    ], 
+    "English": [
+      "SO", 
+      "Rep. Somalia"
+    ], 
+    "Korean": [
+      "\uc18c\ub9d0\ub9ac\uc57c", 
+      "\uc18c\ub9d0\ub9ac\uc544"
+    ]
+  }, 
+  "woeid": 23424949, 
+  "alias_JPN_Q": [
+    "\u30bd\u30de\u30ea\u30a2"
+  ], 
+  "sw_longitude": 40.988628, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 5.16158, 
+  "date_indexed": "2010-12-02T08:51:01.007Z", 
+  "alias_DUT_Q": [
+    "Somali\u00eb"
+  ], 
+  "bbox": "-1.66205,40.988628,11.9852,51.413029", 
+  "alias_CZE_Q": [
+    "Som\u00e1lsko"
+  ], 
+  "alias_GER_V": [
+    "Republik Somalia"
+  ], 
+  "lang": "ENG", 
+  "name": "Somalia", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Somalija"
+  ], 
+  "alias_HUN_Q": [
+    "Szom\u00e1lia"
+  ], 
+  "ne_longitude": 51.413029, 
+  "longitude": 46.200829, 
+  "iso": "SO", 
+  "sw_latitude": -1.66205, 
+  "fullname": "Somalia", 
   "features": [
     {
       "geometry": {
@@ -45,23 +228,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 9495, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825576", 
+          "woe:region=2347019", 
+          "woe:country=23424949"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "SO", 
+        "longitude": 45.11747261560296, 
+        "artisanal:id": 34825576, 
+        "latitude": 2.143481728632486, 
+        "woe:id": 34825576, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34825576, 
       "properties": {
         "ne:fid": 9495, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825576", 
+          "woe:region=2347019", 
+          "woe:country=23424949"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "SO", 
+        "longitude": 45.11747261560296, 
         "artisanal:id": 34825576, 
+        "latitude": 2.143481728632486, 
         "woe:id": 34825576, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    45.09226606627064, 
-    2.112067775883403, 
-    45.14383914569794, 
-    2.178730373539921
+  "alias_FRE_Q": [
+    "Somalie"
   ]
 }

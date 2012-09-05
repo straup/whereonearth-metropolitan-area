@@ -1,5 +1,234 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Luxembourgois"
+  ], 
+  "alias_SWE_Q": [
+    "Luxemburg"
+  ], 
+  "alias_POL_Q": [
+    "Luksemburg"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 50.182751, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Luxemburg"
+  ], 
+  "alias_UNK_V": [
+    "Veliko vojvodstvo Luksemburg"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Luxemburgo"
+  ], 
+  "alias_ENG_A": [
+    "LUX"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070542, 
+        "name": "Diekirch"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070559, 
+        "name": "Grevenmacher"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070560, 
+        "name": "Luxembourg"
+      }
+    ], 
+    "Zone": [
+      {
+        "placetype": "Zone", 
+        "woeid": 24874215, 
+        "name": "35 Contern"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874232, 
+        "name": "63 Schwebach"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874234, 
+        "name": "67 Filsdorf"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874248, 
+        "name": "85 Rost"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874249, 
+        "name": "86 Beaufort"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874250, 
+        "name": "87 Larochette"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Luxemburg"
+    ], 
+    "Danish": [
+      "Storhertugdommet Luxemburg", 
+      "Storhertugd\u00f8mmet Luxemburg"
+    ], 
+    "Hungarian": [
+      "Luxemburg"
+    ], 
+    "Chinese": [
+      "\u5362\u68ee\u5821", 
+      "\u76e7\u68ee\u5821"
+    ], 
+    "Finnish": [
+      "Luxemburgista", 
+      "Luxemburgin"
+    ], 
+    "Portuguese": [
+      "Luxemburgo"
+    ], 
+    "Czech": [
+      "Lucemburk", 
+      "Lucembursko"
+    ], 
+    "Romanian": [
+      "Luxemburg"
+    ], 
+    "Dutch": [
+      "Luxemburg"
+    ], 
+    "Japanese": [
+      "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af", 
+      "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30b0"
+    ], 
+    "French": [
+      "Grand-Duch\u00e9 de Luxembourg"
+    ], 
+    "German": [
+      "Luxemburg", 
+      "Gro\u00dfherzogtum Luxemburg", 
+      "Grossherzogtum Luxemburg"
+    ], 
+    "Unknown": [
+      "Luksemburg", 
+      "Louxemvourgo", 
+      "Veliko vojvodstvo Luksemburg"
+    ], 
+    "Spanish": [
+      "Luxemburgo"
+    ], 
+    "English": [
+      "LUX", 
+      "Luxembourgois"
+    ], 
+    "Polish": [
+      "Luksemburg"
+    ], 
+    "Korean": [
+      "\ub8e9\uc148\ubd80\ub974\ud06c"
+    ], 
+    "Italian": [
+      "Lussemburgo"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u76e7\u68ee\u5821"
+  ], 
+  "alias_ITA_Q": [
+    "Lussemburgo"
+  ], 
+  "alias_CHI_V": [
+    "\u5362\u68ee\u5821"
+  ], 
+  "woeid": 23424881, 
+  "alias_JPN_Q": [
+    "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af"
+  ], 
+  "alias_JPN_V": [
+    "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30b0"
+  ], 
+  "alias_SPA_Q": [
+    "Luxemburgo"
+  ], 
+  "alias_FIN_Q": [
+    "Luxemburgin"
+  ], 
+  "sw_longitude": 5.73579, 
+  "alias_FIN_V": [
+    "Luxemburgista"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 49.81522, 
+  "date_indexed": "2010-12-02T08:54:20.062Z", 
+  "alias_KOR_Q": [
+    "\ub8e9\uc148\ubd80\ub974\ud06c"
+  ], 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Luxemburg"
+  ], 
+  "bbox": "49.447689,5.73579,50.182751,6.53117", 
+  "alias_CZE_Q": [
+    "Lucemburk"
+  ], 
+  "alias_DAN_S": [
+    "Storhertugdommet Luxemburg"
+  ], 
+  "alias_GER_V": [
+    "Gro\u00dfherzogtum Luxemburg"
+  ], 
+  "alias_DAN_V": [
+    "Storhertugd\u00f8mmet Luxemburg"
+  ], 
+  "alias_GER_S": [
+    "Grossherzogtum Luxemburg"
+  ], 
+  "lang": "FRE", 
+  "name": "Luxembourg", 
+  "language": "French", 
+  "alias_CZE_V": [
+    "Lucembursko"
+  ], 
+  "alias_UNK_S": [
+    "Louxemvourgo"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Luksemburg"
+  ], 
+  "alias_HUN_Q": [
+    "Luxemburg"
+  ], 
+  "alias_GER_Q": [
+    "Luxemburg"
+  ], 
+  "ne_longitude": 6.53117, 
+  "longitude": 6.13348, 
+  "iso": "LU", 
+  "sw_latitude": 49.447689, 
+  "alias_FRE_V": [
+    "Grand-Duch\u00e9 de Luxembourg"
+  ], 
+  "fullname": "Luxembourg", 
   "features": [
     {
       "geometry": {
@@ -49,23 +278,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 5530, 
+        "ne:hasPlace": 2, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822962", 
+          "woe:region=20070559", 
+          "woe:country=23424881"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "LU", 
+        "longitude": 6.382980725381838, 
+        "artisanal:id": 34822962, 
+        "latitude": 49.5716424849446, 
+        "woe:id": 34822962, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34822962, 
       "properties": {
         "ne:fid": 5530, 
         "ne:hasPlace": 2, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822962", 
+          "woe:region=20070559", 
+          "woe:country=23424881"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "LU", 
+        "longitude": 6.382980725381838, 
         "artisanal:id": 34822962, 
+        "latitude": 49.5716424849446, 
         "woe:id": 34822962, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    6.363053826532393, 
-    49.54483144794814, 
-    6.406151971063821, 
-    49.60043528909421
   ]
 }

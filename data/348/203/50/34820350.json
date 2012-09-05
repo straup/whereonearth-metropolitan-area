@@ -1,5 +1,312 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Kingdom of Morocco"
+  ], 
+  "alias_SWE_Q": [
+    "Marocko"
+  ], 
+  "alias_POL_Q": [
+    "Maroko"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 35.928009, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Maroc"
+  ], 
+  "alias_UNK_V": [
+    "Kraljevina Maroko"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Marrocos"
+  ], 
+  "alias_ENG_A": [
+    "MA"
+  ], 
+  "alias_ARA_V": [
+    "Al Magreb"
+  ], 
+  "children": {
+    "placetype": [], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56120225, 
+        "name": "Anti-Atlas"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56120216, 
+        "name": "High Atlas"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56120217, 
+        "name": "Middle Atlas"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56120236, 
+        "name": "Rif"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 56120050, 
+        "name": "Chaouia-Ouardigha"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120051, 
+        "name": "Doukkala-Abda"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120052, 
+        "name": "F\u00e8s-Boulemane"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120053, 
+        "name": "Gharb-Chrarda-B\u00e9ni Hssen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120054, 
+        "name": "Grand Casablanca"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120055, 
+        "name": "Guelmim-Es Semara"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120056, 
+        "name": "Marrakech-Tensift-El Haouz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120057, 
+        "name": "Mekn\u00e8s-Tafilalet"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120058, 
+        "name": "Oriental"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120059, 
+        "name": "Rabat-Sal\u00e9-Zemmour-Zaer"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120060, 
+        "name": "Souss-Massa-Dra\u00e2"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120061, 
+        "name": "Tadla-Azilal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120062, 
+        "name": "Tangier-T\u00e9touan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120063, 
+        "name": "Taza-Al Hoceima-Taounate"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346189, 
+        "name": "Agadir"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346201, 
+        "name": "Fes"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346208, 
+        "name": "Meknes"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346211, 
+        "name": "Oujda"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346212, 
+        "name": "Rabat-Sale"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346215, 
+        "name": "Tanger"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Marocko"
+    ], 
+    "Danish": [
+      "Marokko"
+    ], 
+    "Hungarian": [
+      "Marokk\u00f3"
+    ], 
+    "Finnish": [
+      "Marokosta", 
+      "Marokko"
+    ], 
+    "Chinese": [
+      "\u6469\u6d1b\u54e5"
+    ], 
+    "Norwegian": [
+      "Marokko"
+    ], 
+    "Czech": [
+      "Maroko"
+    ], 
+    "Romanian": [
+      "Maroc"
+    ], 
+    "Dutch": [
+      "Marokko"
+    ], 
+    "Japanese": [
+      "\u30e2\u30ed\u30c3\u30b3", 
+      "\u30e2\u30ed\u30c3\u30b3\u738b\u56fd"
+    ], 
+    "French": [
+      "Maroc", 
+      "Royaume du Maroc"
+    ], 
+    "German": [
+      "Marokko", 
+      "K\u00f6nigreich Marokko", 
+      "Konigreich Marokko"
+    ], 
+    "Portuguese": [
+      "Marrocos"
+    ], 
+    "Unknown": [
+      "Maroko", 
+      "Kraljevina Maroko"
+    ], 
+    "Spanish": [
+      "Reino de Marruecos", 
+      "Marruecos"
+    ], 
+    "English": [
+      "MA", 
+      "Kingdom of Morocco"
+    ], 
+    "Polish": [
+      "Maroko"
+    ], 
+    "Arabic": [
+      "Al Magreb"
+    ], 
+    "Korean": [
+      "\ubaa8\ub85c\ucf54"
+    ], 
+    "Italian": [
+      "Marocco"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u6469\u6d1b\u54e5"
+  ], 
+  "alias_ITA_Q": [
+    "Marocco"
+  ], 
+  "alias_GER_V": [
+    "K\u00f6nigreich Marokko"
+  ], 
+  "woeid": 23424893, 
+  "alias_JPN_Q": [
+    "\u30e2\u30ed\u30c3\u30b3"
+  ], 
+  "alias_JPN_V": [
+    "\u30e2\u30ed\u30c3\u30b3\u738b\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Marruecos"
+  ], 
+  "alias_FIN_Q": [
+    "Marokko"
+  ], 
+  "sw_longitude": -13.14226, 
+  "alias_FIN_V": [
+    "Marokosta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 31.815411, 
+  "alias_NOR_Q": [
+    "Marokko"
+  ], 
+  "date_indexed": "2010-12-02T18:19:13.979Z", 
+  "alias_KOR_Q": [
+    "\ubaa8\ub85c\ucf54"
+  ], 
+  "adjacent": [], 
+  "alias_SPA_V": [
+    "Reino de Marruecos"
+  ], 
+  "alias_DUT_Q": [
+    "Marokko"
+  ], 
+  "bbox": "27.702801,-13.14226,35.928009,-0.99173", 
+  "alias_CZE_Q": [
+    "Maroko"
+  ], 
+  "alias_DAN_Q": [
+    "Marokko"
+  ], 
+  "alias_GER_Q": [
+    "Marokko"
+  ], 
+  "alias_GER_S": [
+    "Konigreich Marokko"
+  ], 
+  "lang": "ENG", 
+  "name": "Morocco", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Maroko"
+  ], 
+  "alias_HUN_Q": [
+    "Marokk\u00f3"
+  ], 
+  "ne_longitude": -0.99173, 
+  "longitude": -7.067, 
+  "iso": "MA", 
+  "sw_latitude": 27.702801, 
+  "alias_FRE_V": [
+    "Royaume du Maroc"
+  ], 
+  "fullname": "Morocco", 
   "features": [
     {
       "geometry": {
@@ -177,23 +484,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1609, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820350", 
+          "woe:region=2346215", 
+          "woe:country=23424893"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MA", 
+        "longitude": -5.786701078873702, 
+        "artisanal:id": 34820350, 
+        "latitude": 35.77284107656725, 
+        "woe:id": 34820350, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820350, 
       "properties": {
         "ne:fid": 1609, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820350", 
+          "woe:region=2346215", 
+          "woe:country=23424893"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MA", 
+        "longitude": -5.786701078873702, 
         "artisanal:id": 34820350, 
+        "latitude": 35.77284107656725, 
         "woe:id": 34820350, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -5.902683274753656, 
-    35.720869045549094, 
-    -5.695641648776274, 
-    35.83373037367454
+  "alias_FRE_Q": [
+    "Maroc"
   ]
 }

@@ -1,5 +1,772 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "German"
+  ], 
+  "alias_SWE_Q": [
+    "Tyskland"
+  ], 
+  "alias_POL_Q": [
+    "Niemcy"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 55.05814, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Germania"
+  ], 
+  "alias_UNK_V": [
+    "Germanija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Alemanha"
+  ], 
+  "alias_ENG_A": [
+    "DEU"
+  ], 
+  "children": {
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23701991, 
+        "name": "Zugspitze"
+      }
+    ], 
+    "Zone": [
+      {
+        "placetype": "Zone", 
+        "woeid": 24868433, 
+        "name": "2224 Bad Honnef"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868476, 
+        "name": "2292 Windeck Sieg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868577, 
+        "name": "2447 Dahlem bei Kall"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868579, 
+        "name": "2449 Blankenheim Ahr"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868741, 
+        "name": "2697 Blankenheim-Ahrhuette"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868750, 
+        "name": "2734 Freudenberg Westfalen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868752, 
+        "name": "2736 Burbach Siegerland"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868779, 
+        "name": "2775 Driedorf"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868880, 
+        "name": "2984 Hallenberg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24868886, 
+        "name": "30 Berlin"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869046, 
+        "name": "33746 Werbig"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869092, 
+        "name": "33879 Schollene"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869114, 
+        "name": "33967 Freyenstein"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869137, 
+        "name": "34204 Schkeuditz"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869141, 
+        "name": "34208 Loebnitz"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869144, 
+        "name": "34222 Arzberg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869146, 
+        "name": "34224 Belgern"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869150, 
+        "name": "34243 Bad Dueben"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869161, 
+        "name": "34296 Groitzsch"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869175, 
+        "name": "34343 Regis-Breitingen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869200, 
+        "name": "34441 Hohenmoelsen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869252, 
+        "name": "34672 Rossleben"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869453, 
+        "name": "35773 Schleife"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869584, 
+        "name": "36373 Buttstaedt"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869589, 
+        "name": "36378 Ostramondra"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869592, 
+        "name": "36421 Camburg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869638, 
+        "name": "36642 Harra"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869640, 
+        "name": "36644 Hirschberg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869648, 
+        "name": "36653 Lehesten"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869651, 
+        "name": "36693 Crossen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869652, 
+        "name": "36694 Schkoelen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869804, 
+        "name": "37432 Pausa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869832, 
+        "name": "3762 Crimmitschau"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869834, 
+        "name": "3764 Meerane"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869969, 
+        "name": "38724 Siggelkow"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869991, 
+        "name": "38758 Doemitz"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24869998, 
+        "name": "38783 Dallmin"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870002, 
+        "name": "38788 Gross Warnow"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870005, 
+        "name": "38792 Lenzen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870020, 
+        "name": "38841 Neuhaus"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870226, 
+        "name": "39606 Glienke"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870247, 
+        "name": "39740 Nechlin"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870257, 
+        "name": "39751 Penkun"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870258, 
+        "name": "39752 Blumenhagen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870259, 
+        "name": "39753 Strasburg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870349, 
+        "name": "40 Hamburg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870388, 
+        "name": "4153 Lauenburg Elbe"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870435, 
+        "name": "421 Bremen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24870733, 
+        "name": "4721 Cuxhaven"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871065, 
+        "name": "5271 Hoexter"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871067, 
+        "name": "5273 Beverungen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871107, 
+        "name": "5334 Hornburg Kreis Wolfenbuettel"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871150, 
+        "name": "5405 Hasbergen Kreis Osnabrueck"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871188, 
+        "name": "5458 Hopsten"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871215, 
+        "name": "5504 Friedland Kreis Goettingen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871228, 
+        "name": "5527 Duderstadt"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871238, 
+        "name": "5542 Witzenhausen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871253, 
+        "name": "5571 Uslar"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871254, 
+        "name": "5572 Bodenfelde"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871262, 
+        "name": "5592 Gleichen-Bremke"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871297, 
+        "name": "5652 Bad Sooden-Allendorf"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871516, 
+        "name": "6057 Floersbachtal"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871518, 
+        "name": "6059 Jossgrund"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871550, 
+        "name": "6120 Aarbergen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871578, 
+        "name": "6158 Riedstadt"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871605, 
+        "name": "6201 Weinheim Bergstr"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871613, 
+        "name": "621 Mannheim"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871632, 
+        "name": "6241 Worms"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871658, 
+        "name": "6272 Hirschhorn Neckar"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871773, 
+        "name": "6436 Dornburg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871804, 
+        "name": "6476 Mengerskirchen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871805, 
+        "name": "6477 Greifenstein-Nenderoth"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871936, 
+        "name": "6676 Hohenroda"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871940, 
+        "name": "6682 Tann Rhoen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24871964, 
+        "name": "6726 Lorch Rheingau"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24872037, 
+        "name": "6852 Nohfelden"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24872040, 
+        "name": "6855 Freisen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24872041, 
+        "name": "6856 St.Wendel-Niederkirchen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24872217, 
+        "name": "7306 Voehringen Iller"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24872221, 
+        "name": "731 Ulm Donau"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24872223, 
+        "name": "7322 Giengen an der Brenz"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24872226, 
+        "name": "7325 Sontheim an der Brenz"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24872534, 
+        "name": "7934 Weikersheim"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24873032, 
+        "name": "9081 Noerdlingen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24873210, 
+        "name": "9342 Wertheim"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24873457, 
+        "name": "9763 Sulzdorf an der Lederhecke"
+      }
+    ], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12474549, 
+        "name": "Hallig"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12474551, 
+        "name": "Nordfriesische Inseln"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12474510, 
+        "name": "Ohe"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12474552, 
+        "name": "Ostfriesische Inseln"
+      }
+    ], 
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345481, 
+        "name": "Baden-W\u00fcrttemberg"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345482, 
+        "name": "Bayern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345496, 
+        "name": "Bundesland Berlin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345491, 
+        "name": "Bundesland Brandenburg"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345483, 
+        "name": "Freie Hansestadt Bremen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345484, 
+        "name": "Freie und Hansestadt Hamburg"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345485, 
+        "name": "Hessen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345492, 
+        "name": "Mecklenburg-Vorpommern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345486, 
+        "name": "Niedersachsen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345487, 
+        "name": "Nordrhein-Westfalen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345488, 
+        "name": "Rheinland-Pfalz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345489, 
+        "name": "Saarland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345493, 
+        "name": "Sachsen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345494, 
+        "name": "Sachsen-Anhalt"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345490, 
+        "name": "Schleswig-Holstein"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345495, 
+        "name": "Th\u00fcringen"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354225, 
+        "name": "Bodensee"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354177, 
+        "name": "Elbe River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354236, 
+        "name": "Ems River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354237, 
+        "name": "Main River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354129, 
+        "name": "Rhein"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354392, 
+        "name": "Spree River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354238, 
+        "name": "Weser River"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 24602926, 
+        "name": "East Germany"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 24602927, 
+        "name": "West Germany"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Tyskland"
+    ], 
+    "Danish": [
+      "Tyskland"
+    ], 
+    "Hungarian": [
+      "Nemetorszag", 
+      "N\u00e9metorsz\u00e1g"
+    ], 
+    "Chinese": [
+      "\u5fb7\u56fd", 
+      "\u5fb7\u570b"
+    ], 
+    "Finnish": [
+      "Saksa", 
+      "Deutsland"
+    ], 
+    "Norwegian": [
+      "Tyskland"
+    ], 
+    "Czech": [
+      "N\u011bmecko"
+    ], 
+    "Romanian": [
+      "Germania"
+    ], 
+    "Dutch": [
+      "Duitsland"
+    ], 
+    "Japanese": [
+      "\u30c9\u30a4\u30c4", 
+      "\u30c9\u30a4\u30c4\u9023\u90a6\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Allemagne"
+    ], 
+    "German": [
+      "Bundesrepublik Deutschland"
+    ], 
+    "Portuguese": [
+      "Alemanha"
+    ], 
+    "Unknown": [
+      "Alemanya", 
+      "Thyskaland", 
+      "Germanija"
+    ], 
+    "Spanish": [
+      "Alemania"
+    ], 
+    "English": [
+      "DEU", 
+      "Germany", 
+      "German"
+    ], 
+    "Polish": [
+      "Niemcy"
+    ], 
+    "Korean": [
+      "\ub3c5\uc77c"
+    ], 
+    "Italian": [
+      "Germania"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5fb7\u570b"
+  ], 
+  "alias_ITA_Q": [
+    "Germania"
+  ], 
+  "alias_GER_V": [
+    "Bundesrepublik Deutschland"
+  ], 
+  "alias_CHI_V": [
+    "\u5fb7\u56fd"
+  ], 
+  "woeid": 23424829, 
+  "alias_JPN_Q": [
+    "\u30c9\u30a4\u30c4"
+  ], 
+  "alias_ENG_P": [
+    "Germany"
+  ], 
+  "alias_JPN_V": [
+    "\u30c9\u30a4\u30c4\u9023\u90a6\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Alemania"
+  ], 
+  "alias_FIN_Q": [
+    "Deutsland"
+  ], 
+  "sw_longitude": 5.86624, 
+  "alias_FIN_V": [
+    "Saksa"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 51.164181, 
+  "alias_NOR_Q": [
+    "Tyskland"
+  ], 
+  "date_indexed": "2010-12-02T09:50:31.333Z", 
+  "alias_KOR_Q": [
+    "\ub3c5\uc77c"
+  ], 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Duitsland"
+  ], 
+  "bbox": "47.27021,5.86624,55.05814,15.04205", 
+  "alias_CZE_Q": [
+    "N\u011bmecko"
+  ], 
+  "alias_DAN_Q": [
+    "Tyskland"
+  ], 
+  "lang": "GER", 
+  "name": "Deutschland", 
+  "language": "German", 
+  "alias_UNK_S": [
+    "Thyskaland"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Alemanya"
+  ], 
+  "alias_HUN_Q": [
+    "N\u00e9metorsz\u00e1g"
+  ], 
+  "ne_longitude": 15.04205, 
+  "longitude": 10.45415, 
+  "iso": "DE", 
+  "sw_latitude": 47.27021, 
+  "alias_HUN_S": [
+    "Nemetorszag"
+  ], 
+  "fullname": "Deutschland, Germany", 
   "features": [
     {
       "geometry": {
@@ -49,23 +816,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 4935, 
+        "ne:hasPlace": 6, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822582", 
+          "woe:region=2345492", 
+          "woe:country=23424829"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "DE", 
+        "longitude": 13.420967466929199, 
+        "artisanal:id": 34822582, 
+        "latitude": 54.421198922366735, 
+        "woe:id": 34822582, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34822582, 
       "properties": {
         "ne:fid": 4935, 
         "ne:hasPlace": 6, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822582", 
+          "woe:region=2345492", 
+          "woe:country=23424829"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "DE", 
+        "longitude": 13.420967466929199, 
         "artisanal:id": 34822582, 
+        "latitude": 54.421198922366735, 
         "woe:id": 34822582, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    13.39569949713345, 
-    54.40055573182174, 
-    13.440141228904452, 
-    54.440036526092726
+  "alias_FRE_Q": [
+    "Allemagne"
   ]
 }

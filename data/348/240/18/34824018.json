@@ -1,5 +1,157 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "State of Israel"
+  ], 
+  "alias_ENG_A": [
+    "IL"
+  ], 
+  "alias_POL_Q": [
+    "Izrael"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 33.43338, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Yisra'el"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\uc774\uc2a4\ub77c\uc5d8"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23424996, 
+        "name": "Golan Heights"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345792, 
+        "name": "Central"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345794, 
+        "name": "Haifa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345796, 
+        "name": "Jerusalem"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345793, 
+        "name": "Northern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345791, 
+        "name": "Southern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345795, 
+        "name": "Tel Aviv"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Hungarian": [
+      "Izrael"
+    ], 
+    "Chinese": [
+      "\u4ee5\u8272\u5217"
+    ], 
+    "Czech": [
+      "Izrael"
+    ], 
+    "Unknown": [
+      "Izrael", 
+      "Yisra'el"
+    ], 
+    "Dutch": [
+      "Isra\u00ebl"
+    ], 
+    "Japanese": [
+      "\u30a4\u30b9\u30e9\u30a8\u30eb", 
+      "\u30a4\u30b9\u30e9\u30a8\u30eb\u56fd"
+    ], 
+    "French": [
+      "Isra\u00ebl"
+    ], 
+    "German": [
+      "Staat Israel"
+    ], 
+    "English": [
+      "IL", 
+      "State of Israel"
+    ], 
+    "Polish": [
+      "Izrael"
+    ], 
+    "Korean": [
+      "\uc774\uc2a4\ub77c\uc5d8"
+    ], 
+    "Italian": [
+      "Israele"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u4ee5\u8272\u5217"
+  ], 
+  "alias_ITA_Q": [
+    "Israele"
+  ], 
+  "woeid": 23424852, 
+  "alias_JPN_Q": [
+    "\u30a4\u30b9\u30e9\u30a8\u30eb"
+  ], 
+  "alias_JPN_V": [
+    "\u30a4\u30b9\u30e9\u30a8\u30eb\u56fd"
+  ], 
+  "sw_longitude": 34.2677, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 31.389299, 
+  "date_indexed": "2010-12-02T08:53:06.384Z", 
+  "alias_DUT_Q": [
+    "Isra\u00ebl"
+  ], 
+  "bbox": "29.4965,34.2677,33.43338,35.940941", 
+  "alias_CZE_Q": [
+    "Izrael"
+  ], 
+  "alias_GER_V": [
+    "Staat Israel"
+  ], 
+  "lang": "ENG", 
+  "name": "Israel", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Izrael"
+  ], 
+  "alias_HUN_Q": [
+    "Izrael"
+  ], 
+  "ne_longitude": 35.940941, 
+  "longitude": 35.36124, 
+  "iso": "IL", 
+  "sw_latitude": 29.4965, 
+  "fullname": "Israel", 
   "features": [
     {
       "geometry": {
@@ -45,23 +197,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 7099, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824018", 
+          "woe:region=2345793", 
+          "woe:country=23424852"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "IL", 
+        "longitude": 35.573677676818164, 
+        "artisanal:id": 34824018, 
+        "latitude": 33.19087144443934, 
+        "woe:id": 34824018, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34824018, 
       "properties": {
         "ne:fid": 7099, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824018", 
+          "woe:region=2345793", 
+          "woe:country=23424852"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "IL", 
+        "longitude": 35.573677676818164, 
         "artisanal:id": 34824018, 
+        "latitude": 33.19087144443934, 
         "woe:id": 34824018, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    35.54752566909704, 
-    33.16668386487481, 
-    35.60312951024312, 
-    33.222236029588586
+  "alias_FRE_Q": [
+    "Isra\u00ebl"
   ]
 }

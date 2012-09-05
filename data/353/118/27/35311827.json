@@ -1,5 +1,209 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Sahraouian"
+  ], 
+  "alias_SWE_V": [
+    "V\u00e4stsahara"
+  ], 
+  "alias_SWE_Q": [
+    "Spanska Sahara"
+  ], 
+  "alias_POL_Q": [
+    "Sahara Zachodnia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 27.702801, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Sahara Occidental\u0103"
+  ], 
+  "alias_UNK_V": [
+    "Vestsahara"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Sara Ocidental"
+  ], 
+  "alias_POR_Q": [
+    "Saara Ocidental"
+  ], 
+  "alias_ENG_A": [
+    "EH"
+  ], 
+  "alias_CZE_Q": [
+    "Z\u00e1padn\u00ed Sahara"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 56120087, 
+        "name": "Guelmim-Es Semara"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120089, 
+        "name": "La\u00e2youne-Boujdour-Sakia El Hamra"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120088, 
+        "name": "Oued Ed-Dahab-Lagouira"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 24549935, 
+        "name": "Oued Ed-Dahab"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 24549915, 
+        "name": "Sakia El Hamra"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "V\u00e4stsahara", 
+      "Spanska Sahara", 
+      "Vaestsahara"
+    ], 
+    "Danish": [
+      "Vestsahara"
+    ], 
+    "Hungarian": [
+      "Nyugat-Szahara"
+    ], 
+    "Chinese": [
+      "\u897f\u6492\u54c8\u62c9", 
+      "\u897f\u6492\u54c8\u62c9"
+    ], 
+    "Finnish": [
+      "Lansi-Sahara", 
+      "L\u00e4nsi-Sahara"
+    ], 
+    "Norwegian": [
+      "Vest-Sahara"
+    ], 
+    "Czech": [
+      "Z\u00e1padn\u00ed Sahara"
+    ], 
+    "Romanian": [
+      "Sahara Occidental\u0103"
+    ], 
+    "Dutch": [
+      "Sahara Westelijke", 
+      "Westelijke Sahara"
+    ], 
+    "Japanese": [
+      "\u897f\u30b5\u30cf\u30e9"
+    ], 
+    "French": [
+      "Sahara Occidental"
+    ], 
+    "German": [
+      "Westsahara"
+    ], 
+    "Portuguese": [
+      "Sara Ocidental", 
+      "Saara Ocidental"
+    ], 
+    "Unknown": [
+      "Zahodna Sahara", 
+      "Vestsahara"
+    ], 
+    "Spanish": [
+      "Sahara Occidental"
+    ], 
+    "English": [
+      "EH", 
+      "Sahraouian"
+    ], 
+    "Polish": [
+      "Sahara Zachodnia"
+    ], 
+    "Korean": [
+      "\uc11c\uc0ac\ud558\ub77c"
+    ], 
+    "Italian": [
+      "Sahara Occidentale"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u897f\u6492\u54c8\u62c9"
+  ], 
+  "alias_ITA_Q": [
+    "Sahara Occidentale"
+  ], 
+  "alias_CHI_V": [
+    "\u897f\u6492\u54c8\u62c9"
+  ], 
+  "woeid": 23424990, 
+  "alias_JPN_Q": [
+    "\u897f\u30b5\u30cf\u30e9"
+  ], 
+  "alias_SWE_S": [
+    "Vaestsahara"
+  ], 
+  "alias_SPA_Q": [
+    "Sahara Occidental"
+  ], 
+  "alias_FIN_Q": [
+    "L\u00e4nsi-Sahara"
+  ], 
+  "alias_FIN_S": [
+    "Lansi-Sahara"
+  ], 
+  "sw_longitude": -17.10317, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 24.23848, 
+  "alias_NOR_Q": [
+    "Vest-Sahara"
+  ], 
+  "date_indexed": "2010-12-02T16:12:23.588Z", 
+  "alias_KOR_Q": [
+    "\uc11c\uc0ac\ud558\ub77c"
+  ], 
+  "alias_DUT_Q": [
+    "Westelijke Sahara"
+  ], 
+  "bbox": "20.774151,-17.10317,27.702801,-8.66942", 
+  "alias_DUT_V": [
+    "Sahara Westelijke"
+  ], 
+  "alias_DAN_Q": [
+    "Vestsahara"
+  ], 
+  "alias_GER_Q": [
+    "Westsahara"
+  ], 
+  "lang": "ENG", 
+  "name": "Western Sahara", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Zahodna Sahara"
+  ], 
+  "alias_HUN_Q": [
+    "Nyugat-Szahara"
+  ], 
+  "ne_longitude": -8.66942, 
+  "longitude": -12.8863, 
+  "iso": "EH", 
+  "sw_latitude": 20.774151, 
+  "fullname": "Western Sahara", 
   "features": [
     {
       "geometry": {
@@ -49,23 +253,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1683, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311827", 
+          "woe:region=24549915", 
+          "woe:country=23424990"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "EH", 
+        "longitude": -13.194299191229815, 
+        "artisanal:id": 35311827, 
+        "latitude": 27.154849039925917, 
+        "woe:id": 35311827, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35311827, 
       "properties": {
         "ne:fid": 1683, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311827", 
+          "woe:region=24549915", 
+          "woe:country=23424990"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "EH", 
+        "longitude": -13.194299191229815, 
         "artisanal:id": 35311827, 
+        "latitude": 27.154849039925917, 
         "woe:id": 35311827, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -13.23308854822048, 
-    27.122272447207408, 
-    -13.155315517621219, 
-    27.18642873789777
+  "alias_FRE_Q": [
+    "Sahara Occidental"
   ]
 }

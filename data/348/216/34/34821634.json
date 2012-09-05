@@ -1,5 +1,249 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Peru"
+  ], 
+  "alias_ENG_A": [
+    "PE"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -0.01297, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Peru"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ud398\ub974"
+  ], 
+  "alias_KOR_Q": [
+    "\ud398\ub8e8"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346468, 
+        "name": "Amazonas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346469, 
+        "name": "Ancash"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346470, 
+        "name": "Apur\u00edmac"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346471, 
+        "name": "Arequipa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346472, 
+        "name": "Ayacucho"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346473, 
+        "name": "Cajamarca"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346475, 
+        "name": "Cusco"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346476, 
+        "name": "Huancavelica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346477, 
+        "name": "Hu\u00e1nuco"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346478, 
+        "name": "Ica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346479, 
+        "name": "Jun\u00edn"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346480, 
+        "name": "La Libertad"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346481, 
+        "name": "Lambayeque"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346482, 
+        "name": "Lima"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28358302, 
+        "name": "Lima Metropolitan Area"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346483, 
+        "name": "Loreto"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346484, 
+        "name": "Madre de Dios"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346485, 
+        "name": "Moquegua"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346486, 
+        "name": "Pasco"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346487, 
+        "name": "Piura"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346474, 
+        "name": "Provincia Constitucional del Callao"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346488, 
+        "name": "Puno"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346489, 
+        "name": "San Martin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346490, 
+        "name": "Tacna"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346491, 
+        "name": "Tumbes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346492, 
+        "name": "Ucayali"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 55857714, 
+        "name": "Lake Titicaca"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354475, 
+        "name": "Urambama River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u79d8\u9c81", 
+      "\u79d8\u9b6f"
+    ], 
+    "German": [
+      "Republik Peru"
+    ], 
+    "Unknown": [
+      "Republika Peru"
+    ], 
+    "Spanish": [
+      "Per\u00fa"
+    ], 
+    "Japanese": [
+      "\u30da\u30eb\u30fc", 
+      "\u30da\u30eb\u30fc\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "P\u00e9rou", 
+      "Perou"
+    ], 
+    "English": [
+      "PE", 
+      "Republic of Peru"
+    ], 
+    "Korean": [
+      "\ud398\ub974", 
+      "\ud398\ub8e8"
+    ], 
+    "Italian": [
+      "Per\u00f9"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u79d8\u9b6f"
+  ], 
+  "alias_ITA_Q": [
+    "Per\u00f9"
+  ], 
+  "alias_CHI_V": [
+    "\u79d8\u9c81"
+  ], 
+  "woeid": 23424919, 
+  "alias_JPN_Q": [
+    "\u30da\u30eb\u30fc"
+  ], 
+  "alias_JPN_V": [
+    "\u30da\u30eb\u30fc\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Per\u00fa"
+  ], 
+  "sw_longitude": -81.326736, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -9.18134, 
+  "date_indexed": "2010-12-02T16:12:16.566Z", 
+  "bbox": "-18.34972,-81.326736,-0.01297,-68.677979", 
+  "alias_GER_V": [
+    "Republik Peru"
+  ], 
+  "lang": "ENG", 
+  "name": "Peru", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "ne_longitude": -68.677979, 
+  "longitude": -75.002357, 
+  "iso": "PE", 
+  "sw_latitude": -18.34972, 
+  "fullname": "Peru", 
   "features": [
     {
       "geometry": {
@@ -49,23 +293,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 3552, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34821634", 
+          "woe:region=2346483", 
+          "woe:country=23424919"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "PE", 
+        "longitude": -73.25179949753803, 
+        "artisanal:id": 34821634, 
+        "latitude": -3.738788356184822, 
+        "woe:id": 34821634, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34821634, 
       "properties": {
         "ne:fid": 3552, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34821634", 
+          "woe:region=2346483", 
+          "woe:country=23424919"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "PE", 
+        "longitude": -73.25179949753803, 
         "artisanal:id": 34821634, 
+        "latitude": -3.738788356184822, 
         "woe:id": 34821634, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -73.27415239123411, 
-    -3.761165459817178, 
-    -73.22945227730163, 
-    -3.716465345884707
+  "alias_FRE_S": [
+    "Perou"
+  ], 
+  "alias_FRE_Q": [
+    "P\u00e9rou"
   ]
 }

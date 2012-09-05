@@ -1,5 +1,232 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Wyspy Dziewicze, Stan\u00f3w Zjednoczonych"
+  ], 
+  "alias_ENG_V": [
+    "United States Virgin Islands"
+  ], 
+  "alias_SWE_Q": [
+    "Amerikanska Jungfru\u00f6arna"
+  ], 
+  "alias_POL_Q": [
+    "Wyspy Dziewicze Stan\u00f3w Zjednoczonych"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 18.458139, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Insulele Virgine Americane"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ubbf8\ub839 \ubc84\uc9c4\uad70\ub3c4"
+  ], 
+  "alias_POR_V": [
+    "Ilhas Virgens"
+  ], 
+  "alias_POR_Q": [
+    "Ilhas Virgens Americanas"
+  ], 
+  "alias_ENG_A": [
+    "VI"
+  ], 
+  "alias_CZE_Q": [
+    "Americk\u00e9 Panensk\u00e9 Ostrovy"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 24549907, 
+        "name": "Saint Croix Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549908, 
+        "name": "Saint John Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549909, 
+        "name": "Saint Thomas Island"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Amerikanska Jungfru\u00f6arna", 
+      "Amerikanska Jungfruoarna"
+    ], 
+    "Danish": [
+      "De Amerikanske Jomfruoer", 
+      "Amerikanske Jomfru\u00f8er", 
+      "De Amerikanske Jomfru\u00f8er"
+    ], 
+    "Hungarian": [
+      "U.S. Virgin-szigetek", 
+      "Amerikai Virgin-Szigetek"
+    ], 
+    "Chinese": [
+      "\u7f8e\u5c5e\u7ef4\u4eac\u7fa4\u5c9b", 
+      "\u7f8e\u5c6c\u7dad\u4eac\u7fa4\u5cf6"
+    ], 
+    "Finnish": [
+      "Yhdysvaltain Neitsytsaaret"
+    ], 
+    "Norwegian": [
+      "De Amerikanske Jomfru\u00f8yene", 
+      "De Amerikanske Jomfruoyene"
+    ], 
+    "Czech": [
+      "Americk\u00e9 Panensk\u00e9 Ostrovy"
+    ], 
+    "Romanian": [
+      "Insulele Virgine Americane", 
+      "Insulele Virgine, SUA"
+    ], 
+    "Dutch": [
+      "Maagdeneilanden Amerikaanse", 
+      "Amerikaanse Maagdeneilanden"
+    ], 
+    "Japanese": [
+      "\u7c73\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6", 
+      "\u7c73\u9818\u30d0\u30fc\u30b8\u30f3\u8af8\u5cf6"
+    ], 
+    "French": [
+      "\u00celes Vierges Am\u00e9ricaines", 
+      "Iles Vierges des Etats Unis", 
+      "Iles Vierges des \u00c9tats-Unis"
+    ], 
+    "German": [
+      "Amerikanische Jungferninseln", 
+      "Jungfern-Inseln (USA)"
+    ], 
+    "Portuguese": [
+      "Ilhas Virgens", 
+      "Ilhas Virgens Americanas"
+    ], 
+    "Spanish": [
+      "Islas V\u00edrgenes, EE.UU.", 
+      "Islas Virgenes de Estados Unidos", 
+      "Islas V\u00edrgenes de Los Estados Unidos"
+    ], 
+    "English": [
+      "VI", 
+      "United States Virgin Islands"
+    ], 
+    "Polish": [
+      "Wyspy Dziewicze Stan\u00f3w Zjednoczonych", 
+      "Wyspy Dziewicze, Stan\u00f3w Zjednoczonych"
+    ], 
+    "Korean": [
+      "\ubbf8\ub839 \ubc84\uc9c4\uad70\ub3c4", 
+      "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
+    ], 
+    "Italian": [
+      "Isole Vergini", 
+      "Isole Vergini Americane"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7f8e\u5c6c\u7dad\u4eac\u7fa4\u5cf6"
+  ], 
+  "alias_ITA_Q": [
+    "Isole Vergini Americane"
+  ], 
+  "alias_GER_V": [
+    "Jungfern-Inseln (USA)"
+  ], 
+  "alias_ITA_V": [
+    "Isole Vergini"
+  ], 
+  "alias_CHI_V": [
+    "\u7f8e\u5c5e\u7ef4\u4eac\u7fa4\u5c9b"
+  ], 
+  "woeid": 23424985, 
+  "alias_JPN_Q": [
+    "\u7c73\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
+  ], 
+  "alias_SWE_S": [
+    "Amerikanska Jungfruoarna"
+  ], 
+  "alias_JPN_V": [
+    "\u7c73\u9818\u30d0\u30fc\u30b8\u30f3\u8af8\u5cf6"
+  ], 
+  "alias_SPA_Q": [
+    "Islas V\u00edrgenes de Los Estados Unidos"
+  ], 
+  "alias_FIN_Q": [
+    "Yhdysvaltain Neitsytsaaret"
+  ], 
+  "alias_SPA_S": [
+    "Islas Virgenes de Estados Unidos"
+  ], 
+  "sw_longitude": -65.086281, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 17.736549, 
+  "alias_NOR_S": [
+    "De Amerikanske Jomfruoyene"
+  ], 
+  "alias_NOR_Q": [
+    "De Amerikanske Jomfru\u00f8yene"
+  ], 
+  "date_indexed": "2010-12-02T16:14:08.151Z", 
+  "alias_FRE_V": [
+    "Iles Vierges des \u00c9tats-Unis"
+  ], 
+  "alias_KOR_Q": [
+    "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
+  ], 
+  "alias_DAN_V": [
+    "De Amerikanske Jomfru\u00f8er"
+  ], 
+  "alias_SPA_V": [
+    "Islas V\u00edrgenes, EE.UU."
+  ], 
+  "alias_DUT_Q": [
+    "Amerikaanse Maagdeneilanden"
+  ], 
+  "bbox": "17.681721,-65.086281,18.458139,-64.56517", 
+  "alias_DUT_V": [
+    "Maagdeneilanden Amerikaanse"
+  ], 
+  "alias_DAN_S": [
+    "De Amerikanske Jomfruoer"
+  ], 
+  "alias_DAN_Q": [
+    "Amerikanske Jomfru\u00f8er"
+  ], 
+  "alias_GER_Q": [
+    "Amerikanische Jungferninseln"
+  ], 
+  "lang": "ENG", 
+  "name": "US Virgin Islands", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "Amerikai Virgin-Szigetek"
+  ], 
+  "alias_HUN_V": [
+    "U.S. Virgin-szigetek"
+  ], 
+  "ne_longitude": -64.56517, 
+  "longitude": -64.73629, 
+  "iso": "VI", 
+  "sw_latitude": 17.681721, 
+  "alias_RUM_V": [
+    "Insulele Virgine, SUA"
+  ], 
+  "fullname": "US Virgin Islands", 
   "features": [
     {
       "geometry": {
@@ -53,23 +280,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2142, 
+        "ne:hasPlace": 0, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312173", 
+          "woe:region=24549907", 
+          "woe:country=23424985"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "VI", 
+        "longitude": -64.75979593602555, 
+        "artisanal:id": 35312173, 
+        "latitude": 17.725853740022618, 
+        "woe:id": 35312173, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35312173, 
       "properties": {
         "ne:fid": 2142, 
         "ne:hasPlace": 0, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312173", 
+          "woe:region=24549907", 
+          "woe:country=23424985"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "VI", 
+        "longitude": -64.75979593602555, 
         "artisanal:id": 35312173, 
+        "latitude": 17.725853740022618, 
         "woe:id": 35312173, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -64.7808465236871, 
-    17.70385508877129, 
-    -64.73630143905152, 
-    17.749666245998043
+  "alias_FRE_S": [
+    "Iles Vierges des Etats Unis"
+  ], 
+  "alias_FRE_Q": [
+    "\u00celes Vierges Am\u00e9ricaines"
   ]
 }

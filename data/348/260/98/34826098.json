@@ -1,5 +1,373 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Republika Korei"
+  ], 
+  "alias_ENG_V": [
+    "Southkorea"
+  ], 
+  "alias_SWE_Q": [
+    "Sydkorea"
+  ], 
+  "alias_POL_Q": [
+    "Korea Po\u0142udniowa"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 38.612301, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Coreea de Sud"
+  ], 
+  "alias_UNK_V": [
+    "Etel\u00e4-Korea"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\u5927\u97d3\u6c11\u56fd"
+  ], 
+  "alias_POR_V": [
+    "Cor\u00e9ia, Rep\u00fablica da"
+  ], 
+  "alias_POR_Q": [
+    "Cor\u00e9ia do Sul"
+  ], 
+  "alias_ENG_A": [
+    "KR"
+  ], 
+  "alias_CZE_Q": [
+    "Ji\u017en\u00ed Korea"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12496074, 
+        "name": "Huksan-chedo"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12496117, 
+        "name": "Koch'agun Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12495133, 
+        "name": "Quelpart Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12496113, 
+        "name": "Ui-gundo"
+      }
+    ], 
+    "HistoricalCounty": [
+      {
+        "placetype": "HistoricalCounty", 
+        "woeid": 28997250, 
+        "name": "\ub0a8\ub300\ubb38\ub85c3\uac00"
+      }, 
+      {
+        "placetype": "HistoricalCounty", 
+        "woeid": 28997253, 
+        "name": "\ubd09\ub798\ub3d9"
+      }, 
+      {
+        "placetype": "HistoricalCounty", 
+        "woeid": 28997279, 
+        "name": "\uc30d\ucd0c\ub3d9"
+      }, 
+      {
+        "placetype": "HistoricalCounty", 
+        "woeid": 28997338, 
+        "name": "\ud1a0\ud3c9\ub3d9"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345966, 
+        "name": "\uac15\uc6d0\ub3c4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345969, 
+        "name": "\uacbd\uae30\ub3c4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345967, 
+        "name": "\uacbd\uc0c1\ub0a8\ub3c4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345970, 
+        "name": "\uacbd\uc0c1\ubd81\ub3c4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345974, 
+        "name": "\uad11\uc8fc"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345971, 
+        "name": "\ub300\uad6c"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345975, 
+        "name": "\ub300\uc804"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345968, 
+        "name": "\ubd80\uc0b0"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069923, 
+        "name": "\uc11c\uc6b8"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 23701285, 
+        "name": "\uc6b8\uc0b0"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069922, 
+        "name": "\uc778\ucc9c"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345972, 
+        "name": "\uc804\ub77c\ub0a8\ub3c4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345964, 
+        "name": "\uc804\ub77c\ubd81\ub3c4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345963, 
+        "name": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345973, 
+        "name": "\ucda9\uccad\ub0a8\ub3c4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345965, 
+        "name": "\ucda9\uccad\ubd81\ub3c4"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354385, 
+        "name": "\uae08\uac15"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354384, 
+        "name": "\ub099\ub3d9\uac15"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 28742117, 
+        "name": "\ub0a8\ud3ec\ub9cc"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354386, 
+        "name": "\ud55c\uac15"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Sydkorea"
+    ], 
+    "Danish": [
+      "Sydkorea", 
+      "Republikken Korea"
+    ], 
+    "Hungarian": [
+      "Korea, D\u00e9l", 
+      "D\u00e9l-Korea"
+    ], 
+    "Chinese": [
+      "\u97d3\u570b", 
+      "\u97d3\u570b"
+    ], 
+    "Finnish": [
+      "Etel\u00e4-Korea", 
+      "Etela-Korea", 
+      "Korean Tasavalta"
+    ], 
+    "Norwegian": [
+      "S\u00f8r-Korea", 
+      "Sor-Korea", 
+      "Syd-Korea"
+    ], 
+    "Czech": [
+      "Ji\u017en\u00ed Korea"
+    ], 
+    "Romanian": [
+      "Coreea de Sud"
+    ], 
+    "Dutch": [
+      "Korea, Republiek", 
+      "Zuid-Korea"
+    ], 
+    "Japanese": [
+      "\u5927\u97d3\u6c11\u56fd", 
+      "\u97d3\u56fd\u3001\u5927\u97d3\u6c11\u56fd"
+    ], 
+    "French": [
+      "Cor\u00e9e du Sud", 
+      "Coree du Sud", 
+      "Cor\u00e9e"
+    ], 
+    "German": [
+      "S\u00fcdkorea", 
+      "Korea (Republik Korea, S\u00fcdkorea)"
+    ], 
+    "Portuguese": [
+      "Cor\u00e9ia, Rep\u00fablica da", 
+      "Cor\u00e9ia do Sul"
+    ], 
+    "Unknown": [
+      "Su\u00f0ur-K\u00f3rea", 
+      "Sor-Korea", 
+      "Etel\u00e4-Korea"
+    ], 
+    "Spanish": [
+      "Corea, Rep\u00fablica de", 
+      "Corea del Sur"
+    ], 
+    "English": [
+      "KR", 
+      "South Korea", 
+      "Southkorea"
+    ], 
+    "Polish": [
+      "Korea Po\u0142udniowa", 
+      "Republika Korei"
+    ], 
+    "Korean": [
+      "\u5927\u97d3\u6c11\u56fd"
+    ], 
+    "Italian": [
+      "Corea", 
+      "Corea del Sud"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u97d3\u570b"
+  ], 
+  "alias_ITA_Q": [
+    "Corea del Sud"
+  ], 
+  "alias_GER_V": [
+    "Korea (Republik Korea, S\u00fcdkorea)"
+  ], 
+  "alias_ITA_V": [
+    "Corea"
+  ], 
+  "alias_CHI_V": [
+    "\u97d3\u570b"
+  ], 
+  "woeid": 23424868, 
+  "alias_JPN_Q": [
+    "\u5927\u97d3\u6c11\u56fd"
+  ], 
+  "alias_ENG_P": [
+    "South Korea"
+  ], 
+  "alias_JPN_V": [
+    "\u97d3\u56fd\u3001\u5927\u97d3\u6c11\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Corea del Sur"
+  ], 
+  "alias_FIN_Q": [
+    "Korean Tasavalta"
+  ], 
+  "alias_FIN_S": [
+    "Etela-Korea"
+  ], 
+  "sw_longitude": 124.608147, 
+  "alias_FIN_V": [
+    "Etel\u00e4-Korea"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 36.448151, 
+  "alias_NOR_S": [
+    "Sor-Korea"
+  ], 
+  "alias_NOR_Q": [
+    "S\u00f8r-Korea"
+  ], 
+  "alias_NOR_V": [
+    "Syd-Korea"
+  ], 
+  "date_indexed": "2010-12-02T17:53:06.497Z", 
+  "adjacent": [], 
+  "alias_DAN_V": [
+    "Republikken Korea"
+  ], 
+  "alias_SPA_V": [
+    "Corea, Rep\u00fablica de"
+  ], 
+  "alias_DUT_Q": [
+    "Zuid-Korea"
+  ], 
+  "bbox": "33.10611,124.608147,38.612301,130.933899", 
+  "alias_DUT_V": [
+    "Korea, Republiek"
+  ], 
+  "alias_DAN_Q": [
+    "Sydkorea"
+  ], 
+  "alias_GER_Q": [
+    "S\u00fcdkorea"
+  ], 
+  "lang": "KOR", 
+  "name": "\ud55c\uad6d", 
+  "language": "Korean", 
+  "alias_UNK_S": [
+    "Sor-Korea"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Su\u00f0ur-K\u00f3rea"
+  ], 
+  "alias_HUN_Q": [
+    "D\u00e9l-Korea"
+  ], 
+  "alias_HUN_V": [
+    "Korea, D\u00e9l"
+  ], 
+  "ne_longitude": 130.933899, 
+  "longitude": 127.850166, 
+  "iso": "KR", 
+  "sw_latitude": 33.10611, 
+  "alias_FRE_V": [
+    "Cor\u00e9e"
+  ], 
+  "fullname": "\ud55c\uad6d, South Korea", 
   "features": [
     {
       "geometry": {
@@ -61,23 +429,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 10293, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826098", 
+          "woe:region=2345966", 
+          "woe:country=23424868"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "KR", 
+        "longitude": 127.89538816084067, 
+        "artisanal:id": 34826098, 
+        "latitude": 38.33725166768812, 
+        "woe:id": 34826098, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34826098, 
       "properties": {
         "ne:fid": 10293, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826098", 
+          "woe:region=2345966", 
+          "woe:country=23424868"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "KR", 
+        "longitude": 127.89538816084067, 
         "artisanal:id": 34826098, 
+        "latitude": 38.33725166768812, 
         "woe:id": 34826098, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    127.84990197154963, 
-    38.32195058852825, 
-    127.94994754446668, 
-    38.353576565090876
+  "alias_FRE_S": [
+    "Coree du Sud"
+  ], 
+  "alias_FRE_Q": [
+    "Cor\u00e9e du Sud"
   ]
 }

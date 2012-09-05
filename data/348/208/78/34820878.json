@@ -1,5 +1,354 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "French Republic"
+  ], 
+  "alias_SWE_Q": [
+    "Frankrike"
+  ], 
+  "alias_POL_Q": [
+    "Francja"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 51.089062, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Fran\u0163a"
+  ], 
+  "alias_UNK_V": [
+    "Franc\u00fazsko"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "P'urangsu"
+  ], 
+  "alias_POR_Q": [
+    "Fran\u00e7a"
+  ], 
+  "alias_ENG_A": [
+    "FRA"
+  ], 
+  "alias_POR_S": [
+    "Franca"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56045214, 
+        "name": "Communaut\u00e9 d'agglom\u00e9ration du Grand Avignon"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 23511799, 
+        "name": "Le Midi"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24602685, 
+        "name": "Normandie"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 24602686, 
+        "name": "Provence"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 7153330, 
+        "name": "Alsace"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153309, 
+        "name": "Aquitaine"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153310, 
+        "name": "Auvergne"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153311, 
+        "name": "Basse-Normandie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153312, 
+        "name": "Bourgogne"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153313, 
+        "name": "Bretagne"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153314, 
+        "name": "Centre"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153315, 
+        "name": "Champagne-Ardenne"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153316, 
+        "name": "Corse"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153317, 
+        "name": "Franche-Comt\u00e9"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153318, 
+        "name": "Haute-Normandie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153320, 
+        "name": "Languedoc-Roussillon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153321, 
+        "name": "Limousin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153322, 
+        "name": "Lorraine"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153323, 
+        "name": "Midi-Pyr\u00e9n\u00e9es"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153324, 
+        "name": "Nord-Pas-de-Calais"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153325, 
+        "name": "Pays de la Loire"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153326, 
+        "name": "Picardie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153327, 
+        "name": "Poitou-Charentes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153328, 
+        "name": "Provence-Alpes-C\u00f4te d'Azur"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153329, 
+        "name": "Rh\u00f4ne-Alpes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153319, 
+        "name": "\u00cele-de-France"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56058447, 
+        "name": "Parc National des Pyr\u00e9n\u00e9es"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56058446, 
+        "name": "Parc National des \u00c9crins"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56058449, 
+        "name": "Parc Naturel R\u00e9gional de Camargue"
+      }
+    ], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12473149, 
+        "name": "Corse"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Frankrike"
+    ], 
+    "Danish": [
+      "Frankrig"
+    ], 
+    "Hungarian": [
+      "Franciaorszag", 
+      "Franciaorsz\u00e1g"
+    ], 
+    "Chinese": [
+      "\u6cd5\u56fd", 
+      "\u6cd5\u570b"
+    ], 
+    "Finnish": [
+      "Ranskasta", 
+      "Ranska"
+    ], 
+    "Norwegian": [
+      "Frankrike"
+    ], 
+    "Czech": [
+      "Francie"
+    ], 
+    "Romanian": [
+      "Fran\u0163a"
+    ], 
+    "Dutch": [
+      "Frankrijk"
+    ], 
+    "Japanese": [
+      "\u30d5\u30e9\u30f3\u30b9", 
+      "\u30d5\u30e9\u30f3\u30b9\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Gallia", 
+      "R\u00e9publique Fran\u00e7aise"
+    ], 
+    "German": [
+      "Frankreich", 
+      "Franz\u00f6sische Republik", 
+      "Franzosische Republik"
+    ], 
+    "Portuguese": [
+      "Franca", 
+      "Fran\u00e7a"
+    ], 
+    "Unknown": [
+      "Frakkland", 
+      "Francuzsko", 
+      "Franc\u00fazsko"
+    ], 
+    "Spanish": [
+      "Francia"
+    ], 
+    "English": [
+      "FRA", 
+      "French Republic"
+    ], 
+    "Polish": [
+      "Francja"
+    ], 
+    "Korean": [
+      "P'urangsu", 
+      "\ud504\ub791\uc2a4"
+    ], 
+    "Italian": [
+      "Francia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u6cd5\u570b"
+  ], 
+  "alias_ITA_Q": [
+    "Francia"
+  ], 
+  "alias_GER_V": [
+    "Franz\u00f6sische Republik"
+  ], 
+  "alias_CHI_V": [
+    "\u6cd5\u56fd"
+  ], 
+  "woeid": 23424819, 
+  "alias_JPN_Q": [
+    "\u30d5\u30e9\u30f3\u30b9"
+  ], 
+  "alias_JPN_V": [
+    "\u30d5\u30e9\u30f3\u30b9\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Francia"
+  ], 
+  "alias_FIN_Q": [
+    "Ranska"
+  ], 
+  "sw_longitude": -5.1406, 
+  "alias_FIN_V": [
+    "Ranskasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 46.71067, 
+  "alias_NOR_Q": [
+    "Frankrike"
+  ], 
+  "date_indexed": "2010-12-02T12:04:01.132Z", 
+  "alias_KOR_Q": [
+    "\ud504\ub791\uc2a4"
+  ], 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Frankrijk"
+  ], 
+  "bbox": "41.33374,-5.1406,51.089062,9.55932", 
+  "alias_CZE_Q": [
+    "Francie"
+  ], 
+  "alias_DAN_Q": [
+    "Frankrig"
+  ], 
+  "alias_GER_Q": [
+    "Frankreich"
+  ], 
+  "alias_GER_S": [
+    "Franzosische Republik"
+  ], 
+  "lang": "FRE", 
+  "name": "France", 
+  "language": "French", 
+  "alias_UNK_S": [
+    "Francuzsko"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Frakkland"
+  ], 
+  "alias_HUN_Q": [
+    "Franciaorsz\u00e1g"
+  ], 
+  "ne_longitude": 9.55932, 
+  "longitude": 1.71819, 
+  "iso": "FR", 
+  "sw_latitude": 41.33374, 
+  "alias_HUN_S": [
+    "Franciaorszag"
+  ], 
+  "alias_FRE_V": [
+    "R\u00e9publique Fran\u00e7aise"
+  ], 
+  "fullname": "France", 
   "features": [
     {
       "geometry": {
@@ -149,23 +498,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2394, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820878", 
+          "woe:region=7153327", 
+          "woe:country=23424819"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "FR", 
+        "longitude": -0.9567870686259979, 
+        "artisanal:id": 34820878, 
+        "latitude": 45.94667384740213, 
+        "woe:id": 34820878, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820878, 
       "properties": {
         "ne:fid": 2394, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820878", 
+          "woe:region=7153327", 
+          "woe:country=23424819"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "FR", 
+        "longitude": -0.9567870686259979, 
         "artisanal:id": 34820878, 
+        "latitude": 45.94667384740213, 
         "woe:id": 34820878, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -1.012981736648157, 
-    45.900299384131486, 
-    -0.900947231439375, 
-    45.9892345241058
+  "alias_FRE_S": [
+    "Gallia"
   ]
 }

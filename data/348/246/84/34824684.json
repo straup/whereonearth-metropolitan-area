@@ -1,5 +1,206 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Rwanda"
+  ], 
+  "alias_ENG_A": [
+    "RW"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -1.05348, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Ruandska republika"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Ruanda"
+  ], 
+  "alias_KOR_Q": [
+    "\ub974\uc644\ub2e4"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 55864750, 
+        "name": "Kigali Province"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55864749, 
+        "name": "Province de l'Est"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55864753, 
+        "name": "Province de l'Ouest"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55864751, 
+        "name": "Province du Nord"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55864752, 
+        "name": "Province du Sud"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346939, 
+        "name": "Butare"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346940, 
+        "name": "Byumba"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346941, 
+        "name": "Cyangugu"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346942, 
+        "name": "Gikongoro"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346943, 
+        "name": "Gisenyi"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346944, 
+        "name": "Gitarama"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346945, 
+        "name": "Kibungo"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346946, 
+        "name": "Kibuye"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346947, 
+        "name": "Kigali"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346948, 
+        "name": "Ruhengeri"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u76e7\u5b89\u9054", 
+      "\u76e7\u5b89\u9054"
+    ], 
+    "Finnish": [
+      "Ruandasta", 
+      "Ruanda"
+    ], 
+    "Hungarian": [
+      "Ruanda"
+    ], 
+    "Portuguese": [
+      "Ruanda"
+    ], 
+    "German": [
+      "Ruanda", 
+      "Republik Ruanda"
+    ], 
+    "Unknown": [
+      "Rwandese Republic", 
+      "Ruandska republika"
+    ], 
+    "Spanish": [
+      "Ruanda"
+    ], 
+    "Japanese": [
+      "\u30eb\u30ef\u30f3\u30c0", 
+      "\u30eb\u30ef\u30f3\u30c0\u5171\u548c\u56fd"
+    ], 
+    "English": [
+      "RW", 
+      "Republic of Rwanda"
+    ], 
+    "Korean": [
+      "\ub974\uc644\ub2e4"
+    ], 
+    "Italian": [
+      "Ruanda"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u76e7\u5b89\u9054"
+  ], 
+  "alias_ITA_Q": [
+    "Ruanda"
+  ], 
+  "alias_CHI_V": [
+    "\u76e7\u5b89\u9054"
+  ], 
+  "woeid": 23424937, 
+  "alias_JPN_Q": [
+    "\u30eb\u30ef\u30f3\u30c0"
+  ], 
+  "alias_JPN_V": [
+    "\u30eb\u30ef\u30f3\u30c0\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Ruanda"
+  ], 
+  "alias_FIN_Q": [
+    "Ruanda"
+  ], 
+  "sw_longitude": 28.8568, 
+  "alias_FIN_V": [
+    "Ruandasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -1.94707, 
+  "date_indexed": "2010-12-02T09:35:48.762Z", 
+  "adjacent": [], 
+  "bbox": "-2.84067,28.8568,-1.05348,30.89596", 
+  "alias_GER_V": [
+    "Republik Ruanda"
+  ], 
+  "alias_GER_Q": [
+    "Ruanda"
+  ], 
+  "lang": "ENG", 
+  "name": "Rwanda", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Rwandese Republic"
+  ], 
+  "alias_HUN_Q": [
+    "Ruanda"
+  ], 
+  "ne_longitude": 30.89596, 
+  "longitude": 29.876381, 
+  "iso": "RW", 
+  "sw_latitude": -2.84067, 
+  "fullname": "Rwanda", 
   "features": [
     {
       "geometry": {
@@ -57,23 +258,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8133, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824684", 
+          "woe:region=55864753", 
+          "woe:country=23424937"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "RW", 
+        "longitude": 29.24417806616138, 
+        "artisanal:id": 34824684, 
+        "latitude": -1.672845277253531, 
+        "woe:id": 34824684, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34824684, 
       "properties": {
         "ne:fid": 8133, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824684", 
+          "woe:region=55864753", 
+          "woe:country=23424937"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "RW", 
+        "longitude": 29.24417806616138, 
         "artisanal:id": 34824684, 
+        "latitude": -1.672845277253531, 
         "woe:id": 34824684, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    29.20414025240501, 
-    -1.700826104340187, 
-    29.275350376103205, 
-    -1.648167819834768
   ]
 }

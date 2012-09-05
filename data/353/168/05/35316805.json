@@ -1,5 +1,216 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Mauritius"
+  ], 
+  "alias_ENG_A": [
+    "MU"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -10.31925, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Mauritius"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Maur\u00edcio"
+  ], 
+  "alias_POR_Q": [
+    "Maur\u00edcia"
+  ], 
+  "alias_KOR_Q": [
+    "\ubaa8\ub9ac\uc154\uc2a4"
+  ], 
+  "alias_POR_S": [
+    "Mauricia"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12466088, 
+        "name": "Mauritius"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12466118, 
+        "name": "Rodrigues"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12466107, 
+        "name": "South Island"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346237, 
+        "name": "Agalega Islands"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346228, 
+        "name": "Black River"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346238, 
+        "name": "Cargados Carajos"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346229, 
+        "name": "Flacq"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346230, 
+        "name": "Grand Port"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346231, 
+        "name": "Moka"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346232, 
+        "name": "Pamplemousses"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346233, 
+        "name": "Plaines Wilhems"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346234, 
+        "name": "Port Louis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346235, 
+        "name": "Riviere du Rempart"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346239, 
+        "name": "Rodrigues"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346236, 
+        "name": "Savanne"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Maur\u00edcio", 
+      "Mauricia", 
+      "Maur\u00edcia"
+    ], 
+    "Chinese": [
+      "\u6a21\u91cc\u897f\u65af", 
+      "\u6a21\u91cc\u897f\u65af"
+    ], 
+    "Czech": [
+      "Mauricius"
+    ], 
+    "Unknown": [
+      "M\u00e1rit\u00edus", 
+      "Maritius", 
+      "Republika Mauritius"
+    ], 
+    "Spanish": [
+      "Rep\u00fablica de Mauricio", 
+      "Mauricio"
+    ], 
+    "Japanese": [
+      "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9", 
+      "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Maurice", 
+      "Ile Maurice", 
+      "\u00cele Maurice"
+    ], 
+    "German": [
+      "Republik Mauritius"
+    ], 
+    "English": [
+      "MU", 
+      "Republic of Mauritius"
+    ], 
+    "Korean": [
+      "\ubaa8\ub9ac\uc154\uc2a4"
+    ], 
+    "Italian": [
+      "Maurizio"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u6a21\u91cc\u897f\u65af"
+  ], 
+  "alias_ITA_V": [
+    "Maurizio"
+  ], 
+  "alias_CHI_V": [
+    "\u6a21\u91cc\u897f\u65af"
+  ], 
+  "woeid": 23424894, 
+  "alias_JPN_Q": [
+    "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9"
+  ], 
+  "alias_JPN_V": [
+    "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Mauricio"
+  ], 
+  "sw_longitude": 56.512711, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -20.255409, 
+  "date_indexed": "2010-12-02T08:58:29.641Z", 
+  "alias_SPA_V": [
+    "Rep\u00fablica de Mauricio"
+  ], 
+  "bbox": "-20.525709,56.512711,-10.31925,63.525379", 
+  "alias_CZE_Q": [
+    "Mauricius"
+  ], 
+  "alias_GER_V": [
+    "Republik Mauritius"
+  ], 
+  "lang": "ENG", 
+  "name": "Mauritius", 
+  "language": "English", 
+  "alias_UNK_S": [
+    "Maritius"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "M\u00e1rit\u00edus"
+  ], 
+  "ne_longitude": 63.525379, 
+  "longitude": 57.551739, 
+  "iso": "MU", 
+  "sw_latitude": -20.525709, 
+  "alias_FRE_V": [
+    "\u00cele Maurice"
+  ], 
+  "fullname": "Mauritius", 
   "features": [
     {
       "geometry": {
@@ -197,23 +408,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8426, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35316805", 
+          "woe:region=2346231", 
+          "woe:country=23424894"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MU", 
+        "longitude": 57.49029227137605, 
+        "artisanal:id": 35316805, 
+        "latitude": -20.23769238596214, 
+        "woe:id": 35316805, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35316805, 
       "properties": {
         "ne:fid": 8426, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35316805", 
+          "woe:region=2346231", 
+          "woe:country=23424894"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MU", 
+        "longitude": 57.49029227137605, 
         "artisanal:id": 35316805, 
+        "latitude": -20.23769238596214, 
         "woe:id": 35316805, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    57.44386355980964, 
-    -20.331575209232426, 
-    57.53998172387253, 
-    -20.118513278893033
+  "alias_FRE_S": [
+    "Ile Maurice"
+  ], 
+  "alias_FRE_Q": [
+    "Maurice"
   ]
 }

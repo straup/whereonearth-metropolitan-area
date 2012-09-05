@@ -73,14 +73,40 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1295, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311535", 
+          "woe:region=2346269", 
+          "woe:country=23424900"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MX", 
+        "longitude": -104.3876282256466, 
+        "artisanal:id": 35311535, 
+        "latitude": 29.56889656132206, 
+        "woe:id": 35311535, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35311535, 
       "properties": {
         "ne:fid": 1295, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311535", 
+          "woe:region=2346269", 
+          "woe:country=23424900"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MX", 
+        "longitude": -104.3876282256466, 
         "artisanal:id": 35311535, 
+        "latitude": 29.56889656132206, 
         "woe:id": 35311535, 
         "ne:ScaleRank": 7
       }

@@ -1,5 +1,442 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Swiss"
+  ], 
+  "alias_KOR_Q": [
+    "\uc2a4\uc704\uc2a4"
+  ], 
+  "alias_POL_Q": [
+    "Szwajcaria"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 47.80838, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Elve\u0163ia"
+  ], 
+  "alias_UNK_V": [
+    "Suisu"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "Suweisu"
+  ], 
+  "alias_POR_V": [
+    "Sui\u00e7a"
+  ], 
+  "alias_POR_Q": [
+    "Su\u00ed\u00e7a"
+  ], 
+  "alias_ENG_A": [
+    "CHE"
+  ], 
+  "alias_POR_S": [
+    "Suica"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2347088, 
+        "name": "Canton de Fribourg"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347089, 
+        "name": "Canton de Gen\u00e8ve"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347108, 
+        "name": "Canton de Jura"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347094, 
+        "name": "Canton de Neuch\u00e2tel"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347104, 
+        "name": "Canton de Valais"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347105, 
+        "name": "Canton de Vaud"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347102, 
+        "name": "Cantone Ticino"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347083, 
+        "name": "Kanton Aargau"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347084, 
+        "name": "Kanton Appenzell Ausserrhoden"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347092, 
+        "name": "Kanton Appenzell Innerrhoden"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347085, 
+        "name": "Kanton Basel-Land"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347086, 
+        "name": "Kanton Basel-Stadt"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347087, 
+        "name": "Kanton Bern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347090, 
+        "name": "Kanton Glarus"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347091, 
+        "name": "Kanton Graub\u00fcnden"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347093, 
+        "name": "Kanton Luzern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347095, 
+        "name": "Kanton Nidwalden"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347096, 
+        "name": "Kanton Obwalden"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347098, 
+        "name": "Kanton Schaffhausen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347099, 
+        "name": "Kanton Schwyz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347100, 
+        "name": "Kanton Solothurn"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347097, 
+        "name": "Kanton St. Gallen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347101, 
+        "name": "Kanton Thurgau"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347103, 
+        "name": "Kanton Uri"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347106, 
+        "name": "Kanton Zug"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347107, 
+        "name": "Kanton Z\u00fcrich"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23701988, 
+        "name": "Eiger"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 28742099, 
+        "name": "La Dole"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 55863635, 
+        "name": "Mount Pilatus"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56057557, 
+        "name": "Schweizerischer Nationalpark"
+      }
+    ], 
+    "Zone": [
+      {
+        "placetype": "Zone", 
+        "woeid": 24874852, 
+        "name": "21 Lausanne"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874853, 
+        "name": "22 Geneve"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874854, 
+        "name": "24 Yverdon Aigle"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874855, 
+        "name": "26 Fribourg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874857, 
+        "name": "31 Bern"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874858, 
+        "name": "32 Bienne Neuch\u00e2tel Soleure Jura"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874861, 
+        "name": "41 Luzern"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874862, 
+        "name": "52 Winterthur"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874863, 
+        "name": "55 Rapperswil"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874865, 
+        "name": "61 Basel"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874866, 
+        "name": "62 Olten"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874867, 
+        "name": "71 Sankt Gallen"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874868, 
+        "name": "81 Chur"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874869, 
+        "name": "91 Bellinzona"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354227, 
+        "name": "Aare River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 23485641, 
+        "name": "Lac de Mauvoisin"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354224, 
+        "name": "Lac de Neuch\u00e2tel"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354226, 
+        "name": "Lake Leman"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Danish": [
+      "Schweiz"
+    ], 
+    "Hungarian": [
+      "Svajc", 
+      "Sv\u00e1jc"
+    ], 
+    "Chinese": [
+      "\u745e\u58eb"
+    ], 
+    "Finnish": [
+      "Sveitsist\u00e4", 
+      "Sveitsissa", 
+      "Sveitsi"
+    ], 
+    "Norwegian": [
+      "Sveits"
+    ], 
+    "Czech": [
+      "\u0160v\u00fdcarsko"
+    ], 
+    "Romanian": [
+      "Elve\u0163ia", 
+      "Eleve\u0163ia"
+    ], 
+    "Dutch": [
+      "Zwitserland"
+    ], 
+    "Japanese": [
+      "\u30b9\u30a4\u30b9", 
+      "\u30b9\u30a4\u30b9\u9023\u90a6"
+    ], 
+    "French": [
+      "Suisse", 
+      "Conf\u00e9d\u00e9ration Suisse"
+    ], 
+    "German": [
+      "Schweizerische Eidgenossenschaft"
+    ], 
+    "Portuguese": [
+      "Sui\u00e7a", 
+      "Suica", 
+      "Su\u00ed\u00e7a"
+    ], 
+    "Unknown": [
+      "Sviss", 
+      "Suisu"
+    ], 
+    "Spanish": [
+      "Suiza"
+    ], 
+    "English": [
+      "CHE", 
+      "Switzerland", 
+      "Swiss"
+    ], 
+    "Polish": [
+      "Szwajcaria"
+    ], 
+    "Korean": [
+      "Suweisu", 
+      "\uc2a4\uc704\uc2a4"
+    ], 
+    "Italian": [
+      "Confederazione Svizzera", 
+      "Svizzera"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u745e\u58eb"
+  ], 
+  "alias_ITA_Q": [
+    "Svizzera"
+  ], 
+  "alias_GER_V": [
+    "Schweizerische Eidgenossenschaft"
+  ], 
+  "alias_ITA_V": [
+    "Confederazione Svizzera"
+  ], 
+  "woeid": 23424957, 
+  "alias_JPN_Q": [
+    "\u30b9\u30a4\u30b9"
+  ], 
+  "alias_ENG_P": [
+    "Switzerland"
+  ], 
+  "alias_JPN_V": [
+    "\u30b9\u30a4\u30b9\u9023\u90a6"
+  ], 
+  "alias_SPA_Q": [
+    "Suiza"
+  ], 
+  "alias_FIN_Q": [
+    "Sveitsi"
+  ], 
+  "alias_FIN_S": [
+    "Sveitsissa"
+  ], 
+  "sw_longitude": 5.95587, 
+  "alias_FIN_V": [
+    "Sveitsist\u00e4"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 46.813202, 
+  "alias_NOR_Q": [
+    "Sveits"
+  ], 
+  "date_indexed": "2010-12-02T18:20:52.787Z", 
+  "alias_FRE_V": [
+    "Conf\u00e9d\u00e9ration Suisse"
+  ], 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Zwitserland"
+  ], 
+  "bbox": "45.81802,5.95587,47.80838,10.49203", 
+  "alias_CZE_Q": [
+    "\u0160v\u00fdcarsko"
+  ], 
+  "alias_DAN_Q": [
+    "Schweiz"
+  ], 
+  "lang": "GER", 
+  "name": "Schweiz", 
+  "language": "German", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Sviss"
+  ], 
+  "alias_HUN_Q": [
+    "Sv\u00e1jc"
+  ], 
+  "ne_longitude": 10.49203, 
+  "longitude": 8.22395, 
+  "iso": "CH", 
+  "sw_latitude": 45.81802, 
+  "alias_HUN_S": [
+    "Svajc"
+  ], 
+  "alias_RUM_V": [
+    "Eleve\u0163ia"
+  ], 
+  "fullname": "Schweiz, Switzerland", 
   "features": [
     {
       "geometry": {
@@ -109,23 +546,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 6175, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823388", 
+          "woe:region=2347105", 
+          "woe:country=23424957"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "CH", 
+        "longitude": 6.2480742639396265, 
+        "artisanal:id": 34823388, 
+        "latitude": 46.41164310063318, 
+        "woe:id": 34823388, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34823388, 
       "properties": {
         "ne:fid": 6175, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823388", 
+          "woe:region=2347105", 
+          "woe:country=23424957"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "CH", 
+        "longitude": 6.2480742639396265, 
         "artisanal:id": 34823388, 
+        "latitude": 46.41164310063318, 
         "woe:id": 34823388, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    6.19438195153171, 
-    46.36704092059169, 
-    6.307966749709266, 
-    46.45589854591756
+  "alias_FRE_Q": [
+    "Suisse"
   ]
 }

@@ -1,5 +1,7 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Socialist Republic of Montenegro"
+  ], 
   "features": [
     {
       "geometry": {
@@ -105,23 +107,252 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 6568, 
+        "ne:hasPlace": 0, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823642", 
+          "woe:region=29389238", 
+          "woe:country=20069817"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "ME", 
+        "longitude": 18.945156880845143, 
+        "artisanal:id": 34823642, 
+        "latitude": 42.80363647032925, 
+        "woe:id": 34823642, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34823642, 
       "properties": {
         "ne:fid": 6568, 
         "ne:hasPlace": 0, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823642", 
+          "woe:region=29389238", 
+          "woe:country=20069817"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "ME", 
+        "longitude": 18.945156880845143, 
         "artisanal:id": 34823642, 
+        "latitude": 42.80363647032925, 
         "woe:id": 34823642, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    18.87257449715534, 
-    42.76679555924916, 
-    19.007966749760044, 
-    42.855782375655764
+  "alias_POL_Q": [
+    "Czarnog\u00f3ra"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 43.542912, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Muntenegru"
+  ], 
+  "alias_UNK_V": [
+    "Republika Crna Gora"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\ubaac\ud14c\ub124\uadf8\ub85c"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 29389233, 
+        "name": "Andrijevica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389244, 
+        "name": "Bar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389228, 
+        "name": "Berane"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389227, 
+        "name": "Bijelo Polje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389243, 
+        "name": "Budva"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389242, 
+        "name": "Cetinje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389236, 
+        "name": "Danilovgrad"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389246, 
+        "name": "Herceg Novi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389235, 
+        "name": "Kola\u0161in"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389240, 
+        "name": "Kotor"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389232, 
+        "name": "Mojkovac"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389238, 
+        "name": "Nik\u0161i\u0107"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389239, 
+        "name": "Plav"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389226, 
+        "name": "Pljevlja"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389230, 
+        "name": "Plu\u017eine"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389237, 
+        "name": "Podgorica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389229, 
+        "name": "Ro\u017eaje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389245, 
+        "name": "Tivat"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389241, 
+        "name": "Ulcinj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389234, 
+        "name": "\u0160avnik"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29389231, 
+        "name": "\u017dabljak"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u8499\u7279\u5167\u54e5\u7f85", 
+      "\u8499\u7279\u5167\u54e5\u7f85"
+    ], 
+    "Hungarian": [
+      "Montenegr\u00f3"
+    ], 
+    "Czech": [
+      "\u010cern\u00e1 Hora"
+    ], 
+    "Romanian": [
+      "Muntenegru"
+    ], 
+    "Japanese": [
+      "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed"
+    ], 
+    "French": [
+      "Mont\u00e9n\u00e9gro", 
+      "R\u00e9publique du Mont\u00e9n\u00e9gro"
+    ], 
+    "Unknown": [
+      "Crna Gora", 
+      "Republika Crna Gora"
+    ], 
+    "English": [
+      "Socialist Republic of Montenegro"
+    ], 
+    "Polish": [
+      "Czarnog\u00f3ra"
+    ], 
+    "Korean": [
+      "\ubaac\ud14c\ub124\uadf8\ub85c"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u8499\u7279\u5167\u54e5\u7f85"
+  ], 
+  "alias_CHI_V": [
+    "\u8499\u7279\u5167\u54e5\u7f85"
+  ], 
+  "woeid": 20069817, 
+  "alias_JPN_Q": [
+    "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed"
+  ], 
+  "sw_longitude": 18.43705, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 42.697552, 
+  "date_indexed": "2010-12-02T07:50:42.534Z", 
+  "bbox": "41.84808,18.43705,43.542912,20.41608", 
+  "alias_CZE_Q": [
+    "\u010cern\u00e1 Hora"
+  ], 
+  "lang": "ENG", 
+  "name": "Montenegro", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Crna Gora"
+  ], 
+  "alias_HUN_Q": [
+    "Montenegr\u00f3"
+  ], 
+  "ne_longitude": 20.41608, 
+  "longitude": 19.43227, 
+  "iso": "ME", 
+  "sw_latitude": 41.84808, 
+  "alias_FRE_V": [
+    "R\u00e9publique du Mont\u00e9n\u00e9gro"
+  ], 
+  "fullname": "Montenegro", 
+  "alias_FRE_Q": [
+    "Mont\u00e9n\u00e9gro"
   ]
 }

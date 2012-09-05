@@ -1,5 +1,202 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Kenya"
+  ], 
+  "alias_KOR_Q": [
+    "\ucf00\ub0d0"
+  ], 
+  "alias_POL_Q": [
+    "Kenia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 4.62933, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Kenija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Qu\u00eania"
+  ], 
+  "alias_POR_Q": [
+    "Qu\u00e9nia"
+  ], 
+  "alias_ENG_A": [
+    "KE"
+  ], 
+  "alias_POR_S": [
+    "Quenia"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345937, 
+        "name": "Central"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345938, 
+        "name": "Coast"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345939, 
+        "name": "Eastern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345940, 
+        "name": "Nairobi Area"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345941, 
+        "name": "North-Eastern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345942, 
+        "name": "Nyanza"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345943, 
+        "name": "Rift Valley"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345944, 
+        "name": "Western"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 55863409, 
+        "name": "Masai Mara"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23701981, 
+        "name": "Mount Kenya"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354369, 
+        "name": "Lake Turkana"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Qu\u00eania", 
+      "Quenia", 
+      "Qu\u00e9nia"
+    ], 
+    "Spanish": [
+      "Kenia"
+    ], 
+    "Chinese": [
+      "\u80af\u5c3c\u4e9a", 
+      "\u80af\u4e9e"
+    ], 
+    "Finnish": [
+      "Keniasta", 
+      "Kenian"
+    ], 
+    "Czech": [
+      "Ke\u0148a"
+    ], 
+    "Unknown": [
+      "Kenija", 
+      "Republika Kenija"
+    ], 
+    "Dutch": [
+      "Kenia"
+    ], 
+    "Japanese": [
+      "\u30b1\u30cb\u30a2", 
+      "\u30b1\u30cb\u30e4"
+    ], 
+    "German": [
+      "Kenia", 
+      "Republik Kenia"
+    ], 
+    "English": [
+      "KE", 
+      "Republic of Kenya"
+    ], 
+    "Polish": [
+      "Kenia"
+    ], 
+    "Korean": [
+      "\ucf00\ub0d0"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u80af\u4e9e"
+  ], 
+  "alias_CHI_V": [
+    "\u80af\u5c3c\u4e9a"
+  ], 
+  "woeid": 23424863, 
+  "alias_JPN_Q": [
+    "\u30b1\u30cb\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30b1\u30cb\u30e4"
+  ], 
+  "alias_SPA_Q": [
+    "Kenia"
+  ], 
+  "alias_FIN_Q": [
+    "Kenian"
+  ], 
+  "sw_longitude": 33.90884, 
+  "alias_FIN_V": [
+    "Keniasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -0.02435, 
+  "date_indexed": "2010-12-02T08:53:57.862Z", 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Kenia"
+  ], 
+  "bbox": "-4.71712,33.90884,4.62933,41.899059", 
+  "alias_CZE_Q": [
+    "Ke\u0148a"
+  ], 
+  "alias_GER_V": [
+    "Republik Kenia"
+  ], 
+  "alias_GER_Q": [
+    "Kenia"
+  ], 
+  "lang": "ENG", 
+  "name": "Kenya", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Kenija"
+  ], 
+  "ne_longitude": 41.899059, 
+  "longitude": 37.90395, 
+  "iso": "KE", 
+  "sw_latitude": -4.71712, 
+  "fullname": "Kenya", 
   "features": [
     {
       "geometry": {
@@ -37,23 +234,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8123, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824678", 
+          "woe:region=2345937", 
+          "woe:country=23424863"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "KE", 
+        "longitude": 36.917205545581986, 
+        "artisanal:id": 34824678, 
+        "latitude": -0.9467315416156517, 
+        "woe:id": 34824678, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34824678, 
       "properties": {
         "ne:fid": 8123, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824678", 
+          "woe:region=2345937", 
+          "woe:country=23424863"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "KE", 
+        "longitude": 36.917205545581986, 
         "artisanal:id": 34824678, 
+        "latitude": -0.9467315416156517, 
         "woe:id": 34824678, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    36.891733025873265, 
-    -0.964798679207036, 
-    36.94723351415473, 
-    -0.934154554857955
   ]
 }

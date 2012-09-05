@@ -1,5 +1,188 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Laos"
+  ], 
+  "alias_KOR_Q": [
+    "\ub77c\uc624\uc2a4"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 22.500389, 
+  "supercedes": [], 
+  "placetype": "Country", 
+  "alias_ENG_A": [
+    "LA"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070159, 
+        "name": "Attapu"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070156, 
+        "name": "Bokeo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070163, 
+        "name": "Bolikhamxai"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070160, 
+        "name": "Champasak"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346001, 
+        "name": "Houaphan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070161, 
+        "name": "Khammouan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346003, 
+        "name": "Louang Namtha Province"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346004, 
+        "name": "Louangphabang"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346005, 
+        "name": "Oudomxai"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346006, 
+        "name": "Phongsali"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070157, 
+        "name": "Salavan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346008, 
+        "name": "Savannahkhet"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070162, 
+        "name": "Viangchan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070164, 
+        "name": "Viangchan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070158, 
+        "name": "Xekong"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346010, 
+        "name": "Xiagnabouli"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346011, 
+        "name": "Xiangkhoang"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u5bee\u570b", 
+      "\u5bee\u570b"
+    ], 
+    "Hungarian": [
+      "Laoszi N\u00e9pi Demokratikus K\u00f6zt\u00e1rsas\u00e1g", 
+      "Laosz"
+    ], 
+    "German": [
+      "Volksrepublik Lao"
+    ], 
+    "Unknown": [
+      "Sathalanalat Paxathipatai Paxaxon Lao"
+    ], 
+    "Spanish": [
+      "Republica Democratica Popular de Lao"
+    ], 
+    "Japanese": [
+      "\u30e9\u30aa\u30b9\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd", 
+      "\u30e9\u30aa\u30b9"
+    ], 
+    "English": [
+      "LA", 
+      "Republic of Laos"
+    ], 
+    "Korean": [
+      "\ub77c\uc624\uc2a4"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5bee\u570b"
+  ], 
+  "alias_CHI_V": [
+    "\u5bee\u570b"
+  ], 
+  "woeid": 23424872, 
+  "alias_JPN_Q": [
+    "\u30e9\u30aa\u30b9"
+  ], 
+  "alias_JPN_V": [
+    "\u30e9\u30aa\u30b9\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": 100.093048, 
+  "adjacent": [], 
+  "alias_SPA_V": [
+    "Republica Democratica Popular de Lao"
+  ], 
+  "latitude": 18.20521, 
+  "date_indexed": "2010-12-02T16:42:51.947Z", 
+  "provider": "geoplanet 7.6.0", 
+  "bbox": "13.91002,100.093048,22.500389,107.697021", 
+  "alias_GER_V": [
+    "Volksrepublik Lao"
+  ], 
+  "lang": "ENG", 
+  "name": "Laos", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Sathalanalat Paxathipatai Paxaxon Lao"
+  ], 
+  "alias_HUN_Q": [
+    "Laosz"
+  ], 
+  "alias_HUN_V": [
+    "Laoszi N\u00e9pi Demokratikus K\u00f6zt\u00e1rsas\u00e1g"
+  ], 
+  "ne_longitude": 107.697021, 
+  "longitude": 105.45118, 
+  "iso": "LA", 
+  "sw_latitude": 13.91002, 
+  "fullname": "Laos", 
   "features": [
     {
       "geometry": {
@@ -145,23 +328,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 11366, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826772", 
+          "woe:region=20070162", 
+          "woe:country=23424872"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "LA", 
+        "longitude": 102.62672891026729, 
+        "artisanal:id": 34826772, 
+        "latitude": 17.97561571008322, 
+        "woe:id": 34826772, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34826772, 
       "properties": {
         "ne:fid": 11366, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826772", 
+          "woe:region=20070162", 
+          "woe:country=23424872"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "LA", 
+        "longitude": 102.62672891026729, 
         "artisanal:id": 34826772, 
+        "latitude": 17.97561571008322, 
         "woe:id": 34826772, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    102.54271284384421, 
-    17.925211086493533, 
-    102.70973107301157, 
-    18.027969672105925
   ]
 }

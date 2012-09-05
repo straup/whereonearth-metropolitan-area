@@ -1,5 +1,554 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Slovenian"
+  ], 
+  "alias_SWE_Q": [
+    "Slovenien"
+  ], 
+  "alias_POL_Q": [
+    "S\u0142owenia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 46.87788, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Slovenia"
+  ], 
+  "alias_UNK_V": [
+    "Republika Slovenija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Eslov\u00eania"
+  ], 
+  "alias_POR_Q": [
+    "Eslov\u00e9nia"
+  ], 
+  "alias_ENG_A": [
+    "SI"
+  ], 
+  "children": {
+    "placetype": [], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23702012, 
+        "name": "Triglav"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 55848341, 
+        "name": "Ajdovscina"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848342, 
+        "name": "Brezice"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848343, 
+        "name": "Celje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848344, 
+        "name": "Cerknica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848345, 
+        "name": "Crnomelj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848346, 
+        "name": "Domzale"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848347, 
+        "name": "Dravograd"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848348, 
+        "name": "Gornja Radgona"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848349, 
+        "name": "Grosuplje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848350, 
+        "name": "Hrastnik"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848351, 
+        "name": "Idrija"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848352, 
+        "name": "Ilirska Bistrica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848353, 
+        "name": "Izola"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848354, 
+        "name": "Jesenice"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848355, 
+        "name": "Kamnik"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848356, 
+        "name": "Kocevje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848357, 
+        "name": "Koper"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848358, 
+        "name": "Kranj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848359, 
+        "name": "Krsko"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848360, 
+        "name": "Lasko"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848361, 
+        "name": "Lenart"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848362, 
+        "name": "Lendava"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848363, 
+        "name": "Litija"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848364, 
+        "name": "Ljubljana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848365, 
+        "name": "Ljutomer"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848366, 
+        "name": "Logatec"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848367, 
+        "name": "Maribor"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848368, 
+        "name": "Metlika"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848369, 
+        "name": "Mozirje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848370, 
+        "name": "Murska Sobota"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848371, 
+        "name": "Nova Gorica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848372, 
+        "name": "Novo Mesto"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848373, 
+        "name": "Ormoz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848374, 
+        "name": "Pesnica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848375, 
+        "name": "Piran"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848376, 
+        "name": "Postojna"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848377, 
+        "name": "Ptuj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848378, 
+        "name": "Radlje Ob Dravi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848379, 
+        "name": "Radovljica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848380, 
+        "name": "Ravne Na Koroskem"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848381, 
+        "name": "Ribnica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848382, 
+        "name": "Ruse"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848383, 
+        "name": "Sentjur Pri Celju"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848384, 
+        "name": "Sevnica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848385, 
+        "name": "Sezana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848386, 
+        "name": "Skofja Loka"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848387, 
+        "name": "Slovenj Gradec"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848388, 
+        "name": "Slovenska Bistrica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848389, 
+        "name": "Slovenske Konjice"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848390, 
+        "name": "Smarje Pri Jelsah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848391, 
+        "name": "Tolmin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848392, 
+        "name": "Trbovlje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848393, 
+        "name": "Trebnje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848394, 
+        "name": "Trzic"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848395, 
+        "name": "Velenje"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848396, 
+        "name": "Vrhnika"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848397, 
+        "name": "Zagorje Ob Savi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848398, 
+        "name": "Zalec"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701293, 
+        "name": "Celje"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701294, 
+        "name": "Koper"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701295, 
+        "name": "Kranj"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701296, 
+        "name": "Ljubljana"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701297, 
+        "name": "Maribor"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701298, 
+        "name": "Murska Sobota"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701299, 
+        "name": "Nova Gorica"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 23701300, 
+        "name": "Novo mesto"
+      }
+    ], 
+    "Zone": [
+      {
+        "placetype": "Zone", 
+        "woeid": 24874532, 
+        "name": "1 Ljubljana"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874533, 
+        "name": "2 Maribor"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874534, 
+        "name": "3 Celje"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874535, 
+        "name": "4 Kranj"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874536, 
+        "name": "5 Nova Gorica"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874537, 
+        "name": "7 Novo Mesto"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Slovenien"
+    ], 
+    "Danish": [
+      "Slovenien"
+    ], 
+    "Hungarian": [
+      "Szlovenia", 
+      "Szlov\u00e9nia"
+    ], 
+    "Chinese": [
+      "\u65af\u6d1b\u7dad\u5c3c\u4e9e", 
+      "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
+    ], 
+    "Finnish": [
+      "Slovenia"
+    ], 
+    "Norwegian": [
+      "Slovenia"
+    ], 
+    "Czech": [
+      "Slovinsko"
+    ], 
+    "Romanian": [
+      "Slovenia"
+    ], 
+    "Dutch": [
+      "Slovenie", 
+      "Sloveni\u00eb"
+    ], 
+    "Japanese": [
+      "\u30b9\u30ed\u30d9\u30cb\u30a2", 
+      "\u30b9\u30ed\u30d9\u30cb\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Slov\u00e9nie", 
+      "Slovenie"
+    ], 
+    "German": [
+      "Slowenien"
+    ], 
+    "Portuguese": [
+      "Eslov\u00eania", 
+      "Eslov\u00e9nia"
+    ], 
+    "Unknown": [
+      "Sl\u00f3ven\u00eda", 
+      "Republika Slovenija"
+    ], 
+    "Spanish": [
+      "Eslovenia"
+    ], 
+    "English": [
+      "SI", 
+      "Slovenia", 
+      "Slovenian"
+    ], 
+    "Polish": [
+      "S\u0142owenia"
+    ], 
+    "Korean": [
+      "\uc2ac\ub85c\ubca0\ub2c8\uc544"
+    ], 
+    "Italian": [
+      "Slovenia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
+  ], 
+  "alias_ITA_Q": [
+    "Slovenia"
+  ], 
+  "alias_CHI_V": [
+    "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
+  ], 
+  "woeid": 23424945, 
+  "alias_JPN_Q": [
+    "\u30b9\u30ed\u30d9\u30cb\u30a2"
+  ], 
+  "alias_ENG_P": [
+    "Slovenia"
+  ], 
+  "alias_JPN_V": [
+    "\u30b9\u30ed\u30d9\u30cb\u30a2\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Eslovenia"
+  ], 
+  "alias_FIN_Q": [
+    "Slovenia"
+  ], 
+  "sw_longitude": 13.37551, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 46.146938, 
+  "alias_NOR_Q": [
+    "Slovenia"
+  ], 
+  "date_indexed": "2010-12-02T09:58:07.54Z", 
+  "alias_KOR_Q": [
+    "\uc2ac\ub85c\ubca0\ub2c8\uc544"
+  ], 
+  "alias_DUT_Q": [
+    "Sloveni\u00eb"
+  ], 
+  "alias_DUT_S": [
+    "Slovenie"
+  ], 
+  "bbox": "45.416,13.37551,46.87788,16.59656", 
+  "alias_CZE_Q": [
+    "Slovinsko"
+  ], 
+  "alias_DAN_Q": [
+    "Slovenien"
+  ], 
+  "alias_GER_Q": [
+    "Slowenien"
+  ], 
+  "lang": "UNK", 
+  "name": "Slovenija", 
+  "language": "Unknown", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Sl\u00f3ven\u00eda"
+  ], 
+  "alias_HUN_Q": [
+    "Szlov\u00e9nia"
+  ], 
+  "ne_longitude": 16.59656, 
+  "longitude": 14.95505, 
+  "iso": "SI", 
+  "sw_latitude": 45.416, 
+  "alias_HUN_S": [
+    "Szlovenia"
+  ], 
+  "fullname": "Slovenija, Slovenia", 
   "features": [
     {
       "geometry": {
@@ -45,23 +594,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 6144, 
+        "ne:hasPlace": 6, 
+        "hierarchy": [
+          "woe:metropolitan-area=35315149", 
+          "woe:region=55848370", 
+          "woe:country=23424945"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "SI", 
+        "longitude": 16.156863841491578, 
+        "artisanal:id": 35315149, 
+        "latitude": 46.68007803672343, 
+        "woe:id": 35315149, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35315149, 
       "properties": {
         "ne:fid": 6144, 
         "ne:hasPlace": 6, 
+        "hierarchy": [
+          "woe:metropolitan-area=35315149", 
+          "woe:region=55848370", 
+          "woe:country=23424945"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "SI", 
+        "longitude": 16.156863841491578, 
         "artisanal:id": 35315149, 
+        "latitude": 46.68007803672343, 
         "woe:id": 35315149, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    16.131243116936048, 
-    46.6448017441605, 
-    16.18054243334251, 
-    46.71141266538473
+  "alias_FRE_S": [
+    "Slovenie"
+  ], 
+  "alias_FRE_Q": [
+    "Slov\u00e9nie"
   ]
 }

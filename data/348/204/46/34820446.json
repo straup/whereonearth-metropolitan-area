@@ -1,5 +1,149 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Ghanaian"
+  ], 
+  "alias_KOR_Q": [
+    "\uac00\ub098"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 11.1733, 
+  "supercedes": [], 
+  "ne_longitude": 1.19178, 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Gana"
+  ], 
+  "alias_ENG_A": [
+    "GH"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345463, 
+        "name": "Ashanti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345464, 
+        "name": "Brong-Ahafo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345465, 
+        "name": "Central"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345466, 
+        "name": "Eastern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345462, 
+        "name": "Greater Accra"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345467, 
+        "name": "Northern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345470, 
+        "name": "Upper East"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345471, 
+        "name": "Upper West"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345468, 
+        "name": "Volta"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345469, 
+        "name": "Western"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Gana"
+    ], 
+    "Chinese": [
+      "\u8fe6\u7d0d", 
+      "\u8fe6\u7d0d"
+    ], 
+    "Hungarian": [
+      "Gh\u00e1na"
+    ], 
+    "German": [
+      "Republik Ghana"
+    ], 
+    "Unknown": [
+      "Republika Gana"
+    ], 
+    "Japanese": [
+      "\u30ac\u30fc\u30ca\u5171\u548c\u56fd", 
+      "\u30ac\u30fc\u30fc\u30ca"
+    ], 
+    "English": [
+      "GH", 
+      "Ghanaian"
+    ], 
+    "Korean": [
+      "\uac00\ub098"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u8fe6\u7d0d"
+  ], 
+  "alias_CHI_V": [
+    "\u8fe6\u7d0d"
+  ], 
+  "woeid": 23424824, 
+  "alias_JPN_Q": [
+    "\u30ac\u30fc\u30fc\u30ca"
+  ], 
+  "alias_JPN_V": [
+    "\u30ac\u30fc\u30ca\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": -3.25542, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 7.95501, 
+  "date_indexed": "2010-12-02T17:57:50.258Z", 
+  "bbox": "4.73672,-3.25542,11.1733,1.19178", 
+  "alias_GER_V": [
+    "Republik Ghana"
+  ], 
+  "lang": "ENG", 
+  "name": "Ghana", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "Gh\u00e1na"
+  ], 
+  "alias_UNK_V": [
+    "Republika Gana"
+  ], 
+  "longitude": -1.03182, 
+  "iso": "GH", 
+  "sw_latitude": 4.73672, 
+  "fullname": "Ghana", 
   "features": [
     {
       "geometry": {
@@ -49,23 +193,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1711, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820446", 
+          "woe:region=2345470", 
+          "woe:country=23424824"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "GH", 
+        "longitude": -0.23714505399199617, 
+        "artisanal:id": 34820446, 
+        "latitude": 11.052806844426781, 
+        "woe:id": 34820446, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820446, 
       "properties": {
         "ne:fid": 1711, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820446", 
+          "woe:region=2345470", 
+          "woe:country=23424824"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "GH", 
+        "longitude": -0.23714505399199617, 
         "artisanal:id": 34820446, 
+        "latitude": 11.052806844426781, 
         "woe:id": 34820446, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -0.255121018871677, 
-    11.032815253132625, 
-    -0.2162603417882, 
-    11.077205308471349
   ]
 }

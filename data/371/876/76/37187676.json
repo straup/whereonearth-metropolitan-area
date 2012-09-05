@@ -1,5 +1,248 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Mongolian"
+  ], 
+  "alias_SWE_Q": [
+    "Mongoliet"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 52.154099, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Mongol Ard Uls"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Mong\u00f3lia"
+  ], 
+  "alias_KOR_Q": [
+    "\ubabd\uace8"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Timezone": [
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350819, 
+        "name": "Asia/Choibalsan"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350828, 
+        "name": "Asia/Hovd"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 28350862, 
+        "name": "Asia/Ulaanbaatar"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346157, 
+        "name": "Arhangay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346159, 
+        "name": "Bayan-Olgiy"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346158, 
+        "name": "Bayanhongor"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346174, 
+        "name": "Bulgan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070014, 
+        "name": "Darhan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346160, 
+        "name": "Dornod"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346161, 
+        "name": "Dornogovi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346162, 
+        "name": "Dundgovi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346163, 
+        "name": "Dzavhan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070015, 
+        "name": "Erdenet"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346164, 
+        "name": "Govi-Altay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346165, 
+        "name": "Hentiy"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346166, 
+        "name": "Hovd"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346167, 
+        "name": "Hovsgol"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346168, 
+        "name": "Omnogov"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346169, 
+        "name": "Ovorhangay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346170, 
+        "name": "Selenge"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346171, 
+        "name": "Suhbaatar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346172, 
+        "name": "Tov"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070016, 
+        "name": "Ulaanbaatar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346173, 
+        "name": "Uvs"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Mongoliet"
+    ], 
+    "Danish": [
+      "Mongoliet"
+    ], 
+    "Hungarian": [
+      "Mong\u00f3lia"
+    ], 
+    "Chinese": [
+      "\u8499\u53e4"
+    ], 
+    "Portuguese": [
+      "Mong\u00f3lia"
+    ], 
+    "Czech": [
+      "Mongolsko"
+    ], 
+    "Unknown": [
+      "Mongolija", 
+      "Mongol Ard Uls"
+    ], 
+    "Dutch": [
+      "Mongoli\u00eb"
+    ], 
+    "Japanese": [
+      "\u30e2\u30f3\u30b4\u30eb", 
+      "\u30e2\u30f3\u30b4\u30eb\u56fd"
+    ], 
+    "French": [
+      "Mongolie"
+    ], 
+    "German": [
+      "Mongolei"
+    ], 
+    "English": [
+      "MN", 
+      "Mongolian"
+    ], 
+    "Korean": [
+      "\ubabd\uace8"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u8499\u53e4"
+  ], 
+  "woeid": 23424887, 
+  "alias_JPN_Q": [
+    "\u30e2\u30f3\u30b4\u30eb"
+  ], 
+  "alias_JPN_V": [
+    "\u30e2\u30f3\u30b4\u30eb\u56fd"
+  ], 
+  "sw_longitude": 87.749496, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 46.860802, 
+  "date_indexed": "2010-12-02T08:53:23.398Z", 
+  "alias_ENG_A": [
+    "MN"
+  ], 
+  "alias_DUT_Q": [
+    "Mongoli\u00eb"
+  ], 
+  "bbox": "41.567501,87.749496,52.154099,119.92411", 
+  "alias_CZE_Q": [
+    "Mongolsko"
+  ], 
+  "alias_DAN_Q": [
+    "Mongoliet"
+  ], 
+  "alias_GER_Q": [
+    "Mongolei"
+  ], 
+  "lang": "ENG", 
+  "name": "Mongolia", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Mongolija"
+  ], 
+  "alias_HUN_Q": [
+    "Mong\u00f3lia"
+  ], 
+  "ne_longitude": 119.92411, 
+  "longitude": 103.836807, 
+  "iso": "MN", 
+  "sw_latitude": 41.567501, 
+  "fullname": "Mongolia", 
   "features": [
     {
       "geometry": {
@@ -117,23 +360,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 9994, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=37187676", 
+          "woe:region=20070016", 
+          "woe:country=23424887"
+        ], 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MN", 
+        "longitude": 106.91063829263068, 
+        "artisanal:id": 37187676, 
+        "latitude": 47.907702559638544, 
+        "woe:id": 37187676, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 37187676, 
       "properties": {
         "ne:fid": 9994, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=37187676", 
+          "woe:region=20070016", 
+          "woe:country=23424887"
+        ], 
         "artisanal:foundry": "http://www.londonintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MN", 
+        "longitude": 106.91063829263068, 
         "artisanal:id": 37187676, 
+        "latitude": 47.907702559638544, 
         "woe:id": 37187676, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    106.8090157409967, 
-    47.87154857033728, 
-    107.00910688683084, 
-    47.959605210962636
+  "alias_FRE_Q": [
+    "Mongolie"
   ]
 }

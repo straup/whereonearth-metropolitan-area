@@ -1,5 +1,143 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Kingdom of Nepal"
+  ], 
+  "alias_ENG_A": [
+    "NP"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 30.433001, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Kraljevina Nepal"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\ub124\ud314"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070018, 
+        "name": "Madhya Pashchimanchal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070029, 
+        "name": "Madhyamanchal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070026, 
+        "name": "Pashchimanchal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070023, 
+        "name": "Purwanchal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070030, 
+        "name": "Sudur Pashchimanchal"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23701979, 
+        "name": "Annapurna"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23509198, 
+        "name": "Mount Everest"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u5c3c\u6cca\u723e", 
+      "\u5c3c\u6cca\u723e"
+    ], 
+    "Hungarian": [
+      "Nep\u00e1l"
+    ], 
+    "Czech": [
+      "Nep\u00e1l"
+    ], 
+    "Unknown": [
+      "Kraljevina Nepal"
+    ], 
+    "Japanese": [
+      "\u30cd\u30d1\u30fc\u30eb", 
+      "\u30cd\u30d1\u30fc\u30eb\u738b\u56fd"
+    ], 
+    "French": [
+      "N\u00e9pal"
+    ], 
+    "German": [
+      "K\u00f6nigreich Nepal", 
+      "Konigreich Nepal"
+    ], 
+    "English": [
+      "NP", 
+      "Kingdom of Nepal"
+    ], 
+    "Korean": [
+      "\ub124\ud314"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5c3c\u6cca\u723e"
+  ], 
+  "alias_CHI_V": [
+    "\u5c3c\u6cca\u723e"
+  ], 
+  "woeid": 23424911, 
+  "alias_JPN_Q": [
+    "\u30cd\u30d1\u30fc\u30eb"
+  ], 
+  "alias_JPN_V": [
+    "\u30cd\u30d1\u30fc\u30eb\u738b\u56fd"
+  ], 
+  "sw_longitude": 80.056221, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 28.394751, 
+  "date_indexed": "2010-12-02T18:18:47.52Z", 
+  "bbox": "26.356501,80.056221,30.433001,88.199318", 
+  "alias_CZE_Q": [
+    "Nep\u00e1l"
+  ], 
+  "alias_GER_V": [
+    "K\u00f6nigreich Nepal"
+  ], 
+  "alias_GER_S": [
+    "Konigreich Nepal"
+  ], 
+  "lang": "ENG", 
+  "name": "Nepal", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "Nep\u00e1l"
+  ], 
+  "ne_longitude": 88.199318, 
+  "longitude": 84.127769, 
+  "iso": "NP", 
+  "sw_latitude": 26.356501, 
+  "fullname": "Nepal", 
   "features": [
     {
       "geometry": {
@@ -37,23 +175,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8729, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825080", 
+          "woe:region=20070026", 
+          "woe:country=23424911"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "NP", 
+        "longitude": 83.71147002348343, 
+        "artisanal:id": 34825080, 
+        "latitude": 28.797418157515832, 
+        "woe:id": 34825080, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34825080, 
       "properties": {
         "ne:fid": 8729, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825080", 
+          "woe:region=20070026", 
+          "woe:country=23424911"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "NP", 
+        "longitude": 83.71147002348343, 
         "artisanal:id": 34825080, 
+        "latitude": 28.797418157515832, 
         "woe:id": 34825080, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    83.68577599481046, 
-    28.76661652273482, 
-    83.72939090366481, 
-    28.83327912039134
+  "alias_FRE_Q": [
+    "N\u00e9pal"
   ]
 }

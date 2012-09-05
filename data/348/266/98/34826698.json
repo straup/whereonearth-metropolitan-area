@@ -1,5 +1,312 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Formoza"
+  ], 
+  "alias_ENG_V": [
+    "Formosa"
+  ], 
+  "alias_SWE_Q": [
+    "Taiwan"
+  ], 
+  "alias_POL_Q": [
+    "Tajwan"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 26.392, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Taiwan"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ub300\ub9cc"
+  ], 
+  "alias_POR_Q": [
+    "Ilha de Formosa"
+  ], 
+  "alias_ENG_A": [
+    "ROC"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 20070335, 
+        "name": "Taiwan Province"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 20070332, 
+        "name": "\u798f\u5efa\u7701"
+      }
+    ], 
+    "HistoricalCounty": [
+      {
+        "placetype": "HistoricalCounty", 
+        "woeid": 28754877, 
+        "name": "\u7165\u660c\u91cc"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 55863654, 
+        "name": "\u592a\u9b6f\u95a3\u570b\u5bb6\u516c\u5712"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2347339, 
+        "name": "\u5357\u6295\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28751584, 
+        "name": "\u53f0\u4e2d\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070333, 
+        "name": "\u53f0\u5317\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070568, 
+        "name": "\u53f0\u5317\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28751581, 
+        "name": "\u53f0\u5357\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347344, 
+        "name": "\u53f0\u6771\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28751583, 
+        "name": "\u5609\u7fa9\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153409, 
+        "name": "\u5609\u7fa9\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 22695855, 
+        "name": "\u57fa\u9686\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347336, 
+        "name": "\u5b9c\u862d\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347340, 
+        "name": "\u5c4f\u6771\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070572, 
+        "name": "\u5f70\u5316\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070569, 
+        "name": "\u65b0\u5317\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28751582, 
+        "name": "\u65b0\u7af9\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347334, 
+        "name": "\u65b0\u7af9\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347345, 
+        "name": "\u6843\u5712\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 22695856, 
+        "name": "\u6f8e\u6e56\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347335, 
+        "name": "\u82b1\u84ee\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347338, 
+        "name": "\u82d7\u6817\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28760734, 
+        "name": "\u9023\u6c5f\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 28760735, 
+        "name": "\u91d1\u9580\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347346, 
+        "name": "\u96f2\u6797\u7e23"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070334, 
+        "name": "\u9ad8\u96c4\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070570, 
+        "name": "\u9ad8\u96c4\u5e02"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Taiwan"
+    ], 
+    "Danish": [
+      "Taiwan"
+    ], 
+    "Portuguese": [
+      "Ilha de Formosa"
+    ], 
+    "Chinese": [
+      "\u53f0\u7063"
+    ], 
+    "Finnish": [
+      "Taiwan"
+    ], 
+    "Norwegian": [
+      "Taiwan"
+    ], 
+    "Czech": [
+      "Tchaj-wan", 
+      "Tajwan"
+    ], 
+    "Romanian": [
+      "Taiwan"
+    ], 
+    "Dutch": [
+      "Taiwan"
+    ], 
+    "Japanese": [
+      "\u53f0\u6e7e"
+    ], 
+    "French": [
+      "Ta\u00efwan"
+    ], 
+    "German": [
+      "Taiwan"
+    ], 
+    "Unknown": [
+      "Ta\u00edvan", 
+      "Taivan"
+    ], 
+    "Spanish": [
+      "Taiw\u00e1n", 
+      "Isla de Taiw\u00e1n"
+    ], 
+    "English": [
+      "ROC", 
+      "Taiwan", 
+      "Formosa"
+    ], 
+    "Polish": [
+      "Tajwan", 
+      "Formoza"
+    ], 
+    "Korean": [
+      "\ub300\ub9cc", 
+      "\ud0c0\uc774\uc644 \uc12c"
+    ]
+  }, 
+  "alias_CHI_V": [
+    "\u53f0\u7063"
+  ], 
+  "woeid": 23424971, 
+  "alias_JPN_Q": [
+    "\u53f0\u6e7e"
+  ], 
+  "alias_ENG_P": [
+    "Taiwan"
+  ], 
+  "alias_SPA_Q": [
+    "Isla de Taiw\u00e1n"
+  ], 
+  "alias_FIN_Q": [
+    "Taiwan"
+  ], 
+  "sw_longitude": 118.214111, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 23.599751, 
+  "alias_NOR_Q": [
+    "Taiwan"
+  ], 
+  "date_indexed": "2010-12-02T16:16:00.063Z", 
+  "alias_KOR_Q": [
+    "\ud0c0\uc774\uc644 \uc12c"
+  ], 
+  "alias_SPA_V": [
+    "Taiw\u00e1n"
+  ], 
+  "alias_DUT_Q": [
+    "Taiwan"
+  ], 
+  "bbox": "21.901501,118.214111,26.392,122.100502", 
+  "alias_CZE_Q": [
+    "Tchaj-wan"
+  ], 
+  "alias_DAN_Q": [
+    "Taiwan"
+  ], 
+  "alias_GER_Q": [
+    "Taiwan"
+  ], 
+  "lang": "CHI", 
+  "name": "\u81fa\u7063", 
+  "language": "Chinese", 
+  "alias_CZE_V": [
+    "Tajwan"
+  ], 
+  "alias_UNK_S": [
+    "Taivan"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Ta\u00edvan"
+  ], 
+  "ne_longitude": 122.100502, 
+  "longitude": 121.023811, 
+  "iso": "TW", 
+  "sw_latitude": 21.901501, 
+  "fullname": "\u81fa\u7063, Taiwan", 
   "features": [
     {
       "geometry": {
@@ -89,23 +396,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 11263, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826698", 
+          "woe:region=20070335", 
+          "woe:country=23424971"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "TW", 
+        "longitude": 121.60010248721767, 
+        "artisanal:id": 34826698, 
+        "latitude": 23.99252955692172, 
+        "woe:id": 34826698, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34826698, 
       "properties": {
         "ne:fid": 11263, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826698", 
+          "woe:region=20070335", 
+          "woe:country=23424971"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "TW", 
+        "longitude": 121.60010248721767, 
         "artisanal:id": 34826698, 
+        "latitude": 23.99252955692172, 
         "woe:id": 34826698, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    121.56212039600365, 
-    23.94830597584054, 
-    121.6291964051185, 
-    24.0487391219998
+  "alias_FRE_Q": [
+    "Ta\u00efwan"
   ]
 }

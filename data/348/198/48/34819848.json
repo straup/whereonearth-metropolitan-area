@@ -1,5 +1,301 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Nigerian"
+  ], 
+  "alias_ENG_A": [
+    "NG"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 13.892, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Zvezna republika Nigerija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Nig\u00e9ria"
+  ], 
+  "alias_KOR_Q": [
+    "\ub098\uc774\uc9c0\ub9ac\uc544"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346362, 
+        "name": "Abia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346363, 
+        "name": "Adamawa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346349, 
+        "name": "Akwa Ibom"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346353, 
+        "name": "Anambra"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346343, 
+        "name": "Bauchi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070152, 
+        "name": "Bayelsa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346354, 
+        "name": "Benue"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346355, 
+        "name": "Borno"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346350, 
+        "name": "Cross River"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346364, 
+        "name": "Delta"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070153, 
+        "name": "Ebonyi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346365, 
+        "name": "Edo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070151, 
+        "name": "Ekiti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346366, 
+        "name": "Enugu"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346345, 
+        "name": "Federal Capital Territory"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070155, 
+        "name": "Gombe"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346356, 
+        "name": "Imo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346367, 
+        "name": "Jigawa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346351, 
+        "name": "Kaduna"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346357, 
+        "name": "Kano"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346352, 
+        "name": "Katsina"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346368, 
+        "name": "Kebbi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346369, 
+        "name": "Kogi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346358, 
+        "name": "Kwara"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346342, 
+        "name": "Lagos"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070154, 
+        "name": "Nassarawa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346359, 
+        "name": "Niger"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346346, 
+        "name": "Ogun"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346347, 
+        "name": "Ondo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346370, 
+        "name": "Osun"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346360, 
+        "name": "Oyo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346348, 
+        "name": "Plateau"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346344, 
+        "name": "Rivers"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346361, 
+        "name": "Sokoto"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346371, 
+        "name": "Taraba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346372, 
+        "name": "Yobe"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070150, 
+        "name": "Zamfara"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354126, 
+        "name": "Niger River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Nig\u00e9ria"
+    ], 
+    "Chinese": [
+      "\u5948\u53ca\u5229\u4e9e", 
+      "\u5948\u53ca\u5229\u4e9e"
+    ], 
+    "Hungarian": [
+      "Nig\u00e9ria"
+    ], 
+    "Czech": [
+      "Nig\u00e9rie"
+    ], 
+    "Unknown": [
+      "Nigerija", 
+      "Zvezna republika Nigerija"
+    ], 
+    "Japanese": [
+      "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2", 
+      "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2\u9023\u90a6\u5171\u548c\u56fd"
+    ], 
+    "German": [
+      "Bundesrepublik Nigeria"
+    ], 
+    "English": [
+      "NG", 
+      "Nigerian"
+    ], 
+    "Korean": [
+      "\ub098\uc774\uc9c0\ub9ac\uc544"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5948\u53ca\u5229\u4e9e"
+  ], 
+  "alias_CHI_V": [
+    "\u5948\u53ca\u5229\u4e9e"
+  ], 
+  "woeid": 23424908, 
+  "alias_JPN_Q": [
+    "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2\u9023\u90a6\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": 2.66844, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 9.08457, 
+  "date_indexed": "2010-12-02T09:35:13.899Z", 
+  "bbox": "4.27714,2.66844,13.892,14.68006", 
+  "alias_CZE_Q": [
+    "Nig\u00e9rie"
+  ], 
+  "alias_GER_V": [
+    "Bundesrepublik Nigeria"
+  ], 
+  "lang": "ENG", 
+  "name": "Nigeria", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Nigerija"
+  ], 
+  "alias_HUN_Q": [
+    "Nig\u00e9ria"
+  ], 
+  "ne_longitude": 14.68006, 
+  "longitude": 8.67425, 
+  "iso": "NG", 
+  "sw_latitude": 4.27714, 
+  "fullname": "Nigeria", 
   "features": [
     {
       "geometry": {
@@ -133,23 +429,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 847, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819848", 
+          "woe:region=2346361", 
+          "woe:country=23424908"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "NG", 
+        "longitude": 5.23765771336629, 
+        "artisanal:id": 34819848, 
+        "latitude": 13.064863069189903, 
+        "woe:id": 34819848, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34819848, 
       "properties": {
         "ne:fid": 847, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819848", 
+          "woe:region=2346361", 
+          "woe:country=23424908"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "NG", 
+        "longitude": 5.23765771336629, 
         "artisanal:id": 34819848, 
+        "latitude": 13.064863069189903, 
         "woe:id": 34819848, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    5.173255649444286, 
-    12.999465236864452, 
-    5.289630974965604, 
-    13.135891018115004
   ]
 }

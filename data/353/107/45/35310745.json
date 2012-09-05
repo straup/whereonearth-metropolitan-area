@@ -1,5 +1,214 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Rep. Tajikistan"
+  ], 
+  "alias_SWE_Q": [
+    "Tadzjikistan"
+  ], 
+  "alias_POL_Q": [
+    "Tad\u017cykistan"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 41.04224, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Tadjikistan"
+  ], 
+  "alias_UNK_V": [
+    "Tojikistan"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ud0c0\uc9c0\ud06c\uc2a4\ud0c4"
+  ], 
+  "alias_POR_V": [
+    "Tajiquist\u00e3o"
+  ], 
+  "alias_POR_Q": [
+    "Tadjiquist\u00e3o"
+  ], 
+  "alias_ENG_A": [
+    "TJ"
+  ], 
+  "alias_POR_S": [
+    "Tajiquistao"
+  ], 
+  "alias_CZE_Q": [
+    "T\u00e1d\u017eikist\u00e1n"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070297, 
+        "name": "Karategin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070295, 
+        "name": "Khatlon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070296, 
+        "name": "Kuhistoni Badakhshon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070294, 
+        "name": "Leninobod"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Tadzjikistan"
+    ], 
+    "Danish": [
+      "Tadsjikistan"
+    ], 
+    "Hungarian": [
+      "Tadzsikiszt\u00e1n", 
+      "T\u00e1dzsikiszt\u00e1n"
+    ], 
+    "Chinese": [
+      "\u5854\u5409\u514b\u65af\u5766", 
+      "\u5854\u5409\u514b\u65af\u5766"
+    ], 
+    "Finnish": [
+      "Tadzikistan", 
+      "Tad\u017eikistan"
+    ], 
+    "Norwegian": [
+      "Tadsjikistan"
+    ], 
+    "Czech": [
+      "T\u00e1d\u017eikist\u00e1n"
+    ], 
+    "Romanian": [
+      "Tadjikistan"
+    ], 
+    "Dutch": [
+      "Tadjzjikistan", 
+      "Tadzjikistan"
+    ], 
+    "Japanese": [
+      "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3", 
+      "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Tadjikistan"
+    ], 
+    "German": [
+      "Tadschikistan", 
+      "Republik Tadschikistan"
+    ], 
+    "Portuguese": [
+      "Tajiquist\u00e3o", 
+      "Tajiquistao", 
+      "Tadjiquist\u00e3o"
+    ], 
+    "Unknown": [
+      "Tojikistan"
+    ], 
+    "Spanish": [
+      "Tayikistan", 
+      "Tayikist\u00e1n"
+    ], 
+    "English": [
+      "TJ", 
+      "Rep. Tajikistan"
+    ], 
+    "Polish": [
+      "Tad\u017cykistan"
+    ], 
+    "Korean": [
+      "\ud0c0\uc9c0\ud06c\uc2a4\ud0c4", 
+      "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
+    ], 
+    "Italian": [
+      "Tagikistan"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5854\u5409\u514b\u65af\u5766"
+  ], 
+  "alias_ITA_Q": [
+    "Tagikistan"
+  ], 
+  "alias_GER_V": [
+    "Republik Tadschikistan"
+  ], 
+  "alias_CHI_V": [
+    "\u5854\u5409\u514b\u65af\u5766"
+  ], 
+  "woeid": 23424961, 
+  "alias_JPN_Q": [
+    "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3"
+  ], 
+  "alias_JPN_V": [
+    "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Tayikist\u00e1n"
+  ], 
+  "alias_FIN_Q": [
+    "Tad\u017eikistan"
+  ], 
+  "alias_SPA_S": [
+    "Tayikistan"
+  ], 
+  "alias_FIN_S": [
+    "Tadzikistan"
+  ], 
+  "sw_longitude": 67.387131, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 38.858189, 
+  "alias_NOR_Q": [
+    "Tadsjikistan"
+  ], 
+  "date_indexed": "2010-12-02T12:16:45.404Z", 
+  "alias_KOR_Q": [
+    "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
+  ], 
+  "alias_DUT_Q": [
+    "Tadzjikistan"
+  ], 
+  "bbox": "36.674141,67.387131,41.04224,75.137222", 
+  "alias_DUT_V": [
+    "Tadjzjikistan"
+  ], 
+  "alias_DAN_Q": [
+    "Tadsjikistan"
+  ], 
+  "alias_GER_Q": [
+    "Tadschikistan"
+  ], 
+  "lang": "ENG", 
+  "name": "Tajikistan", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "T\u00e1dzsikiszt\u00e1n"
+  ], 
+  "alias_HUN_V": [
+    "Tadzsikiszt\u00e1n"
+  ], 
+  "ne_longitude": 75.137222, 
+  "longitude": 71.262177, 
+  "iso": "TJ", 
+  "sw_latitude": 36.674141, 
+  "fullname": "Tajikistan", 
   "features": [
     {
       "geometry": {
@@ -65,23 +274,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 275, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=35310745", 
+          "woe:region=20070294", 
+          "woe:country=23424961"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "TJ", 
+        "longitude": 70.34893507794617, 
+        "artisanal:id": 35310745, 
+        "latitude": 40.782023289433134, 
+        "woe:id": 35310745, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35310745, 
       "properties": {
         "ne:fid": 275, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=35310745", 
+          "woe:region=20070294", 
+          "woe:country=23424961"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "TJ", 
+        "longitude": 70.34893507794617, 
         "artisanal:id": 35310745, 
+        "latitude": 40.782023289433134, 
         "woe:id": 35310745, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    70.31956342965282, 
-    40.743973293616065, 
-    70.38798302600725, 
-    40.81063589127258
+  "alias_FRE_Q": [
+    "Tadjikistan"
   ]
 }

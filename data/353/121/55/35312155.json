@@ -1,5 +1,494 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Bahamas"
+  ], 
+  "alias_SWE_Q": [
+    "Bahamas"
+  ], 
+  "alias_POL_Q": [
+    "Bahamy"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 27.933781, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Bahamas"
+  ], 
+  "alias_UNK_V": [
+    "Zveza Bahami"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Baamas"
+  ], 
+  "alias_POR_Q": [
+    "Bahamas"
+  ], 
+  "alias_ENG_A": [
+    "BS"
+  ], 
+  "alias_CZE_Q": [
+    "Bahamy"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28358288, 
+        "name": "The Abacos"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344778, 
+        "name": "Acklins"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551241, 
+        "name": "Berry Islands"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344769, 
+        "name": "Bimini"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551258, 
+        "name": "Black Point"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344770, 
+        "name": "Cat Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551242, 
+        "name": "Central Abaco"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551243, 
+        "name": "Central Andros"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551244, 
+        "name": "Central Eleuthera"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344779, 
+        "name": "City of Freeport"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551238, 
+        "name": "Crooked Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551245, 
+        "name": "East Grand Bahama"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344771, 
+        "name": "Exuma"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551246, 
+        "name": "Grand Cay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344776, 
+        "name": "Harbour Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551240, 
+        "name": "Hope Town"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344772, 
+        "name": "Inagua"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344773, 
+        "name": "Long Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551247, 
+        "name": "Mangrove Cay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344774, 
+        "name": "Mayaguana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551248, 
+        "name": "Moore's Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344777, 
+        "name": "New Providence"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551249, 
+        "name": "North Abaco"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551250, 
+        "name": "North Andros"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551251, 
+        "name": "North Eleuthera"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344775, 
+        "name": "Ragged Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551252, 
+        "name": "Rum Cay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344789, 
+        "name": "San Salvador"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551253, 
+        "name": "South Abaco"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551254, 
+        "name": "South Andros"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551255, 
+        "name": "South Eleuthera"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551256, 
+        "name": "Spanish Wells"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24551257, 
+        "name": "West Grand Bahama"
+      }
+    ], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12481769, 
+        "name": "Aklin Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12506258, 
+        "name": "Andros"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481270, 
+        "name": "Andros Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481279, 
+        "name": "Base Line Cay"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481768, 
+        "name": "Berry"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481703, 
+        "name": "Bimini Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481770, 
+        "name": "Cat Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481780, 
+        "name": "Crooked Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481781, 
+        "name": "Eleuthera Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481717, 
+        "name": "Exuma Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12506257, 
+        "name": "Grand Bahama Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481262, 
+        "name": "Great Abaco Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481405, 
+        "name": "Great Exuma Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481771, 
+        "name": "Great Harbour Cay"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481778, 
+        "name": "Guanahani Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481783, 
+        "name": "Inagua Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481534, 
+        "name": "Island of New Providence"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12506249, 
+        "name": "Long Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481521, 
+        "name": "Mariguana Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481525, 
+        "name": "Middle Bight Cay"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481528, 
+        "name": "Moore's Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481538, 
+        "name": "North Bimini"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481575, 
+        "name": "Ragged Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481749, 
+        "name": "Ragged Island Range"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481585, 
+        "name": "Rum Cay Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12481640, 
+        "name": "Tilloo Cay Island"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Bahamas"
+    ], 
+    "Danish": [
+      "Bahamas"
+    ], 
+    "Hungarian": [
+      "Baham\u00e1k", 
+      "Bahama-Szigetek"
+    ], 
+    "Chinese": [
+      "\u5df4\u54c8\u9a6c", 
+      "\u5df4\u54c8\u99ac"
+    ], 
+    "Finnish": [
+      "Bahamasta", 
+      "Bahama"
+    ], 
+    "Norwegian": [
+      "Bahamas"
+    ], 
+    "Czech": [
+      "Bahamy"
+    ], 
+    "Romanian": [
+      "Bahamas"
+    ], 
+    "Dutch": [
+      "Bahama\u2019s", 
+      "Bahama's"
+    ], 
+    "Japanese": [
+      "\u30d0\u30cf\u30de", 
+      "\u30d0\u30cf\u30de\u56fd"
+    ], 
+    "French": [
+      "Bahamas", 
+      "Bahamas, Iles", 
+      "Bahamas, \u00celes"
+    ], 
+    "German": [
+      "Bahamas", 
+      "Commonwealth der Bahamas"
+    ], 
+    "Portuguese": [
+      "Baamas", 
+      "Bahamas"
+    ], 
+    "Unknown": [
+      "Bahami", 
+      "Zveza Bahami"
+    ], 
+    "Spanish": [
+      "Bahamas"
+    ], 
+    "English": [
+      "BS", 
+      "Bahamas"
+    ], 
+    "Polish": [
+      "Bahamy"
+    ], 
+    "Korean": [
+      "\ubc14\ud558\ub9c8"
+    ], 
+    "Italian": [
+      "Bahama", 
+      "Bahamas"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5df4\u54c8\u99ac"
+  ], 
+  "alias_ITA_Q": [
+    "Bahamas"
+  ], 
+  "alias_GER_V": [
+    "Commonwealth der Bahamas"
+  ], 
+  "alias_ITA_V": [
+    "Bahama"
+  ], 
+  "alias_CHI_V": [
+    "\u5df4\u54c8\u9a6c"
+  ], 
+  "woeid": 23424758, 
+  "alias_JPN_Q": [
+    "\u30d0\u30cf\u30de"
+  ], 
+  "alias_JPN_V": [
+    "\u30d0\u30cf\u30de\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Bahamas"
+  ], 
+  "alias_FIN_Q": [
+    "Bahama"
+  ], 
+  "sw_longitude": -80.499229, 
+  "alias_FIN_V": [
+    "Bahamasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 24.741421, 
+  "alias_NOR_Q": [
+    "Bahamas"
+  ], 
+  "date_indexed": "2010-12-02T07:50:25.283Z", 
+  "alias_KOR_Q": [
+    "\ubc14\ud558\ub9c8"
+  ], 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Bahama's"
+  ], 
+  "bbox": "20.916059,-80.499229,27.933781,-72.649513", 
+  "alias_DUT_V": [
+    "Bahama\u2019s"
+  ], 
+  "alias_DAN_Q": [
+    "Bahamas"
+  ], 
+  "alias_GER_Q": [
+    "Bahamas"
+  ], 
+  "lang": "ENG", 
+  "name": "The Bahamas", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Bahami"
+  ], 
+  "alias_HUN_Q": [
+    "Bahama-Szigetek"
+  ], 
+  "alias_HUN_V": [
+    "Baham\u00e1k"
+  ], 
+  "ne_longitude": -72.649513, 
+  "longitude": -78.080017, 
+  "iso": "BS", 
+  "sw_latitude": 20.916059, 
+  "alias_FRE_V": [
+    "Bahamas, \u00celes"
+  ], 
+  "fullname": "The Bahamas", 
   "features": [
     {
       "geometry": {
@@ -65,23 +554,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2120, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312155", 
+          "woe:region=2344779", 
+          "woe:country=23424758"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "BS", 
+        "longitude": -78.70094976412517, 
+        "artisanal:id": 35312155, 
+        "latitude": 26.547366585680585, 
+        "woe:id": 35312155, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35312155, 
       "properties": {
         "ne:fid": 2120, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312155", 
+          "woe:region=2344779", 
+          "woe:country=23424758"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "BS", 
+        "longitude": -78.70094976412517, 
         "artisanal:id": 35312155, 
+        "latitude": 26.547366585680585, 
         "woe:id": 35312155, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -78.724465705058, 
-    26.527037461853467, 
-    -78.67937801788332, 
-    26.572254340108856
+  "alias_FRE_S": [
+    "Bahamas, Iles"
+  ], 
+  "alias_FRE_Q": [
+    "Bahamas"
   ]
 }

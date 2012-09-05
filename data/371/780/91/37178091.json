@@ -57,14 +57,40 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 6951, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=37178091", 
+          "woe:region=12577886", 
+          "woe:country=23424833"
+        ], 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "GR", 
+        "longitude": 27.233951586162252, 
+        "artisanal:id": 37178091, 
+        "latitude": 36.88951544770885, 
+        "woe:id": 37178091, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 37178091, 
       "properties": {
         "ne:fid": 6951, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=37178091", 
+          "woe:region=12577886", 
+          "woe:country=23424833"
+        ], 
         "artisanal:foundry": "http://www.londonintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "GR", 
+        "longitude": 27.233951586162252, 
         "artisanal:id": 37178091, 
+        "latitude": 36.88951544770885, 
         "woe:id": 37178091, 
         "ne:ScaleRank": 7
       }

@@ -1,5 +1,221 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Cuba"
+  ], 
+  "alias_ENG_A": [
+    "CU"
+  ], 
+  "alias_POL_Q": [
+    "Kuba"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 23.283779, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Kuba"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ud050\ubc14"
+  ], 
+  "alias_KOR_Q": [
+    "\ucfe0\ubc14"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12483956, 
+        "name": "Archipelago de Los Canarreros"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12483490, 
+        "name": "Cuba"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12483588, 
+        "name": "Juventud Island"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345110, 
+        "name": "Camaguey"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345111, 
+        "name": "Ciego de Avila"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345112, 
+        "name": "Cienfuegos"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345107, 
+        "name": "Ciudad de la Habana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345113, 
+        "name": "Granma"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345114, 
+        "name": "Guantanamo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345116, 
+        "name": "Holguin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345109, 
+        "name": "Isla de la Juventud"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345115, 
+        "name": "La Habana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345117, 
+        "name": "Las Tunas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345108, 
+        "name": "Matanzas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345106, 
+        "name": "Pinar del Rio"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345118, 
+        "name": "Sancti Spiritus"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345119, 
+        "name": "Santiago de Cuba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345120, 
+        "name": "Villa Clara"
+      }
+    ]
+  }, 
+  "alias_SWE_Q": [
+    "Kuba"
+  ], 
+  "alias_CHI_Q": [
+    "\u53e4\u5df4"
+  ], 
+  "woeid": 23424793, 
+  "alias_JPN_Q": [
+    "\u30ad\u30e5\u30fc\u30d0"
+  ], 
+  "alias_JPN_V": [
+    "\u30ad\u30e5\u30fc\u30d0\u5171\u548c\u56fd"
+  ], 
+  "alias_FIN_Q": [
+    "Kuuba"
+  ], 
+  "sw_longitude": -84.957428, 
+  "alias_FIN_V": [
+    "Kuubasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 21.511021, 
+  "aliases": {
+    "Swedish": [
+      "Kuba"
+    ], 
+    "Chinese": [
+      "\u53e4\u5df4"
+    ], 
+    "Finnish": [
+      "Kuubasta", 
+      "Kuuba"
+    ], 
+    "Hungarian": [
+      "Kuba"
+    ], 
+    "Czech": [
+      "Kuba"
+    ], 
+    "Unknown": [
+      "Kuuba", 
+      "Republika Kuba"
+    ], 
+    "Japanese": [
+      "\u30ad\u30e5\u30fc\u30d0", 
+      "\u30ad\u30e5\u30fc\u30d0\u5171\u548c\u56fd"
+    ], 
+    "German": [
+      "Kuba", 
+      "Republik Kuba"
+    ], 
+    "English": [
+      "CU", 
+      "Republic of Cuba"
+    ], 
+    "Polish": [
+      "Kuba"
+    ], 
+    "Korean": [
+      "\ud050\ubc14", 
+      "\ucfe0\ubc14"
+    ]
+  }, 
+  "date_indexed": "2010-12-02T08:58:58.127Z", 
+  "adjacent": [], 
+  "bbox": "19.828079,-84.957428,23.283779,-74.131783", 
+  "alias_CZE_Q": [
+    "Kuba"
+  ], 
+  "alias_GER_V": [
+    "Republik Kuba"
+  ], 
+  "alias_GER_Q": [
+    "Kuba"
+  ], 
+  "lang": "ENG", 
+  "name": "Cuba", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Kuuba"
+  ], 
+  "alias_HUN_Q": [
+    "Kuba"
+  ], 
+  "ne_longitude": -74.131783, 
+  "longitude": -77.806793, 
+  "iso": "CU", 
+  "sw_latitude": 19.828079, 
+  "fullname": "Cuba", 
   "features": [
     {
       "geometry": {
@@ -73,23 +289,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2126, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312159", 
+          "woe:region=2345108", 
+          "woe:country=23424793"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "CU", 
+        "longitude": -81.29672467509964, 
+        "artisanal:id": 35312159, 
+        "latitude": 23.121766143345333, 
+        "woe:id": 35312159, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35312159, 
       "properties": {
         "ne:fid": 2126, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312159", 
+          "woe:region=2345108", 
+          "woe:country=23424793"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "CU", 
+        "longitude": -81.29672467509964, 
         "artisanal:id": 35312159, 
+        "latitude": 23.121766143345333, 
         "woe:id": 35312159, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -81.35166968456069, 
-    23.095386460863168, 
-    -81.24304582388316, 
-    23.16129975025146
   ]
 }

@@ -1,5 +1,156 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Sultanate of Oman"
+  ], 
+  "alias_ENG_A": [
+    "OM"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 26.50045, 
+  "supercedes": [], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Om\u00e3"
+  ], 
+  "alias_KOR_Q": [
+    "\uc624\ub9cc"
+  ], 
+  "alias_POR_S": [
+    "Oma"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346261, 
+        "name": "Ad Dakhiliyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7038775, 
+        "name": "Al Batinah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346257, 
+        "name": "Al Wusta"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346256, 
+        "name": "Ash Sharqiyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346255, 
+        "name": "Az Zahirah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55927046, 
+        "name": "Buraymi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346260, 
+        "name": "Masqat"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 4693371, 
+        "name": "Musandam"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346258, 
+        "name": "Zufar"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Oma", 
+      "Om\u00e3"
+    ], 
+    "Chinese": [
+      "\u963f\u66fc"
+    ], 
+    "Hungarian": [
+      "Om\u00e1n"
+    ], 
+    "Czech": [
+      "Om\u00e1n"
+    ], 
+    "Unknown": [
+      "Saltanat 'Uman"
+    ], 
+    "Spanish": [
+      "Om\u00e1n"
+    ], 
+    "Japanese": [
+      "\u30aa\u30de\u30fc\u30f3", 
+      "\u30aa\u30de\u30fc\u30f3\u56fd"
+    ], 
+    "German": [
+      "Sultanat Oman"
+    ], 
+    "English": [
+      "OM", 
+      "Sultanate of Oman"
+    ], 
+    "Korean": [
+      "\uc624\ub9cc"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u963f\u66fc"
+  ], 
+  "woeid": 23424898, 
+  "alias_JPN_Q": [
+    "\u30aa\u30de\u30fc\u30f3"
+  ], 
+  "alias_JPN_V": [
+    "\u30aa\u30de\u30fc\u30f3\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Om\u00e1n"
+  ], 
+  "sw_longitude": 51.882011, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 20.81435, 
+  "date_indexed": "2010-12-02T09:35:43.414Z", 
+  "bbox": "16.6457,51.882011,26.50045,59.83651", 
+  "alias_CZE_Q": [
+    "Om\u00e1n"
+  ], 
+  "alias_GER_V": [
+    "Sultanat Oman"
+  ], 
+  "lang": "ENG", 
+  "name": "Oman", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Saltanat 'Uman"
+  ], 
+  "alias_HUN_Q": [
+    "Om\u00e1n"
+  ], 
+  "ne_longitude": 59.83651, 
+  "longitude": 55.859261, 
+  "iso": "OM", 
+  "sw_latitude": 16.6457, 
+  "fullname": "Oman", 
   "features": [
     {
       "geometry": {
@@ -49,23 +200,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 9008, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825254", 
+          "woe:region=7038775", 
+          "woe:country=23424898"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "OM", 
+        "longitude": 56.57680938119601, 
+        "artisanal:id": 34825254, 
+        "latitude": 24.532370602670085, 
+        "woe:id": 34825254, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34825254, 
       "properties": {
         "ne:fid": 9008, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825254", 
+          "woe:region=7038775", 
+          "woe:country=23424898"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "OM", 
+        "longitude": 56.57680938119601, 
         "artisanal:id": 34825254, 
+        "latitude": 24.532370602670085, 
         "woe:id": 34825254, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    56.558439568920676, 
-    24.50909861907195, 
-    56.60164106631669, 
-    24.563823960869044
   ]
 }

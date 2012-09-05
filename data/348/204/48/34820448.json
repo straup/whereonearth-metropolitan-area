@@ -1,5 +1,167 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Guinea"
+  ], 
+  "alias_KOR_Q": [
+    "\uae30\ub2c8"
+  ], 
+  "alias_POL_Q": [
+    "Gwinea"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 12.67621, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Guineea"
+  ], 
+  "alias_UNK_V": [
+    "Republika Gvineja"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Guin\u00e9"
+  ], 
+  "alias_ENG_A": [
+    "GN"
+  ], 
+  "alias_POR_S": [
+    "Guine"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 56059373, 
+        "name": "Bok\u00e9"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56059372, 
+        "name": "Conakry"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56059379, 
+        "name": "Faranah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56059378, 
+        "name": "Kankan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56059377, 
+        "name": "Kindia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56059374, 
+        "name": "Lab\u00e9"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56059375, 
+        "name": "Mamou"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56059376, 
+        "name": "Nz\u00e9r\u00e9kor\u00e9"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Guine", 
+      "Guin\u00e9"
+    ], 
+    "Chinese": [
+      "\u51e0\u5185\u4e9a", 
+      "\u5e7e\u5167\u4e9e"
+    ], 
+    "German": [
+      "Republik Guinea"
+    ], 
+    "Romanian": [
+      "Guineea"
+    ], 
+    "Dutch": [
+      "Guinee"
+    ], 
+    "Japanese": [
+      "\u30ae\u30cb\u30a2", 
+      "\u30ae\u30cb\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Guin\u00e9e", 
+      "Guinee", 
+      "Guin\u00e9e-Conakry"
+    ], 
+    "Unknown": [
+      "Gvineja", 
+      "Republika Gvineja"
+    ], 
+    "English": [
+      "GN", 
+      "Republic of Guinea"
+    ], 
+    "Polish": [
+      "Gwinea"
+    ], 
+    "Korean": [
+      "\uae30\ub2c8"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5e7e\u5167\u4e9e"
+  ], 
+  "alias_CHI_V": [
+    "\u51e0\u5185\u4e9a"
+  ], 
+  "woeid": 23424835, 
+  "alias_JPN_Q": [
+    "\u30ae\u30cb\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30ae\u30cb\u30a2\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": -15.08625, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 9.93488, 
+  "date_indexed": "2010-12-02T16:11:57.016Z", 
+  "alias_DUT_Q": [
+    "Guinee"
+  ], 
+  "bbox": "7.19355,-15.08625,12.67621,-7.64106", 
+  "alias_GER_V": [
+    "Republik Guinea"
+  ], 
+  "lang": "ENG", 
+  "name": "Guinea", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Gvineja"
+  ], 
+  "ne_longitude": -7.64106, 
+  "longitude": -9.66063, 
+  "iso": "GN", 
+  "sw_latitude": 7.19355, 
+  "alias_FRE_V": [
+    "Guin\u00e9e-Conakry"
+  ], 
+  "fullname": "Guinea", 
   "features": [
     {
       "geometry": {
@@ -49,23 +211,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1713, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820448", 
+          "woe:region=56059378", 
+          "woe:country=23424835"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "GN", 
+        "longitude": -9.288086012401772, 
+        "artisanal:id": 34820448, 
+        "latitude": 10.381608192143522, 
+        "woe:id": 34820448, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820448, 
       "properties": {
         "ne:fid": 1713, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820448", 
+          "woe:region=56059378", 
+          "woe:country=23424835"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "GN", 
+        "longitude": -9.288086012401772, 
         "artisanal:id": 34820448, 
+        "latitude": 10.381608192143522, 
         "woe:id": 34820448, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -9.324438238960056, 
-    10.353786932817414, 
-    -9.256044480821757, 
-    10.409184068234296
+  "alias_FRE_S": [
+    "Guinee"
+  ], 
+  "alias_FRE_Q": [
+    "Guin\u00e9e"
   ]
 }

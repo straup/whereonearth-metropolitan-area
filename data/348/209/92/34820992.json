@@ -1,5 +1,283 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Canadian"
+  ], 
+  "alias_ENG_A": [
+    "CAN"
+  ], 
+  "alias_POL_Q": [
+    "Kanada"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 83.110619, 
+  "supercedes": [], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Canad\u00e1"
+  ], 
+  "alias_KOR_Q": [
+    "\uce90\ub098\ub2e4"
+  ], 
+  "children": {
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 28299075, 
+        "name": "Minas Basin and Cobequid Bay"
+      }
+    ], 
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344915, 
+        "name": "Alberta"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344916, 
+        "name": "British Columbia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344917, 
+        "name": "Manitoba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344918, 
+        "name": "New Brunswick"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344919, 
+        "name": "Newfoundland and Labrador"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344920, 
+        "name": "Northwest Territories"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344921, 
+        "name": "Nova Scotia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069920, 
+        "name": "Nunavut"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344922, 
+        "name": "Ontario"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344923, 
+        "name": "Prince Edward Island"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344924, 
+        "name": "Qu\u00e9bec"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344925, 
+        "name": "Saskatchewan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344926, 
+        "name": "Yukon Territory"
+      }
+    ], 
+    "Sea": [
+      {
+        "placetype": "Sea", 
+        "woeid": 55863401, 
+        "name": "Queen Charlotte Sound"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354412, 
+        "name": "Campbell River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354156, 
+        "name": "Churchill River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354162, 
+        "name": "Lake Athabasca"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354159, 
+        "name": "Lake Manitoba"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354379, 
+        "name": "Lake Nettilling"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354161, 
+        "name": "Lake Reindeer"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354406, 
+        "name": "Liard River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 23471039, 
+        "name": "Ottawa River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354157, 
+        "name": "Saskatchewan River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354407, 
+        "name": "Slave River"
+      }
+    ], 
+    "Timezone": [
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043680, 
+        "name": "America/Atikokan"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043689, 
+        "name": "America/Edmonton"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043685, 
+        "name": "America/Halifax"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043686, 
+        "name": "America/Swift_Current"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043674, 
+        "name": "America/Winnipeg"
+      }
+    ]
+  }, 
+  "alias_SWE_Q": [
+    "Kanada"
+  ], 
+  "alias_CHI_Q": [
+    "\u52a0\u62ff\u5927"
+  ], 
+  "woeid": 23424775, 
+  "alias_JPN_Q": [
+    "\u30ab\u30ca\u30c0"
+  ], 
+  "alias_SPA_Q": [
+    "Canad\u00e1"
+  ], 
+  "alias_FIN_Q": [
+    "Kanada"
+  ], 
+  "sw_longitude": -141.002701, 
+  "alias_FIN_V": [
+    "Kanadasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 56.954681, 
+  "aliases": {
+    "Swedish": [
+      "Kanada"
+    ], 
+    "Chinese": [
+      "\u52a0\u62ff\u5927"
+    ], 
+    "Finnish": [
+      "Kanadasta", 
+      "Kanada"
+    ], 
+    "Hungarian": [
+      "Kanada"
+    ], 
+    "Portuguese": [
+      "Canad\u00e1"
+    ], 
+    "Czech": [
+      "Kanada"
+    ], 
+    "Unknown": [
+      "K'aenada"
+    ], 
+    "Spanish": [
+      "Canad\u00e1"
+    ], 
+    "Japanese": [
+      "\u30ab\u30ca\u30c0"
+    ], 
+    "German": [
+      "Kanada"
+    ], 
+    "English": [
+      "CAN", 
+      "Canadian"
+    ], 
+    "Polish": [
+      "Kanada"
+    ], 
+    "Korean": [
+      "\uce90\ub098\ub2e4"
+    ]
+  }, 
+  "date_indexed": "2010-12-02T10:24:00.207Z", 
+  "adjacent": [], 
+  "bbox": "41.681019,-141.002701,83.110619,-52.620201", 
+  "alias_CZE_Q": [
+    "Kanada"
+  ], 
+  "alias_GER_Q": [
+    "Kanada"
+  ], 
+  "lang": "ENG", 
+  "name": "Canada", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "K'aenada"
+  ], 
+  "alias_HUN_Q": [
+    "Kanada"
+  ], 
+  "ne_longitude": -52.620201, 
+  "longitude": -98.308968, 
+  "iso": "CA", 
+  "sw_latitude": 41.681019, 
+  "fullname": "Canada", 
   "features": [
     {
       "geometry": {
@@ -209,23 +487,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2582, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820992", 
+          "woe:region=2344924", 
+          "woe:country=23424775"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "CA", 
+        "longitude": -72.7158932928265, 
+        "artisanal:id": 34820992, 
+        "latitude": 46.601920601040554, 
+        "woe:id": 34820992, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820992, 
       "properties": {
         "ne:fid": 2582, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820992", 
+          "woe:region=2344924", 
+          "woe:country=23424775"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "CA", 
+        "longitude": -72.7158932928265, 
         "artisanal:id": 34820992, 
+        "latitude": 46.601920601040554, 
         "woe:id": 34820992, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -72.77880794950036, 
-    46.51282013608706, 
-    -72.63584509956488, 
-    46.658082587259514
   ]
 }

@@ -1,5 +1,257 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Rep. Lithuania"
+  ], 
+  "alias_SWE_Q": [
+    "Litauen"
+  ], 
+  "alias_POL_Q": [
+    "Litwa"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 56.450432, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Lituania"
+  ], 
+  "alias_UNK_V": [
+    "Litwa"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Litu\u00e2nia"
+  ], 
+  "alias_ENG_A": [
+    "LT"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12476368, 
+        "name": "Kursiu Nerija Island"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 55848082, 
+        "name": "Alytaus Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848084, 
+        "name": "Kauno Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848085, 
+        "name": "Klaip\u00ecdos Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848078, 
+        "name": "Marijampol\u00ecs Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848086, 
+        "name": "Paneve\u017eio Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848079, 
+        "name": "Siauli\u00f9 Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848087, 
+        "name": "Taurag\u00ecs Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848080, 
+        "name": "Tel\u0161i\u00f9 Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848081, 
+        "name": "Utenos Apskritis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55848083, 
+        "name": "Vilniaus Apskritis"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2346065, 
+        "name": "Marijampole"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56058405, 
+        "name": "Zemaitijos Nacionalinis Parkas"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Litauen"
+    ], 
+    "Danish": [
+      "Litauen"
+    ], 
+    "Hungarian": [
+      "Litvania", 
+      "Litv\u00e1nia"
+    ], 
+    "Chinese": [
+      "\u7acb\u9676\u5b9b"
+    ], 
+    "Finnish": [
+      "Liettuasta", 
+      "Liettua"
+    ], 
+    "Norwegian": [
+      "Litauen"
+    ], 
+    "Czech": [
+      "Litva", 
+      "Loty\u0161sko"
+    ], 
+    "Romanian": [
+      "Lituania"
+    ], 
+    "Dutch": [
+      "Litouwen"
+    ], 
+    "Japanese": [
+      "\u30ea\u30c8\u30a2\u30cb\u30a2", 
+      "\u30ea\u30c8\u30a2\u30cb\u30a2\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Lituanie"
+    ], 
+    "German": [
+      "Litauen", 
+      "Republik Litauen"
+    ], 
+    "Portuguese": [
+      "Litu\u00e2nia"
+    ], 
+    "Unknown": [
+      "Litu\u00e0nia", 
+      "Lithouania", 
+      "Litwa"
+    ], 
+    "Spanish": [
+      "Lituania"
+    ], 
+    "English": [
+      "LT", 
+      "Lithuania", 
+      "Rep. Lithuania"
+    ], 
+    "Polish": [
+      "Litwa"
+    ], 
+    "Korean": [
+      "\ub9ac\ud22c\uc544\ub2c8\uc544"
+    ], 
+    "Italian": [
+      "Lituania"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7acb\u9676\u5b9b"
+  ], 
+  "alias_ITA_Q": [
+    "Lituania"
+  ], 
+  "alias_GER_V": [
+    "Republik Litauen"
+  ], 
+  "woeid": 23424875, 
+  "alias_JPN_Q": [
+    "\u30ea\u30c8\u30a2\u30cb\u30a2"
+  ], 
+  "alias_ENG_P": [
+    "Lithuania"
+  ], 
+  "alias_JPN_V": [
+    "\u30ea\u30c8\u30a2\u30cb\u30a2\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Lituania"
+  ], 
+  "alias_FIN_Q": [
+    "Liettua"
+  ], 
+  "sw_longitude": 20.953199, 
+  "alias_FIN_V": [
+    "Liettuasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 55.173962, 
+  "alias_NOR_Q": [
+    "Litauen"
+  ], 
+  "date_indexed": "2010-12-02T09:36:04.892Z", 
+  "alias_KOR_Q": [
+    "\ub9ac\ud22c\uc544\ub2c8\uc544"
+  ], 
+  "adjacent": [], 
+  "alias_DUT_Q": [
+    "Litouwen"
+  ], 
+  "bbox": "53.89748,20.953199,56.450432,26.835581", 
+  "alias_CZE_Q": [
+    "Litva"
+  ], 
+  "alias_DAN_Q": [
+    "Litauen"
+  ], 
+  "alias_GER_Q": [
+    "Litauen"
+  ], 
+  "lang": "UNK", 
+  "name": "Lietuva", 
+  "language": "Unknown", 
+  "alias_CZE_V": [
+    "Loty\u0161sko"
+  ], 
+  "alias_UNK_S": [
+    "Lithouania"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Litu\u00e0nia"
+  ], 
+  "alias_HUN_Q": [
+    "Litv\u00e1nia"
+  ], 
+  "ne_longitude": 26.835581, 
+  "longitude": 23.89439, 
+  "iso": "LT", 
+  "sw_latitude": 53.89748, 
+  "alias_HUN_S": [
+    "Litvania"
+  ], 
+  "fullname": "Lietuva, Lithuania", 
   "features": [
     {
       "geometry": {
@@ -57,23 +309,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 4812, 
+        "ne:hasPlace": 0, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822508", 
+          "woe:region=55848080", 
+          "woe:country=23424875"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "LT", 
+        "longitude": 22.179074426098467, 
+        "artisanal:id": 34822508, 
+        "latitude": 56.402355861371866, 
+        "woe:id": 34822508, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34822508, 
       "properties": {
         "ne:fid": 4812, 
         "ne:hasPlace": 0, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822508", 
+          "woe:region=55848080", 
+          "woe:country=23424875"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "LT", 
+        "longitude": 22.179074426098467, 
         "artisanal:id": 34822508, 
+        "latitude": 56.402355861371866, 
         "woe:id": 34822508, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    22.138421665137173, 
-    56.367283230202005, 
-    22.22761518727293, 
-    56.433919989642376
+  "alias_FRE_Q": [
+    "Lituanie"
   ]
 }

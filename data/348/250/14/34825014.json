@@ -1,5 +1,164 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "State of Kuwait"
+  ], 
+  "alias_ENG_A": [
+    "KW"
+  ], 
+  "alias_POL_Q": [
+    "Kuwejt"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 30.0958, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Kuweit"
+  ], 
+  "alias_UNK_V": [
+    "K\u00fava\u00edt"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\ucfe0\uc6e8\uc774\ud2b8"
+  ], 
+  "alias_ARA_V": [
+    "Al-Kuwayt"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070169, 
+        "name": "Al `Asimah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070166, 
+        "name": "Al Ahmadi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070168, 
+        "name": "Al Farwaniyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070165, 
+        "name": "Al Jahra\u00b4"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070167, 
+        "name": "Hawalli"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55943079, 
+        "name": "Mubarak Al Kabeer"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Hungarian": [
+      "Kuvait"
+    ], 
+    "Chinese": [
+      "\u79d1\u5a01\u7279"
+    ], 
+    "Czech": [
+      "Kuvajt"
+    ], 
+    "Romanian": [
+      "Kuweit"
+    ], 
+    "Dutch": [
+      "Koeweit"
+    ], 
+    "Japanese": [
+      "\u30af\u30a6\u30a7\u30fc\u30c8", 
+      "\u30af\u30a6\u30a7\u30a4\u30c8"
+    ], 
+    "French": [
+      "Kowe\u00eft", 
+      "Koweit"
+    ], 
+    "German": [
+      "Staat Kuwait"
+    ], 
+    "Unknown": [
+      "Kowe\u00eft", 
+      "Kuvait", 
+      "K\u00fava\u00edt"
+    ], 
+    "English": [
+      "KW", 
+      "State of Kuwait"
+    ], 
+    "Polish": [
+      "Kuwejt"
+    ], 
+    "Arabic": [
+      "Al-Kuwayt"
+    ], 
+    "Korean": [
+      "\ucfe0\uc6e8\uc774\ud2b8"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u79d1\u5a01\u7279"
+  ], 
+  "woeid": 23424870, 
+  "alias_JPN_Q": [
+    "\u30af\u30a6\u30a7\u30fc\u30c8"
+  ], 
+  "alias_JPN_V": [
+    "\u30af\u30a6\u30a7\u30a4\u30c8"
+  ], 
+  "sw_longitude": 46.55751, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 29.31015, 
+  "date_indexed": "2010-12-02T08:53:01.39Z", 
+  "alias_DUT_Q": [
+    "Koeweit"
+  ], 
+  "bbox": "28.5245,46.55751,30.0958,48.78384", 
+  "alias_CZE_Q": [
+    "Kuvajt"
+  ], 
+  "alias_GER_V": [
+    "Staat Kuwait"
+  ], 
+  "lang": "ENG", 
+  "name": "Kuwait", 
+  "language": "English", 
+  "alias_UNK_S": [
+    "Kuvait"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Kowe\u00eft"
+  ], 
+  "alias_HUN_Q": [
+    "Kuvait"
+  ], 
+  "ne_longitude": 48.78384, 
+  "longitude": 47.49445, 
+  "iso": "KW", 
+  "sw_latitude": 28.5245, 
+  "alias_FRE_V": [
+    "Koweit"
+  ], 
+  "fullname": "Kuwait", 
   "features": [
     {
       "geometry": {
@@ -49,23 +208,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8620, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825014", 
+          "woe:region=20070165", 
+          "woe:country=23424870"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "KW", 
+        "longitude": 47.974223775056934, 
+        "artisanal:id": 34825014, 
+        "latitude": 30.033688263047004, 
+        "woe:id": 34825014, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34825014, 
       "properties": {
         "ne:fid": 8620, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825014", 
+          "woe:region=20070165", 
+          "woe:country=23424870"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "KW", 
+        "longitude": 47.974223775056934, 
         "artisanal:id": 34825014, 
+        "latitude": 30.033688263047004, 
         "woe:id": 34825014, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    47.95824100117795, 
-    30.011114203403864, 
-    47.991313917844764, 
-    30.061447048456145
+  "alias_FRE_Q": [
+    "Kowe\u00eft"
   ]
 }

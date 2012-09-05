@@ -23,7 +23,7 @@ if __name__ == '__main__':
     lookup_fh = open(lookup_path, 'w')
 
     writer = csv.writer(lookup_fh)
-    writer.writerow(('fid', 'woeid', 'places'))
+    writer.writerow(('fid', 'woeid', 'iso', 'places', 'foundry'))
 
     for root, dirs, files in os.walk(datadir):
 
@@ -40,8 +40,9 @@ if __name__ == '__main__':
 
             fid = props.get('ne:fid', 0)
             woeid = props.get('woe:id', 0)
+            iso = props.get('iso', '')
             places = props.get('ne:hasPlace', 0)
 
             foundry = props.get('artisanal:foundry', '')
 
-            writer.writerow((fid, woeid, places, foundry))
+            writer.writerow((fid, woeid, iso, places, foundry))

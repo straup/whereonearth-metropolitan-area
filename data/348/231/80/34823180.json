@@ -1,5 +1,265 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Kingdom of Belgium"
+  ], 
+  "alias_SWE_Q": [
+    "Belgien"
+  ], 
+  "alias_POL_Q": [
+    "Belgia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 51.505081, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Belgia"
+  ], 
+  "alias_UNK_V": [
+    "Kraljevina Belgija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Belgia"
+  ], 
+  "alias_POR_Q": [
+    "B\u00e9lgica"
+  ], 
+  "alias_ENG_A": [
+    "BEL"
+  ], 
+  "alias_CZE_Q": [
+    "Belgie"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 55864895, 
+        "name": "Vlaanderen"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 55864897, 
+        "name": "Wallonie"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 7153308, 
+        "name": "Antwerpen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 22525997, 
+        "name": "Brabant Wallon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153299, 
+        "name": "Hainaut"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153301, 
+        "name": "Limburg"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153300, 
+        "name": "Li\u00e8ge"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153302, 
+        "name": "Luxembourg"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153303, 
+        "name": "Namur"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153304, 
+        "name": "Oost-Vlaanderen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55965974, 
+        "name": "R\u00e9gion de Bruxelles-Capitale"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 22525998, 
+        "name": "Vlaams Brabant"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 7153305, 
+        "name": "West-Vlaanderen"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Belgien"
+    ], 
+    "Danish": [
+      "Belgien"
+    ], 
+    "Hungarian": [
+      "Belgium"
+    ], 
+    "Chinese": [
+      "\u6bd4\u5229\u65f6", 
+      "\u6bd4\u5229\u6642"
+    ], 
+    "Finnish": [
+      "Belgiasta", 
+      "Belgia"
+    ], 
+    "Norwegian": [
+      "Belgia"
+    ], 
+    "Czech": [
+      "Belgie"
+    ], 
+    "Romanian": [
+      "Belgia"
+    ], 
+    "Dutch": [
+      "Koninkrijk Belgi\u00eb"
+    ], 
+    "Japanese": [
+      "\u30d9\u30eb\u30ae\u30fc", 
+      "\u30d9\u30eb\u30ae\u30fc\u738b\u56fd"
+    ], 
+    "French": [
+      "Belgique", 
+      "Royaume de Belgique"
+    ], 
+    "German": [
+      "Belgien", 
+      "K\u00f6nigreich Belgien", 
+      "Konigreich Belgien"
+    ], 
+    "Portuguese": [
+      "Belgia", 
+      "B\u00e9lgica"
+    ], 
+    "Unknown": [
+      "Belgicko", 
+      "Velgio", 
+      "Kraljevina Belgija"
+    ], 
+    "Spanish": [
+      "Belgica", 
+      "B\u00e9lgica"
+    ], 
+    "English": [
+      "BEL", 
+      "Belgium", 
+      "Kingdom of Belgium"
+    ], 
+    "Polish": [
+      "Belgia"
+    ], 
+    "Korean": [
+      "\ubca8\uae30\uc5d0"
+    ], 
+    "Italian": [
+      "Belgio"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u6bd4\u5229\u6642"
+  ], 
+  "alias_ITA_Q": [
+    "Belgio"
+  ], 
+  "alias_GER_V": [
+    "K\u00f6nigreich Belgien"
+  ], 
+  "alias_CHI_V": [
+    "\u6bd4\u5229\u65f6"
+  ], 
+  "woeid": 23424757, 
+  "alias_JPN_Q": [
+    "\u30d9\u30eb\u30ae\u30fc"
+  ], 
+  "alias_ENG_P": [
+    "Belgium"
+  ], 
+  "alias_JPN_V": [
+    "\u30d9\u30eb\u30ae\u30fc\u738b\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "B\u00e9lgica"
+  ], 
+  "alias_FIN_Q": [
+    "Belgia"
+  ], 
+  "alias_SPA_S": [
+    "Belgica"
+  ], 
+  "sw_longitude": 2.54563, 
+  "alias_FIN_V": [
+    "Belgiasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 50.501011, 
+  "alias_NOR_Q": [
+    "Belgia"
+  ], 
+  "date_indexed": "2010-12-02T16:32:27.314Z", 
+  "alias_KOR_Q": [
+    "\ubca8\uae30\uc5d0"
+  ], 
+  "adjacent": [], 
+  "bbox": "49.496899,2.54563,51.505081,6.40791", 
+  "alias_DUT_V": [
+    "Koninkrijk Belgi\u00eb"
+  ], 
+  "alias_DAN_Q": [
+    "Belgien"
+  ], 
+  "alias_GER_Q": [
+    "Belgien"
+  ], 
+  "alias_GER_S": [
+    "Konigreich Belgien"
+  ], 
+  "lang": "DUT", 
+  "name": "Belgi\u00eb", 
+  "language": "Dutch", 
+  "alias_UNK_S": [
+    "Velgio"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Belgicko"
+  ], 
+  "alias_HUN_Q": [
+    "Belgium"
+  ], 
+  "ne_longitude": 6.40791, 
+  "longitude": 4.47684, 
+  "iso": "BE", 
+  "sw_latitude": 49.496899, 
+  "alias_FRE_V": [
+    "Royaume de Belgique"
+  ], 
+  "fullname": "Belgi\u00eb, Belgium", 
   "features": [
     {
       "geometry": {
@@ -213,23 +473,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 5856, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823180", 
+          "woe:region=7153305", 
+          "woe:country=23424757"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "BE", 
+        "longitude": 3.219034836166974, 
+        "artisanal:id": 34823180, 
+        "latitude": 51.26335528534154, 
+        "woe:id": 34823180, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34823180, 
       "properties": {
         "ne:fid": 5856, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823180", 
+          "woe:region=7153305", 
+          "woe:country=23424757"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "BE", 
+        "longitude": 3.219034836166974, 
         "artisanal:id": 34823180, 
+        "latitude": 51.26335528534154, 
         "woe:id": 34823180, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    3.119944288759001, 
-    51.11155752217316, 
-    3.342773064801548, 
-    51.37386709248672
+  "alias_FRE_Q": [
+    "Belgique"
   ]
 }

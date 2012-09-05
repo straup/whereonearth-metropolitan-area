@@ -1,5 +1,227 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Mozambique"
+  ], 
+  "alias_SWE_Q": [
+    "Mo\u00e7ambique"
+  ], 
+  "alias_SWE_S": [
+    "Mocambique"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -10.47188, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Mozambic"
+  ], 
+  "alias_UNK_V": [
+    "Republika Mozambik"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Rep\u00fablica de Mo\u00e7ambique"
+  ], 
+  "alias_POR_Q": [
+    "Mo\u00e7ambique"
+  ], 
+  "alias_ENG_A": [
+    "MZ"
+  ], 
+  "alias_POR_S": [
+    "Mocambique"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346311, 
+        "name": "Cabo Delgado"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346312, 
+        "name": "Gaza"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346313, 
+        "name": "Inhambane"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346320, 
+        "name": "Manica"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346314, 
+        "name": "Maputo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346316, 
+        "name": "Nampula"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346317, 
+        "name": "Niassa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346315, 
+        "name": "Sofala"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346318, 
+        "name": "Tete"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346319, 
+        "name": "Zambezia"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 56190419, 
+        "name": "Lake Cabora Bassa"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354438, 
+        "name": "Limpopo River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Mo\u00e7ambique", 
+      "Mocambique"
+    ], 
+    "Chinese": [
+      "\u83ab\u4e09\u6bd4\u514b", 
+      "\u83ab\u4e09\u6bd4\u514b"
+    ], 
+    "Portuguese": [
+      "Rep\u00fablica de Mo\u00e7ambique", 
+      "Mocambique", 
+      "Mo\u00e7ambique"
+    ], 
+    "Finnish": [
+      "Mosambik"
+    ], 
+    "Hungarian": [
+      "Mozambik"
+    ], 
+    "Norwegian": [
+      "Mosambik"
+    ], 
+    "Czech": [
+      "Mosambik", 
+      "Mozambik"
+    ], 
+    "Romanian": [
+      "Mozambic"
+    ], 
+    "Japanese": [
+      "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af", 
+      "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af\u5171\u548c\u56fd"
+    ], 
+    "German": [
+      "Mosambik", 
+      "Republik Mosambik"
+    ], 
+    "Unknown": [
+      "Mozambik", 
+      "Republika Mozambik"
+    ], 
+    "English": [
+      "MZ", 
+      "Republic of Mozambique"
+    ], 
+    "Polish": [
+      "Mozambik"
+    ], 
+    "Korean": [
+      "\ubaa8\uc7a0\ube44\ud06c"
+    ], 
+    "Italian": [
+      "Mozambico"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u83ab\u4e09\u6bd4\u514b"
+  ], 
+  "alias_ITA_Q": [
+    "Mozambico"
+  ], 
+  "alias_CHI_V": [
+    "\u83ab\u4e09\u6bd4\u514b"
+  ], 
+  "woeid": 23424902, 
+  "alias_JPN_Q": [
+    "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af"
+  ], 
+  "alias_POL_Q": [
+    "Mozambik"
+  ], 
+  "alias_JPN_V": [
+    "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af\u5171\u548c\u56fd"
+  ], 
+  "alias_FIN_Q": [
+    "Mosambik"
+  ], 
+  "sw_longitude": 30.21731, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -18.67028, 
+  "alias_NOR_Q": [
+    "Mosambik"
+  ], 
+  "date_indexed": "2010-12-02T07:50:33.042Z", 
+  "alias_KOR_Q": [
+    "\ubaa8\uc7a0\ube44\ud06c"
+  ], 
+  "alias_CZE_V": [
+    "Mozambik"
+  ], 
+  "bbox": "-26.868679,30.21731,-10.47188,40.844471", 
+  "alias_CZE_Q": [
+    "Mosambik"
+  ], 
+  "alias_GER_V": [
+    "Republik Mosambik"
+  ], 
+  "alias_GER_Q": [
+    "Mosambik"
+  ], 
+  "lang": "ENG", 
+  "name": "Mozambique", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Mozambik"
+  ], 
+  "alias_HUN_Q": [
+    "Mozambik"
+  ], 
+  "ne_longitude": 40.844471, 
+  "longitude": 35.530151, 
+  "iso": "MZ", 
+  "sw_latitude": -26.868679, 
+  "fullname": "Mozambique", 
   "features": [
     {
       "geometry": {
@@ -69,23 +291,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8107, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824668", 
+          "woe:region=2346316", 
+          "woe:country=23424902"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MZ", 
+        "longitude": 39.26018773130673, 
+        "artisanal:id": 34824668, 
+        "latitude": -15.1079107277812, 
+        "woe:id": 34824668, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34824668, 
       "properties": {
         "ne:fid": 8107, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824668", 
+          "woe:region=2346316", 
+          "woe:country=23424902"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MZ", 
+        "longitude": 39.26018773130673, 
         "artisanal:id": 34824668, 
+        "latitude": -15.1079107277812, 
         "woe:id": 34824668, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    39.20435672379918, 
-    -15.142847995670003, 
-    39.30646935400793, 
-    -15.065126641503028
   ]
 }

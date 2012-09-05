@@ -1,5 +1,215 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Jamaican"
+  ], 
+  "alias_KOR_Q": [
+    "\uc790\uba54\uc774\uce74"
+  ], 
+  "alias_POL_Q": [
+    "Jamajka"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 18.52697, 
+  "supercedes": [], 
+  "placetype": "Country", 
+  "alias_ENG_A": [
+    "JM"
+  ], 
+  "alias_CZE_Q": [
+    "Jamajka"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56042290, 
+        "name": "Cornwall County"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56042291, 
+        "name": "Middlesex County"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56042292, 
+        "name": "Surrey County"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345912, 
+        "name": "Clarendon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345913, 
+        "name": "Hanover"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345925, 
+        "name": "Kingston St. John"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345914, 
+        "name": "Manchester"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345915, 
+        "name": "Portland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345916, 
+        "name": "Saint Andrew"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345917, 
+        "name": "Saint Ann"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345918, 
+        "name": "Saint Catherine"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345919, 
+        "name": "Saint Elizabeth"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345920, 
+        "name": "Saint James"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345921, 
+        "name": "Saint Mary"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345922, 
+        "name": "Saint Thomas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345923, 
+        "name": "Trelawny"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345924, 
+        "name": "Westmoreland"
+      }
+    ], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12484335, 
+        "name": "Jamaica Island"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u7259\u4e70\u52a0", 
+      "\u7259\u8cb7\u52a0"
+    ], 
+    "Finnish": [
+      "Jamaikan", 
+      "Jamaika"
+    ], 
+    "Czech": [
+      "Jamajka"
+    ], 
+    "Unknown": [
+      "Jama\u00edka"
+    ], 
+    "Dutch": [
+      "Jama\u00efca"
+    ], 
+    "Japanese": [
+      "\u30b8\u30e3\u30de\u30a4\u30ab"
+    ], 
+    "French": [
+      "Jama\u00efque", 
+      "Jamaique"
+    ], 
+    "German": [
+      "Jamaika"
+    ], 
+    "English": [
+      "JM", 
+      "Jamaican"
+    ], 
+    "Polish": [
+      "Jamajka"
+    ], 
+    "Korean": [
+      "\uc790\uba54\uc774\uce74"
+    ], 
+    "Italian": [
+      "Giamaica"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7259\u8cb7\u52a0"
+  ], 
+  "alias_ITA_Q": [
+    "Giamaica"
+  ], 
+  "alias_CHI_V": [
+    "\u7259\u4e70\u52a0"
+  ], 
+  "woeid": 23424858, 
+  "alias_JPN_Q": [
+    "\u30b8\u30e3\u30de\u30a4\u30ab"
+  ], 
+  "alias_FIN_Q": [
+    "Jamaika"
+  ], 
+  "sw_longitude": -78.366638, 
+  "alias_FIN_V": [
+    "Jamaikan"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 18.115259, 
+  "date_indexed": "2010-12-02T08:59:07.601Z", 
+  "adjacent": [], 
+  "bbox": "16.949551,-78.366638,18.52697,-75.982857", 
+  "alias_DUT_V": [
+    "Jama\u00efca"
+  ], 
+  "alias_GER_Q": [
+    "Jamaika"
+  ], 
+  "lang": "ENG", 
+  "name": "Jamaica", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Jama\u00edka"
+  ], 
+  "ne_longitude": -75.982857, 
+  "longitude": -77.273483, 
+  "iso": "JM", 
+  "sw_latitude": 16.949551, 
+  "fullname": "Jamaica", 
   "features": [
     {
       "geometry": {
@@ -173,23 +383,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2140, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312169", 
+          "woe:region=2345916", 
+          "woe:country=23424858"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "JM", 
+        "longitude": -76.8139938309809, 
+        "artisanal:id": 35312169, 
+        "latitude": 18.012526316166507, 
+        "woe:id": 35312169, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35312169, 
       "properties": {
         "ne:fid": 2140, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312169", 
+          "woe:region=2345916", 
+          "woe:country=23424858"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "JM", 
+        "longitude": -76.8139938309809, 
         "artisanal:id": 35312169, 
+        "latitude": 18.012526316166507, 
         "woe:id": 35312169, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -76.89240698923035, 
-    17.961410427313993, 
-    -76.7439922756881, 
-    18.064324042223248
+  "alias_FRE_S": [
+    "Jamaique"
+  ], 
+  "alias_FRE_Q": [
+    "Jama\u00efque"
   ]
 }

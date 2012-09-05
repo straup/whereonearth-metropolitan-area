@@ -73,14 +73,40 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 3622, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34821692", 
+          "woe:region=2345028", 
+          "woe:country=23424782"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "CL", 
+        "longitude": -71.9633843439105, 
+        "artisanal:id": 34821692, 
+        "latitude": -35.11622221498825, 
+        "woe:id": 34821692, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34821692, 
       "properties": {
         "ne:fid": 3622, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34821692", 
+          "woe:region=2345028", 
+          "woe:country=23424782"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "CL", 
+        "longitude": -71.9633843439105, 
         "artisanal:id": 34821692, 
+        "latitude": -35.11622221498825, 
         "woe:id": 34821692, 
         "ne:ScaleRank": 7
       }

@@ -1,5 +1,123 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Sierra Leone"
+  ], 
+  "alias_KOR_Q": [
+    "\uc2dc\uc5d0\ub77c\ub9ac\uc628"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 10.00043, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Sierra Leone"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\uc2dc\uc5d0\ub77c \ub9ac\uc628"
+  ], 
+  "alias_POR_Q": [
+    "Serra Leoa"
+  ], 
+  "alias_ENG_A": [
+    "SL"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2347000, 
+        "name": "Eastern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347001, 
+        "name": "Northern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347002, 
+        "name": "Southern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347003, 
+        "name": "Western Area"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Serra Leoa"
+    ], 
+    "Chinese": [
+      "\u7345\u5b50\u5c71", 
+      "\u7345\u5b50\u5c71"
+    ], 
+    "German": [
+      "Republik Sierra Leone"
+    ], 
+    "Unknown": [
+      "Republika Sierra Leone"
+    ], 
+    "Spanish": [
+      "Sierra Leona"
+    ], 
+    "Japanese": [
+      "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd\u5171\u548c\u56fd", 
+      "\u30b7\u30a8\u30e9\u30ec\u30aa\u30aa\u30cd"
+    ], 
+    "English": [
+      "SL", 
+      "Republic of Sierra Leone"
+    ], 
+    "Korean": [
+      "\uc2dc\uc5d0\ub77c \ub9ac\uc628", 
+      "\uc2dc\uc5d0\ub77c\ub9ac\uc628"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7345\u5b50\u5c71"
+  ], 
+  "alias_CHI_V": [
+    "\u7345\u5b50\u5c71"
+  ], 
+  "woeid": 23424946, 
+  "alias_JPN_Q": [
+    "\u30b7\u30a8\u30e9\u30ec\u30aa\u30aa\u30cd"
+  ], 
+  "alias_JPN_V": [
+    "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Sierra Leona"
+  ], 
+  "sw_longitude": -13.30763, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 8.46502, 
+  "date_indexed": "2010-12-02T12:08:44.816Z", 
+  "bbox": "6.92868,-13.30763,10.00043,-10.28423", 
+  "alias_GER_V": [
+    "Republik Sierra Leone"
+  ], 
+  "lang": "ENG", 
+  "name": "Sierra Leone", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "ne_longitude": -10.28423, 
+  "longitude": -11.79593, 
+  "iso": "SL", 
+  "sw_latitude": 6.92868, 
+  "fullname": "Sierra Leone", 
   "features": [
     {
       "geometry": {
@@ -57,23 +175,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1721, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820454", 
+          "woe:region=2347000", 
+          "woe:country=23424946"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "SL", 
+        "longitude": -11.180307422091447, 
+        "artisanal:id": 34820454, 
+        "latitude": 7.879263986117382, 
+        "woe:id": 34820454, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820454, 
       "properties": {
         "ne:fid": 1721, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820454", 
+          "woe:region=2347000", 
+          "woe:country=23424946"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "SL", 
+        "longitude": -11.180307422091447, 
         "artisanal:id": 34820454, 
+        "latitude": 7.879263986117382, 
         "woe:id": 34820454, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -11.198535732457131, 
-    7.854869696479284, 
-    -11.155644293654873, 
-    7.899414781114885
   ]
 }

@@ -1,5 +1,427 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Papua Nowa Gwinea"
+  ], 
+  "alias_ENG_V": [
+    "Papuanewguinea"
+  ], 
+  "alias_SWE_Q": [
+    "Papua Nya Guinea"
+  ], 
+  "alias_POL_Q": [
+    "Papua-Nowa Gwinea"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -0.86622, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Papua Noua Guinee"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ud30c\ud478\uc544\ub274\uae30\ub2c8"
+  ], 
+  "alias_POR_V": [
+    "Papu\u00e1sia-Nova Guin\u00e9"
+  ], 
+  "alias_POR_Q": [
+    "Papua-Nova Guin\u00e9"
+  ], 
+  "alias_ENG_A": [
+    "PG"
+  ], 
+  "alias_POR_S": [
+    "Papuasia-Nova Guine"
+  ], 
+  "alias_CZE_Q": [
+    "Papua-Nov\u00e1 Guinea"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12498717, 
+        "name": "Arawe Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498725, 
+        "name": "Bismarck Archipelago"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498726, 
+        "name": "Bonvouloir Islands and Reefs"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498728, 
+        "name": "Brumer Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498731, 
+        "name": "Calvados Chain The"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498824, 
+        "name": "Deboyne Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498743, 
+        "name": "Engineer Group"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498746, 
+        "name": "Feni Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498751, 
+        "name": "Hermit Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498761, 
+        "name": "Kaniet Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498825, 
+        "name": "Laughlan Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498769, 
+        "name": "Lihir Group"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498774, 
+        "name": "Lusancay Islands and Reefs"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498230, 
+        "name": "New Britain Island"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498827, 
+        "name": "Ninigo Group"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498783, 
+        "name": "Nuguria Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498786, 
+        "name": "Pam Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498791, 
+        "name": "Renard Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498798, 
+        "name": "Saint Matthias Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498801, 
+        "name": "Schouten Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498812, 
+        "name": "Tanga Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12498817, 
+        "name": "Trobriand Islands"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346581, 
+        "name": "Central"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346588, 
+        "name": "Chimbu"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346590, 
+        "name": "East New Britain"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346591, 
+        "name": "East Sepik"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346589, 
+        "name": "Eastern Highlands"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346599, 
+        "name": "Enga"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346582, 
+        "name": "Gulf"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346592, 
+        "name": "Madang"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346593, 
+        "name": "Manus"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346583, 
+        "name": "Milne Bay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346594, 
+        "name": "Morobe"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346600, 
+        "name": "National Capital"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346595, 
+        "name": "New Ireland"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346587, 
+        "name": "North Solomons"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346584, 
+        "name": "Northern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346598, 
+        "name": "Sandaun"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346585, 
+        "name": "Southern Highlands"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346597, 
+        "name": "West New Britain"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346586, 
+        "name": "Western"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346596, 
+        "name": "Western Highlands"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Papua Nya Guinea"
+    ], 
+    "Danish": [
+      "Papua Ny Guinea"
+    ], 
+    "Hungarian": [
+      "P\u00e1pua \u00daj-Guinea"
+    ], 
+    "Chinese": [
+      "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e", 
+      "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
+    ], 
+    "Finnish": [
+      "Papua-Uusi-Guinea"
+    ], 
+    "Norwegian": [
+      "Papua Ny-Guinea"
+    ], 
+    "Czech": [
+      "Papua-Nova Guinea", 
+      "Papua-Nov\u00e1 Guinea", 
+      "Papua Nov\u00e1 Guinea"
+    ], 
+    "Romanian": [
+      "Papua Noua Guinee"
+    ], 
+    "Dutch": [
+      "Papoea Nieuw Guinea", 
+      "Papoea-Nieuw-Guinea"
+    ], 
+    "Japanese": [
+      "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2", 
+      "\u30d1\u30d7\u30a2\u30fb\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2"
+    ], 
+    "French": [
+      "Papouasie-Nouvelle-Guin\u00e9e", 
+      "Papouasie Nouvelle Guinee", 
+      "Papouasie-Nouvelle Guin\u00e9e"
+    ], 
+    "German": [
+      "Papua-Neuguinea", 
+      "Unabh\u00e4ngiger Staat Papua-Neuguinea", 
+      "Unabhaengiger Staat Papua-Neuguinea"
+    ], 
+    "Portuguese": [
+      "Papu\u00e1sia-Nova Guin\u00e9", 
+      "Papuasia-Nova Guine", 
+      "Papua-Nova Guin\u00e9"
+    ], 
+    "Unknown": [
+      "Papua Nova Gvineja"
+    ], 
+    "Spanish": [
+      "Pap\u00faa-Nueva Guinea", 
+      "Papua Nueva Guinea", 
+      "Pap\u00faa Nueva Guinea"
+    ], 
+    "English": [
+      "PG", 
+      "Papuanewguinea"
+    ], 
+    "Polish": [
+      "Papua-Nowa Gwinea", 
+      "Papua Nowa Gwinea"
+    ], 
+    "Korean": [
+      "\ud30c\ud478\uc544\ub274\uae30\ub2c8", 
+      "\ud30c\ud478\uc544 \ub274\uae30\ub2c8"
+    ], 
+    "Italian": [
+      "Papuasia-Nuova Guinea", 
+      "Papua Nuova Guinea"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
+  ], 
+  "alias_ITA_Q": [
+    "Papua Nuova Guinea"
+  ], 
+  "alias_GER_V": [
+    "Unabh\u00e4ngiger Staat Papua-Neuguinea"
+  ], 
+  "alias_ITA_V": [
+    "Papuasia-Nuova Guinea"
+  ], 
+  "alias_CHI_V": [
+    "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
+  ], 
+  "woeid": 23424926, 
+  "alias_JPN_Q": [
+    "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30d1\u30d7\u30a2\u30fb\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2"
+  ], 
+  "alias_SPA_Q": [
+    "Pap\u00faa Nueva Guinea"
+  ], 
+  "alias_FIN_Q": [
+    "Papua-Uusi-Guinea"
+  ], 
+  "alias_SPA_S": [
+    "Papua Nueva Guinea"
+  ], 
+  "sw_longitude": 140.842865, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -6.65619, 
+  "alias_NOR_Q": [
+    "Papua Ny-Guinea"
+  ], 
+  "date_indexed": "2010-12-02T09:57:28.654Z", 
+  "alias_KOR_Q": [
+    "\ud30c\ud478\uc544 \ub274\uae30\ub2c8"
+  ], 
+  "alias_SPA_V": [
+    "Pap\u00faa-Nueva Guinea"
+  ], 
+  "alias_DUT_Q": [
+    "Papoea-Nieuw-Guinea"
+  ], 
+  "alias_CZE_S": [
+    "Papua-Nova Guinea"
+  ], 
+  "bbox": "-11.65785,140.842865,-0.86622,159.48378", 
+  "alias_DUT_V": [
+    "Papoea Nieuw Guinea"
+  ], 
+  "alias_DAN_Q": [
+    "Papua Ny Guinea"
+  ], 
+  "alias_GER_Q": [
+    "Papua-Neuguinea"
+  ], 
+  "alias_GER_S": [
+    "Unabhaengiger Staat Papua-Neuguinea"
+  ], 
+  "lang": "ENG", 
+  "name": "Papua New Guinea", 
+  "language": "English", 
+  "alias_CZE_V": [
+    "Papua Nov\u00e1 Guinea"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Papua Nova Gvineja"
+  ], 
+  "alias_HUN_Q": [
+    "P\u00e1pua \u00daj-Guinea"
+  ], 
+  "ne_longitude": 159.48378, 
+  "longitude": 145.859314, 
+  "iso": "PG", 
+  "sw_latitude": -11.65785, 
+  "alias_FRE_V": [
+    "Papouasie-Nouvelle Guin\u00e9e"
+  ], 
+  "fullname": "Papua New Guinea", 
   "features": [
     {
       "geometry": {
@@ -49,23 +471,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 11782, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=37193346", 
+          "woe:region=2346594", 
+          "woe:country=23424926"
+        ], 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "PG", 
+        "longitude": 146.99001657981913, 
+        "artisanal:id": 37193346, 
+        "latitude": -6.726074163347831, 
+        "woe:id": 37193346, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 37193346, 
       "properties": {
         "ne:fid": 11782, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=37193346", 
+          "woe:region=2346594", 
+          "woe:country=23424926"
+        ], 
         "artisanal:foundry": "http://www.londonintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "PG", 
+        "longitude": 146.99001657981913, 
         "artisanal:id": 37193346, 
+        "latitude": -6.726074163347831, 
         "woe:id": 37193346, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    146.9689416851678, 
-    -6.741758721547853, 
-    147.01338341693878, 
-    -6.713233330922741
+  "alias_FRE_S": [
+    "Papouasie Nouvelle Guinee"
+  ], 
+  "alias_FRE_Q": [
+    "Papouasie-Nouvelle-Guin\u00e9e"
   ]
 }

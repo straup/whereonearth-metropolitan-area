@@ -1,5 +1,450 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Chi\u0144ska Republika Ludowa"
+  ], 
+  "alias_ENG_V": [
+    "China Peoples Rep"
+  ], 
+  "alias_SWE_V": [
+    "Folkrepubliken Kina"
+  ], 
+  "alias_SWE_Q": [
+    "Kina"
+  ], 
+  "alias_POL_Q": [
+    "Chiny"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 53.5606, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "China"
+  ], 
+  "alias_UNK_V": [
+    "Aomen"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d"
+  ], 
+  "alias_POR_V": [
+    "Rep\u00fablica Popular da China"
+  ], 
+  "alias_POR_Q": [
+    "China"
+  ], 
+  "alias_ENG_A": [
+    "CHN"
+  ], 
+  "alias_CZE_Q": [
+    "\u010c\u00edna"
+  ], 
+  "children": {
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12467950, 
+        "name": "Changshan Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12467952, 
+        "name": "Dangan Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12497556, 
+        "name": "Paracel Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12467984, 
+        "name": "Sishuang Liedao"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12467986, 
+        "name": "Taizhou Liedao"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12467988, 
+        "name": "Wanshan Qundao"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 12578012, 
+        "name": "\u4e0a\u6d77\u76f4\u8f96\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578018, 
+        "name": "\u4e91\u5357\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578009, 
+        "name": "\u5185\u8499\u53e4\u81ea\u6cbb\u533a"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578011, 
+        "name": "\u5317\u4eac\u76f4\u8f96\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577995, 
+        "name": "\u5409\u6797\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578016, 
+        "name": "\u56db\u5ddd\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578017, 
+        "name": "\u5929\u6d25\u76f4\u8f96\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578010, 
+        "name": "\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578022, 
+        "name": "\u5b89\u5fbd\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578014, 
+        "name": "\u5c71\u4e1c\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578013, 
+        "name": "\u5c71\u897f\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578019, 
+        "name": "\u5e7f\u4e1c\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578006, 
+        "name": "\u5e7f\u897f\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578003, 
+        "name": "\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577994, 
+        "name": "\u6c5f\u82cf\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577993, 
+        "name": "\u6c5f\u897f\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578000, 
+        "name": "\u6cb3\u5317\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577999, 
+        "name": "\u6cb3\u5357\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577992, 
+        "name": "\u6d59\u6c5f\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578020, 
+        "name": "\u6d77\u5357\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578002, 
+        "name": "\u6e56\u5317\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578001, 
+        "name": "\u6e56\u5357\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578005, 
+        "name": "\u7518\u8083\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577997, 
+        "name": "\u798f\u5efa\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 23424920, 
+        "name": "\u897f\u6c99\u7fa4\u5c9b"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578004, 
+        "name": "\u897f\u85cf\u81ea\u6cbb\u533a"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578007, 
+        "name": "\u8d35\u5dde\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578008, 
+        "name": "\u8fbd\u5b81\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070171, 
+        "name": "\u91cd\u5e86\u76f4\u8f96\u5e02"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12578015, 
+        "name": "\u965d\u897f\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577996, 
+        "name": "\u9752\u6d77\u7701"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577998, 
+        "name": "\u9ed1\u9f99\u6c5f\u7701"
+      }
+    ], 
+    "placetype": [], 
+    "Airport": [
+      {
+        "placetype": "Airport", 
+        "woeid": 12512162, 
+        "name": "Pratas Island Airport"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354144, 
+        "name": "Yangtze River"
+      }
+    ], 
+    "Timezone": [
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043593, 
+        "name": "Asia/Chongqing"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043594, 
+        "name": "Asia/Harbin"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043595, 
+        "name": "Asia/Kashgar"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043597, 
+        "name": "Asia/Shanghai"
+      }, 
+      {
+        "placetype": "Timezone", 
+        "woeid": 56043596, 
+        "name": "Asia/Urumqi"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Folkrepubliken Kina", 
+      "Kina"
+    ], 
+    "Danish": [
+      "Kina", 
+      "Folkerepublikken Kina"
+    ], 
+    "Portuguese": [
+      "Rep\u00fablica Popular da China", 
+      "China"
+    ], 
+    "Chinese": [
+      "\u4e2d\u56fd"
+    ], 
+    "Finnish": [
+      "Kiinan kansantasavalta", 
+      "Kiina"
+    ], 
+    "Norwegian": [
+      "Kina", 
+      "Folkerepublikken Kina"
+    ], 
+    "Czech": [
+      "\u010c\u00edna", 
+      "\u010c\u00ednsk\u00e1 lidov\u00e1 republika"
+    ], 
+    "Romanian": [
+      "China", 
+      "Republica Popular\u0103 Chinez\u0103"
+    ], 
+    "Dutch": [
+      "Volksrepubliek China", 
+      "China"
+    ], 
+    "Japanese": [
+      "\u4e2d\u56fd", 
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Chine", 
+      "Republique Populaire de Chine", 
+      "R\u00e9publique Populaire de Chine"
+    ], 
+    "German": [
+      "China", 
+      "China - Volksrepublik"
+    ], 
+    "Unknown": [
+      "Kitajska", 
+      "Aomen"
+    ], 
+    "Spanish": [
+      "Rep\u00fablica Popular China", 
+      "China"
+    ], 
+    "English": [
+      "CHN", 
+      "China", 
+      "China Peoples Rep"
+    ], 
+    "Polish": [
+      "Chiny", 
+      "Chi\u0144ska Republika Ludowa"
+    ], 
+    "Korean": [
+      "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d", 
+      "\uc911\uad6d"
+    ], 
+    "Italian": [
+      "Repubblica Popolare Cinese", 
+      "Cina"
+    ]
+  }, 
+  "alias_ITA_Q": [
+    "Cina"
+  ], 
+  "alias_GER_V": [
+    "China - Volksrepublik"
+  ], 
+  "alias_ITA_V": [
+    "Repubblica Popolare Cinese"
+  ], 
+  "alias_CHI_V": [
+    "\u4e2d\u56fd"
+  ], 
+  "woeid": 23424781, 
+  "alias_JPN_Q": [
+    "\u4e2d\u56fd"
+  ], 
+  "alias_ENG_P": [
+    "China"
+  ], 
+  "alias_JPN_V": [
+    "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "China"
+  ], 
+  "alias_FIN_Q": [
+    "Kiina"
+  ], 
+  "sw_longitude": 73.557709, 
+  "alias_FIN_V": [
+    "Kiinan kansantasavalta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 36.894451, 
+  "alias_NOR_Q": [
+    "Kina"
+  ], 
+  "alias_NOR_V": [
+    "Folkerepublikken Kina"
+  ], 
+  "date_indexed": "2010-12-02T08:51:54.882Z", 
+  "alias_FRE_V": [
+    "R\u00e9publique Populaire de Chine"
+  ], 
+  "alias_KOR_Q": [
+    "\uc911\uad6d"
+  ], 
+  "adjacent": [], 
+  "alias_DAN_V": [
+    "Folkerepublikken Kina"
+  ], 
+  "alias_SPA_V": [
+    "Rep\u00fablica Popular China"
+  ], 
+  "alias_DUT_Q": [
+    "China"
+  ], 
+  "bbox": "15.7754,73.557709,53.5606,134.773605", 
+  "alias_DUT_V": [
+    "Volksrepubliek China"
+  ], 
+  "alias_DAN_Q": [
+    "Kina"
+  ], 
+  "alias_GER_Q": [
+    "China"
+  ], 
+  "lang": "CHI", 
+  "name": "\u4e2d\u570b", 
+  "language": "Chinese", 
+  "alias_CZE_V": [
+    "\u010c\u00ednsk\u00e1 lidov\u00e1 republika"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Kitajska"
+  ], 
+  "ne_longitude": 134.773605, 
+  "longitude": 104.165649, 
+  "iso": "CN", 
+  "sw_latitude": 15.7754, 
+  "alias_RUM_V": [
+    "Republica Popular\u0103 Chinez\u0103"
+  ], 
+  "fullname": "\u4e2d\u570b, China", 
   "features": [
     {
       "geometry": {
@@ -45,23 +490,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 38, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819284", 
+          "woe:region=12577998", 
+          "woe:country=23424781"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "CN", 
+        "longitude": 123.87423395174267, 
+        "artisanal:id": 34819284, 
+        "latitude": 52.70491106058397, 
+        "woe:id": 34819284, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34819284, 
       "properties": {
         "ne:fid": 38, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819284", 
+          "woe:region=12577998", 
+          "woe:country=23424781"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "CN", 
+        "longitude": 123.87423395174267, 
         "artisanal:id": 34819284, 
+        "latitude": 52.70491106058397, 
         "woe:id": 34819284, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    123.85252322804405, 
-    52.67673330342943, 
-    123.89500125538797, 
-    52.73228546814319
+  "alias_FRE_S": [
+    "Republique Populaire de Chine"
+  ], 
+  "alias_FRE_Q": [
+    "Chine"
   ]
 }

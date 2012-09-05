@@ -1,5 +1,427 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Romanian"
+  ], 
+  "alias_SWE_Q": [
+    "Rum\u00e4nien"
+  ], 
+  "alias_POL_Q": [
+    "Rumunia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 48.266891, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Rumunija"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Rom\u00eania"
+  ], 
+  "alias_POR_Q": [
+    "Rom\u00e9nia"
+  ], 
+  "alias_ENG_A": [
+    "RO"
+  ], 
+  "alias_POR_S": [
+    "Romenia"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 55863701, 
+        "name": "Transylvania"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 56205303, 
+        "name": "Wallachia"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2346615, 
+        "name": "Alba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346616, 
+        "name": "Arad"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346617, 
+        "name": "Arges"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346618, 
+        "name": "Bacau"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346619, 
+        "name": "Bihor"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346620, 
+        "name": "Bistrita-Nasaud"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346621, 
+        "name": "Botosani"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346622, 
+        "name": "Braila"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346623, 
+        "name": "Brasov"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346624, 
+        "name": "Bucuresti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346625, 
+        "name": "Buzau"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346654, 
+        "name": "Calarasi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346626, 
+        "name": "Caras-Severin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346627, 
+        "name": "Cluj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346628, 
+        "name": "Constanta"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346629, 
+        "name": "Covasna"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346630, 
+        "name": "Dambovita"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346631, 
+        "name": "Dolj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346632, 
+        "name": "Galati"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346655, 
+        "name": "Giurgiu"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346633, 
+        "name": "Gorj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346634, 
+        "name": "Harghita"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346635, 
+        "name": "Hunedoara"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346636, 
+        "name": "Ialomita"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346637, 
+        "name": "Iasi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 29281934, 
+        "name": "Ilfov"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346638, 
+        "name": "Maramures"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346639, 
+        "name": "Mehedinti"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346640, 
+        "name": "Mures"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346641, 
+        "name": "Neamt"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346642, 
+        "name": "Olt"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346643, 
+        "name": "Prahova"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346644, 
+        "name": "Salaj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346645, 
+        "name": "Satu Mare"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346646, 
+        "name": "Sibiu"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346647, 
+        "name": "Suceava"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346648, 
+        "name": "Teleorman"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346649, 
+        "name": "Timis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346650, 
+        "name": "Tulcea"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346652, 
+        "name": "Valcea"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346651, 
+        "name": "Vaslui"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346653, 
+        "name": "Vrancea"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354261, 
+        "name": "Buzau River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354259, 
+        "name": "Olt River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354260, 
+        "name": "Somes River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Rum\u00e4nien"
+    ], 
+    "Danish": [
+      "Rumaenien", 
+      "Rum\u00e6nien"
+    ], 
+    "Hungarian": [
+      "Rom\u00e1nia"
+    ], 
+    "Chinese": [
+      "\u7f57\u9a6c\u5c3c\u4e9a", 
+      "\u7f85\u99ac\u5c3c\u4e9e"
+    ], 
+    "Finnish": [
+      "Romania"
+    ], 
+    "Norwegian": [
+      "Romania"
+    ], 
+    "Czech": [
+      "Rumunsko"
+    ], 
+    "Unknown": [
+      "Romunija", 
+      "Roumania", 
+      "Rumunija"
+    ], 
+    "Dutch": [
+      "Roemenie", 
+      "Roemeni\u00eb"
+    ], 
+    "Japanese": [
+      "\u30eb\u30fc\u30de\u30cb\u30a2"
+    ], 
+    "French": [
+      "Roumanie"
+    ], 
+    "German": [
+      "Rum\u00e4nien", 
+      "Rumanien"
+    ], 
+    "Portuguese": [
+      "Rom\u00eania", 
+      "Romenia", 
+      "Rom\u00e9nia"
+    ], 
+    "Spanish": [
+      "Ruman\u00eda", 
+      "Rumania"
+    ], 
+    "English": [
+      "RO", 
+      "Romania", 
+      "Romanian"
+    ], 
+    "Polish": [
+      "Rumunia"
+    ], 
+    "Korean": [
+      "\ub8e8\ub9c8\ub2c8\uc544"
+    ], 
+    "Italian": [
+      "Romania"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7f85\u99ac\u5c3c\u4e9e"
+  ], 
+  "alias_ITA_Q": [
+    "Romania"
+  ], 
+  "alias_CHI_V": [
+    "\u7f57\u9a6c\u5c3c\u4e9a"
+  ], 
+  "woeid": 23424933, 
+  "alias_JPN_Q": [
+    "\u30eb\u30fc\u30de\u30cb\u30a2"
+  ], 
+  "alias_ENG_P": [
+    "Romania"
+  ], 
+  "alias_SPA_Q": [
+    "Rumania"
+  ], 
+  "alias_FIN_Q": [
+    "Romania"
+  ], 
+  "sw_longitude": 20.269791, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 45.946949, 
+  "alias_NOR_Q": [
+    "Romania"
+  ], 
+  "date_indexed": "2010-12-02T16:37:48.347Z", 
+  "alias_KOR_Q": [
+    "\ub8e8\ub9c8\ub2c8\uc544"
+  ], 
+  "alias_SPA_V": [
+    "Ruman\u00eda"
+  ], 
+  "alias_DUT_Q": [
+    "Roemeni\u00eb"
+  ], 
+  "alias_DUT_S": [
+    "Roemenie"
+  ], 
+  "bbox": "43.626999,20.269791,48.266891,29.691", 
+  "alias_CZE_Q": [
+    "Rumunsko"
+  ], 
+  "alias_DAN_S": [
+    "Rumaenien"
+  ], 
+  "alias_DAN_Q": [
+    "Rum\u00e6nien"
+  ], 
+  "alias_GER_Q": [
+    "Rum\u00e4nien"
+  ], 
+  "alias_GER_S": [
+    "Rumanien"
+  ], 
+  "lang": "RUM", 
+  "name": "Rom\u00e2nia", 
+  "language": "Romanian", 
+  "alias_UNK_S": [
+    "Roumania"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Romunija"
+  ], 
+  "alias_HUN_Q": [
+    "Rom\u00e1nia"
+  ], 
+  "ne_longitude": 29.691, 
+  "longitude": 24.9804, 
+  "iso": "RO", 
+  "sw_latitude": 43.626999, 
+  "fullname": "Rom\u00e2nia, Romania", 
   "features": [
     {
       "geometry": {
@@ -97,23 +519,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 6153, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823366", 
+          "woe:region=2346618", 
+          "woe:country=23424933"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "RO", 
+        "longitude": 26.91443899110997, 
+        "artisanal:id": 34823366, 
+        "latitude": 46.58002669613516, 
+        "woe:id": 34823366, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34823366, 
       "properties": {
         "ne:fid": 6153, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823366", 
+          "woe:region=2346618", 
+          "woe:country=23424933"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "RO", 
+        "longitude": 26.91443899110997, 
         "artisanal:id": 34823366, 
+        "latitude": 46.58002669613516, 
         "woe:id": 34823366, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    26.871259393020665, 
-    46.522535305357934, 
-    26.960039503698113, 
-    46.646197007832384
+  "alias_FRE_Q": [
+    "Roumanie"
   ]
 }

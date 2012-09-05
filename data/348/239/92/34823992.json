@@ -1,5 +1,228 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Lebanese"
+  ], 
+  "alias_SWE_Q": [
+    "Libanon"
+  ], 
+  "alias_POL_Q": [
+    "Liban"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 34.6912, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Liban"
+  ], 
+  "alias_UNK_V": [
+    "Libanonska republika"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "L\u00edbano"
+  ], 
+  "alias_ENG_A": [
+    "LB"
+  ], 
+  "alias_ARA_V": [
+    "Al Lubn"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 56049598, 
+        "name": "Akkar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346013, 
+        "name": "Al Biqa'"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346014, 
+        "name": "Al Janub"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56049597, 
+        "name": "An Nabatiyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346015, 
+        "name": "Ash Shamal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56049599, 
+        "name": "Baalbek-Hermel"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346016, 
+        "name": "Bayrut"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2346017, 
+        "name": "Jabal Lubnan"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Libanon"
+    ], 
+    "Danish": [
+      "Libanon"
+    ], 
+    "Hungarian": [
+      "Libanon"
+    ], 
+    "Finnish": [
+      "Libanoniin", 
+      "Libanonista"
+    ], 
+    "Chinese": [
+      "\u9ece\u5df4\u5ae9", 
+      "\u9ece\u5df4\u5ae9"
+    ], 
+    "Norwegian": [
+      "Libanon"
+    ], 
+    "Czech": [
+      "Libanon"
+    ], 
+    "Romanian": [
+      "Liban"
+    ], 
+    "Dutch": [
+      "Libanon"
+    ], 
+    "Japanese": [
+      "\u30ec\u30d0\u30ce\u30f3", 
+      "\u30ec\u30d0\u30ce\u30f3\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Liban", 
+      "R\u00e9publique Libanaise"
+    ], 
+    "German": [
+      "Libanon", 
+      "Libanesische Republik"
+    ], 
+    "Portuguese": [
+      "L\u00edbano"
+    ], 
+    "Unknown": [
+      "Lubnan", 
+      "Libanonska republika"
+    ], 
+    "Spanish": [
+      "el pa\u00eds del cedro", 
+      "L\u00edbano"
+    ], 
+    "English": [
+      "LB", 
+      "Lebanese"
+    ], 
+    "Polish": [
+      "Liban"
+    ], 
+    "Arabic": [
+      "Al Lubn"
+    ], 
+    "Korean": [
+      "\ub808\ubc14\ub17c"
+    ], 
+    "Italian": [
+      "Libano"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u9ece\u5df4\u5ae9"
+  ], 
+  "alias_ITA_Q": [
+    "Libano"
+  ], 
+  "alias_GER_V": [
+    "Libanesische Republik"
+  ], 
+  "alias_CHI_V": [
+    "\u9ece\u5df4\u5ae9"
+  ], 
+  "woeid": 23424873, 
+  "alias_JPN_Q": [
+    "\u30ec\u30d0\u30ce\u30f3"
+  ], 
+  "alias_JPN_V": [
+    "\u30ec\u30d0\u30ce\u30f3\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "L\u00edbano"
+  ], 
+  "alias_FIN_Q": [
+    "Libanonista"
+  ], 
+  "sw_longitude": 35.113998, 
+  "alias_FIN_V": [
+    "Libanoniin"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 33.872452, 
+  "alias_NOR_Q": [
+    "Libanon"
+  ], 
+  "date_indexed": "2010-12-02T16:50:08.477Z", 
+  "alias_KOR_Q": [
+    "\ub808\ubc14\ub17c"
+  ], 
+  "adjacent": [], 
+  "alias_SPA_V": [
+    "el pa\u00eds del cedro"
+  ], 
+  "alias_DUT_Q": [
+    "Libanon"
+  ], 
+  "bbox": "33.053699,35.113998,34.6912,36.639099", 
+  "alias_CZE_Q": [
+    "Libanon"
+  ], 
+  "alias_DAN_Q": [
+    "Libanon"
+  ], 
+  "alias_GER_Q": [
+    "Libanon"
+  ], 
+  "lang": "ENG", 
+  "name": "Lebanon", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Lubnan"
+  ], 
+  "alias_HUN_Q": [
+    "Libanon"
+  ], 
+  "ne_longitude": 36.639099, 
+  "longitude": 35.876549, 
+  "iso": "LB", 
+  "sw_latitude": 33.053699, 
+  "alias_FRE_V": [
+    "R\u00e9publique Libanaise"
+  ], 
+  "fullname": "Lebanon", 
   "features": [
     {
       "geometry": {
@@ -113,23 +336,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 7065, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823992", 
+          "woe:region=56049598", 
+          "woe:country=23424873"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "LB", 
+        "longitude": 36.146384020914816, 
+        "artisanal:id": 34823992, 
+        "latitude": 34.505068095491254, 
+        "woe:id": 34823992, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34823992, 
       "properties": {
         "ne:fid": 7065, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34823992", 
+          "woe:region=56049598", 
+          "woe:country=23424873"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "LB", 
+        "longitude": 36.146384020914816, 
         "artisanal:id": 34823992, 
+        "latitude": 34.505068095491254, 
         "woe:id": 34823992, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    36.101393670401364, 
-    34.433299058564785, 
-    36.20298953628716, 
-    34.55561717379965
+  "alias_FRE_Q": [
+    "Liban"
   ]
 }

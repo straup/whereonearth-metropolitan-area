@@ -1,5 +1,149 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Republic of Costa Rica"
+  ], 
+  "alias_ENG_A": [
+    "CR"
+  ], 
+  "alias_POL_Q": [
+    "Kostaryka"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 11.21681, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Republika Kostarika"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345082, 
+        "name": "Alajuela"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345083, 
+        "name": "Cartago"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345084, 
+        "name": "Guanacaste"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345085, 
+        "name": "Heredia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345086, 
+        "name": "Limon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345087, 
+        "name": "Puntarenas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345088, 
+        "name": "San Jose"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 55863652, 
+        "name": "Parque Nacional Manuel Antonio"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u54e5\u65af\u5927\u9ece\u52a0", 
+      "\u54e5\u65af\u5927\u9ece\u52a0"
+    ], 
+    "Czech": [
+      "Kostarika"
+    ], 
+    "Unknown": [
+      "Kostarika", 
+      "Costa-Rica", 
+      "Republika Kostarika"
+    ], 
+    "Japanese": [
+      "\u30b3\u30b9\u30bf\u30ea\u30ab", 
+      "\u30b3\u30b9\u30bf\u30ea\u30ab\u5171\u548c\u56fd"
+    ], 
+    "German": [
+      "Republik Costa Rica"
+    ], 
+    "English": [
+      "CR", 
+      "Republic of Costa Rica"
+    ], 
+    "Polish": [
+      "Kostaryka"
+    ], 
+    "Korean": [
+      "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u54e5\u65af\u5927\u9ece\u52a0"
+  ], 
+  "alias_CHI_V": [
+    "\u54e5\u65af\u5927\u9ece\u52a0"
+  ], 
+  "woeid": 23424791, 
+  "alias_JPN_Q": [
+    "\u30b3\u30b9\u30bf\u30ea\u30ab"
+  ], 
+  "alias_JPN_V": [
+    "\u30b3\u30b9\u30bf\u30ea\u30ab\u5171\u548c\u56fd"
+  ], 
+  "sw_longitude": -87.083778, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 9.62489, 
+  "date_indexed": "2010-12-02T12:16:27.781Z", 
+  "bbox": "5.49955,-87.083778,11.21681,-82.556", 
+  "alias_CZE_Q": [
+    "Kostarika"
+  ], 
+  "alias_GER_V": [
+    "Republik Costa Rica"
+  ], 
+  "lang": "ENG", 
+  "name": "Costa Rica", 
+  "language": "English", 
+  "alias_UNK_S": [
+    "Costa-Rica"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Kostarika"
+  ], 
+  "ne_longitude": -82.556, 
+  "longitude": -84.253311, 
+  "iso": "CR", 
+  "sw_latitude": 5.49955, 
+  "fullname": "Costa Rica", 
   "features": [
     {
       "geometry": {
@@ -49,23 +193,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 3541, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34821622", 
+          "woe:region=2345083", 
+          "woe:country=23424791"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "CR", 
+        "longitude": -83.92527025355916, 
+        "artisanal:id": 34821622, 
+        "latitude": 9.862901348331144, 
+        "woe:id": 34821622, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34821622, 
       "properties": {
         "ne:fid": 3541, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34821622", 
+          "woe:region=2345083", 
+          "woe:country=23424791"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "CR", 
+        "longitude": -83.92527025355916, 
         "artisanal:id": 34821622, 
+        "latitude": 9.862901348331144, 
         "woe:id": 34821622, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -83.94998653841222, 
-    9.839554755080982, 
-    -83.89443437369846, 
-    9.88223948815407
   ]
 }

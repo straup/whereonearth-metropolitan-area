@@ -1,5 +1,141 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Turkmen"
+  ], 
+  "alias_KOR_Q": [
+    "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 42.795551, 
+  "supercedes": [], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ud22c\ub974\ud06c\uba58"
+  ], 
+  "alias_POR_V": [
+    "Turcomenist\u00e3o"
+  ], 
+  "alias_POR_Q": [
+    "Turquemenist\u00e3o"
+  ], 
+  "alias_ENG_A": [
+    "TM"
+  ], 
+  "alias_POR_S": [
+    "Turquemenistao"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2347347, 
+        "name": "Ashkhabad"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347348, 
+        "name": "Chardzhou"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347349, 
+        "name": "Krasnovodsk"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347350, 
+        "name": "Mary"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347351, 
+        "name": "Tashauz"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u571f\u5e93\u66fc\u65af\u5766", 
+      "\u571f\u5eab\u66fc"
+    ], 
+    "Finnish": [
+      "Turkmenistassa"
+    ], 
+    "Hungarian": [
+      "T\u00fcrkmeniszt\u00e1n"
+    ], 
+    "Portuguese": [
+      "Turcomenist\u00e3o", 
+      "Turquemenistao", 
+      "Turquemenist\u00e3o"
+    ], 
+    "Czech": [
+      "Turkmenist\u00e1n"
+    ], 
+    "Spanish": [
+      "Turkmenist\u00e1n"
+    ], 
+    "Japanese": [
+      "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3"
+    ], 
+    "French": [
+      "Turkm\u00e9nistan"
+    ], 
+    "English": [
+      "TM", 
+      "Turkmen"
+    ], 
+    "Korean": [
+      "\ud22c\ub974\ud06c\uba58", 
+      "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u571f\u5eab\u66fc"
+  ], 
+  "alias_CHI_V": [
+    "\u571f\u5e93\u66fc\u65af\u5766"
+  ], 
+  "woeid": 23424972, 
+  "alias_JPN_Q": [
+    "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3"
+  ], 
+  "alias_SPA_Q": [
+    "Turkmenist\u00e1n"
+  ], 
+  "sw_longitude": 52.441429, 
+  "alias_FIN_V": [
+    "Turkmenistassa"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 38.968319, 
+  "date_indexed": "2010-12-02T18:19:07.972Z", 
+  "adjacent": [], 
+  "bbox": "35.14109,52.441429,42.795551,66.684303", 
+  "alias_CZE_Q": [
+    "Turkmenist\u00e1n"
+  ], 
+  "lang": "ENG", 
+  "name": "Turkmenistan", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "T\u00fcrkmeniszt\u00e1n"
+  ], 
+  "ne_longitude": 66.684303, 
+  "longitude": 59.56287, 
+  "iso": "TM", 
+  "sw_latitude": 35.14109, 
+  "fullname": "Turkmenistan", 
   "features": [
     {
       "geometry": {
@@ -189,23 +325,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 224, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819404", 
+          "woe:region=2347351", 
+          "woe:country=23424972"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "TM", 
+        "longitude": 59.96044621752761, 
+        "artisanal:id": 34819404, 
+        "latitude": 41.86730579264844, 
+        "woe:id": 34819404, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34819404, 
       "properties": {
         "ne:fid": 224, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819404", 
+          "woe:region=2347351", 
+          "woe:country=23424972"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "TM", 
+        "longitude": 59.96044621752761, 
         "artisanal:id": 34819404, 
+        "latitude": 41.86730579264844, 
         "woe:id": 34819404, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    59.856429477788055, 
-    41.82168528906308, 
-    60.04618533716382, 
-    41.91059459082125
+  "alias_FRE_Q": [
+    "Turkm\u00e9nistan"
   ]
 }

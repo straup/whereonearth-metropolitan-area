@@ -1,5 +1,293 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Afuganisutan"
+  ], 
+  "alias_ENG_A": [
+    "AF"
+  ], 
+  "alias_POL_Q": [
+    "Afganistan"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 38.483421, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Afganistan"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Afeganist\u00e3o"
+  ], 
+  "alias_KOR_Q": [
+    "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4"
+  ], 
+  "alias_POR_S": [
+    "Afeganistao"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344549, 
+        "name": "Badakhshan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344550, 
+        "name": "Badghis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344551, 
+        "name": "Baghlan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344575, 
+        "name": "Balkh"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344552, 
+        "name": "Bamian"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56000466, 
+        "name": "Daykundi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344553, 
+        "name": "Farah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344554, 
+        "name": "Faryab"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344555, 
+        "name": "Ghazni"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344556, 
+        "name": "Ghowr"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344557, 
+        "name": "Helmand"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344558, 
+        "name": "Herat"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344576, 
+        "name": "Jowzjan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344559, 
+        "name": "Kabul"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344569, 
+        "name": "Kandahar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344560, 
+        "name": "Kapisa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24550741, 
+        "name": "Khowst"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344561, 
+        "name": "Konar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344570, 
+        "name": "Konduz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344562, 
+        "name": "Laghman"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344563, 
+        "name": "Lowgar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344564, 
+        "name": "Nangarhar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344565, 
+        "name": "Nimruz"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549937, 
+        "name": "Nurestan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344566, 
+        "name": "Oruzgan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344567, 
+        "name": "Paktia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344574, 
+        "name": "Paktika"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56000467, 
+        "name": "Panjshir"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344568, 
+        "name": "Parvan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344577, 
+        "name": "Samangan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344578, 
+        "name": "Sare Pol"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344571, 
+        "name": "Takhar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344572, 
+        "name": "Vardak"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344573, 
+        "name": "Zabol"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u963f\u5bcc\u6c57"
+    ], 
+    "Finnish": [
+      "Afganistan"
+    ], 
+    "Hungarian": [
+      "Afganiszt\u00e1n"
+    ], 
+    "Portuguese": [
+      "Afeganistao", 
+      "Afeganist\u00e3o"
+    ], 
+    "Czech": [
+      "Afgh\u00e1nist\u00e1n"
+    ], 
+    "Romanian": [
+      "Afganistan"
+    ], 
+    "Spanish": [
+      "Afganist\u00e1n"
+    ], 
+    "Japanese": [
+      "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3", 
+      "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u56fd"
+    ], 
+    "German": [
+      "Islamischer Staat Afghanistan"
+    ], 
+    "English": [
+      "AF", 
+      "Afuganisutan"
+    ], 
+    "Polish": [
+      "Afganistan"
+    ], 
+    "Korean": [
+      "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u963f\u5bcc\u6c57"
+  ], 
+  "woeid": 23424739, 
+  "alias_JPN_Q": [
+    "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3"
+  ], 
+  "alias_JPN_V": [
+    "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Afganist\u00e1n"
+  ], 
+  "alias_FIN_Q": [
+    "Afganistan"
+  ], 
+  "sw_longitude": 60.478439, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 33.93045, 
+  "date_indexed": "2010-12-02T18:03:37.295Z", 
+  "bbox": "29.37747,60.478439,38.483421,74.879433", 
+  "alias_CZE_Q": [
+    "Afgh\u00e1nist\u00e1n"
+  ], 
+  "alias_GER_V": [
+    "Islamischer Staat Afghanistan"
+  ], 
+  "lang": "ENG", 
+  "name": "Afghanistan", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "Afganiszt\u00e1n"
+  ], 
+  "ne_longitude": 74.879433, 
+  "longitude": 67.67894, 
+  "iso": "AF", 
+  "sw_latitude": 29.37747, 
+  "fullname": "Afghanistan", 
   "features": [
     {
       "geometry": {
@@ -45,23 +333,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 417, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819538", 
+          "woe:region=2344571", 
+          "woe:country=23424739"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "AF", 
+        "longitude": 69.43617192393235, 
+        "artisanal:id": 34819538, 
+        "latitude": 37.333599179655074, 
+        "woe:id": 34819538, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34819538, 
       "properties": {
         "ne:fid": 417, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34819538", 
+          "woe:region=2344571", 
+          "woe:country=23424739"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "AF", 
+        "longitude": 69.43617192393235, 
         "artisanal:id": 34819538, 
+        "latitude": 37.333599179655074, 
         "woe:id": 34819538, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    69.41057498563876, 
-    37.29963572849812, 
-    69.46597212105564, 
-    37.35518789321188
   ]
 }

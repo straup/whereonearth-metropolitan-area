@@ -1,5 +1,154 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Reunionese"
+  ], 
+  "alias_KOR_Q": [
+    "\ub808\uc704\ub2c8\uc639"
+  ], 
+  "alias_POL_Q": [
+    "Reunion"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -20.85685, 
+  "supercedes": [], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ub9ac\uc720\ub2c8\uc628"
+  ], 
+  "alias_POR_Q": [
+    "Reuni\u00e3o"
+  ], 
+  "alias_ENG_A": [
+    "RE"
+  ], 
+  "alias_POR_S": [
+    "Reuniao"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12466271, 
+        "name": "l'Ile de la Reunion"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 24549829, 
+        "name": "Saint-Beno\u00eet"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549830, 
+        "name": "Saint-Denis"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549831, 
+        "name": "Saint-Paul"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549828, 
+        "name": "Saint-Pierre"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Reuniao", 
+      "Reuni\u00e3o"
+    ], 
+    "Spanish": [
+      "Reuni\u00f3n"
+    ], 
+    "Chinese": [
+      "\u7559\u5c3c\u65fa", 
+      "\u7559\u5c3c\u65fa"
+    ], 
+    "Dutch": [
+      "La R\u00e9union", 
+      "La Reunion"
+    ], 
+    "Japanese": [
+      "\u30ec\u30e6\u30cb\u30aa\u30f3", 
+      "\u30ec\u30e6\u30cb\u30aa\u30f3\u5cf6"
+    ], 
+    "French": [
+      "R\u00e9union"
+    ], 
+    "English": [
+      "RE", 
+      "Reunion", 
+      "Reunionese"
+    ], 
+    "Polish": [
+      "Reunion"
+    ], 
+    "Korean": [
+      "\ub9ac\uc720\ub2c8\uc628", 
+      "\ub808\uc704\ub2c8\uc639"
+    ], 
+    "Italian": [
+      "Riunione"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7559\u5c3c\u65fa"
+  ], 
+  "alias_ITA_Q": [
+    "Riunione"
+  ], 
+  "alias_CHI_V": [
+    "\u7559\u5c3c\u65fa"
+  ], 
+  "woeid": 23424931, 
+  "alias_JPN_Q": [
+    "\u30ec\u30e6\u30cb\u30aa\u30f3"
+  ], 
+  "alias_ENG_P": [
+    "Reunion"
+  ], 
+  "alias_JPN_V": [
+    "\u30ec\u30e6\u30cb\u30aa\u30f3\u5cf6"
+  ], 
+  "alias_SPA_Q": [
+    "Reuni\u00f3n"
+  ], 
+  "sw_longitude": 55.219082, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -21.114531, 
+  "date_indexed": "2010-12-02T09:35:31.608Z", 
+  "alias_DUT_S": [
+    "La Reunion"
+  ], 
+  "bbox": "-21.37221,55.219082,-20.85685,55.845039", 
+  "alias_DUT_V": [
+    "La R\u00e9union"
+  ], 
+  "lang": "FRE", 
+  "name": "La R\u00e9union", 
+  "language": "French", 
+  "parent_woeid": 1, 
+  "ne_longitude": 55.845039, 
+  "longitude": 55.532059, 
+  "iso": "RE", 
+  "sw_latitude": -21.37221, 
+  "alias_FRE_V": [
+    "R\u00e9union"
+  ], 
+  "fullname": "La R\u00e9union, Reunion", 
   "features": [
     {
       "geometry": {
@@ -97,23 +246,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8430, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35316807", 
+          "woe:region=24549828", 
+          "woe:country=23424931"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "RE", 
+        "longitude": 55.42435183089726, 
+        "artisanal:id": 35316807, 
+        "latitude": -21.277401236824392, 
+        "woe:id": 35316807, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35316807, 
       "properties": {
         "ne:fid": 8430, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35316807", 
+          "woe:region=24549828", 
+          "woe:country=23424931"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "RE", 
+        "longitude": 55.42435183089726, 
         "artisanal:id": 35316807, 
+        "latitude": -21.277401236824392, 
         "woe:id": 35316807, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    55.378459913968044, 
-    -21.30190357837693, 
-    55.47054731631218, 
-    -21.25415455493924
   ]
 }

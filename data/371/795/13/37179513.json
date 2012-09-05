@@ -1,5 +1,150 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Catalan"
+  ], 
+  "alias_SWE_Q": [
+    "Andorra"
+  ], 
+  "alias_POL_Q": [
+    "Andora"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 42.65601, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Principat d'Andorra"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\uc548\ub3c4\ub77c"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070553, 
+        "name": "Andorra la Vella"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070557, 
+        "name": "Canillo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070558, 
+        "name": "Encamp"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070554, 
+        "name": "Escaldes-Engordany"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070555, 
+        "name": "La Massana"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070556, 
+        "name": "Ordino"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070564, 
+        "name": "Sant Juli\u00e0 de L\u00f2ria"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Andorra"
+    ], 
+    "Chinese": [
+      "\u5b89\u9053\u5c14", 
+      "\u5b89\u9053\u723e"
+    ], 
+    "German": [
+      "F\u00fcrstentum Andorra", 
+      "Fuerstentum Andorra"
+    ], 
+    "Unknown": [
+      "Andora", 
+      "Principat d'Andorra"
+    ], 
+    "Japanese": [
+      "\u30a2\u30f3\u30c9\u30e9", 
+      "\u30a2\u30f3\u30c9\u30e9\u516c\u56fd"
+    ], 
+    "French": [
+      "Andorre", 
+      "Principalite d'Andorre", 
+      "Les Vall\u00e9es d\u2019 Andorre"
+    ], 
+    "English": [
+      "AD", 
+      "Catalan"
+    ], 
+    "Polish": [
+      "Andora"
+    ], 
+    "Korean": [
+      "\uc548\ub3c4\ub77c"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5b89\u9053\u723e"
+  ], 
+  "alias_CHI_V": [
+    "\u5b89\u9053\u5c14"
+  ], 
+  "woeid": 23424744, 
+  "alias_JPN_Q": [
+    "\u30a2\u30f3\u30c9\u30e9"
+  ], 
+  "alias_JPN_V": [
+    "\u30a2\u30f3\u30c9\u30e9\u516c\u56fd"
+  ], 
+  "sw_longitude": 1.41382, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 42.54237, 
+  "date_indexed": "2010-12-02T07:50:33.218Z", 
+  "alias_ENG_A": [
+    "AD"
+  ], 
+  "bbox": "42.42873,1.41382,42.65601,1.78659", 
+  "alias_GER_V": [
+    "F\u00fcrstentum Andorra"
+  ], 
+  "alias_GER_S": [
+    "Fuerstentum Andorra"
+  ], 
+  "lang": "UNK", 
+  "name": "Andorra", 
+  "language": "Unknown", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Andora"
+  ], 
+  "ne_longitude": 1.78659, 
+  "longitude": 1.60021, 
+  "iso": "AD", 
+  "sw_latitude": 42.42873, 
+  "alias_FRE_V": [
+    "Les Vall\u00e9es d\u2019 Andorre"
+  ], 
+  "fullname": "Andorra", 
   "features": [
     {
       "geometry": {
@@ -77,23 +222,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 7406, 
+        "ne:hasPlace": 6, 
+        "hierarchy": [
+          "woe:metropolitan-area=37179513", 
+          "woe:region=20070557", 
+          "woe:country=23424744"
+        ], 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "AD", 
+        "longitude": 1.5998151908364877, 
+        "artisanal:id": 37179513, 
+        "latitude": 42.5980194808059, 
+        "woe:id": 37179513, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 37179513, 
       "properties": {
         "ne:fid": 7406, 
         "ne:hasPlace": 6, 
+        "hierarchy": [
+          "woe:metropolitan-area=37179513", 
+          "woe:region=20070557", 
+          "woe:country=23424744"
+        ], 
         "artisanal:foundry": "http://www.londonintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "AD", 
+        "longitude": 1.5998151908364877, 
         "artisanal:id": 37179513, 
+        "latitude": 42.5980194808059, 
         "woe:id": 37179513, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    1.553321567398569, 
-    42.55580068620144, 
-    1.653263787451039, 
-    42.644684149743455
+  "alias_FRE_S": [
+    "Principalite d'Andorre"
+  ], 
+  "alias_FRE_Q": [
+    "Andorre"
   ]
 }

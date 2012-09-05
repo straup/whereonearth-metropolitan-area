@@ -1,5 +1,171 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Kingdom of Swaziland"
+  ], 
+  "alias_ENG_A": [
+    "SZ"
+  ], 
+  "alias_POL_Q": [
+    "Suazi"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": -25.719641, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Kraljevina Svazi"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\uc2a4\uc640\uc9c8\ub79c\ub4dc"
+  ], 
+  "alias_POR_Q": [
+    "Suazil\u00e2ndia"
+  ], 
+  "alias_KOR_Q": [
+    "\uc2a4\uc640\uc9c8\ub780\ub4dc"
+  ], 
+  "alias_POR_S": [
+    "Suazilandia"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20069889, 
+        "name": "Hhohho"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069891, 
+        "name": "Lubombo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069892, 
+        "name": "Manzini"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20069890, 
+        "name": "Shiselweni"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Chinese": [
+      "\u53f2\u74e6\u6fdf\u862d", 
+      "\u53f2\u74e6\u6fdf\u862d"
+    ], 
+    "Finnish": [
+      "Swazimaa"
+    ], 
+    "Hungarian": [
+      "Szv\u00e1zif\u00f6ld"
+    ], 
+    "Portuguese": [
+      "Suazilandia", 
+      "Suazil\u00e2ndia"
+    ], 
+    "Czech": [
+      "Svazijsko", 
+      "Swazijsko"
+    ], 
+    "Unknown": [
+      "Svazi", 
+      "Kraljevina Svazi"
+    ], 
+    "Spanish": [
+      "Swazilandia", 
+      "Suazilandia"
+    ], 
+    "Japanese": [
+      "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9", 
+      "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9\u738b\u56fd"
+    ], 
+    "German": [
+      "Swasiland", 
+      "K\u00f6nigreich Swasiland", 
+      "Koenigreich Swasiland"
+    ], 
+    "English": [
+      "SZ", 
+      "Kingdom of Swaziland"
+    ], 
+    "Polish": [
+      "Suazi"
+    ], 
+    "Korean": [
+      "\uc2a4\uc640\uc9c8\ub79c\ub4dc", 
+      "\uc2a4\uc640\uc9c8\ub780\ub4dc"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u53f2\u74e6\u6fdf\u862d"
+  ], 
+  "alias_CHI_V": [
+    "\u53f2\u74e6\u6fdf\u862d"
+  ], 
+  "woeid": 23424993, 
+  "alias_JPN_Q": [
+    "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9"
+  ], 
+  "alias_JPN_V": [
+    "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9\u738b\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Suazilandia"
+  ], 
+  "alias_FIN_Q": [
+    "Swazimaa"
+  ], 
+  "sw_longitude": 30.7941, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -26.51837, 
+  "date_indexed": "2010-12-02T12:16:52.079Z", 
+  "alias_SPA_V": [
+    "Swazilandia"
+  ], 
+  "alias_CZE_V": [
+    "Swazijsko"
+  ], 
+  "bbox": "-27.317101,30.7941,-25.719641,32.137272", 
+  "alias_CZE_Q": [
+    "Svazijsko"
+  ], 
+  "alias_GER_V": [
+    "K\u00f6nigreich Swasiland"
+  ], 
+  "alias_GER_Q": [
+    "Swasiland"
+  ], 
+  "alias_GER_S": [
+    "Koenigreich Swasiland"
+  ], 
+  "lang": "ENG", 
+  "name": "Swaziland", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Svazi"
+  ], 
+  "alias_HUN_Q": [
+    "Szv\u00e1zif\u00f6ld"
+  ], 
+  "ne_longitude": 32.137272, 
+  "longitude": 31.465679, 
+  "iso": "SZ", 
+  "sw_latitude": -27.317101, 
+  "fullname": "Swaziland", 
   "features": [
     {
       "geometry": {
@@ -93,23 +259,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8339, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35316751", 
+          "woe:region=20069889", 
+          "woe:country=23424993"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "SZ", 
+        "longitude": 31.127468483670725, 
+        "artisanal:id": 35316751, 
+        "latitude": -26.29645928627407, 
+        "woe:id": 35316751, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35316751, 
       "properties": {
         "ne:fid": 8339, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35316751", 
+          "woe:region=20069889", 
+          "woe:country=23424993"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "SZ", 
+        "longitude": 31.127468483670725, 
         "artisanal:id": 35316751, 
+        "latitude": -26.29645928627407, 
         "woe:id": 35316751, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    31.06934939954789, 
-    -26.338392022407497, 
-    31.170531853975376, 
-    -26.255658054308206
   ]
 }

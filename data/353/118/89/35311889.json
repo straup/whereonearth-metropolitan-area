@@ -1,5 +1,505 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Aruban"
+  ], 
+  "alias_ENG_A": [
+    "AW"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 12.63061, 
+  "supercedes": [], 
+  "placetype": "Country", 
+  "alias_KOR_Q": [
+    "\uc544\ub8e8\ubc14"
+  ], 
+  "children": {
+    "Town": [
+      {
+        "placetype": "Town", 
+        "woeid": 56021, 
+        "name": "Angochi"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56023, 
+        "name": "Babijn"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56024, 
+        "name": "Balashi"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56026, 
+        "name": "Boton"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56028, 
+        "name": "Bringamosa"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56029, 
+        "name": "Bubali"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56030, 
+        "name": "Bushiribana"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56031, 
+        "name": "Butucu"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56032, 
+        "name": "Calabas"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56033, 
+        "name": "Camacuri"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56034, 
+        "name": "Canashito"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56035, 
+        "name": "Cas Ariba"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56036, 
+        "name": "Cas di Paloma"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56037, 
+        "name": "Cashero"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56038, 
+        "name": "Casibari"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56039, 
+        "name": "Catashi"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56040, 
+        "name": "Catiri"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56042, 
+        "name": "Coba Lodo"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56044, 
+        "name": "Cunucu Abao"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56045, 
+        "name": "Cura Cabai"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56048, 
+        "name": "Falcon"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56050, 
+        "name": "Gasparito"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56051, 
+        "name": "Jamanota"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56052, 
+        "name": "Jan Flemming"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56053, 
+        "name": "Juwana Morto"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56054, 
+        "name": "Largo Cadushi"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56055, 
+        "name": "Mabon"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56056, 
+        "name": "Macuarima"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56057, 
+        "name": "Madiki"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56058, 
+        "name": "Mahuma"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56059, 
+        "name": "Marawiel"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56060, 
+        "name": "Maria M\u00e0i"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56061, 
+        "name": "Meiveld"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56062, 
+        "name": "Moco"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56063, 
+        "name": "Modansa"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56064, 
+        "name": "Mon Pos"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56065, 
+        "name": "Morgenster"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56067, 
+        "name": "Noord Cura Cabai"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56068, 
+        "name": "Nu\u00f1e"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56069, 
+        "name": "Oranjestad"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56070, 
+        "name": "Palm Beach"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56072, 
+        "name": "Paradijs"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56073, 
+        "name": "Paraguan\u00e1"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56074, 
+        "name": "Parkietenbos"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56075, 
+        "name": "Pav\u00eda"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56076, 
+        "name": "Picaron"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56077, 
+        "name": "Piedra Plat"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56078, 
+        "name": "Plantersrust"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56079, 
+        "name": "Ponton"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56080, 
+        "name": "Pos Abao"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56082, 
+        "name": "Primavera"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56084, 
+        "name": "Rooi Af\u00f3"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56085, 
+        "name": "Rooi Bosal"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56086, 
+        "name": "Rooi Cochi"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56087, 
+        "name": "Rooi Congo"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56088, 
+        "name": "Rooi Hundo"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56089, 
+        "name": "Rooi Master"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56090, 
+        "name": "Rooi Prikichi"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56091, 
+        "name": "Sabana Basora"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56092, 
+        "name": "Sabana Berde"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56093, 
+        "name": "Sabana Blanco"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56094, 
+        "name": "Sabana Grandi"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56095, 
+        "name": "Sabana Liber"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56097, 
+        "name": "Saban\u00eda Abao"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56098, 
+        "name": "Sali\u00f1a Cerca"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56099, 
+        "name": "San Barbola"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56100, 
+        "name": "San Fuego"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56102, 
+        "name": "Santa Helena"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56103, 
+        "name": "Santa Martha"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56104, 
+        "name": "Sero Blanco"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56105, 
+        "name": "Shaba"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56106, 
+        "name": "Shabiruri"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56107, 
+        "name": "Shete"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56108, 
+        "name": "Shiribana"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56112, 
+        "name": "Siribana"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56113, 
+        "name": "Soledad"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56114, 
+        "name": "Solito"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56111, 
+        "name": "St. Nicolaas"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56115, 
+        "name": "Tamarijn"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56116, 
+        "name": "Tanki Flip"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56117, 
+        "name": "Tanki Lender"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56118, 
+        "name": "Tarabana"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56119, 
+        "name": "Washington"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56120, 
+        "name": "Wayaca"
+      }, 
+      {
+        "placetype": "Town", 
+        "woeid": 56121, 
+        "name": "Westpunt"
+      }
+    ], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12481127, 
+        "name": "Aruba"
+      }
+    ], 
+    "placetype": []
+  }, 
+  "aliases": {
+    "Unknown": [
+      "Ar\u00faba"
+    ], 
+    "Korean": [
+      "\uc544\ub8e8\ubc14"
+    ], 
+    "Japanese": [
+      "\u30a2\u30eb\u30d0"
+    ], 
+    "Chinese": [
+      "\u963f\u9c81\u5df4"
+    ], 
+    "English": [
+      "AW", 
+      "Aruban"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u963f\u9c81\u5df4"
+  ], 
+  "woeid": 23424736, 
+  "alias_JPN_Q": [
+    "\u30a2\u30eb\u30d0"
+  ], 
+  "sw_longitude": -70.061127, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 12.51835, 
+  "date_indexed": "2010-12-02T12:16:27.834Z", 
+  "bbox": "12.40609,-70.061127,12.63061,-69.866859", 
+  "lang": "ENG", 
+  "name": "Aruba", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Ar\u00faba"
+  ], 
+  "ne_longitude": -69.866859, 
+  "longitude": -69.963989, 
+  "iso": "AW", 
+  "sw_latitude": 12.40609, 
+  "fullname": "Aruba", 
   "features": [
     {
       "geometry": {
@@ -81,23 +581,41 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1764, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311889", 
+          "woe:country=23424736"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "AW", 
+        "longitude": -70.01734569822732, 
+        "artisanal:id": 35311889, 
+        "latitude": 12.55956309774803, 
+        "woe:id": 35311889, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35311889, 
       "properties": {
         "ne:fid": 1764, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311889", 
+          "woe:country=23424736"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "AW", 
+        "longitude": -70.01734569822732, 
         "artisanal:id": 35311889, 
+        "latitude": 12.55956309774803, 
         "woe:id": 35311889, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -70.06238460964573, 
-    12.507919012904154, 
-    -69.95187455918956, 
-    12.63214915613382
   ]
 }

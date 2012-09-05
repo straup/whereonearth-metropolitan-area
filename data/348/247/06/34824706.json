@@ -1,5 +1,254 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Republika Konga"
+  ], 
+  "alias_ENG_V": [
+    "Congo Brazzaville"
+  ], 
+  "alias_SWE_V": [
+    "Republiken Kongo"
+  ], 
+  "alias_SWE_Q": [
+    "Kongo-Brazzaville"
+  ], 
+  "alias_POL_Q": [
+    "Kongo"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 3.70308, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Republica Congo"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ucf69\uace0"
+  ], 
+  "alias_POR_V": [
+    "Congo-Brazzaville"
+  ], 
+  "alias_ENG_A": [
+    "CG"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344967, 
+        "name": "Bouenza"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344976, 
+        "name": "Brazzaville"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344968, 
+        "name": "Cuvette"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 55998384, 
+        "name": "Cuvette-Ouest"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344969, 
+        "name": "Kouilou"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344971, 
+        "name": "Likuoala"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344970, 
+        "name": "L\u00e9koumou"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344972, 
+        "name": "Niari"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344973, 
+        "name": "Plateaux"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344975, 
+        "name": "Pool"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344974, 
+        "name": "Sangha"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Republiken Kongo", 
+      "Kongo-Brazzaville"
+    ], 
+    "Danish": [
+      "Republikken Congo", 
+      "Congo-Brazzaville"
+    ], 
+    "Hungarian": [
+      "Kong\u00f3", 
+      "Kong\u00f3i K\u00f6zt\u00e1rsas\u00e1g"
+    ], 
+    "Chinese": [
+      "\u525b\u679c"
+    ], 
+    "Finnish": [
+      "Kongo \u2013 Brazzaville", 
+      "Kongon tasavalta"
+    ], 
+    "Norwegian": [
+      "Republikken Kongo", 
+      "Kongo-Brazzaville"
+    ], 
+    "Czech": [
+      "Republika Kongo", 
+      "Kongo"
+    ], 
+    "Romanian": [
+      "Republica Congo"
+    ], 
+    "Dutch": [
+      "Congo-Brazzaville"
+    ], 
+    "Japanese": [
+      "\u30b3\u30f3\u30b4\u5171\u548c\u56fd", 
+      "\u30b3\u30f3\u30b4"
+    ], 
+    "French": [
+      "R\u00e9publique du Congo", 
+      "Republique du Congo", 
+      "Congo-Brazzaville"
+    ], 
+    "German": [
+      "Kongo", 
+      "Republik Kongo"
+    ], 
+    "Portuguese": [
+      "Congo-Brazzaville"
+    ], 
+    "Unknown": [
+      "Republika Kongo"
+    ], 
+    "Spanish": [
+      "Rep\u00fablica del Congo"
+    ], 
+    "English": [
+      "CG", 
+      "Congo Brazzaville"
+    ], 
+    "Polish": [
+      "Kongo", 
+      "Republika Konga"
+    ], 
+    "Korean": [
+      "\ucf69\uace0", 
+      "\ucf69\uace0 \uacf5\ud654\uad6d"
+    ], 
+    "Italian": [
+      "Repubblica del Congo"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u525b\u679c"
+  ], 
+  "alias_ITA_Q": [
+    "Repubblica del Congo"
+  ], 
+  "alias_GER_V": [
+    "Republik Kongo"
+  ], 
+  "woeid": 23424779, 
+  "alias_JPN_Q": [
+    "\u30b3\u30f3\u30b4\u5171\u548c\u56fd"
+  ], 
+  "alias_JPN_V": [
+    "\u30b3\u30f3\u30b4"
+  ], 
+  "alias_SPA_Q": [
+    "Rep\u00fablica del Congo"
+  ], 
+  "alias_FIN_Q": [
+    "Kongon tasavalta"
+  ], 
+  "sw_longitude": 11.205, 
+  "alias_FIN_V": [
+    "Kongo \u2013 Brazzaville"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": -0.66262, 
+  "alias_NOR_Q": [
+    "Republikken Kongo"
+  ], 
+  "alias_NOR_V": [
+    "Kongo-Brazzaville"
+  ], 
+  "date_indexed": "2010-12-02T18:21:30.62Z", 
+  "alias_KOR_Q": [
+    "\ucf69\uace0 \uacf5\ud654\uad6d"
+  ], 
+  "adjacent": [], 
+  "alias_DAN_V": [
+    "Congo-Brazzaville"
+  ], 
+  "alias_DUT_Q": [
+    "Congo-Brazzaville"
+  ], 
+  "bbox": "-5.02831,11.205,3.70308,18.64983", 
+  "alias_CZE_Q": [
+    "Republika Kongo"
+  ], 
+  "alias_DAN_Q": [
+    "Republikken Congo"
+  ], 
+  "alias_GER_Q": [
+    "Kongo"
+  ], 
+  "lang": "ENG", 
+  "name": "Congo", 
+  "language": "English", 
+  "alias_CZE_V": [
+    "Kongo"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Republika Kongo"
+  ], 
+  "alias_HUN_Q": [
+    "Kong\u00f3i K\u00f6zt\u00e1rsas\u00e1g"
+  ], 
+  "alias_HUN_V": [
+    "Kong\u00f3"
+  ], 
+  "ne_longitude": 18.64983, 
+  "longitude": 14.92741, 
+  "iso": "CG", 
+  "sw_latitude": -5.02831, 
+  "alias_FRE_V": [
+    "Congo-Brazzaville"
+  ], 
+  "fullname": "Congo", 
   "features": [
     {
       "geometry": {
@@ -49,23 +298,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 8174, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824706", 
+          "woe:region=2344972", 
+          "woe:country=23424779"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "CG", 
+        "longitude": 12.690274699597646, 
+        "artisanal:id": 34824706, 
+        "latitude": -4.206424252940127, 
+        "woe:id": 34824706, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34824706, 
       "properties": {
         "ne:fid": 8174, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34824706", 
+          "woe:region=2344972", 
+          "woe:country=23424779"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "CG", 
+        "longitude": 12.690274699597646, 
         "artisanal:id": 34824706, 
+        "latitude": -4.206424252940127, 
         "woe:id": 34824706, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    12.673986443745122, 
-    -4.23426319744928, 
-    12.706645948953593, 
-    -4.178607679870936
+  "alias_FRE_S": [
+    "Republique du Congo"
+  ], 
+  "alias_FRE_Q": [
+    "R\u00e9publique du Congo"
   ]
 }

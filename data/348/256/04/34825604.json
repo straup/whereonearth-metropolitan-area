@@ -1,5 +1,229 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Kingdom of Bahrain"
+  ], 
+  "alias_KOR_Q": [
+    "\ubc14\ub808\uc778"
+  ], 
+  "alias_POL_Q": [
+    "Bahrajn"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 26.292391, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Bahrein"
+  ], 
+  "alias_UNK_V": [
+    "Dawlat Al-Bahrayn"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Bareine"
+  ], 
+  "alias_POR_Q": [
+    "Bahrein"
+  ], 
+  "alias_ENG_A": [
+    "BH"
+  ], 
+  "alias_POR_S": [
+    "Barem"
+  ], 
+  "alias_ARA_V": [
+    "Al-Bahrayn"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344720, 
+        "name": "Capital"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56051601, 
+        "name": "Central"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344724, 
+        "name": "Muharraq"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56051603, 
+        "name": "Northern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56051602, 
+        "name": "Southern"
+      }
+    ], 
+    "HistoricalState": [
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344719, 
+        "name": "Al Hadd"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344725, 
+        "name": "Al Mintaqah al Gharbiyah"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344727, 
+        "name": "Al Mintaqah al Wusta"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344726, 
+        "name": "Al Mintaqah ash Shamaliyah"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344721, 
+        "name": "Al Muharraq"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344729, 
+        "name": "Ar Rifa'wa al Mintaqah al Janubiyah"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344722, 
+        "name": "Jidd H'afs"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344728, 
+        "name": "Madinat Isa"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 20070013, 
+        "name": "Mintaqat Juzur Hawar"
+      }, 
+      {
+        "placetype": "HistoricalState", 
+        "woeid": 2344723, 
+        "name": "Sitrah"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Bareine", 
+      "Barem", 
+      "Bahrein"
+    ], 
+    "Spanish": [
+      "Bahr\u00e9in"
+    ], 
+    "Hungarian": [
+      "Bahrein"
+    ], 
+    "Chinese": [
+      "\u5df4\u6797"
+    ], 
+    "Czech": [
+      "Bahrajn"
+    ], 
+    "Romanian": [
+      "Bahrein"
+    ], 
+    "Dutch": [
+      "Bahrein"
+    ], 
+    "Japanese": [
+      "\u30d0\u30fc\u30ec\u30fc\u30f3", 
+      "\u30d0\u30fc\u30ec\u30fc\u30f3\u738b\u56fd"
+    ], 
+    "French": [
+      "Bahre\u00efn"
+    ], 
+    "German": [
+      "Staat Bahrain"
+    ], 
+    "Unknown": [
+      "Bahrajn", 
+      "Dawlat Al-Bahrayn"
+    ], 
+    "English": [
+      "BH", 
+      "Kingdom of Bahrain"
+    ], 
+    "Polish": [
+      "Bahrajn"
+    ], 
+    "Arabic": [
+      "Al-Bahrayn"
+    ], 
+    "Korean": [
+      "\ubc14\ub808\uc778"
+    ], 
+    "Italian": [
+      "Bahrein"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5df4\u6797"
+  ], 
+  "alias_ITA_V": [
+    "Bahrein"
+  ], 
+  "woeid": 23424753, 
+  "alias_JPN_Q": [
+    "\u30d0\u30fc\u30ec\u30fc\u30f3"
+  ], 
+  "alias_JPN_V": [
+    "\u30d0\u30fc\u30ec\u30fc\u30f3\u738b\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Bahr\u00e9in"
+  ], 
+  "sw_longitude": 50.385799, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 26.02475, 
+  "date_indexed": "2010-12-02T16:11:57.065Z", 
+  "alias_DUT_Q": [
+    "Bahrein"
+  ], 
+  "bbox": "25.5422,50.385799,26.292391,50.828499", 
+  "alias_CZE_Q": [
+    "Bahrajn"
+  ], 
+  "alias_GER_V": [
+    "Staat Bahrain"
+  ], 
+  "lang": "ENG", 
+  "name": "Bahrain", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Bahrajn"
+  ], 
+  "alias_HUN_Q": [
+    "Bahrein"
+  ], 
+  "ne_longitude": 50.828499, 
+  "longitude": 50.5485, 
+  "iso": "BH", 
+  "sw_latitude": 25.5422, 
+  "fullname": "Bahrain", 
   "features": [
     {
       "geometry": {
@@ -187,23 +411,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 9532, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825604", 
+          "woe:region=56051601", 
+          "woe:country=23424753"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "BH", 
+        "longitude": 50.5290727324699, 
+        "artisanal:id": 34825604, 
+        "latitude": 26.15647011288169, 
+        "woe:id": 34825604, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34825604, 
       "properties": {
         "ne:fid": 9532, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825604", 
+          "woe:region=56051601", 
+          "woe:country=23424753"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "BH", 
+        "longitude": 50.5290727324699, 
         "artisanal:id": 34825604, 
+        "latitude": 26.15647011288169, 
         "woe:id": 34825604, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    50.448838331917074, 
-    26.02585358327073, 
-    50.618957147021916, 
-    26.242584540302843
+  "alias_FRE_Q": [
+    "Bahre\u00efn"
   ]
 }

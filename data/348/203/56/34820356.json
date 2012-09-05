@@ -1,5 +1,398 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Democratic and Popular Republic of Algeria"
+  ], 
+  "alias_SWE_Q": [
+    "Algeriet"
+  ], 
+  "alias_POL_Q": [
+    "Algieria"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 37.093731, 
+  "supercedes": [], 
+  "placetype": "Country", 
+  "alias_POR_Q": [
+    "Arg\u00e9lia"
+  ], 
+  "alias_ENG_A": [
+    "DZ"
+  ], 
+  "alias_ARA_V": [
+    "Al-Djaza'ir"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344606, 
+        "name": "'A\u00efn Temouchent"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344604, 
+        "name": "Adrar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344605, 
+        "name": "Ain Defla"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344579, 
+        "name": "Alger"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344607, 
+        "name": "Annaba"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344580, 
+        "name": "Batna"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344608, 
+        "name": "Bechar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344590, 
+        "name": "Bejaia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344591, 
+        "name": "Biskra"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344592, 
+        "name": "Blida"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344609, 
+        "name": "Bordj Bou Arreridj"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344593, 
+        "name": "Bouira"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344610, 
+        "name": "Boumerdes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344611, 
+        "name": "Chlef"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344581, 
+        "name": "Constantine"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344594, 
+        "name": "Djelfa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344612, 
+        "name": "El Bayadh"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344613, 
+        "name": "El Oued"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344614, 
+        "name": "El Tarf"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344615, 
+        "name": "Ghardaia"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344595, 
+        "name": "Guelma"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344616, 
+        "name": "Illizi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344596, 
+        "name": "Jijel"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344617, 
+        "name": "Khenchela"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344597, 
+        "name": "Laghouat"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344599, 
+        "name": "M'sila"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344598, 
+        "name": "Mascara"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344582, 
+        "name": "Medea"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344618, 
+        "name": "Mila"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344583, 
+        "name": "Mostaganem"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344619, 
+        "name": "Naama"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344584, 
+        "name": "Oran"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344620, 
+        "name": "Ouargla"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344600, 
+        "name": "Oum el Bouaghi"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344621, 
+        "name": "Relizane"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344585, 
+        "name": "Saida"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344586, 
+        "name": "Setif"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344601, 
+        "name": "Sidi Bel Abbes"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344602, 
+        "name": "Skikda"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344622, 
+        "name": "Souk Ahras"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344623, 
+        "name": "Tamanghasset"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344603, 
+        "name": "Tebessa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344587, 
+        "name": "Tiaret"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344624, 
+        "name": "Tindouf"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344625, 
+        "name": "Tipaza"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344626, 
+        "name": "Tissemsilt"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344588, 
+        "name": "Tizi Ouzou"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344589, 
+        "name": "Tlemcen"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Algeriet"
+    ], 
+    "Danish": [
+      "Algeriet"
+    ], 
+    "Portuguese": [
+      "Arg\u00e9lia"
+    ], 
+    "Hungarian": [
+      "Alg\u00e9ria"
+    ], 
+    "Chinese": [
+      "\u963f\u5c14\u53ca\u5229\u4e9a", 
+      "\u963f\u723e\u53ca\u5229\u4e9e"
+    ], 
+    "Norwegian": [
+      "Algerie"
+    ], 
+    "Czech": [
+      "Al\u017e\u00edrsko"
+    ], 
+    "Unknown": [
+      "Arujeria", 
+      "Alsir"
+    ], 
+    "Dutch": [
+      "Algerije"
+    ], 
+    "Japanese": [
+      "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2", 
+      "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2\u6c11\u4e3b\u4eba\u6c11\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Alg\u00e9rie"
+    ], 
+    "German": [
+      "Algerien", 
+      "Demokratische Volksrepublik Algerien"
+    ], 
+    "Spanish": [
+      "Argelia"
+    ], 
+    "English": [
+      "DZ", 
+      "Democratic and Popular Republic of Algeria"
+    ], 
+    "Polish": [
+      "Algieria"
+    ], 
+    "Arabic": [
+      "Al-Djaza'ir"
+    ], 
+    "Korean": [
+      "\uc54c\uc81c\ub9ac"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u963f\u723e\u53ca\u5229\u4e9e"
+  ], 
+  "alias_GER_V": [
+    "Demokratische Volksrepublik Algerien"
+  ], 
+  "alias_CHI_V": [
+    "\u963f\u5c14\u53ca\u5229\u4e9a"
+  ], 
+  "woeid": 23424740, 
+  "alias_JPN_Q": [
+    "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2"
+  ], 
+  "alias_JPN_V": [
+    "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2\u6c11\u4e3b\u4eba\u6c11\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Argelia"
+  ], 
+  "sw_longitude": -8.67386, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 28.02688, 
+  "alias_NOR_Q": [
+    "Algerie"
+  ], 
+  "date_indexed": "2010-12-02T17:07:16.476Z", 
+  "alias_KOR_Q": [
+    "\uc54c\uc81c\ub9ac"
+  ], 
+  "alias_DUT_Q": [
+    "Algerije"
+  ], 
+  "bbox": "18.96002,-8.67386,37.093731,11.97955", 
+  "alias_CZE_Q": [
+    "Al\u017e\u00edrsko"
+  ], 
+  "alias_DAN_Q": [
+    "Algeriet"
+  ], 
+  "alias_GER_Q": [
+    "Algerien"
+  ], 
+  "lang": "ENG", 
+  "name": "Algeria", 
+  "language": "English", 
+  "alias_UNK_S": [
+    "Alsir"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Arujeria"
+  ], 
+  "alias_HUN_Q": [
+    "Alg\u00e9ria"
+  ], 
+  "ne_longitude": 11.97955, 
+  "longitude": 1.65284, 
+  "iso": "DZ", 
+  "sw_latitude": 18.96002, 
+  "fullname": "Algeria", 
   "features": [
     {
       "geometry": {
@@ -81,23 +474,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1612, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820356", 
+          "woe:region=2344606", 
+          "woe:country=23424740"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "DZ", 
+        "longitude": -1.1161339859545794, 
+        "artisanal:id": 34820356, 
+        "latitude": 35.31575202171536, 
+        "woe:id": 34820356, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34820356, 
       "properties": {
         "ne:fid": 1612, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=34820356", 
+          "woe:region=2344606", 
+          "woe:country=23424740"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "DZ", 
+        "longitude": -1.1161339859545794, 
         "artisanal:id": 34820356, 
+        "latitude": 35.31575202171536, 
         "woe:id": 34820356, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -1.158657599278939, 
-    35.28745880791715, 
-    -1.079592657872382, 
-    35.35562002211013
+  "alias_FRE_Q": [
+    "Alg\u00e9rie"
   ]
 }

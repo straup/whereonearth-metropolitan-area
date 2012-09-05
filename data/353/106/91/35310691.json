@@ -1,5 +1,246 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Kyrgyzstani"
+  ], 
+  "alias_SWE_Q": [
+    "Kirgizistan"
+  ], 
+  "alias_POL_Q": [
+    "Kirgistan"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 43.238239, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "K\u00e2rg\u00e2zstan"
+  ], 
+  "alias_UNK_V": [
+    "Kirgisia"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ud0a4\ub974\uae30\uc2a4"
+  ], 
+  "alias_POR_V": [
+    "Quirguizist\u00e3o"
+  ], 
+  "alias_POR_Q": [
+    "Quirguist\u00e3o"
+  ], 
+  "alias_ENG_A": [
+    "KG"
+  ], 
+  "alias_POR_S": [
+    "Quirguizistao"
+  ], 
+  "alias_CZE_Q": [
+    "Kyrgyzst\u00e1n"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070196, 
+        "name": "Batken"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070194, 
+        "name": "Bishkek"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070195, 
+        "name": "Chuy"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070193, 
+        "name": "Jalal-Abad"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070191, 
+        "name": "Naryn"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070197, 
+        "name": "Osh"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070192, 
+        "name": "Talas"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070190, 
+        "name": "Ysyk-Kol"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Kirgizistan"
+    ], 
+    "Danish": [
+      "Kirgisistan"
+    ], 
+    "Hungarian": [
+      "Kirgiziszt\u00e1n"
+    ], 
+    "Chinese": [
+      "\u5409\u723e\u5409\u65af", 
+      "\u5409\u723e\u5409\u65af"
+    ], 
+    "Finnish": [
+      "Kirgiisia", 
+      "Kirgisia"
+    ], 
+    "Norwegian": [
+      "Kirgisistan"
+    ], 
+    "Czech": [
+      "Kyrgyzst\u00e1n"
+    ], 
+    "Romanian": [
+      "K\u00e2rg\u00e2zstan", 
+      "Kirghizia"
+    ], 
+    "Dutch": [
+      "Kirgizstan", 
+      "Kirgizie", 
+      "Kirgizi\u00eb"
+    ], 
+    "Japanese": [
+      "\u30ad\u30eb\u30ae\u30b9", 
+      "\u30af\u30eb\u30b0\u30ba\u30b9\u30bf\u30f3"
+    ], 
+    "French": [
+      "Kirghizistan"
+    ], 
+    "German": [
+      "Kirgisistan", 
+      "Kirgistan"
+    ], 
+    "Portuguese": [
+      "Quirguizist\u00e3o", 
+      "Quirguizistao", 
+      "Quirguist\u00e3o"
+    ], 
+    "Unknown": [
+      "Kirgizistan", 
+      "Kirgisia"
+    ], 
+    "Spanish": [
+      "Kirgizist\u00e1n", 
+      "Kirguistan", 
+      "Kirguist\u00e1n"
+    ], 
+    "English": [
+      "KG", 
+      "Kyrgyzstani"
+    ], 
+    "Polish": [
+      "Kirgistan"
+    ], 
+    "Korean": [
+      "\ud0a4\ub974\uae30\uc2a4", 
+      "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
+    ], 
+    "Italian": [
+      "Kirghizistan"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5409\u723e\u5409\u65af"
+  ], 
+  "alias_ITA_Q": [
+    "Kirghizistan"
+  ], 
+  "alias_GER_V": [
+    "Kirgistan"
+  ], 
+  "alias_CHI_V": [
+    "\u5409\u723e\u5409\u65af"
+  ], 
+  "woeid": 23424864, 
+  "alias_JPN_Q": [
+    "\u30ad\u30eb\u30ae\u30b9"
+  ], 
+  "alias_JPN_V": [
+    "\u30af\u30eb\u30b0\u30ba\u30b9\u30bf\u30f3"
+  ], 
+  "alias_SPA_Q": [
+    "Kirguist\u00e1n"
+  ], 
+  "alias_FIN_Q": [
+    "Kirgisia"
+  ], 
+  "alias_SPA_S": [
+    "Kirguistan"
+  ], 
+  "sw_longitude": 69.276619, 
+  "alias_FIN_V": [
+    "Kirgiisia"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 41.20554, 
+  "alias_NOR_Q": [
+    "Kirgisistan"
+  ], 
+  "date_indexed": "2010-12-02T08:58:47.358Z", 
+  "alias_KOR_Q": [
+    "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
+  ], 
+  "adjacent": [], 
+  "alias_SPA_V": [
+    "Kirgizist\u00e1n"
+  ], 
+  "alias_DUT_Q": [
+    "Kirgizi\u00eb"
+  ], 
+  "alias_DUT_S": [
+    "Kirgizie"
+  ], 
+  "bbox": "39.17284,69.276619,43.238239,80.28318", 
+  "alias_DUT_V": [
+    "Kirgizstan"
+  ], 
+  "alias_DAN_Q": [
+    "Kirgisistan"
+  ], 
+  "alias_GER_Q": [
+    "Kirgisistan"
+  ], 
+  "lang": "ENG", 
+  "name": "Kyrgyzstan", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Kirgizistan"
+  ], 
+  "alias_HUN_Q": [
+    "Kirgiziszt\u00e1n"
+  ], 
+  "ne_longitude": 80.28318, 
+  "longitude": 74.7799, 
+  "iso": "KG", 
+  "sw_latitude": 39.17284, 
+  "alias_RUM_V": [
+    "Kirghizia"
+  ], 
+  "fullname": "Kyrgyzstan", 
   "features": [
     {
       "geometry": {
@@ -93,23 +334,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 200, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35310691", 
+          "woe:region=20070195", 
+          "woe:country=23424864"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "KG", 
+        "longitude": 74.84742978602182, 
+        "artisanal:id": 35310691, 
+        "latitude": 42.90809374483753, 
+        "woe:id": 35310691, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35310691, 
       "properties": {
         "ne:fid": 200, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=35310691", 
+          "woe:region=20070195", 
+          "woe:country=23424864"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "KG", 
+        "longitude": 74.84742978602182, 
         "artisanal:id": 35310691, 
+        "latitude": 42.90809374483753, 
         "woe:id": 35310691, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    74.81934044789998, 
-    42.86467072200996, 
-    74.88713992706693, 
-    42.95500112565615
+  "alias_FRE_Q": [
+    "Kirghizistan"
   ]
 }

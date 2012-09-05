@@ -1,5 +1,326 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Arab Republic of Egypt"
+  ], 
+  "alias_SWE_Q": [
+    "Egypten"
+  ], 
+  "alias_POL_Q": [
+    "Egipt"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 31.667339, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Egipt"
+  ], 
+  "alias_UNK_V": [
+    "\u00c6gypten"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Egipto"
+  ], 
+  "alias_POR_Q": [
+    "Egito"
+  ], 
+  "alias_ENG_A": [
+    "EG"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 55863407, 
+        "name": "Sinai Peninsula"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345223, 
+        "name": "Ad Daqahliyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345224, 
+        "name": "Al Bahr al Ahmar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345225, 
+        "name": "Al Buhayrah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345226, 
+        "name": "Al Fayyum"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345227, 
+        "name": "Al Gharbiyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345228, 
+        "name": "Al Iskandariyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345229, 
+        "name": "Al Isma'iliyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345230, 
+        "name": "Al Jizah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345231, 
+        "name": "Al Minufiyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345232, 
+        "name": "Al Minya"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345233, 
+        "name": "Al Qahirah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345234, 
+        "name": "Al Qalyobiyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120896, 
+        "name": "Al Uqsur"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345235, 
+        "name": "Al Wadi al Jadid"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345237, 
+        "name": "As Suways"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345236, 
+        "name": "Ash Sharquiyah"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345238, 
+        "name": "Aswan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345239, 
+        "name": "Asyut"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345240, 
+        "name": "Bani Suwayf"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345241, 
+        "name": "Bur Sa'id"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345242, 
+        "name": "Dumyat"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120897, 
+        "name": "Helwan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345247, 
+        "name": "Janub Sina'"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345243, 
+        "name": "Kafr ash Shaykh"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 56120898, 
+        "name": "Madinat Sittah Uktubar"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345244, 
+        "name": "Matruh"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345245, 
+        "name": "Qina"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345248, 
+        "name": "Shamal Sina'"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345246, 
+        "name": "Suhaj"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Egypten"
+    ], 
+    "Danish": [
+      "Egypten", 
+      "\u00c6gypten"
+    ], 
+    "Hungarian": [
+      "Egyiptom"
+    ], 
+    "Chinese": [
+      "\u57c3\u53ca"
+    ], 
+    "Finnish": [
+      "Egyptista", 
+      "Egypti"
+    ], 
+    "Portuguese": [
+      "Egipto", 
+      "Egito"
+    ], 
+    "German": [
+      "\u00c4gypten", 
+      "Arabische Republik \u00c4gypten", 
+      "Agypten"
+    ], 
+    "Romanian": [
+      "Egipt"
+    ], 
+    "Dutch": [
+      "Egypte"
+    ], 
+    "Japanese": [
+      "\u30a8\u30b8\u30d7\u30c8", 
+      "\u30a8\u30b8\u30d7\u30c8\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "\u00c9gypte"
+    ], 
+    "Unknown": [
+      "Egiptaland", 
+      "AEgypten", 
+      "\u00c6gypten"
+    ], 
+    "Spanish": [
+      "Egipto"
+    ], 
+    "English": [
+      "EG", 
+      "Arab Republic of Egypt"
+    ], 
+    "Polish": [
+      "Egipt"
+    ], 
+    "Korean": [
+      "\uc774\uc9d1\ud2b8"
+    ], 
+    "Italian": [
+      "Egitto"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u57c3\u53ca"
+  ], 
+  "alias_ITA_Q": [
+    "Egitto"
+  ], 
+  "alias_GER_V": [
+    "Arabische Republik \u00c4gypten"
+  ], 
+  "woeid": 23424802, 
+  "alias_JPN_Q": [
+    "\u30a8\u30b8\u30d7\u30c8"
+  ], 
+  "alias_JPN_V": [
+    "\u30a8\u30b8\u30d7\u30c8\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Egipto"
+  ], 
+  "alias_FIN_Q": [
+    "Egypti"
+  ], 
+  "sw_longitude": 24.698099, 
+  "alias_FIN_V": [
+    "Egyptista"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 26.69636, 
+  "date_indexed": "2010-12-02T12:16:51.979Z", 
+  "alias_KOR_Q": [
+    "\uc774\uc9d1\ud2b8"
+  ], 
+  "adjacent": [], 
+  "alias_DAN_V": [
+    "\u00c6gypten"
+  ], 
+  "alias_DUT_Q": [
+    "Egypte"
+  ], 
+  "bbox": "21.72538,24.698099,31.667339,36.233822", 
+  "alias_DAN_Q": [
+    "Egypten"
+  ], 
+  "alias_GER_Q": [
+    "\u00c4gypten"
+  ], 
+  "alias_GER_S": [
+    "Agypten"
+  ], 
+  "lang": "ENG", 
+  "name": "Egypt", 
+  "language": "English", 
+  "alias_UNK_S": [
+    "AEgypten"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Egiptaland"
+  ], 
+  "alias_HUN_Q": [
+    "Egyiptom"
+  ], 
+  "ne_longitude": 36.233822, 
+  "longitude": 30.246469, 
+  "iso": "EG", 
+  "sw_latitude": 21.72538, 
+  "fullname": "Egypt", 
   "features": [
     {
       "geometry": {
@@ -49,23 +370,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 9551, 
+        "ne:hasPlace": 0, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825620", 
+          "woe:region=2345232", 
+          "woe:country=23424802"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "EG", 
+        "longitude": 30.84836745308485, 
+        "artisanal:id": 34825620, 
+        "latitude": 28.66100675606834, 
+        "woe:id": 34825620, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34825620, 
       "properties": {
         "ne:fid": 9551, 
         "ne:hasPlace": 0, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825620", 
+          "woe:region=2345232", 
+          "woe:country=23424802"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "EG", 
+        "longitude": 30.84836745308485, 
         "artisanal:id": 34825620, 
+        "latitude": 28.66100675606834, 
         "woe:id": 34825620, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    30.80393924329684, 
-    28.636753648385337, 
-    30.892822706838842, 
-    28.685277818307412
+  "alias_FRE_Q": [
+    "\u00c9gypte"
   ]
 }

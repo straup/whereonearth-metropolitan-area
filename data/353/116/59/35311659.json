@@ -1,5 +1,364 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Ireland Republic Of"
+  ], 
+  "alias_SWE_Q": [
+    "Irland"
+  ], 
+  "alias_POL_Q": [
+    "Irlandia"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 55.436211, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Irlanda"
+  ], 
+  "alias_UNK_V": [
+    "Irlandia"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\uc544\uc77c\ub79c\ub4dc"
+  ], 
+  "alias_POR_V": [
+    "Rep\u00fablica da Irlanda"
+  ], 
+  "alias_POR_Q": [
+    "Irlanda"
+  ], 
+  "alias_ENG_A": [
+    "IE"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 55863700, 
+        "name": "Beara Peninsula"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2345249, 
+        "name": "Carlow"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345250, 
+        "name": "Cavan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345251, 
+        "name": "Clare"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345252, 
+        "name": "Cork"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345253, 
+        "name": "Donegal"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345254, 
+        "name": "Dublin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345255, 
+        "name": "Galway"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345256, 
+        "name": "Kerry"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345257, 
+        "name": "Kildare"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345258, 
+        "name": "Kilkenny"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345260, 
+        "name": "Laois"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345259, 
+        "name": "Leitrim"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345261, 
+        "name": "Limerick"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345262, 
+        "name": "Longford"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345263, 
+        "name": "Louth"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345264, 
+        "name": "Mayo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345265, 
+        "name": "Meath"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345266, 
+        "name": "Monaghan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345267, 
+        "name": "Offaly"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345268, 
+        "name": "Roscommon"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345269, 
+        "name": "Sligo"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345270, 
+        "name": "Tipperary"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345271, 
+        "name": "Waterford"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345272, 
+        "name": "Westmeath"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345273, 
+        "name": "Wexford"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2345274, 
+        "name": "Wicklow"
+      }
+    ], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12471138, 
+        "name": "Blasket Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 24548851, 
+        "name": "Ireland"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12471146, 
+        "name": "Saltee Islands"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Irland"
+    ], 
+    "Danish": [
+      "Irland"
+    ], 
+    "Hungarian": [
+      "\u00cdrorsz\u00e1g", 
+      "Irorszag", 
+      "\u00cdr-Sziget"
+    ], 
+    "Chinese": [
+      "\u7231\u5c14\u5170", 
+      "\u611b\u723e\u862d"
+    ], 
+    "Finnish": [
+      "Irlannista", 
+      "Irlannin"
+    ], 
+    "Norwegian": [
+      "Irland", 
+      "Republikken Irland"
+    ], 
+    "Czech": [
+      "Irsko", 
+      "Irsk\u00e1 republika"
+    ], 
+    "Romanian": [
+      "Irlanda", 
+      "Republica Irlanda"
+    ], 
+    "Dutch": [
+      "Ierland"
+    ], 
+    "Japanese": [
+      "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5cf6", 
+      "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Irlande"
+    ], 
+    "German": [
+      "Irland", 
+      "Republik Irland"
+    ], 
+    "Portuguese": [
+      "Rep\u00fablica da Irlanda", 
+      "Irlanda"
+    ], 
+    "Unknown": [
+      "Irska", 
+      "Irlandia"
+    ], 
+    "Spanish": [
+      "Rep\u00fablica de Irlanda", 
+      "Irlanda"
+    ], 
+    "English": [
+      "IE", 
+      "Ireland Republic Of"
+    ], 
+    "Polish": [
+      "Irlandia"
+    ], 
+    "Korean": [
+      "\uc544\uc77c\ub79c\ub4dc", 
+      "\uc544\uc77c\ub79c\ub4dc \uc12c"
+    ], 
+    "Italian": [
+      "Repubblica d'Irlanda", 
+      "Irlanda"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u611b\u723e\u862d"
+  ], 
+  "alias_ITA_Q": [
+    "Irlanda"
+  ], 
+  "alias_GER_V": [
+    "Republik Irland"
+  ], 
+  "alias_ITA_V": [
+    "Repubblica d'Irlanda"
+  ], 
+  "alias_CHI_V": [
+    "\u7231\u5c14\u5170"
+  ], 
+  "woeid": 23424803, 
+  "alias_JPN_Q": [
+    "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5cf6"
+  ], 
+  "alias_JPN_V": [
+    "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Irlanda"
+  ], 
+  "alias_FIN_Q": [
+    "Irlannin"
+  ], 
+  "sw_longitude": -10.65073, 
+  "alias_FIN_V": [
+    "Irlannista"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 53.419609, 
+  "alias_NOR_Q": [
+    "Irland"
+  ], 
+  "alias_NOR_V": [
+    "Republikken Irland"
+  ], 
+  "date_indexed": "2010-12-02T12:08:06.322Z", 
+  "alias_KOR_Q": [
+    "\uc544\uc77c\ub79c\ub4dc \uc12c"
+  ], 
+  "adjacent": [], 
+  "alias_SPA_V": [
+    "Rep\u00fablica de Irlanda"
+  ], 
+  "alias_DUT_Q": [
+    "Ierland"
+  ], 
+  "bbox": "51.424511,-10.65073,55.436211,-6.0025", 
+  "alias_CZE_Q": [
+    "Irsko"
+  ], 
+  "alias_DAN_Q": [
+    "Irland"
+  ], 
+  "alias_GER_Q": [
+    "Irland"
+  ], 
+  "lang": "ENG", 
+  "name": "Ireland", 
+  "language": "English", 
+  "alias_CZE_V": [
+    "Irsk\u00e1 republika"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Irska"
+  ], 
+  "alias_HUN_Q": [
+    "\u00cdr-Sziget"
+  ], 
+  "alias_HUN_V": [
+    "\u00cdrorsz\u00e1g"
+  ], 
+  "ne_longitude": -6.0025, 
+  "longitude": -8.24055, 
+  "iso": "IE", 
+  "sw_latitude": 51.424511, 
+  "alias_HUN_S": [
+    "Irorszag"
+  ], 
+  "alias_RUM_V": [
+    "Republica Irlanda"
+  ], 
+  "fullname": "Ireland", 
   "features": [
     {
       "geometry": {
@@ -49,23 +408,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 1441, 
+        "ne:hasPlace": 6, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311659", 
+          "woe:region=2345254", 
+          "woe:country=23424803"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "IE", 
+        "longitude": -6.118961494360127, 
+        "artisanal:id": 35311659, 
+        "latitude": 53.51531705046554, 
+        "woe:id": 35311659, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35311659, 
       "properties": {
         "ne:fid": 1441, 
         "ne:hasPlace": 6, 
+        "hierarchy": [
+          "woe:metropolitan-area=35311659", 
+          "woe:region=2345254", 
+          "woe:country=23424803"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "IE", 
+        "longitude": -6.118961494360127, 
         "artisanal:id": 35311659, 
+        "latitude": 53.51531705046554, 
         "woe:id": 35311659, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    -6.156543748387492, 
-    53.50050731059417, 
-    -6.07768551271009, 
-    53.53383860942243
+  "alias_FRE_Q": [
+    "Irlande"
   ]
 }

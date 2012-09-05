@@ -1,5 +1,246 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Burmese"
+  ], 
+  "alias_SWE_Q": [
+    "Burma"
+  ], 
+  "alias_POL_Q": [
+    "Birma"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 28.543249, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Birmania"
+  ], 
+  "alias_UNK_V": [
+    "Mjanmar"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Mianmar"
+  ], 
+  "alias_ENG_A": [
+    "MM"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12488009, 
+        "name": "Heinze Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12488012, 
+        "name": "Launglon Bok Islands"
+      }, 
+      {
+        "placetype": "Island", 
+        "woeid": 12488017, 
+        "name": "Mergui Archipelago"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344812, 
+        "name": "Ayeyarwady"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344818, 
+        "name": "Bago"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344811, 
+        "name": "Chin State"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344813, 
+        "name": "Kachin State"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344814, 
+        "name": "Karan State"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344815, 
+        "name": "Kayan State"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344816, 
+        "name": "Magway"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344817, 
+        "name": "Mandalay"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344822, 
+        "name": "Mon State"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344810, 
+        "name": "Rakhine State"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344819, 
+        "name": "Sagaing"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344820, 
+        "name": "Shan State"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344821, 
+        "name": "Tenasserim"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344823, 
+        "name": "Yangon"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354190, 
+        "name": "Salween River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Burma"
+    ], 
+    "Danish": [
+      "Burma"
+    ], 
+    "Chinese": [
+      "\u7f05\u7538", 
+      "\u7dec\u7538"
+    ], 
+    "Hungarian": [
+      "Burma", 
+      "Mianmar"
+    ], 
+    "Portuguese": [
+      "Mianmar"
+    ], 
+    "German": [
+      "Union Myanmar"
+    ], 
+    "Romanian": [
+      "Birmania"
+    ], 
+    "Spanish": [
+      "Birmania (Myanmar)", 
+      "Birmania"
+    ], 
+    "Japanese": [
+      "\u30df\u30e3\u30f3\u30de\u30fc", 
+      "\u30df\u30e3\u30f3\u30de\u30fc\u9023\u90a6"
+    ], 
+    "French": [
+      "Birmanie"
+    ], 
+    "Norwegian": [
+      "Burma"
+    ], 
+    "Unknown": [
+      "Mjanmar"
+    ], 
+    "English": [
+      "MM", 
+      "Burmese"
+    ], 
+    "Polish": [
+      "Birma"
+    ], 
+    "Korean": [
+      "\ubbf8\uc580\ub9c8"
+    ], 
+    "Italian": [
+      "Birmania"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u7dec\u7538"
+  ], 
+  "alias_ITA_Q": [
+    "Birmania"
+  ], 
+  "alias_GER_V": [
+    "Union Myanmar"
+  ], 
+  "alias_CHI_V": [
+    "\u7f05\u7538"
+  ], 
+  "woeid": 23424763, 
+  "alias_JPN_Q": [
+    "\u30df\u30e3\u30f3\u30de\u30fc"
+  ], 
+  "alias_JPN_V": [
+    "\u30df\u30e3\u30f3\u30de\u30fc\u9023\u90a6"
+  ], 
+  "alias_SPA_Q": [
+    "Birmania"
+  ], 
+  "sw_longitude": 92.189209, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 19.257959, 
+  "alias_NOR_Q": [
+    "Burma"
+  ], 
+  "date_indexed": "2010-12-02T17:58:18.617Z", 
+  "alias_KOR_Q": [
+    "\ubbf8\uc580\ub9c8"
+  ], 
+  "alias_SPA_V": [
+    "Birmania (Myanmar)"
+  ], 
+  "bbox": "9.60035,92.189209,28.543249,101.176788", 
+  "alias_DAN_Q": [
+    "Burma"
+  ], 
+  "lang": "ENG", 
+  "name": "Myanmar", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "Mianmar"
+  ], 
+  "alias_HUN_V": [
+    "Burma"
+  ], 
+  "ne_longitude": 101.176788, 
+  "longitude": 96.682999, 
+  "iso": "MM", 
+  "sw_latitude": 9.60035, 
+  "fullname": "Myanmar", 
   "features": [
     {
       "geometry": {
@@ -37,23 +278,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 11343, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826746", 
+          "woe:region=2344820", 
+          "woe:country=23424763"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MM", 
+        "longitude": 97.04956208788364, 
+        "artisanal:id": 34826746, 
+        "latitude": 20.78704747951724, 
+        "woe:id": 34826746, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34826746, 
       "properties": {
         "ne:fid": 11343, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=34826746", 
+          "woe:region=2344820", 
+          "woe:country=23424763"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MM", 
+        "longitude": 97.04956208788364, 
         "artisanal:id": 34826746, 
+        "latitude": 20.78704747951724, 
         "woe:id": 34826746, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    97.0328682800201, 
-    20.764055894447594, 
-    97.06625125528066, 
-    20.80436351163526
+  "alias_FRE_Q": [
+    "Birmanie"
   ]
 }

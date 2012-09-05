@@ -1,5 +1,132 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Martiniquais"
+  ], 
+  "alias_KOR_Q": [
+    "\ub9c8\ub974\ud2f0\ub2c8\ud06c"
+  ], 
+  "alias_POL_Q": [
+    "Martynika"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 14.87881, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Martinica"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\ub9d0\ud2f0\ub2c8\ud06c"
+  ], 
+  "alias_POR_Q": [
+    "Martinica"
+  ], 
+  "alias_ENG_A": [
+    "MQ"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12484383, 
+        "name": "Martinique"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 24549745, 
+        "name": "Fort-de-France"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549744, 
+        "name": "Marin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549746, 
+        "name": "St.-Pierre"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 24549747, 
+        "name": "Trinit\u00e9"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Martinica"
+    ], 
+    "Czech": [
+      "Martinik"
+    ], 
+    "Romanian": [
+      "Martinica"
+    ], 
+    "Spanish": [
+      "Martinica"
+    ], 
+    "Japanese": [
+      "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af\u5cf6", 
+      "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af"
+    ], 
+    "English": [
+      "MQ", 
+      "Martiniquais"
+    ], 
+    "Polish": [
+      "Martynika"
+    ], 
+    "Korean": [
+      "\ub9d0\ud2f0\ub2c8\ud06c", 
+      "\ub9c8\ub974\ud2f0\ub2c8\ud06c"
+    ], 
+    "Italian": [
+      "Martinica"
+    ]
+  }, 
+  "alias_ITA_Q": [
+    "Martinica"
+  ], 
+  "woeid": 23424884, 
+  "alias_JPN_Q": [
+    "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af"
+  ], 
+  "alias_JPN_V": [
+    "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af\u5cf6"
+  ], 
+  "alias_SPA_Q": [
+    "Martinica"
+  ], 
+  "sw_longitude": -61.23011, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 14.63554, 
+  "date_indexed": "2010-12-02T17:06:00.788Z", 
+  "bbox": "14.38244,-61.23011,14.87881,-60.81551", 
+  "alias_CZE_Q": [
+    "Martinik"
+  ], 
+  "lang": "ENG", 
+  "name": "Martinique", 
+  "language": "English", 
+  "parent_woeid": 1, 
+  "ne_longitude": -60.81551, 
+  "longitude": -61.022812, 
+  "iso": "MQ", 
+  "sw_latitude": 14.38244, 
+  "fullname": "Martinique", 
   "features": [
     {
       "geometry": {
@@ -93,23 +220,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 2150, 
+        "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312183", 
+          "woe:region=24549745", 
+          "woe:country=23424884"
+        ], 
+        "artisanal:foundry": "http://www.brooklynintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "MQ", 
+        "longitude": -61.04434580888593, 
+        "artisanal:id": 35312183, 
+        "latitude": 14.624037909656355, 
+        "woe:id": 35312183, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 35312183, 
       "properties": {
         "ne:fid": 2150, 
         "ne:hasPlace": 20, 
+        "hierarchy": [
+          "woe:metropolitan-area=35312183", 
+          "woe:region=24549745", 
+          "woe:country=23424884"
+        ], 
         "artisanal:foundry": "http://www.brooklynintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "MQ", 
+        "longitude": -61.04434580888593, 
         "artisanal:id": 35312183, 
+        "latitude": 14.624037909656355, 
         "woe:id": 35312183, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    -61.11409359398493, 
-    14.593786525933325, 
-    -60.98237036807295, 
-    14.64525625249604
   ]
 }

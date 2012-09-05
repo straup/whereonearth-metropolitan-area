@@ -1,5 +1,2178 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Kingdom of Sweden"
+  ], 
+  "alias_SWE_V": [
+    "Konungariket Sverige"
+  ], 
+  "alias_KOR_Q": [
+    "\uc2a4\uc6e8\ub374"
+  ], 
+  "alias_POL_Q": [
+    "Szwecja"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 69.059937, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Suedia"
+  ], 
+  "alias_UNK_V": [
+    "Souid\u00eda"
+  ], 
+  "placetype": "Country", 
+  "alias_KOR_V": [
+    "\uc2a4\uc6e8\ub358"
+  ], 
+  "alias_POR_Q": [
+    "Su\u00e9cia"
+  ], 
+  "alias_ENG_A": [
+    "SWE"
+  ], 
+  "children": {
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369303, 
+        "name": "Alm\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369308, 
+        "name": "Arholma-Id\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368406, 
+        "name": "Aspn\u00e4s naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369311, 
+        "name": "Axmars naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368413, 
+        "name": "Balesuddens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369313, 
+        "name": "Billuddens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369314, 
+        "name": "Biskops\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369315, 
+        "name": "Bj\u00e4rekustens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369317, 
+        "name": "Bj\u00f6rn\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369320, 
+        "name": "Br\u00e5vikens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369321, 
+        "name": "Buller\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369323, 
+        "name": "Drak\u00f6n-Tih\u00e4llarnas naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368529, 
+        "name": "Eriksbergs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368530, 
+        "name": "Ersdalens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368537, 
+        "name": "Farstan\u00e4s naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369326, 
+        "name": "Fj\u00e4rdl\u00e5ngs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368562, 
+        "name": "Friseboda naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368563, 
+        "name": "Fr\u00f6s\u00e5kers naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368571, 
+        "name": "Fulufj\u00e4llets nationalpark"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368536, 
+        "name": "F\u00e4rnebofj\u00e4rdens nationalpark"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368583, 
+        "name": "Gamla K\u00f6pstads naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369332, 
+        "name": "Getter\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368599, 
+        "name": "Glumsl\u00f6vs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368600, 
+        "name": "Gnarps Masugns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368601, 
+        "name": "Gnarpskatens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369337, 
+        "name": "Gryts naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368617, 
+        "name": "Gr\u00e4s\u00f6 g\u00e5rds naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368637, 
+        "name": "Gustavsbergs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368641, 
+        "name": "Gysinge naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368648, 
+        "name": "Hagestads naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369338, 
+        "name": "Hall-Hangvars naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368652, 
+        "name": "Hallands V\u00e4der\u00f6"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368675, 
+        "name": "Haverdals naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369345, 
+        "name": "Hj\u00e4lm\u00f6-L\u00e5dna naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369346, 
+        "name": "Hj\u00e4rter\u00f6arkipelagens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368713, 
+        "name": "Holma"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368717, 
+        "name": "Hors\u00f6-V\u00e4rsn\u00e4s naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368667, 
+        "name": "H\u00e4ringe-Hammersta naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369343, 
+        "name": "H\u00e4rman\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369344, 
+        "name": "H\u00e4stholmen-Ytter\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368710, 
+        "name": "H\u00f6kens\u00e5s naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368711, 
+        "name": "H\u00f6licks naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369354, 
+        "name": "Jungfrusk\u00e4rs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368738, 
+        "name": "J\u00e4ravallens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369352, 
+        "name": "J\u00e4rflotta naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368767, 
+        "name": "Kilsvikens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368769, 
+        "name": "Kl\u00e5ver\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368779, 
+        "name": "Kolj\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368781, 
+        "name": "Komosse naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369360, 
+        "name": "Koster\u00f6arnas naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369362, 
+        "name": "Kron\u00f6ren-Driv\u00f6rens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368784, 
+        "name": "Kr\u00e5ketorpsskogens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368794, 
+        "name": "Kulla Gunnarstorps naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369364, 
+        "name": "Kv\u00e4d\u00f6"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369358, 
+        "name": "K\u00e4mpinge strandbads naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369359, 
+        "name": "K\u00e4ringboda naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369356, 
+        "name": "K\u00e5lg\u00e5rds\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369366, 
+        "name": "Lacka naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368814, 
+        "name": "Laholmsbuktens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368815, 
+        "name": "Laholmsbuktenssanddyns-reservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368816, 
+        "name": "Laisdalens fj\u00e4llurskogs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369370, 
+        "name": "Laus holmars naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369371, 
+        "name": "Licknevarpefj\u00e4rdens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368837, 
+        "name": "Lilla Bj\u00f6rns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368839, 
+        "name": "Lilla Hassel\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369376, 
+        "name": "Listerby sk\u00e4rg\u00e5rds naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368851, 
+        "name": "Listershuvuds naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368857, 
+        "name": "Lokgatan"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369369, 
+        "name": "L\u00e5ngvikssk\u00e4rs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368819, 
+        "name": "L\u00e5ng\u00e4ngens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369379, 
+        "name": "Malingsbo-klotens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368873, 
+        "name": "Mal\u00f6n"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369381, 
+        "name": "Misterhult"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369378, 
+        "name": "M\u00e5kl\u00e4ppens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368918, 
+        "name": "Naturv\u00e5rdsomr\u00e5de"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368925, 
+        "name": "Norra Bj\u00f6rkfj\u00e4rdens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368928, 
+        "name": "Norrf\u00e4llsvikens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368933, 
+        "name": "Nyckelvikens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369388, 
+        "name": "Nyn\u00e4s naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369392, 
+        "name": "Ottenby naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369393, 
+        "name": "Pater Nostersk\u00e4rg\u00e5rdens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368994, 
+        "name": "Ramsvikslandets naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368993, 
+        "name": "Rams\u00f6n-Keholmens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369398, 
+        "name": "Rid\u00f6-Sundbyholmsarkipelagens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369399, 
+        "name": "Rings\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369017, 
+        "name": "Rogens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369030, 
+        "name": "Rotsidans naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369395, 
+        "name": "R\u00e5g\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369396, 
+        "name": "R\u00e5g\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368997, 
+        "name": "R\u00e5ss\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369023, 
+        "name": "R\u00f6r\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369041, 
+        "name": "Salt\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369045, 
+        "name": "Sandhammarens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369406, 
+        "name": "Sandsj\u00f6backa naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369408, 
+        "name": "Sankt Annas naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369409, 
+        "name": "Segersg\u00e4rde naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369412, 
+        "name": "Sj\u00e4lbottna-\u00d6stra Lagn\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369413, 
+        "name": "Skuleskogens nationalpark"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369067, 
+        "name": "Sk\u00e4ckerfj\u00e4llens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369079, 
+        "name": "Sk\u00e4rva naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369415, 
+        "name": "Slad\u00f6-\u00c4skesk\u00e4rs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369098, 
+        "name": "Smitingen-H\u00e4rn\u00f6klubbs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369416, 
+        "name": "Solid\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369145, 
+        "name": "Stenshuvuds nationalpark"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369422, 
+        "name": "Stigfjordens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369425, 
+        "name": "Stora Nassa naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369430, 
+        "name": "Storrebbens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369428, 
+        "name": "Stor\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369429, 
+        "name": "Stor\u00f6-Bock\u00f6-L\u00f6ka\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369420, 
+        "name": "St\u00e5ngsk\u00e4rets naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369433, 
+        "name": "Sundby"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369179, 
+        "name": "Svanviks naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369186, 
+        "name": "Svenska Bj\u00f6rns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369436, 
+        "name": "Svenska H\u00f6garna naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369187, 
+        "name": "Svensk\u00e5dalens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369437, 
+        "name": "Svensmar\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369435, 
+        "name": "Sv\u00e4ngehallar-Fj\u00e4rehals naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369109, 
+        "name": "S\u00f6dra Lunda naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369108, 
+        "name": "S\u00f6dra Lunda naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369439, 
+        "name": "Tanumskustens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369206, 
+        "name": "Tira \u00f6ars naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369208, 
+        "name": "Tivedens nationalpark"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369442, 
+        "name": "Tj\u00e4r\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369443, 
+        "name": "Torhamns udde naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369445, 
+        "name": "Torr\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369227, 
+        "name": "Tresticklans nationalpark"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369446, 
+        "name": "Tromt\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369447, 
+        "name": "Trysunda naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369231, 
+        "name": "Tullgarns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369441, 
+        "name": "T\u00e4rn\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369236, 
+        "name": "Unda naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369455, 
+        "name": "Ut\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369246, 
+        "name": "Valkr\u00f6rs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369250, 
+        "name": "Vallda Sand\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369253, 
+        "name": "Val\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369464, 
+        "name": "Velamsunds naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369277, 
+        "name": "Verke\u00e5ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369467, 
+        "name": "Vindelfj\u00e4llens naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369289, 
+        "name": "Vind\u00e5sens-Hul\u00f6hamns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369470, 
+        "name": "Vr\u00e5ng\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369271, 
+        "name": "V\u00e4stra Getter\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369273, 
+        "name": "V\u00e4stra Kullabergs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369302, 
+        "name": "\u00c4lg\u00f6ns naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369309, 
+        "name": "\u00c4mt\u00f6"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369305, 
+        "name": "\u00c4ngsk\u00e4rs naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369306, 
+        "name": "\u00c4ngs\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369307, 
+        "name": "\u00c4pplar\u00f6 naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368404, 
+        "name": "\u00c4spets naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29369310, 
+        "name": "\u00c5svikelandets naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368939, 
+        "name": "\u00d6dsm\u00e5ls kile naturreservat"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 29368958, 
+        "name": "\u00d6stra Kullabergs naturreservat"
+      }
+    ], 
+    "Colloquial": [
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329627, 
+        "name": "Angermanland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329622, 
+        "name": "Fj\u00e4rde Storstadsregionen"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329630, 
+        "name": "G\u00e4strikland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329648, 
+        "name": "G\u00f6taland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329632, 
+        "name": "H\u00e4lsingland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329635, 
+        "name": "Lappland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29389545, 
+        "name": "M\u00e4lardalen"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329638, 
+        "name": "Norrbotten"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329646, 
+        "name": "Norrland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329637, 
+        "name": "N\u00e4rke"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329641, 
+        "name": "Sm\u00e5land"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329647, 
+        "name": "Svealand"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329640, 
+        "name": "S\u00f6dermanland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329623, 
+        "name": "The Gothenburg Region"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329624, 
+        "name": "The Stockholm Region"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329642, 
+        "name": "Uppland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329643, 
+        "name": "V\u00e4sterbotten"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329644, 
+        "name": "V\u00e4stmanland"
+      }, 
+      {
+        "placetype": "Colloquial", 
+        "woeid": 29329645, 
+        "name": "V\u00e4strag\u00f6taland"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 29362695, 
+        "name": "Alkvettern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29362700, 
+        "name": "Allgunnen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29362739, 
+        "name": "Amungen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368122, 
+        "name": "Antvarden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368126, 
+        "name": "Arboga\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29362796, 
+        "name": "Armsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368128, 
+        "name": "Aspdalssj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29362880, 
+        "name": "Avern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363019, 
+        "name": "Bellvikssj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363054, 
+        "name": "Billsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363088, 
+        "name": "Bj\u00f6rkvattnet-Suokejaure"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368139, 
+        "name": "Bolmen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363243, 
+        "name": "Bredsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363212, 
+        "name": "Br\u00e4kne\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363218, 
+        "name": "Br\u00e4ngen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363326, 
+        "name": "Byske\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363349, 
+        "name": "Dal\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363431, 
+        "name": "Edsken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368147, 
+        "name": "Em\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363517, 
+        "name": "Fegen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363519, 
+        "name": "Fenen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363534, 
+        "name": "Filkesj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368152, 
+        "name": "Finntr\u00e4sket"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363551, 
+        "name": "Fj\u00e4laren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363555, 
+        "name": "Fj\u00e4llr\u00e4mmen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363556, 
+        "name": "Fj\u00e4llsj\u00f6\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363559, 
+        "name": "Fj\u00e4tan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368154, 
+        "name": "Flark\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363563, 
+        "name": "Fl\u00e5ren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363587, 
+        "name": "Fl\u00f6tningssj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363623, 
+        "name": "Furen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363481, 
+        "name": "F\u00e4len"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368150, 
+        "name": "F\u00e4mtan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368151, 
+        "name": "F\u00e4rnebofj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363515, 
+        "name": "F\u00e4vren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363667, 
+        "name": "Gallejaurdammen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363728, 
+        "name": "Gavel-L\u00e5ngsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368163, 
+        "name": "Gide\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363765, 
+        "name": "Giertsjaure"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363925, 
+        "name": "Grasvatnet"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29363825, 
+        "name": "G\u00f6ta \u00e4lv"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364119, 
+        "name": "Halasj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364124, 
+        "name": "Halen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364128, 
+        "name": "Halg\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364150, 
+        "name": "Hamr\u00e5ngefj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364153, 
+        "name": "Handsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364211, 
+        "name": "Havern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364217, 
+        "name": "Hedesundafj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368179, 
+        "name": "Hedstrommen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368180, 
+        "name": "Helge \u00e5"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364261, 
+        "name": "Hjortesj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368183, 
+        "name": "Hj\u00e4lmaren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364357, 
+        "name": "Hyn"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364147, 
+        "name": "H\u00e4mmen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368187, 
+        "name": "H\u00f6gvads\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364376, 
+        "name": "Immeln"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364378, 
+        "name": "Indals\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364381, 
+        "name": "Ingsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364511, 
+        "name": "Juttern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364433, 
+        "name": "J\u00e4llunden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364459, 
+        "name": "J\u00e4vsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364526, 
+        "name": "Kalix\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364579, 
+        "name": "Kiasj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364672, 
+        "name": "Kraxasj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364531, 
+        "name": "K\u00e4lsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364538, 
+        "name": "K\u00e4ngsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368209, 
+        "name": "K\u00f6nk\u00e4m\u00e4\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364653, 
+        "name": "K\u00f6phultasj\u00f6"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364753, 
+        "name": "Lagan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364765, 
+        "name": "Laisan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364891, 
+        "name": "Ledvattnet"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364901, 
+        "name": "Lel\u00e5ng"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364910, 
+        "name": "Let\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364955, 
+        "name": "Lill-dabbsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365040, 
+        "name": "Linden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368113, 
+        "name": "Ljusnan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365106, 
+        "name": "Loren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365175, 
+        "name": "Luspasjaure"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365183, 
+        "name": "Lygnern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364749, 
+        "name": "L\u00e4en"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29364836, 
+        "name": "L\u00e5ngvattnet"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365078, 
+        "name": "L\u00f6ften"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365085, 
+        "name": "L\u00f6gde\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365219, 
+        "name": "Malungen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365312, 
+        "name": "Milsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368232, 
+        "name": "Mo\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365427, 
+        "name": "Muonio\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368224, 
+        "name": "M\u00e4laren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365384, 
+        "name": "M\u00f6ckeln"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365460, 
+        "name": "Naren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365546, 
+        "name": "Nedre t\u00e4llbergssj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365552, 
+        "name": "Nejsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368243, 
+        "name": "Nissan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365604, 
+        "name": "Nordre \u00e4lv"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365619, 
+        "name": "Norra Barken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365621, 
+        "name": "Norra Bredsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365624, 
+        "name": "Norra H\u00f6rken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365626, 
+        "name": "Norra laggen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365695, 
+        "name": "Ocksj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365747, 
+        "name": "Opp\u00e4sen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365756, 
+        "name": "Ore\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368249, 
+        "name": "Ore\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365763, 
+        "name": "Orgen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368258, 
+        "name": "Petik\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368260, 
+        "name": "Pite\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366100, 
+        "name": "Rasl\u00e5ngen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368270, 
+        "name": "Rickle\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366217, 
+        "name": "Rogen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368275, 
+        "name": "Rotnen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368276, 
+        "name": "Rottnan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366305, 
+        "name": "Rymmen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366229, 
+        "name": "R\u00f6nne \u00e5"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366356, 
+        "name": "Saljen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366430, 
+        "name": "Saxen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366431, 
+        "name": "Saxen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368291, 
+        "name": "Sege \u00e5"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366462, 
+        "name": "Sexan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366478, 
+        "name": "Sillen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366479, 
+        "name": "Silsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366495, 
+        "name": "Sitasjaure"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366517, 
+        "name": "Skagern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368301, 
+        "name": "Skellefte\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366568, 
+        "name": "Skinnmuddselet"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366537, 
+        "name": "Sk\u00e4rlen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366604, 
+        "name": "Slipsiken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366658, 
+        "name": "Sommen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368308, 
+        "name": "Sottern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366799, 
+        "name": "Stensl\u00e5sj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366869, 
+        "name": "Stor-dabbsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366882, 
+        "name": "Stor-Finnsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366885, 
+        "name": "Stor-Fj\u00e4tan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366909, 
+        "name": "Stor-Gussj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366921, 
+        "name": "Stor-j\u00e4rvsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366922, 
+        "name": "Stor-j\u00e4ttsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366848, 
+        "name": "Stor-\u00c4lgsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367033, 
+        "name": "Stora Djurl\u00e5ngen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367041, 
+        "name": "Stora Grytingen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367050, 
+        "name": "Stora Hornsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367060, 
+        "name": "Stora Korsl\u00e5ngen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367062, 
+        "name": "Stora le"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367090, 
+        "name": "Stora Ullfj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367102, 
+        "name": "Store sj\u00f6"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367103, 
+        "name": "Store-Malen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367122, 
+        "name": "Stornaggen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367157, 
+        "name": "Storsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367191, 
+        "name": "Storsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367173, 
+        "name": "Storsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368309, 
+        "name": "St\u00e5ng\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367292, 
+        "name": "Suse\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366416, 
+        "name": "S\u00e4ttna\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366397, 
+        "name": "S\u00e5rj\u00e5sj\u00e1vrre"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366640, 
+        "name": "S\u00f6dra H\u00f6rken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366642, 
+        "name": "S\u00f6dra laggen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29366687, 
+        "name": "S\u00f6rsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367400, 
+        "name": "Tavlefj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367404, 
+        "name": "Tegeltr\u00e4sket"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367421, 
+        "name": "Tillef\u00e4rdssj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367424, 
+        "name": "Tisnaren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367425, 
+        "name": "Tivsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367483, 
+        "name": "Tjurken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367496, 
+        "name": "Tolken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367493, 
+        "name": "Tol\u00e5ngen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367505, 
+        "name": "Torringen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367504, 
+        "name": "Torringen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367516, 
+        "name": "Tossj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367606, 
+        "name": "Tr\u00f6sken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368332, 
+        "name": "Tyckeln"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367634, 
+        "name": "Tynn"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367361, 
+        "name": "T\u00e4llvattnet"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367366, 
+        "name": "T\u00e4mmen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367367, 
+        "name": "T\u00e4mnaren"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367401, 
+        "name": "T\u00e4xviken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367653, 
+        "name": "Unden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367656, 
+        "name": "Unnen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367657, 
+        "name": "Untrafj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367662, 
+        "name": "Urdevannet"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367775, 
+        "name": "Varmen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368343, 
+        "name": "Veckefj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367910, 
+        "name": "Verveln"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367939, 
+        "name": "Vindommen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368346, 
+        "name": "Viskan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367951, 
+        "name": "Vismen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368349, 
+        "name": "Voxnan"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354375, 
+        "name": "V\u00e4nern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367797, 
+        "name": "V\u00e4ssinj\u00e4rvi"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367827, 
+        "name": "V\u00e4sterfj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367849, 
+        "name": "V\u00e4stra L\u00e4gern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29367866, 
+        "name": "V\u00e4stra Silen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354376, 
+        "name": "V\u00e4ttern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368044, 
+        "name": "Yasj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368072, 
+        "name": "Yngern"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368087, 
+        "name": "Ytterviksfj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368091, 
+        "name": "Yttre Fj\u00e4tsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368121, 
+        "name": "\u00c4nger\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368116, 
+        "name": "\u00c5by\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29362752, 
+        "name": "\u00c5ngerman\u00e4lven"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29362760, 
+        "name": "\u00c5nghultasj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365740, 
+        "name": "\u00d6mmeln"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365746, 
+        "name": "\u00d6nskasj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365767, 
+        "name": "\u00d6rken"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365769, 
+        "name": "\u00d6rlingen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365799, 
+        "name": "\u00d6rsj\u00f6n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29368252, 
+        "name": "\u00d6rsunda\u00e5n"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365839, 
+        "name": "\u00d6sterfj\u00e4rden"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365865, 
+        "name": "\u00d6stra silen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365904, 
+        "name": "\u00d6vingen"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 29365913, 
+        "name": "\u00d6vre Bastuselet"
+      }
+    ], 
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2347045, 
+        "name": "Blekinge L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347053, 
+        "name": "Dalarnas L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347048, 
+        "name": "Gotlands L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347046, 
+        "name": "G\u00e4vleborgs L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347049, 
+        "name": "Hallands L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347050, 
+        "name": "J\u00e4mtlands L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347051, 
+        "name": "J\u00f6nk\u00f6pings L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347052, 
+        "name": "Kalmar L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347055, 
+        "name": "Kronobergs L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347057, 
+        "name": "Norrbottens L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070561, 
+        "name": "Sk\u00e5ne L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347067, 
+        "name": "Stockholms L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347061, 
+        "name": "S\u00f6dermanlands L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347062, 
+        "name": "Uppsala L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347063, 
+        "name": "V\u00e4rmlands L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347064, 
+        "name": "V\u00e4sterbottens L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347065, 
+        "name": "V\u00e4sternorrlands L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347066, 
+        "name": "V\u00e4stmanlands L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070562, 
+        "name": "V\u00e4stra G\u00f6talands L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347058, 
+        "name": "\u00d6rebro L\u00e4n"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2347059, 
+        "name": "\u00d6sterg\u00f6tlands L\u00e4n"
+      }
+    ], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12480548, 
+        "name": "S Stavsudda"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Konungariket Sverige"
+    ], 
+    "Portuguese": [
+      "Su\u00e9cia"
+    ], 
+    "Hungarian": [
+      "Svedorszag", 
+      "Sv\u00e9dorsz\u00e1g"
+    ], 
+    "Chinese": [
+      "\u745e\u5178"
+    ], 
+    "Finnish": [
+      "Ruotsi"
+    ], 
+    "Czech": [
+      "\u0160v\u00e9dsko"
+    ], 
+    "Romanian": [
+      "Suedia"
+    ], 
+    "Dutch": [
+      "Zweden"
+    ], 
+    "Japanese": [
+      "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3", 
+      "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u738b\u56fd"
+    ], 
+    "French": [
+      "Su\u00e8de", 
+      "Suede"
+    ], 
+    "German": [
+      "Schweden", 
+      "K\u00f6nigreich Schweden", 
+      "Koenigreich Schweden"
+    ], 
+    "Unknown": [
+      "Sv\u00ed\u00fej\u00f3\u00f0", 
+      "Souidia", 
+      "Souid\u00eda"
+    ], 
+    "Spanish": [
+      "Suecia"
+    ], 
+    "English": [
+      "SWE", 
+      "Sweden", 
+      "Kingdom of Sweden"
+    ], 
+    "Polish": [
+      "Szwecja"
+    ], 
+    "Korean": [
+      "\uc2a4\uc6e8\ub358", 
+      "\uc2a4\uc6e8\ub374"
+    ], 
+    "Italian": [
+      "Svezia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u745e\u5178"
+  ], 
+  "alias_ITA_Q": [
+    "Svezia"
+  ], 
+  "woeid": 23424954, 
+  "alias_JPN_Q": [
+    "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3"
+  ], 
+  "alias_ENG_P": [
+    "Sweden"
+  ], 
+  "alias_JPN_V": [
+    "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u738b\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Suecia"
+  ], 
+  "alias_FIN_Q": [
+    "Ruotsi"
+  ], 
+  "sw_longitude": 10.98161, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 62.198448, 
+  "date_indexed": "2010-12-02T16:45:55.417Z", 
+  "alias_DUT_Q": [
+    "Zweden"
+  ], 
+  "bbox": "55.33696,10.98161,69.059937,24.16634", 
+  "alias_CZE_Q": [
+    "\u0160v\u00e9dsko"
+  ], 
+  "alias_GER_V": [
+    "K\u00f6nigreich Schweden"
+  ], 
+  "alias_GER_Q": [
+    "Schweden"
+  ], 
+  "alias_GER_S": [
+    "Koenigreich Schweden"
+  ], 
+  "lang": "SWE", 
+  "name": "Sverige", 
+  "language": "Swedish", 
+  "alias_UNK_S": [
+    "Souidia"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "Sv\u00ed\u00fej\u00f3\u00f0"
+  ], 
+  "alias_HUN_Q": [
+    "Sv\u00e9dorsz\u00e1g"
+  ], 
+  "ne_longitude": 24.16634, 
+  "longitude": 17.55142, 
+  "iso": "SE", 
+  "sw_latitude": 55.33696, 
+  "alias_HUN_S": [
+    "Svedorszag"
+  ], 
+  "fullname": "Sverige, Sweden", 
   "features": [
     {
       "geometry": {
@@ -45,23 +2218,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 4516, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822308", 
+          "woe:region=2347064", 
+          "woe:country=23424954"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "SE", 
+        "longitude": 21.120830348482457, 
+        "artisanal:id": 34822308, 
+        "latitude": 64.67800391556806, 
+        "woe:id": 34822308, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34822308, 
       "properties": {
         "ne:fid": 4516, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822308", 
+          "woe:region=2347064", 
+          "woe:country=23424954"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "SE", 
+        "longitude": 21.120830348482457, 
         "artisanal:id": 34822308, 
+        "latitude": 64.67800391556806, 
         "woe:id": 34822308, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    21.10551313648719, 
-    64.66954132756594, 
-    21.142720167737338, 
-    64.69266653101654
+  "alias_FRE_S": [
+    "Suede"
+  ], 
+  "alias_FRE_Q": [
+    "Su\u00e8de"
   ]
 }

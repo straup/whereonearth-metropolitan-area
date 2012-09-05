@@ -1,5 +1,176 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Principality of Liechtenstein"
+  ], 
+  "alias_ENG_A": [
+    "LI"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 47.270649, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Lichtenst\u00e1in"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Lichtenstein"
+  ], 
+  "alias_KOR_Q": [
+    "\ub9ac\ud788\ud150\uc288\ud0c0\uc778"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 20070533, 
+        "name": "Balzers"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070537, 
+        "name": "Eschen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070539, 
+        "name": "Gamprin"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070538, 
+        "name": "Mauren"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070536, 
+        "name": "Planken"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070540, 
+        "name": "Ruggell"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070535, 
+        "name": "Schaan"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070541, 
+        "name": "Schellenberg"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070532, 
+        "name": "Triesen"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070534, 
+        "name": "Triesenberg"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 20070531, 
+        "name": "Vaduz"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Lichtenstein"
+    ], 
+    "Chinese": [
+      "\u5217\u652f\u6566\u65af\u767b", 
+      "\u5217\u652f\u6566\u65af\u767b"
+    ], 
+    "Hungarian": [
+      "Lichtenstein"
+    ], 
+    "Czech": [
+      "Lichten\u0161tejnsko"
+    ], 
+    "Unknown": [
+      "Lichtenstain", 
+      "Lichtenst\u00e1in"
+    ], 
+    "Japanese": [
+      "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3", 
+      "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u516c\u56fd"
+    ], 
+    "French": [
+      "Liechtenstein", 
+      "Principalite de Liechtenstein", 
+      "Principalit\u00e9 de Liechtenstein"
+    ], 
+    "German": [
+      "F\u00fcrstentum Liechtenstein", 
+      "Furstentum Liechtenstein"
+    ], 
+    "English": [
+      "LI", 
+      "Principality of Liechtenstein"
+    ], 
+    "Korean": [
+      "\ub9ac\ud788\ud150\uc288\ud0c0\uc778"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u5217\u652f\u6566\u65af\u767b"
+  ], 
+  "alias_CHI_V": [
+    "\u5217\u652f\u6566\u65af\u767b"
+  ], 
+  "woeid": 23424879, 
+  "alias_JPN_Q": [
+    "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3"
+  ], 
+  "alias_JPN_V": [
+    "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u516c\u56fd"
+  ], 
+  "sw_longitude": 9.47181, 
+  "adjacent": [], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 47.1595, 
+  "date_indexed": "2010-12-02T08:51:00.96Z", 
+  "bbox": "47.04834,9.47181,47.270649,9.63578", 
+  "alias_CZE_Q": [
+    "Lichten\u0161tejnsko"
+  ], 
+  "alias_GER_V": [
+    "F\u00fcrstentum Liechtenstein"
+  ], 
+  "alias_GER_S": [
+    "Furstentum Liechtenstein"
+  ], 
+  "lang": "GER", 
+  "name": "Liechtenstein", 
+  "language": "German", 
+  "alias_UNK_S": [
+    "Lichtenstain"
+  ], 
+  "parent_woeid": 1, 
+  "alias_HUN_V": [
+    "Lichtenstein"
+  ], 
+  "ne_longitude": 9.63578, 
+  "longitude": 9.5538, 
+  "iso": "LI", 
+  "sw_latitude": 47.04834, 
+  "alias_FRE_V": [
+    "Principalit\u00e9 de Liechtenstein"
+  ], 
+  "fullname": "Liechtenstein", 
   "features": [
     {
       "geometry": {
@@ -73,23 +244,49 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 7779, 
+        "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=37180674", 
+          "woe:region=20070535", 
+          "woe:country=23424879"
+        ], 
+        "artisanal:foundry": "http://www.londonintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "LI", 
+        "longitude": 9.505394594881372, 
+        "artisanal:id": 37180674, 
+        "latitude": 47.17246176654962, 
+        "woe:id": 37180674, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 37180674, 
       "properties": {
         "ne:fid": 7779, 
         "ne:hasPlace": 15, 
+        "hierarchy": [
+          "woe:metropolitan-area=37180674", 
+          "woe:region=20070535", 
+          "woe:country=23424879"
+        ], 
         "artisanal:foundry": "http://www.londonintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "LI", 
+        "longitude": 9.505394594881372, 
         "artisanal:id": 37180674, 
+        "latitude": 47.17246176654962, 
         "woe:id": 37180674, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    9.463019646857276, 
-    47.133660793641624, 
-    9.541361118211768, 
-    47.22257009539979
+  "alias_FRE_S": [
+    "Principalite de Liechtenstein"
+  ], 
+  "alias_FRE_Q": [
+    "Liechtenstein"
   ]
 }

@@ -1,5 +1,170 @@
 {
-  "type": "FeatureCollection", 
+  "alias_ENG_V": [
+    "Ceylon"
+  ], 
+  "alias_ENG_A": [
+    "LK"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 9.8312, 
+  "supercedes": [], 
+  "alias_UNK_V": [
+    "Sr\u00ed-Lanka"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Sri Lanca"
+  ], 
+  "alias_KOR_Q": [
+    "\uc2a4\ub9ac\ub791\uce74"
+  ], 
+  "children": {
+    "placetype": [], 
+    "Island": [
+      {
+        "placetype": "Island", 
+        "woeid": 12467072, 
+        "name": "Sri Lanka"
+      }
+    ], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 2344959, 
+        "name": "Central"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344960, 
+        "name": "North Central"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344961, 
+        "name": "North Eastern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344962, 
+        "name": "North Western"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344963, 
+        "name": "Sabaragamuwa"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344964, 
+        "name": "Southern"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344965, 
+        "name": "Uva"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 2344966, 
+        "name": "Western"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Portuguese": [
+      "Sri Lanca"
+    ], 
+    "Chinese": [
+      "\u65af\u91cc\u5170\u5361", 
+      "\u65af\u91cc\u862d\u5361"
+    ], 
+    "Hungarian": [
+      "Sr\u00ed Lanka"
+    ], 
+    "Czech": [
+      "\u0160r\u00ed Lanka", 
+      "Sr\u00ed Lanka"
+    ], 
+    "Unknown": [
+      "Sri-Lanka", 
+      "Sr\u00ed-Lanka"
+    ], 
+    "Spanish": [
+      "Isla Trapobana", 
+      "Ceilan"
+    ], 
+    "Japanese": [
+      "\u30b9\u30ea\u30e9\u30f3\u30ab", 
+      "\u30b9\u30ea\u30e9\u30f3\u30ab\u6c11\u4e3b\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd"
+    ], 
+    "German": [
+      "Demokratische Sozialistische Republik Sri Lanka"
+    ], 
+    "English": [
+      "LK", 
+      "Ceylon"
+    ], 
+    "Korean": [
+      "\uc2a4\ub9ac\ub791\uce74"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u65af\u91cc\u862d\u5361"
+  ], 
+  "alias_CHI_V": [
+    "\u65af\u91cc\u5170\u5361"
+  ], 
+  "woeid": 23424778, 
+  "alias_JPN_Q": [
+    "\u30b9\u30ea\u30e9\u30f3\u30ab"
+  ], 
+  "alias_JPN_V": [
+    "\u30b9\u30ea\u30e9\u30f3\u30ab\u6c11\u4e3b\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_S": [
+    "Ceilan"
+  ], 
+  "sw_longitude": 79.516212, 
+  "adjacent": [], 
+  "alias_SPA_V": [
+    "Isla Trapobana"
+  ], 
+  "latitude": 7.87395, 
+  "date_indexed": "2010-12-02T17:56:32.525Z", 
+  "provider": "geoplanet 7.6.0", 
+  "alias_CZE_V": [
+    "Sr\u00ed Lanka"
+  ], 
+  "bbox": "5.9167,79.516212,9.8312,81.88121", 
+  "alias_CZE_Q": [
+    "\u0160r\u00ed Lanka"
+  ], 
+  "alias_GER_V": [
+    "Demokratische Sozialistische Republik Sri Lanka"
+  ], 
+  "lang": "ENG", 
+  "name": "Sri Lanka", 
+  "language": "English", 
+  "alias_UNK_S": [
+    "Sri-Lanka"
+  ], 
+  "parent_woeid": 1, 
+  "alias_HUN_Q": [
+    "Sr\u00ed Lanka"
+  ], 
+  "ne_longitude": 81.88121, 
+  "longitude": 80.789711, 
+  "iso": "LK", 
+  "sw_latitude": 5.9167, 
+  "fullname": "Sri Lanka", 
   "features": [
     {
       "geometry": {
@@ -41,23 +206,43 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 9472, 
+        "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825560", 
+          "woe:region=2344961", 
+          "woe:country=23424778"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "LK", 
+        "longitude": 80.38298039886088, 
+        "artisanal:id": 34825560, 
+        "latitude": 8.70899227627264, 
+        "woe:id": 34825560, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34825560, 
       "properties": {
         "ne:fid": 9472, 
         "ne:hasPlace": -1, 
+        "hierarchy": [
+          "woe:metropolitan-area=34825560", 
+          "woe:region=2344961", 
+          "woe:country=23424778"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "LK", 
+        "longitude": 80.38298039886088, 
         "artisanal:id": 34825560, 
+        "latitude": 8.70899227627264, 
         "woe:id": 34825560, 
         "ne:ScaleRank": 7
       }
     }
-  ], 
-  "bbox": [
-    80.35295617057838, 
-    8.678540350779457, 
-    80.40856001172443, 
-    8.731818752472378
   ]
 }

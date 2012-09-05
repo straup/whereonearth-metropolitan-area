@@ -1,5 +1,410 @@
 {
-  "type": "FeatureCollection", 
+  "alias_POL_V": [
+    "Rzeczpospolita Polska"
+  ], 
+  "alias_ENG_V": [
+    "Rep. Poland"
+  ], 
+  "alias_SWE_Q": [
+    "Polen"
+  ], 
+  "alias_ENG_P": [
+    "Poland"
+  ], 
+  "hierarchy": [
+    {
+      "placetype": "Supername", 
+      "parent_woeid": 0, 
+      "iso": "ZZ", 
+      "name": "Earth", 
+      "woeid": 1
+    }
+  ], 
+  "ne_latitude": 54.835812, 
+  "supercedes": [], 
+  "alias_RUM_Q": [
+    "Polonia"
+  ], 
+  "alias_UNK_V": [
+    "Polsko"
+  ], 
+  "placetype": "Country", 
+  "alias_POR_V": [
+    "Pol\u00f4nia"
+  ], 
+  "alias_POR_Q": [
+    "Pol\u00f3nia"
+  ], 
+  "alias_ENG_A": [
+    "POL"
+  ], 
+  "children": {
+    "placetype": [], 
+    "State": [
+      {
+        "placetype": "State", 
+        "woeid": 12577935, 
+        "name": "Dolnosl\u0105skie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577936, 
+        "name": "Kujawsko-Pomorskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577938, 
+        "name": "Lubelskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577939, 
+        "name": "Lubuskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577941, 
+        "name": "Mazowieckie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577940, 
+        "name": "Ma\u0142opolskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577942, 
+        "name": "Opolskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577943, 
+        "name": "Podkarpackie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577944, 
+        "name": "Podlaskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577945, 
+        "name": "Pomorskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577946, 
+        "name": "Sl\u0105skie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577947, 
+        "name": "Swi\u0119tokrzyskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577948, 
+        "name": "Warminsko-Mazurskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577949, 
+        "name": "Wielkopolskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577950, 
+        "name": "Zachodniopomorskie"
+      }, 
+      {
+        "placetype": "State", 
+        "woeid": 12577937, 
+        "name": "\u0141\u00f3dzkie"
+      }
+    ], 
+    "LandFeature": [
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56058370, 
+        "name": "Drawienski Park Narodowy"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 56058375, 
+        "name": "Magurski Park Narodowy"
+      }, 
+      {
+        "placetype": "LandFeature", 
+        "woeid": 23702013, 
+        "name": "Rysy"
+      }
+    ], 
+    "Zone": [
+      {
+        "placetype": "Zone", 
+        "woeid": 24874432, 
+        "name": "13 Krosno"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874433, 
+        "name": "14 Tarn\u00f3w"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874434, 
+        "name": "15 Tarnobrzeg"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874439, 
+        "name": "23 Ciechan\u00f3w"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874440, 
+        "name": "24 Plock"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874441, 
+        "name": "25 Siedlce"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874443, 
+        "name": "32 Katowice"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874444, 
+        "name": "33 Bielsko Biala"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874445, 
+        "name": "34 Czestochowa"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874446, 
+        "name": "41 Kielce"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874453, 
+        "name": "52 Bydgoszcz"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874455, 
+        "name": "55 Elblag"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874456, 
+        "name": "56 Torun"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874460, 
+        "name": "62 Kalisz"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874461, 
+        "name": "63 Konin"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874462, 
+        "name": "65 Leszno"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874463, 
+        "name": "67 Pila"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874472, 
+        "name": "83 Biala Podlaska"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874476, 
+        "name": "87 Suwalki"
+      }, 
+      {
+        "placetype": "Zone", 
+        "woeid": 24874480, 
+        "name": "95 Gorzow Wielkopolski"
+      }
+    ], 
+    "Drainage": [
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354243, 
+        "name": "Bug River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354242, 
+        "name": "Vistula River"
+      }, 
+      {
+        "placetype": "Drainage", 
+        "woeid": 26354241, 
+        "name": "Warta River"
+      }
+    ]
+  }, 
+  "aliases": {
+    "Swedish": [
+      "Polen"
+    ], 
+    "Danish": [
+      "Polen"
+    ], 
+    "Hungarian": [
+      "Lengyelorszag", 
+      "Lengyelorsz\u00e1g"
+    ], 
+    "Chinese": [
+      "\u6ce2\u5170", 
+      "\u6ce2\u862d"
+    ], 
+    "Finnish": [
+      "Puolasta", 
+      "Puola"
+    ], 
+    "Norwegian": [
+      "Polen"
+    ], 
+    "Czech": [
+      "Polsko"
+    ], 
+    "Romanian": [
+      "Polonia"
+    ], 
+    "Dutch": [
+      "Polen"
+    ], 
+    "Japanese": [
+      "\u30dd\u30fc\u30e9\u30f3\u30c9", 
+      "\u30dd\u30fc\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+    ], 
+    "French": [
+      "Pologne"
+    ], 
+    "German": [
+      "Polen", 
+      "Republik Polen"
+    ], 
+    "Portuguese": [
+      "Pol\u00f4nia", 
+      "Pol\u00f3nia"
+    ], 
+    "Unknown": [
+      "P\u00f3lland", 
+      "Polland", 
+      "Polsko"
+    ], 
+    "Spanish": [
+      "Republica de Polonia", 
+      "Polonia"
+    ], 
+    "English": [
+      "POL", 
+      "Poland", 
+      "Rep. Poland"
+    ], 
+    "Polish": [
+      "Rzeczpospolita Polska"
+    ], 
+    "Korean": [
+      "\ud3f4\ub780\ub4dc"
+    ], 
+    "Italian": [
+      "Polonia"
+    ]
+  }, 
+  "alias_CHI_Q": [
+    "\u6ce2\u862d"
+  ], 
+  "alias_ITA_Q": [
+    "Polonia"
+  ], 
+  "alias_GER_V": [
+    "Republik Polen"
+  ], 
+  "alias_CHI_V": [
+    "\u6ce2\u5170"
+  ], 
+  "woeid": 23424923, 
+  "alias_JPN_Q": [
+    "\u30dd\u30fc\u30e9\u30f3\u30c9"
+  ], 
+  "alias_JPN_V": [
+    "\u30dd\u30fc\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+  ], 
+  "alias_SPA_Q": [
+    "Polonia"
+  ], 
+  "alias_FIN_Q": [
+    "Puola"
+  ], 
+  "sw_longitude": 14.12281, 
+  "alias_FIN_V": [
+    "Puolasta"
+  ], 
+  "provider": "geoplanet 7.6.0", 
+  "latitude": 51.918919, 
+  "alias_NOR_Q": [
+    "Polen"
+  ], 
+  "date_indexed": "2010-12-02T12:12:45.342Z", 
+  "alias_KOR_Q": [
+    "\ud3f4\ub780\ub4dc"
+  ], 
+  "adjacent": [], 
+  "alias_SPA_V": [
+    "Republica de Polonia"
+  ], 
+  "alias_DUT_Q": [
+    "Polen"
+  ], 
+  "bbox": "49.002022,14.12281,54.835812,24.145781", 
+  "alias_CZE_Q": [
+    "Polsko"
+  ], 
+  "alias_DAN_Q": [
+    "Polen"
+  ], 
+  "alias_GER_Q": [
+    "Polen"
+  ], 
+  "lang": "POL", 
+  "name": "Polska", 
+  "language": "Polish", 
+  "alias_UNK_S": [
+    "Polland"
+  ], 
+  "parent_woeid": 1, 
+  "alias_UNK_Q": [
+    "P\u00f3lland"
+  ], 
+  "alias_HUN_Q": [
+    "Lengyelorsz\u00e1g"
+  ], 
+  "ne_longitude": 24.145781, 
+  "longitude": 19.1343, 
+  "iso": "PL", 
+  "sw_latitude": 49.002022, 
+  "alias_HUN_S": [
+    "Lengyelorszag"
+  ], 
+  "fullname": "Polska, Poland", 
   "features": [
     {
       "geometry": {
@@ -41,23 +446,46 @@
           ]
         ]
       }, 
+      "props": {
+        "ne:fid": 4921, 
+        "ne:hasPlace": 5, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822572", 
+          "woe:region=12577945", 
+          "woe:country=23424923"
+        ], 
+        "artisanal:foundry": "http://www.missionintegers.com/", 
+        "ne:FeatureCla": "Urban area", 
+        "placetype": "metropolitan-area", 
+        "iso": "PL", 
+        "longitude": 18.422049233781273, 
+        "artisanal:id": 34822572, 
+        "latitude": 54.79796039923113, 
+        "woe:id": 34822572, 
+        "ne:ScaleRank": 7
+      }, 
       "id": 34822572, 
       "properties": {
         "ne:fid": 4921, 
         "ne:hasPlace": 5, 
+        "hierarchy": [
+          "woe:metropolitan-area=34822572", 
+          "woe:region=12577945", 
+          "woe:country=23424923"
+        ], 
         "artisanal:foundry": "http://www.missionintegers.com/", 
         "ne:FeatureCla": "Urban area", 
         "placetype": "metropolitan-area", 
+        "iso": "PL", 
+        "longitude": 18.422049233781273, 
         "artisanal:id": 34822572, 
+        "latitude": 54.79796039923113, 
         "woe:id": 34822572, 
         "ne:ScaleRank": 7
       }
     }
   ], 
-  "bbox": [
-    18.41162072111183, 
-    54.78934337016965, 
-    18.431051059653583, 
-    54.806164048880646
+  "alias_FRE_Q": [
+    "Pologne"
   ]
 }
