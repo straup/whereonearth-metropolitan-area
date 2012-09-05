@@ -26,7 +26,13 @@ a while because it's easy and safe.
 To do
 --
 
-* Reverse geocode all the records to at least the country level, if not state.
+* Reverse geocode all the edges of the geometries for each record to at least
+  the country level, if not state. As of this writing there is a hierarchy of
+  places (state, country) for each record based on their geometry's centroid.
+
+* Figure out the list of children for each record.
+
+* Try to work out place names for each (some?) record.
 
 Other WOE repositories
 --
