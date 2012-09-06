@@ -57,4 +57,4 @@ See also
 
 * [Yahoo! GeoPlanet Data](http://developer.yahoo.com/geo/geoplanet/data/)
 
-* [Natural Earth 1:10m Cultural Vectors](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+* [Natural Earth 1:10m Urban Areas](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-urban-area/)
