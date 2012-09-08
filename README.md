@@ -1,18 +1,21 @@
 whereonearth-metropolitan-area
 ==
 
-"The edges of a city's defined borders don't really mean all that much when they
-bleed into yet more urbanity." – [Nate Berg](http://www.theatlanticcities.com/jobs-and-economy/2012/09/search-uniform-way-define-city/3165/) 
+_"The edges of a city's defined borders don't really mean all that much when they
+bleed into yet more urbanity." – [Nate Berg](http://www.theatlanticcities.com/jobs-and-economy/2012/09/search-uniform-way-define-city/3165/)_ 
+
+The short version
+--
 
 Metropolitan areas for the Where On Earth (WOE) hierarchy derived from Natural
 Earth (NE) urban areas. Read: Polygons
-
-_This is very much a work in progress._
 
 New WOE IDs have been minted using one of three artisanal integer providers:
 [Mission Integers](http://www.missionintegers.com/), [Brooklyn
 Integers](http://www.brooklynintegers.com/) or [London
 Integers](http://www.londonintegers.com/).
+
+_This is very much a work in progress._
 
 The longer version
 --
