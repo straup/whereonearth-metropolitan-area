@@ -17,7 +17,7 @@ IDs. Also included are the NE name, ISO-3 country code and "megacity" status for
 each record.
 
 There is quite a lot of /overlap between Urban (metropolitan) Areas and
-Populated Places so this file is included as a point of reference.
+Populated Places. Specifically the latter should contain a pointer to the former in their hierarchy. So, this file is included as a point of reference.
 
 _Not all NE records have [Geonames](http://www.geonames.org/) IDs associated
 with them._
