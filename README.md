@@ -58,3 +58,7 @@ See also
 * [Yahoo! GeoPlanet Data](http://developer.yahoo.com/geo/geoplanet/data/)
 
 * [Natural Earth 1:10m Urban Areas](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-urban-area/)
+
+* [Natural Earth 1:10m Populated Places](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/)
+
+* [Show Me the GeoJSON](http://straup.github.com/showme-the-geojson/)
