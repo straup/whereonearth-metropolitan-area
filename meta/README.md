@@ -18,3 +18,6 @@ each record.
 
 There is quite a lot of /overlap between Urban (metropolitan) Areas and
 Populated Places so this file is included as a point of reference.
+
+_Not all NE records have [Geonames](http://www.geonames.org/) IDs associated
+with them._
