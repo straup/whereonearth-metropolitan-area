@@ -20,7 +20,7 @@ There is quite a lot of /overlap between Urban (metropolitan) Areas and
 Populated Places. Specifically the latter should contain a pointer to the former in their hierarchy. So, this file is included as a point of reference.
 
 Not all NE records have [Geonames](http://www.geonames.org/) IDs or WOE IDs associated
-with them. As of this writing the list has diverged from Natural Earth and some records may have WOE IDs but not Geonames IDs. That's because the WOE IDs were derived by geocoding the NE name (name, adm1, adm0) against the Flickr API and running the results through the "fuzzywuzzy" python library (really) and only accepting things with a score >= 95.
+with them. As of this writing the list has diverged from Natural Earth and some records may have WOE IDs but not Geonames IDs. That's because the WOE IDs were derived by geocoding the NE name (name, adm1, adm0) against the Flickr API and running the results through the [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) python library (really) and only accepting things with a score >= 95.
 
 _The complete list of things to be geocoded still is in populated-places-to-be-geocoded.csv._
 
