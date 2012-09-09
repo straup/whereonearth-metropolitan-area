@@ -21,3 +21,16 @@ Populated Places. Specifically the latter should contain a pointer to the former
 
 _Not all NE records have [Geonames](http://www.geonames.org/) IDs associated
 with them._
+
+urbanareas-populated-places.csv
+==
+
+A plain vanilla CSV file mapping the relationships between an urban/metropolitan
+WOE ID (see also: metropolitan-areas.csv) to one or more WOE IDs defined in the
+concordance for Natural Earth populated places (see also:
+populated-places-concordance.csv).
+
+_This list is currently incomplete. There are still some populated places that
+have neither a WOE ID or a Geonames ID. Those records have not been included in
+this list._
+
