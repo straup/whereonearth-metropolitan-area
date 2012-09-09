@@ -1,165 +1,5 @@
 {
-  "alias_ENG_V": [
-    "Southern Rhodesia"
-  ], 
-  "alias_ENG_A": [
-    "ZW"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": -15.60883, 
-  "supercedes": [], 
-  "ne_longitude": 33.056301, 
-  "placetype": "Country", 
-  "alias_POR_V": [
-    "Zimb\u00e1bwe"
-  ], 
-  "alias_KOR_Q": [
-    "\uc9d0\ubc14\ube0c\uc6e8"
-  ], 
-  "alias_POR_S": [
-    "Zimbabue"
-  ], 
-  "children": {
-    "placetype": [], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 24550730, 
-        "name": "Bulawayo"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 24550731, 
-        "name": "Harare"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2347810, 
-        "name": "Manicaland"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2347812, 
-        "name": "Mashonaland Central"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2347813, 
-        "name": "Mashonaland East"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2347814, 
-        "name": "Mashonaland West"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2347817, 
-        "name": "Masvingo"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2347815, 
-        "name": "Matabeleland North"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2347816, 
-        "name": "Matabeleland South"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2347811, 
-        "name": "Midlands"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Portuguese": [
-      "Zimb\u00e1bwe", 
-      "Zimbabue"
-    ], 
-    "Chinese": [
-      "\u8f9b\u5df4\u5a01", 
-      "\u8f9b\u5df4\u5a01"
-    ], 
-    "German": [
-      "Simbabwe", 
-      "S\u00fcdrhodesien"
-    ], 
-    "Unknown": [
-      "Simbabve", 
-      "Republika Zimbabve"
-    ], 
-    "English": [
-      "ZW", 
-      "Southern Rhodesia"
-    ], 
-    "Japanese": [
-      "\u30b8\u30f3\u30d0\u30d6\u30a8", 
-      "\u30b8\u30f3\u30d0\u30d6\u30a8\u5171\u548c\u56fd"
-    ], 
-    "Spanish": [
-      "Zimbawe", 
-      "Zimbabue"
-    ], 
-    "Korean": [
-      "\uc9d0\ubc14\ube0c\uc6e8"
-    ]
-  }, 
-  "alias_CHI_Q": [
-    "\u8f9b\u5df4\u5a01"
-  ], 
-  "alias_CHI_V": [
-    "\u8f9b\u5df4\u5a01"
-  ], 
-  "woeid": 23425004, 
-  "alias_JPN_Q": [
-    "\u30b8\u30f3\u30d0\u30d6\u30a8"
-  ], 
-  "alias_JPN_V": [
-    "\u30b8\u30f3\u30d0\u30d6\u30a8\u5171\u548c\u56fd"
-  ], 
-  "alias_SPA_Q": [
-    "Zimbabue"
-  ], 
-  "sw_longitude": 25.23702, 
-  "adjacent": [], 
-  "alias_SPA_V": [
-    "Zimbawe"
-  ], 
-  "latitude": -19.013281, 
-  "date_indexed": "2010-12-02T16:52:36.501Z", 
-  "provider": "geoplanet 7.6.0", 
-  "bbox": "-22.41773,25.23702,-15.60883,33.056301", 
-  "alias_GER_V": [
-    "S\u00fcdrhodesien"
-  ], 
-  "alias_GER_Q": [
-    "Simbabwe"
-  ], 
-  "lang": "ENG", 
-  "name": "Zimbabwe", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "alias_UNK_Q": [
-    "Simbabve"
-  ], 
-  "alias_UNK_V": [
-    "Republika Zimbabve"
-  ], 
-  "longitude": 29.14666, 
-  "iso": "ZW", 
-  "sw_latitude": -22.41773, 
-  "fullname": "Zimbabwe", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -213,5 +53,11 @@
       }, 
       "id": 34824762
     }
+  ], 
+  "bbox": [
+    30.174520297981815, 
+    -17.386742038647725, 
+    30.215137973763234, 
+    -17.34571095140798
   ]
 }

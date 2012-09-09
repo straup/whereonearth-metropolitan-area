@@ -1,136 +1,5 @@
 {
-  "alias_ENG_V": [
-    "Bajan"
-  ], 
-  "alias_ENG_A": [
-    "BB"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": 13.32725, 
-  "supercedes": [], 
-  "placetype": "Country", 
-  "alias_KOR_Q": [
-    "\ubc14\ubca0\uc774\ub3c4\uc2a4"
-  ], 
-  "children": {
-    "placetype": [], 
-    "Island": [
-      {
-        "placetype": "Island", 
-        "woeid": 12481182, 
-        "name": "Barbados"
-      }
-    ], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 2344730, 
-        "name": "Christ Church"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344731, 
-        "name": "Saint Andrew"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344732, 
-        "name": "Saint George"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344733, 
-        "name": "Saint James"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344734, 
-        "name": "Saint John"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344735, 
-        "name": "Saint Joseph"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344736, 
-        "name": "Saint Lucy"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344737, 
-        "name": "Saint Michael"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344738, 
-        "name": "Saint Peter"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344739, 
-        "name": "Saint Philip"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344740, 
-        "name": "Saint Thomas"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Chinese": [
-      "\u5df4\u8c9d\u591a", 
-      "\u5df4\u8c9d\u591a"
-    ], 
-    "Korean": [
-      "\ubc14\ubca0\uc774\ub3c4\uc2a4"
-    ], 
-    "Japanese": [
-      "\u30d0\u30eb\u30d0\u30c9\u30b9"
-    ], 
-    "French": [
-      "Barbade"
-    ], 
-    "English": [
-      "BB", 
-      "Bajan"
-    ]
-  }, 
-  "alias_CHI_Q": [
-    "\u5df4\u8c9d\u591a"
-  ], 
-  "alias_CHI_V": [
-    "\u5df4\u8c9d\u591a"
-  ], 
-  "woeid": 23424754, 
-  "alias_JPN_Q": [
-    "\u30d0\u30eb\u30d0\u30c9\u30b9"
-  ], 
-  "sw_longitude": -59.648918, 
-  "adjacent": [], 
-  "provider": "geoplanet 7.6.0", 
-  "latitude": 13.18355, 
-  "date_indexed": "2010-12-02T09:35:19.644Z", 
-  "bbox": "13.03984,-59.648918,13.32725,-59.420368", 
-  "lang": "ENG", 
-  "name": "Barbados", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "ne_longitude": -59.420368, 
-  "longitude": -59.534649, 
-  "iso": "BB", 
-  "sw_latitude": 13.03984, 
-  "fullname": "Barbados", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -237,7 +106,10 @@
       "id": 34820724
     }
   ], 
-  "alias_FRE_Q": [
-    "Barbade"
+  "bbox": [
+    -59.647206386947815, 
+    13.07181224207308, 
+    -59.526748623275466, 
+    13.194182033740233
   ]
 }

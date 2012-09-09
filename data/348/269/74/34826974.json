@@ -1,152 +1,5 @@
 {
-  "alias_ENG_V": [
-    "People's Republic of Bangladesh"
-  ], 
-  "alias_ENG_A": [
-    "BD"
-  ], 
-  "alias_POL_Q": [
-    "Bangladesz"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": 26.631701, 
-  "supercedes": [], 
-  "placetype": "Country", 
-  "alias_POR_V": [
-    "Bangladeche"
-  ], 
-  "alias_KOR_Q": [
-    "\ubc29\uae00\ub77c\ub370\uc2dc"
-  ], 
-  "children": {
-    "placetype": [], 
-    "Island": [
-      {
-        "placetype": "Island", 
-        "woeid": 12466962, 
-        "name": "Rabnabad Islands"
-      }
-    ], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 23706410, 
-        "name": "Barisal"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344790, 
-        "name": "Chittagong"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344791, 
-        "name": "Dhaka"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344792, 
-        "name": "Khulna"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2344793, 
-        "name": "Rajshahi"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 23706411, 
-        "name": "Sylhet"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Portuguese": [
-      "Bangladeche"
-    ], 
-    "Chinese": [
-      "\u5b5f\u52a0\u62c9\u56fd", 
-      "\u5b5f\u52a0\u62c9"
-    ], 
-    "Hungarian": [
-      "Banglades"
-    ], 
-    "Czech": [
-      "Banglad\u00e9\u0161"
-    ], 
-    "Unknown": [
-      "Bangladess"
-    ], 
-    "Japanese": [
-      "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5", 
-      "\u30d0\u30f3\u30b0\u30e9\u30c7\u30a3\u30c3\u30b7\u30e5\u4eba\u6c11\u5171\u548c\u56fd"
-    ], 
-    "German": [
-      "Bangladesch", 
-      "Volksrepublik Bangladesch"
-    ], 
-    "English": [
-      "BD", 
-      "People's Republic of Bangladesh"
-    ], 
-    "Polish": [
-      "Bangladesz"
-    ], 
-    "Korean": [
-      "\ubc29\uae00\ub77c\ub370\uc2dc"
-    ]
-  }, 
-  "alias_CHI_Q": [
-    "\u5b5f\u52a0\u62c9"
-  ], 
-  "alias_CHI_V": [
-    "\u5b5f\u52a0\u62c9\u56fd"
-  ], 
-  "woeid": 23424759, 
-  "alias_JPN_Q": [
-    "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5"
-  ], 
-  "alias_JPN_V": [
-    "\u30d0\u30f3\u30b0\u30e9\u30c7\u30a3\u30c3\u30b7\u30e5\u4eba\u6c11\u5171\u548c\u56fd"
-  ], 
-  "sw_longitude": 88.028198, 
-  "adjacent": [], 
-  "provider": "geoplanet 7.6.0", 
-  "latitude": 23.68745, 
-  "date_indexed": "2010-12-02T12:16:33.096Z", 
-  "bbox": "20.585199,88.028198,26.631701,92.673599", 
-  "alias_CZE_Q": [
-    "Banglad\u00e9\u0161"
-  ], 
-  "alias_GER_V": [
-    "Volksrepublik Bangladesch"
-  ], 
-  "alias_GER_Q": [
-    "Bangladesch"
-  ], 
-  "lang": "ENG", 
-  "name": "Bangladesh", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "alias_UNK_Q": [
-    "Bangladess"
-  ], 
-  "alias_HUN_Q": [
-    "Banglades"
-  ], 
-  "ne_longitude": 92.673599, 
-  "longitude": 90.350899, 
-  "iso": "BD", 
-  "sw_latitude": 20.585199, 
-  "fullname": "Bangladesh", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -232,5 +85,11 @@
       }, 
       "id": 34826974
     }
+  ], 
+  "bbox": [
+    91.22598758338228, 
+    23.822267157480667, 
+    91.28448530473668, 
+    23.900117702728366
   ]
 }

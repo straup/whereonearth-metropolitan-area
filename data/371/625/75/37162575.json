@@ -1,163 +1,5 @@
 {
-  "alias_ENG_V": [
-    "Guianese"
-  ], 
-  "alias_ENG_A": [
-    "GY"
-  ], 
-  "alias_POL_Q": [
-    "Gujana"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": 8.55756, 
-  "supercedes": [], 
-  "ne_longitude": -56.480251, 
-  "placetype": "Country", 
-  "alias_KOR_V": [
-    "\uad6c\uc544\ub098"
-  ], 
-  "alias_POR_Q": [
-    "Guiana"
-  ], 
-  "alias_KOR_Q": [
-    "\uac00\uc774\uc544\ub098"
-  ], 
-  "children": {
-    "placetype": [], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 2345603, 
-        "name": "Barima-Waini"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345604, 
-        "name": "Cuyuni-Mazaruni"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345605, 
-        "name": "Demerara-Mahaica"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345606, 
-        "name": "East Berbice-Corentyne"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345607, 
-        "name": "Essequibo Islands-West Demerara"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345608, 
-        "name": "Mahaica-Berbice"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345609, 
-        "name": "Pomeroon-Supenaam"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345610, 
-        "name": "Potaro-Siparuni"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345611, 
-        "name": "Upper Demerara-Berbice"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2345612, 
-        "name": "Upper Takutu-Upper Essequibo"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Portuguese": [
-      "Guiana"
-    ], 
-    "Chinese": [
-      "\u84cb\u4e9e\u90a3", 
-      "\u84cb\u4e9e\u90a3"
-    ], 
-    "German": [
-      "Kooperative Republik Guyana"
-    ], 
-    "Unknown": [
-      "Gvajana", 
-      "Republika Gvajana"
-    ], 
-    "Japanese": [
-      "\u30ac\u30a4\u30a2\u30ca", 
-      "\u30ac\u30a4\u30a2\u30ca\u5171\u548c\u56fd"
-    ], 
-    "English": [
-      "GY", 
-      "Guianese"
-    ], 
-    "Polish": [
-      "Gujana"
-    ], 
-    "Korean": [
-      "\uad6c\uc544\ub098", 
-      "\uac00\uc774\uc544\ub098"
-    ], 
-    "Italian": [
-      "Guiana"
-    ]
-  }, 
-  "alias_CHI_Q": [
-    "\u84cb\u4e9e\u90a3"
-  ], 
-  "alias_ITA_V": [
-    "Guiana"
-  ], 
-  "alias_CHI_V": [
-    "\u84cb\u4e9e\u90a3"
-  ], 
-  "woeid": 23424836, 
-  "alias_JPN_Q": [
-    "\u30ac\u30a4\u30a2\u30ca"
-  ], 
-  "alias_JPN_V": [
-    "\u30ac\u30a4\u30a2\u30ca\u5171\u548c\u56fd"
-  ], 
-  "sw_longitude": -61.396271, 
-  "adjacent": [], 
-  "provider": "geoplanet 7.6.0", 
-  "latitude": 4.86632, 
-  "date_indexed": "2010-12-02T16:33:25.893Z", 
-  "bbox": "1.17508,-61.396271,8.55756,-56.480251", 
-  "alias_GER_V": [
-    "Kooperative Republik Guyana"
-  ], 
-  "lang": "ENG", 
-  "name": "Guyana", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "alias_UNK_Q": [
-    "Gvajana"
-  ], 
-  "alias_UNK_V": [
-    "Republika Gvajana"
-  ], 
-  "longitude": -58.938259, 
-  "iso": "GY", 
-  "sw_latitude": 1.17508, 
-  "fullname": "Guyana", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -267,5 +109,11 @@
       }, 
       "id": 37162575
     }
+  ], 
+  "bbox": [
+    -58.204787970600904, 
+    6.784030666527087, 
+    -58.12102047385578, 
+    6.840564683454403
   ]
 }

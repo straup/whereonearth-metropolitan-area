@@ -1,129 +1,5 @@
 {
-  "alias_ENG_V": [
-    "Brunei, Sultanate Of"
-  ], 
-  "alias_ENG_A": [
-    "BN"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": 5.04717, 
-  "supercedes": [], 
-  "placetype": "Country", 
-  "alias_KOR_Q": [
-    "\ube0c\ub8e8\ub098\uc774"
-  ], 
-  "children": {
-    "placetype": [], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 20069849, 
-        "name": "Belait"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20069846, 
-        "name": "Brunei-Muara"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20069847, 
-        "name": "Temburong"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20069848, 
-        "name": "Tutong"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Chinese": [
-      "\u6c76\u840a", 
-      "\u6c76\u840a"
-    ], 
-    "Czech": [
-      "Brunej", 
-      "Brunej Darussalam"
-    ], 
-    "Unknown": [
-      "Negara Brunei Darussalam"
-    ], 
-    "English": [
-      "BN", 
-      "Brunei, Sultanate Of"
-    ], 
-    "Japanese": [
-      "\u30d6\u30eb\u30cd\u30a4", 
-      "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30c3\u30b5\u30e9\u30fc\u30e0\u56fd"
-    ], 
-    "French": [
-      "Brun\u00e9i Darussalam"
-    ], 
-    "German": [
-      "Brunei Darussalam"
-    ], 
-    "Spanish": [
-      "Brun\u00e9i"
-    ], 
-    "Korean": [
-      "\ube0c\ub8e8\ub098\uc774"
-    ]
-  }, 
-  "alias_CHI_Q": [
-    "\u6c76\u840a"
-  ], 
-  "alias_CHI_V": [
-    "\u6c76\u840a"
-  ], 
-  "woeid": 23424773, 
-  "alias_JPN_Q": [
-    "\u30d6\u30eb\u30cd\u30a4"
-  ], 
-  "alias_JPN_V": [
-    "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30c3\u30b5\u30e9\u30fc\u30e0\u56fd"
-  ], 
-  "alias_SPA_Q": [
-    "Brun\u00e9i"
-  ], 
-  "sw_longitude": 114.071457, 
-  "adjacent": [], 
-  "provider": "geoplanet 7.6.0", 
-  "latitude": 4.52513, 
-  "date_indexed": "2010-12-02T17:58:12.211Z", 
-  "alias_CZE_V": [
-    "Brunej Darussalam"
-  ], 
-  "bbox": "4.00309,114.071457,5.04717,115.359451", 
-  "alias_CZE_Q": [
-    "Brunej"
-  ], 
-  "alias_GER_V": [
-    "Brunei Darussalam"
-  ], 
-  "lang": "ENG", 
-  "name": "Brunei", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "alias_UNK_Q": [
-    "Negara Brunei Darussalam"
-  ], 
-  "ne_longitude": 115.359451, 
-  "longitude": 114.598969, 
-  "iso": "BN", 
-  "sw_latitude": 4.00309, 
-  "alias_FRE_V": [
-    "Brun\u00e9i Darussalam"
-  ], 
-  "fullname": "Brunei", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -365,5 +241,11 @@
       }, 
       "id": 37193400
     }
+  ], 
+  "bbox": [
+    114.82092980352877, 
+    4.840376695165148, 
+    115.03104617722752, 
+    5.006981512874148
   ]
 }

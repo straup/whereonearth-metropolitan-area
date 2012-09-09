@@ -1,166 +1,5 @@
 {
-  "alias_ENG_V": [
-    "Islamic Republic of Pakistan"
-  ], 
-  "alias_ENG_A": [
-    "PK"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": 37.097, 
-  "supercedes": [], 
-  "ne_longitude": 77.840813, 
-  "placetype": "Country", 
-  "alias_POR_Q": [
-    "Paquist\u00e3o"
-  ], 
-  "alias_KOR_Q": [
-    "\ud30c\ud0a4\uc2a4\ud0c4"
-  ], 
-  "alias_POR_S": [
-    "Paquistao"
-  ], 
-  "children": {
-    "placetype": [], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 2346500, 
-        "name": "Azad Kashmir"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2346496, 
-        "name": "Balochistan"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2346495, 
-        "name": "Federally Administered Tribal Areas"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070149, 
-        "name": "Islamabad"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2346497, 
-        "name": "North-West Frontier"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2346501, 
-        "name": "Northern Areas"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2346498, 
-        "name": "Punjab"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 2346499, 
-        "name": "Sindh"
-      }
-    ], 
-    "Drainage": [
-      {
-        "placetype": "Drainage", 
-        "woeid": 26354140, 
-        "name": "Sutlej River"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Portuguese": [
-      "Paquistao", 
-      "Paquist\u00e3o"
-    ], 
-    "Chinese": [
-      "\u5df4\u57fa\u65af\u5766"
-    ], 
-    "Hungarian": [
-      "Pakiszt\u00e1n"
-    ], 
-    "Czech": [
-      "P\u00e1kist\u00e1n"
-    ], 
-    "Unknown": [
-      "Islamska republika Pakistan"
-    ], 
-    "English": [
-      "PK", 
-      "Islamic Republic of Pakistan"
-    ], 
-    "Japanese": [
-      "\u30d1\u30ad\u30b9\u30bf\u30f3", 
-      "\u30d1\u30ad\u30b9\u30bf\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"
-    ], 
-    "German": [
-      "Islamische Republik Pakistan"
-    ], 
-    "Spanish": [
-      "Paquist\u00e1n", 
-      "Paquistan", 
-      "Pakist\u00e1n"
-    ], 
-    "Korean": [
-      "\ud30c\ud0a4\uc2a4\ud0c4"
-    ]
-  }, 
-  "alias_CHI_Q": [
-    "\u5df4\u57fa\u65af\u5766"
-  ], 
-  "woeid": 23424922, 
-  "alias_JPN_Q": [
-    "\u30d1\u30ad\u30b9\u30bf\u30f3"
-  ], 
-  "alias_JPN_V": [
-    "\u30d1\u30ad\u30b9\u30bf\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"
-  ], 
-  "alias_SPA_Q": [
-    "Pakist\u00e1n"
-  ], 
-  "alias_SPA_S": [
-    "Paquistan"
-  ], 
-  "sw_longitude": 60.87859, 
-  "adjacent": [], 
-  "alias_SPA_V": [
-    "Paquist\u00e1n"
-  ], 
-  "latitude": 30.441851, 
-  "date_indexed": "2010-12-02T17:56:57.921Z", 
-  "provider": "geoplanet 7.6.0", 
-  "bbox": "23.786699,60.87859,37.097,77.840813", 
-  "alias_CZE_Q": [
-    "P\u00e1kist\u00e1n"
-  ], 
-  "alias_GER_V": [
-    "Islamische Republik Pakistan"
-  ], 
-  "lang": "ENG", 
-  "name": "Pakistan", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "alias_HUN_Q": [
-    "Pakiszt\u00e1n"
-  ], 
-  "alias_UNK_V": [
-    "Islamska republika Pakistan"
-  ], 
-  "longitude": 69.359703, 
-  "iso": "PK", 
-  "sw_latitude": 23.786699, 
-  "fullname": "Pakistan", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -226,5 +65,11 @@
       }, 
       "id": 34819576
     }
+  ], 
+  "bbox": [
+    71.74448937366893, 
+    35.499693915339876, 
+    71.80991173695045, 
+    35.57746694593915
   ]
 }

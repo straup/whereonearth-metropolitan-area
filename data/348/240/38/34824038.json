@@ -1,153 +1,5 @@
 {
-  "alias_ENG_V": [
-    "Palestinian Occupied Territories"
-  ], 
-  "alias_SWE_V": [
-    "Palestina"
-  ], 
-  "alias_SWE_Q": [
-    "Palestinska Ockuperade Omr\u00e5den"
-  ], 
-  "alias_SWE_S": [
-    "Palestinska Ockuperade Omraden"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": 33.340099, 
-  "supercedes": [], 
-  "placetype": "Country", 
-  "alias_POR_Q": [
-    "Palestina"
-  ], 
-  "alias_ENG_A": [
-    "PS"
-  ], 
-  "children": {
-    "placetype": [], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 23424838, 
-        "name": "Gaza"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 23424988, 
-        "name": "West Bank"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Swedish": [
-      "Palestina", 
-      "Palestinska Ockuperade Omr\u00e5den", 
-      "Palestinska Ockuperade Omraden"
-    ], 
-    "Danish": [
-      "Palaestinensiske Besatte Territorier", 
-      "Pal\u00e6stinensiske Besatte Territorier", 
-      "Pal\u00e6stina"
-    ], 
-    "Chinese": [
-      "\u5df4\u52d2\u65af\u5766"
-    ], 
-    "Finnish": [
-      "Palestiinaan", 
-      "Palestiinasta"
-    ], 
-    "Portuguese": [
-      "Palestina"
-    ], 
-    "German": [
-      "Pal\u00e4stina", 
-      "Palastina"
-    ], 
-    "English": [
-      "PS", 
-      "Palestinian Occupied Territories"
-    ], 
-    "Japanese": [
-      "\u30d1\u30ec\u30b9\u30c1\u30ca\u5360\u9818\u5730", 
-      "\u30d1\u30ec\u30b9\u30c1\u30ca"
-    ], 
-    "Norwegian": [
-      "De Palestinske Territoriene", 
-      "Okkupert Palestinsk Omrade", 
-      "Okkupert Palestinsk Omr\u00e5de"
-    ], 
-    "Dutch": [
-      "Palestina", 
-      "Palestijnse Gebieden"
-    ]
-  }, 
-  "alias_CHI_Q": [
-    "\u5df4\u52d2\u65af\u5766"
-  ], 
-  "woeid": 28289408, 
-  "alias_JPN_Q": [
-    "\u30d1\u30ec\u30b9\u30c1\u30ca\u5360\u9818\u5730"
-  ], 
-  "alias_JPN_V": [
-    "\u30d1\u30ec\u30b9\u30c1\u30ca"
-  ], 
-  "alias_FIN_Q": [
-    "Palestiinasta"
-  ], 
-  "sw_longitude": 34.230461, 
-  "alias_FIN_V": [
-    "Palestiinaan"
-  ], 
-  "provider": "geoplanet 7.6.0", 
-  "latitude": 31.94775, 
-  "alias_NOR_S": [
-    "Okkupert Palestinsk Omrade"
-  ], 
-  "alias_NOR_Q": [
-    "De Palestinske Territoriene"
-  ], 
-  "alias_NOR_V": [
-    "Okkupert Palestinsk Omr\u00e5de"
-  ], 
-  "date_indexed": "2010-12-02T12:08:30.982Z", 
-  "adjacent": [], 
-  "alias_DUT_Q": [
-    "Palestijnse Gebieden"
-  ], 
-  "bbox": "31.223499,34.230461,33.340099,35.876499", 
-  "alias_DUT_V": [
-    "Palestina"
-  ], 
-  "alias_DAN_S": [
-    "Palaestinensiske Besatte Territorier"
-  ], 
-  "alias_DAN_Q": [
-    "Pal\u00e6stinensiske Besatte Territorier"
-  ], 
-  "alias_DAN_V": [
-    "Pal\u00e6stina"
-  ], 
-  "alias_GER_S": [
-    "Palastina"
-  ], 
-  "lang": "ENG", 
-  "name": "Palestinian Territories", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "alias_GER_Q": [
-    "Pal\u00e4stina"
-  ], 
-  "ne_longitude": 35.876499, 
-  "longitude": 35.229649, 
-  "iso": "PS", 
-  "sw_latitude": 31.223499, 
-  "fullname": "Palestinian Territories, Palestinian Occupied Territories", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -217,5 +69,11 @@
       }, 
       "id": 34824038
     }
+  ], 
+  "bbox": [
+    35.258654412585486, 
+    32.322213446577166, 
+    35.30319949722107, 
+    32.37779144950707
   ]
 }

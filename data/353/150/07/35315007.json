@@ -1,35 +1,5 @@
 {
-  "lang": "ENG", 
-  "ne_latitude": -0.009289, 
-  "name": "The Republic of Null Island", 
-  "language": "English", 
-  "hierarchy": [
-    {
-      "placetype": "Ocean", 
-      "parent_woeid": 1, 
-      "iso": "ZZ", 
-      "name": "Atlantic Ocean", 
-      "woeid": 55959709
-    }, 
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "woeid": 0, 
-  "sw_latitude": -0.009262, 
-  "ne_longitude": -0.00936, 
-  "longitude": 0, 
-  "placetype": "Country", 
-  "sw_longitude": -0.009486, 
-  "bbox": "-0.009262,-0.009486,0.009289,0.009360", 
-  "provider": "nullplanet 0.0", 
-  "latitude": 0, 
-  "iso": "ZZ", 
-  "date_indexed": "2011-01-13T00:49:11.00Z", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -87,5 +57,11 @@
       }, 
       "id": 35315007
     }
+  ], 
+  "bbox": [
+    -0.735195074863185, 
+    47.82157746031105, 
+    -0.679668748365572, 
+    47.84480601662624
   ]
 }

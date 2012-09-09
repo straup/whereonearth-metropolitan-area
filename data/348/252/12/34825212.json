@@ -1,165 +1,5 @@
 {
-  "alias_ENG_V": [
-    "State of Qatar"
-  ], 
-  "alias_KOR_Q": [
-    "\uce74\ud0c0\ub974"
-  ], 
-  "alias_POL_Q": [
-    "Katar"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": 26.177509, 
-  "supercedes": [], 
-  "placetype": "Country", 
-  "alias_POR_Q": [
-    "Catar"
-  ], 
-  "alias_ENG_A": [
-    "QA"
-  ], 
-  "children": {
-    "placetype": [], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 20070004, 
-        "name": "Al Ghuwairiya"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070009, 
-        "name": "Al Jemailiya"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070006, 
-        "name": "Al Khor"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070010, 
-        "name": "Al Rayyan"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070012, 
-        "name": "Al Wakra"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070008, 
-        "name": "Doha"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070011, 
-        "name": "Jeryan Al Batna"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070005, 
-        "name": "Madinat Al Shamal"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 55922500, 
-        "name": "Mesaieed"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 20070007, 
-        "name": "Umm Slal"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Portuguese": [
-      "Catar"
-    ], 
-    "Chinese": [
-      "\u5361\u9054", 
-      "\u5361\u9054"
-    ], 
-    "Hungarian": [
-      "Katar"
-    ], 
-    "Czech": [
-      "Katar"
-    ], 
-    "English": [
-      "QA", 
-      "State of Qatar"
-    ], 
-    "Japanese": [
-      "\u30ab\u30bf\u30fc\u30eb", 
-      "\u30ab\u30bf\u30fc\u30eb\u56fd"
-    ], 
-    "German": [
-      "Katar", 
-      "Staat Katar"
-    ], 
-    "Dutch": [
-      "Quatar"
-    ], 
-    "Polish": [
-      "Katar"
-    ], 
-    "Korean": [
-      "\uce74\ud0c0\ub974"
-    ]
-  }, 
-  "alias_CHI_Q": [
-    "\u5361\u9054"
-  ], 
-  "alias_CHI_V": [
-    "\u5361\u9054"
-  ], 
-  "woeid": 23424930, 
-  "alias_JPN_Q": [
-    "\u30ab\u30bf\u30fc\u30eb"
-  ], 
-  "alias_JPN_V": [
-    "\u30ab\u30bf\u30fc\u30eb\u56fd"
-  ], 
-  "sw_longitude": 50.757011, 
-  "adjacent": [], 
-  "provider": "geoplanet 7.6.0", 
-  "latitude": 25.3188, 
-  "date_indexed": "2010-12-02T12:16:10.277Z", 
-  "alias_DUT_V": [
-    "Quatar"
-  ], 
-  "bbox": "24.482901,50.757011,26.177509,52.427509", 
-  "alias_CZE_Q": [
-    "Katar"
-  ], 
-  "alias_GER_V": [
-    "Staat Katar"
-  ], 
-  "alias_GER_Q": [
-    "Katar"
-  ], 
-  "lang": "ENG", 
-  "name": "Qatar", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "alias_HUN_Q": [
-    "Katar"
-  ], 
-  "ne_longitude": 52.427509, 
-  "longitude": 51.196758, 
-  "iso": "QA", 
-  "sw_latitude": 24.482901, 
-  "fullname": "Qatar", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -229,5 +69,11 @@
       }, 
       "id": 34825212
     }
+  ], 
+  "bbox": [
+    51.491151971244165, 
+    25.67455719655058, 
+    51.54933963400481, 
+    25.712022609962176
   ]
 }

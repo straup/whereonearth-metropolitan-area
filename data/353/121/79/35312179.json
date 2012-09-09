@@ -1,144 +1,5 @@
 {
-  "alias_ENG_V": [
-    "Guadaloupe"
-  ], 
-  "alias_ENG_A": [
-    "GP"
-  ], 
-  "alias_POL_Q": [
-    "Gwadelupa"
-  ], 
-  "hierarchy": [
-    {
-      "placetype": "Supername", 
-      "parent_woeid": 0, 
-      "iso": "ZZ", 
-      "name": "Earth", 
-      "woeid": 1
-    }
-  ], 
-  "ne_latitude": 16.51684, 
-  "supercedes": [], 
-  "alias_RUM_Q": [
-    "Guadelupa"
-  ], 
-  "placetype": "Country", 
-  "alias_KOR_V": [
-    "\uacfc\ub2ec\ub85c\ud504"
-  ], 
-  "alias_POR_Q": [
-    "Guadalupe"
-  ], 
-  "alias_KOR_Q": [
-    "\uacfc\ub4e4\ub8e8\ud504"
-  ], 
-  "children": {
-    "placetype": [], 
-    "Island": [
-      {
-        "placetype": "Island", 
-        "woeid": 12505704, 
-        "name": "Aves Isla de"
-      }, 
-      {
-        "placetype": "Island", 
-        "woeid": 28298840, 
-        "name": "French Antilles"
-      }
-    ], 
-    "State": [
-      {
-        "placetype": "State", 
-        "woeid": 24549706, 
-        "name": "Basse-Terre"
-      }, 
-      {
-        "placetype": "State", 
-        "woeid": 28358256, 
-        "name": "Pointe-\u00c0-Pitre"
-      }
-    ], 
-    "HistoricalState": [
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 24549707, 
-        "name": "Grande-Terre"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 24549704, 
-        "name": "Iles des Saintes"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 24549703, 
-        "name": "La D\u00e9sirade"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 24549705, 
-        "name": "Marie-Galante"
-      }, 
-      {
-        "placetype": "HistoricalState", 
-        "woeid": 24549708, 
-        "name": "Saint-Martin et Saint-Barth\u00e9l\u00e9my"
-      }
-    ]
-  }, 
-  "aliases": {
-    "Portuguese": [
-      "Guadalupe"
-    ], 
-    "Romanian": [
-      "Guadelupa"
-    ], 
-    "English": [
-      "GP", 
-      "Guadaloupe"
-    ], 
-    "Japanese": [
-      "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7"
-    ], 
-    "Spanish": [
-      "Guadalupe"
-    ], 
-    "Polish": [
-      "Gwadelupa"
-    ], 
-    "Korean": [
-      "\uacfc\ub2ec\ub85c\ud504", 
-      "\uacfc\ub4e4\ub8e8\ud504"
-    ], 
-    "Italian": [
-      "Guadalupa"
-    ]
-  }, 
-  "alias_ITA_Q": [
-    "Guadalupa"
-  ], 
-  "woeid": 23424831, 
-  "alias_JPN_Q": [
-    "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7"
-  ], 
-  "alias_SPA_Q": [
-    "Guadalupe"
-  ], 
-  "sw_longitude": -61.807159, 
-  "adjacent": [], 
-  "provider": "geoplanet 7.6.0", 
-  "latitude": 16.157841, 
-  "date_indexed": "2010-12-02T08:50:01.088Z", 
-  "bbox": "15.83097,-61.807159,16.51684,-61", 
-  "lang": "ENG", 
-  "name": "Guadeloupe", 
-  "language": "English", 
-  "parent_woeid": 1, 
-  "ne_longitude": -61, 
-  "longitude": -61.676708, 
-  "iso": "GP", 
-  "sw_latitude": 15.83097, 
-  "fullname": "Guadeloupe", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
@@ -248,5 +109,11 @@
       }, 
       "id": 35312179
     }
+  ], 
+  "bbox": [
+    -61.54833065453356, 
+    16.228415432189863, 
+    -61.49314022484583, 
+    16.31518016200792
   ]
 }
