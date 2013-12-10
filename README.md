@@ -64,4 +64,8 @@ See also
 
 * [Natural Earth 1:10m Populated Places](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/)
 
+* [Map of Emerging US Megaregions](http://en.wikipedia.org/wiki/File:MapofEmergingUSMegaregions.png)
+
+* [World map of large urban areas 2005](http://nordpil.com/go/portfolio/mapsgraphics/world-map-of-large-cities-in-2005/)
+
 * [Show Me the GeoJSON](http://straup.github.com/showme-the-geojson/)
